@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weston's Writing</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Georgia, serif; background: #1a1a1a; color: #e8e0d0; min-height: 100vh; }
+
+  #home { display: block; }
+  #reader { display: none; }
+
+  /* HOME */
+  .home-header { padding: 40px 24px 24px; border-bottom: 1px solid #333; }
+  .home-header h1 { font-size: 1.6rem; color: #c9b99a; letter-spacing: 0.05em; }
+  .home-header p { margin-top: 6px; color: #888; font-size: 0.9rem; font-family: sans-serif; }
+
+  .book-section { padding: 28px 24px 0; }
+  .book-title { font-size: 0.75rem; font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.15em; color: #888; margin-bottom: 14px; }
+
+  .chapter-list { list-style: none; }
+  .chapter-list li { border-bottom: 1px solid #2a2a2a; }
+  .chapter-list li a {
+    display: block; padding: 14px 4px;
+    color: #e8e0d0; text-decoration: none; font-size: 1rem;
+    transition: color 0.15s;
+  }
+  .chapter-list li a:hover, .chapter-list li a:active { color: #c9b99a; }
+  .chapter-list li a span { font-size: 0.8rem; color: #666; font-family: sans-serif; float: right; margin-top: 2px; }
+
+  .notes-section { padding: 28px 24px; margin-top: 8px; }
+  .notes-section textarea {
+    width: 100%; height: 140px; background: #242424; border: 1px solid #333;
+    color: #e8e0d0; font-family: Georgia, serif; font-size: 0.95rem;
+    padding: 12px; border-radius: 4px; resize: vertical;
+  }
+  .notes-section textarea:focus { outline: none; border-color: #c9b99a; }
+  .save-btn {
+    margin-top: 10px; padding: 10px 24px;
+    background: #c9b99a; color: #1a1a1a; border: none;
+    font-family: sans-serif; font-size: 0.85rem; font-weight: bold;
+    letter-spacing: 0.05em; border-radius: 4px; cursor: pointer;
+    width: 100%;
+  }
+  .save-btn:active { background: #b5a589; }
+  .save-note { font-family: sans-serif; font-size: 0.8rem; color: #888; margin-top: 8px; text-align: center; }
+
+  /* READER */
+  .reader-header {
+    position: sticky; top: 0; background: #1a1a1a;
+    padding: 14px 20px; border-bottom: 1px solid #2a2a2a;
+    display: flex; align-items: center; gap: 14px; z-index: 10;
+  }
+  .back-btn {
+    background: none; border: none; color: #c9b99a;
+    font-size: 1.2rem; cursor: pointer; padding: 4px 8px 4px 0;
+    font-family: sans-serif;
+  }
+  .reader-title { font-size: 0.95rem; color: #888; font-family: sans-serif; flex: 1; }
+  .copy-btn {
+    background: #2a2a2a; border: 1px solid #444; color: #c9b99a;
+    font-family: sans-serif; font-size: 0.8rem; padding: 6px 14px;
+    border-radius: 4px; cursor: pointer; white-space: nowrap;
+  }
+  .copy-btn:active { background: #333; }
+
+  .reader-content {
+    padding: 28px 22px 60px;
+    max-width: 680px; margin: 0 auto;
+    line-height: 1.8; font-size: 1.05rem;
+  }
+  .reader-content h1 { font-size: 1.3rem; color: #c9b99a; margin-bottom: 24px; }
+  .reader-content p { margin-bottom: 1.1em; }
+  .reader-content hr { border: none; border-top: 1px solid #333; margin: 28px auto; width: 40%; }
+  .reader-content em { color: #c9b99a; }
+
+  .copied-msg {
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
+    background: #c9b99a; color: #1a1a1a; padding: 8px 20px;
+    border-radius: 20px; font-family: sans-serif; font-size: 0.85rem;
+    opacity: 0; transition: opacity 0.2s; pointer-events: none;
+  }
+  .copied-msg.show { opacity: 1; }
+
+  .loading { text-align: center; padding: 60px 20px; color: #666; font-family: sans-serif; }
+</style>
+</head>
+<body>
+
+<!-- HOME -->
+<div id="home">
+  <div class="home-header">
+    <h1>Weston's Writing</h1>
+    <p>Select a chapter to read</p>
+  </div>
+
+  <div class="book-section">
+    <div class="book-title">The Smoke — Historical Fiction</div>
+    <ul class="chapter-list" id="smoke-list">
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter4.md','Chapter 4','The Smoke');return false;">Chapter 4 <span>›</span></a></li>
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter5.md','Chapter 5','The Smoke');return false;">Chapter 5 <span>›</span></a></li>
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter6.md','Chapter 6','The Smoke');return false;">Chapter 6 <span>›</span></a></li>
+      <li><a href="#" onclick="loadChapter('the-smoke/manuscript.md','Full Manuscript','The Smoke');return false;">Full Manuscript <span>›</span></a></li>
+    </ul>
+  </div>
+
+  <div class="book-section" style="margin-top:24px;">
+    <div class="book-title">Waiting at the Red Gate — Memoir</div>
+    <ul class="chapter-list">
+      <li><a href="#" onclick="loadChapter('red-gate/manuscript.md','Full Manuscript','Waiting at the Red Gate');return false;">Full Manuscript <span>›</span></a></li>
+    </ul>
+  </div>
+
+  <div class="notes-section">
+    <div class="book-title" style="margin-bottom:10px;">Notes for Claude</div>
+    <textarea id="notes-input" placeholder="Leave feedback, ideas, or notes here. Claude will see these next session."></textarea>
+    <button class="save-btn" onclick="saveNotes()">Save Note to GitHub</button>
+    <div class="save-note" id="save-status"></div>
+  </div>
+</div>
+
+<!-- READER -->
+<div id="reader">
+  <div class="reader-header">
+    <button class="back-btn" onclick="goHome()">← Back</button>
+    <div class="reader-title" id="reader-label"></div>
+    <button class="copy-btn" onclick="copyText()">Copy All</button>
+  </div>
+  <div class="reader-content" id="reader-content">
+    <div class="loading">Loading…</div>
+  </div>
+</div>
+
+<div class="copied-msg" id="copied-msg">Copied!</div>
+
+<script>
+const REPO = 'roudy80/writing-lab';
+const BRANCH = 'main';
+const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
+const API_BASE = `https://api.github.com/repos/${REPO}/contents/`;
+
+let currentText = '';
+
+function goHome() {
+  document.getElementById('home').style.display = 'block';
+  document.getElementById('reader').style.display = 'none';
+  window.scrollTo(0,0);
+}
+
+function loadChapter(path, label, book) {
+  document.getElementById('home').style.display = 'none';
+  document.getElementById('reader').style.display = 'block';
+  document.getElementById('reader-label').textContent = book + ' — ' + label;
+  document.getElementById('reader-content').innerHTML = '<div class="loading">Loading…</div>';
+  window.scrollTo(0,0);
+
+  fetch(RAW_BASE + path + '?t=' + Date.now())
+    .then(r => r.text())
+    .then(text => {
+      currentText = text;
+      document.getElementById('reader-content').innerHTML = renderMarkdown(text);
+    })
+    .catch(() => {
+      document.getElementById('reader-content').innerHTML = '<div class="loading">Could not load file.</div>';
+    });
+}
+
+function renderMarkdown(text) {
+  let html = text
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+    .replace(/\*\*\*\s*\*\*\*/g, '<hr>')
+    .replace(/\* \* \*/g, '<hr>')
+    .replace(/---/g, '<hr>')
+    .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+    .replace(/\n\n+/g, '\n\n')
+    .split('\n\n')
+    .map(block => {
+      block = block.trim();
+      if (!block) return '';
+      if (block.startsWith('<h1>') || block.startsWith('<hr>')) return block;
+      return '<p>' + block.replace(/\n/g,' ') + '</p>';
+    })
+    .join('\n');
+  return html;
+}
+
+function copyText() {
+  navigator.clipboard.writeText(currentText).then(() => {
+    const msg = document.getElementById('copied-msg');
+    msg.classList.add('show');
+    setTimeout(() => msg.classList.remove('show'), 2000);
+  });
+}
+
+function saveNotes() {
+  const notes = document.getElementById('notes-input').value.trim();
+  if (!notes) return;
+  const status = document.getElementById('save-status');
+  status.textContent = 'To save notes: copy the text above and send it to Claude in your next chat session.';
+  status.style.color = '#c9b99a';
+}
+
+// Load existing notes hint
+document.getElementById('notes-input').placeholder =
+  'Type feedback or ideas here, then paste them to Claude in your next chat. (Direct GitHub saving requires a token — ask Claude to set that up if you want it automatic.)';
+</script>
+
+</body>
+</html>
