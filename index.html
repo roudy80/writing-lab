@@ -98,6 +98,9 @@
   <div class="book-section">
     <div class="book-title">The Smoke — Historical Fiction</div>
     <ul class="chapter-list" id="smoke-list">
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter1.md','Chapter 1','The Smoke');return false;">Chapter 1 <span>›</span></a></li>
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter2.md','Chapter 2','The Smoke');return false;">Chapter 2 <span>›</span></a></li>
+      <li><a href="#" onclick="loadChapter('the-smoke/chapter3.md','Chapter 3','The Smoke');return false;">Chapter 3 <span>›</span></a></li>
       <li><a href="#" onclick="loadChapter('the-smoke/chapter4.md','Chapter 4','The Smoke');return false;">Chapter 4 <span>›</span></a></li>
       <li><a href="#" onclick="loadChapter('the-smoke/chapter5.md','Chapter 5','The Smoke');return false;">Chapter 5 <span>›</span></a></li>
       <li><a href="#" onclick="loadChapter('the-smoke/chapter6.md','Chapter 6','The Smoke');return false;">Chapter 6 <span>›</span></a></li>
@@ -196,11 +199,32 @@ function renderMarkdown(text) {
 }
 
 function copyText() {
-  navigator.clipboard.writeText(currentText).then(() => {
+  const msg = document.getElementById('copied-msg');
+  function showCopied() {
+    msg.classList.add('show');
+    setTimeout(() => msg.classList.remove('show'), 2000);
+  }
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(currentText).then(showCopied).catch(() => fallbackCopy());
+  } else {
+    fallbackCopy();
+  }
+}
+
+function fallbackCopy() {
+  const ta = document.createElement('textarea');
+  ta.value = currentText;
+  ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0;';
+  document.body.appendChild(ta);
+  ta.focus();
+  ta.select();
+  try {
+    document.execCommand('copy');
     const msg = document.getElementById('copied-msg');
     msg.classList.add('show');
     setTimeout(() => msg.classList.remove('show'), 2000);
-  });
+  } catch(e) {}
+  document.body.removeChild(ta);
 }
 
 function saveNotes() {
