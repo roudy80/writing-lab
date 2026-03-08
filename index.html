@@ -175,10 +175,9 @@ function loadChapter(path, label, book) {
     .then(text => {
       currentText = text;
       document.getElementById('reader-content').innerHTML = renderMarkdown(text);
-      // Use "Share File" label for large text (manuscripts) where clipboard will fail on mobile
       const isLarge = text.length > 50000;
       const canShare = !!navigator.share;
-      document.getElementById('copy-btn').textContent = (isLarge && canShare) ? 'Share File' : 'Copy All';
+      document.getElementById('copy-btn').textContent = (isLarge && canShare) ? 'Share Text' : 'Copy All';
     })
     .catch(() => {
       document.getElementById('reader-content').innerHTML = '<div class="loading">Could not load file.</div>';
@@ -216,18 +215,14 @@ function showMsg(text) {
 function copyText() {
   if (!currentText) return;
 
-  // For large text (full manuscripts), use Web Share API — clipboard silently truncates on mobile
+  // For large text (full manuscripts), use Web Share API with raw text —
+  // iOS share sheet gives a "Copy" option that handles large text reliably,
+  // plus direct share to Notes, Mail, etc. No file saving required.
   if (navigator.share && currentText.length > 50000) {
-    const filename = currentLabel.toLowerCase().replace(/\s+/g, '-') + '.txt';
-    const file = new File([currentText], filename, { type: 'text/plain' });
-    const shareData = navigator.canShare && navigator.canShare({ files: [file] })
-      ? { files: [file], title: currentLabel }
-      : { title: currentLabel, text: currentText };
-
-    navigator.share(shareData)
-      .then(() => showMsg('Shared!'))
+    navigator.share({ title: currentLabel, text: currentText })
+      .then(() => showMsg('Done!'))
       .catch(err => {
-        // User cancelled or share failed — fall back to clipboard
+        // User cancelled — that's fine. On actual failure, try clipboard.
         if (err.name !== 'AbortError') clipboardCopy();
       });
     return;
