@@ -137,14 +137,14 @@
   <div class="reader-header">
     <button class="back-btn" onclick="goHome()">← Back</button>
     <div class="reader-title" id="reader-label"></div>
-    <button class="copy-btn" onclick="copyText()">Copy All</button>
+    <button class="copy-btn" id="copy-btn" onclick="copyText()">Copy All</button>
   </div>
   <div class="reader-content" id="reader-content">
     <div class="loading">Loading…</div>
   </div>
 </div>
 
-<div class="copied-msg" id="copied-msg">Copied!</div>
+<div class="copied-msg" id="copied-msg"></div>
 
 <script>
 const REPO = 'roudy80/writing-lab';
@@ -153,6 +153,7 @@ const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
 const API_BASE = `https://api.github.com/repos/${REPO}/contents/`;
 
 let currentText = '';
+let currentLabel = '';
 
 function goHome() {
   document.getElementById('home').style.display = 'block';
@@ -163,8 +164,10 @@ function goHome() {
 function loadChapter(path, label, book) {
   document.getElementById('home').style.display = 'none';
   document.getElementById('reader').style.display = 'block';
+  currentLabel = label;
   document.getElementById('reader-label').textContent = book + ' — ' + label;
   document.getElementById('reader-content').innerHTML = '<div class="loading">Loading…</div>';
+  document.getElementById('copy-btn').textContent = 'Loading…';
   window.scrollTo(0,0);
 
   fetch(RAW_BASE + path + '?t=' + Date.now())
@@ -172,9 +175,14 @@ function loadChapter(path, label, book) {
     .then(text => {
       currentText = text;
       document.getElementById('reader-content').innerHTML = renderMarkdown(text);
+      // Use "Share File" label for large text (manuscripts) where clipboard will fail on mobile
+      const isLarge = text.length > 50000;
+      const canShare = !!navigator.share;
+      document.getElementById('copy-btn').textContent = (isLarge && canShare) ? 'Share File' : 'Copy All';
     })
     .catch(() => {
       document.getElementById('reader-content').innerHTML = '<div class="loading">Could not load file.</div>';
+      document.getElementById('copy-btn').textContent = 'Copy All';
     });
 }
 
@@ -198,14 +206,41 @@ function renderMarkdown(text) {
   return html;
 }
 
-function copyText() {
+function showMsg(text) {
   const msg = document.getElementById('copied-msg');
-  function showCopied() {
-    msg.classList.add('show');
-    setTimeout(() => msg.classList.remove('show'), 2000);
+  msg.textContent = text;
+  msg.classList.add('show');
+  setTimeout(() => msg.classList.remove('show'), 2500);
+}
+
+function copyText() {
+  if (!currentText) return;
+
+  // For large text (full manuscripts), use Web Share API — clipboard silently truncates on mobile
+  if (navigator.share && currentText.length > 50000) {
+    const filename = currentLabel.toLowerCase().replace(/\s+/g, '-') + '.txt';
+    const file = new File([currentText], filename, { type: 'text/plain' });
+    const shareData = navigator.canShare && navigator.canShare({ files: [file] })
+      ? { files: [file], title: currentLabel }
+      : { title: currentLabel, text: currentText };
+
+    navigator.share(shareData)
+      .then(() => showMsg('Shared!'))
+      .catch(err => {
+        // User cancelled or share failed — fall back to clipboard
+        if (err.name !== 'AbortError') clipboardCopy();
+      });
+    return;
   }
+
+  clipboardCopy();
+}
+
+function clipboardCopy() {
   if (navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(currentText).then(showCopied).catch(() => fallbackCopy());
+    navigator.clipboard.writeText(currentText)
+      .then(() => showMsg('Copied!'))
+      .catch(() => fallbackCopy());
   } else {
     fallbackCopy();
   }
@@ -220,10 +255,10 @@ function fallbackCopy() {
   ta.select();
   try {
     document.execCommand('copy');
-    const msg = document.getElementById('copied-msg');
-    msg.classList.add('show');
-    setTimeout(() => msg.classList.remove('show'), 2000);
-  } catch(e) {}
+    showMsg('Copied!');
+  } catch(e) {
+    showMsg('Could not copy — try sharing instead');
+  }
   document.body.removeChild(ta);
 }
 
@@ -235,7 +270,6 @@ function saveNotes() {
   status.style.color = '#c9b99a';
 }
 
-// Load existing notes hint
 document.getElementById('notes-input').placeholder =
   'Type feedback or ideas here, then paste them to Claude in your next chat. (Direct GitHub saving requires a token — ask Claude to set that up if you want it automatic.)';
 </script>
