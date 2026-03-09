@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 12
 
 The order came in writing, which was always a sign that someone up the chain wanted documentation of compliance. Scorched earth policy, a designated region of eastern Spain. Deny resources to irregular and enemy forces. Requisition all available supplies. Neutralize storage facilities that cannot be transported.
