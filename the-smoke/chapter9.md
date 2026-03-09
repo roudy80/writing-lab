@@ -2,242 +2,422 @@
 
 CHAPTER 9
 
-January was the coldest month Charles had yet experienced, which was saying something given the November at Küstrin and the December on the screening line. The cold in Poland in January was geological. It came from the ground and the sky simultaneously and the space between them offered no relief.
+The convoy assembled before dawn, which was the only reasonable time to assemble anything in July if you wanted the mules to still be moving by midmorning. Charles counted wagons from horseback, Tonnerre shifting under him with the particular restlessness of a horse that had slept badly and knew the day would not improve this. Fourteen wagons, mixed cargo, three of them belonging to Vieillard and Sons according to the manifest he had been handed the night before by a harried clerk who had not looked up from his desk once during the entire transaction.
 
-The army was in winter quarters, the push east suspended until conditions allowed movement. The suspension was necessary and was also a specific kind of difficult, because an army in winter quarters was an army with time, and time produced problems of a different type than combat: boredom, illness, discipline, the slow erosion of a man's sense of purpose when there was no immediate task in front of him.
+He found the point of contact at the head of the convoy, standing beside the lead wagon with a lantern and a ledger.
 
-Charles ran training. He did it every morning, two hours before the midday meal, with both sections together. Horse inspections, the inspection sequence Mercier had drilled into him in Munich, then weapons maintenance, then mounted movement practice in whatever open ground was not frozen to an impassable depth. It was not enough to fill the days. It kept the men functional.
+He had not expected her to be the point of contact.
 
-Sergeant Bonnard ran the administrative work. He had taken to it with the focused attention of a man who understood that administrative competence was a different kind of skill from fighting competence and was determined to acquire it. He checked things twice, which he had always done; he now also understood why he was checking them and what the results connected to, which was the part that mattered.
+He had known, from letters, that she was sometimes in Spain. Her father Henri managed the Frankfurt operations while she moved with the trade routes, which in her letters she had described with the same brisk practicality she brought to everything, as a matter of geography and necessity rather than adventure. He had imagined this, in the abstract way one imagines things described in letters, as somewhere she existed, somewhere south, somewhere contested. He had not imagined the specific person who would be standing next to the lead wagon of his assigned convoy at four in the morning with a lantern and a ledger.
 
-Sergeant Mercier watched all of this with the expression of a man keeping his opinions to himself.
+She had grown four years older. He had not quite processed this, in the letters, because letters do not show you the actual person. She was taller than he remembered from Poland, or perhaps he had simply been standing too far away in Poland to judge correctly. Her hair was pulled back and mostly covered. She was wearing a practical coat with the collar turned up against the early chill, and she had a leather satchel over one shoulder that looked like it weighed more than was sensible.
 
-"Say it," Charles told him one afternoon, after the training had ended and the men were dispersing.
+"Leblanc," she said, when he gave his name, and looked up from the ledger with the expression of someone checking a figure. "We have been corresponding for four years."
 
-"I wasn't saying anything, sir."
+"We have."
 
-"You were having thoughts."
+"You are shorter than I expected."
 
-Mercier considered this. "I was thinking that you have built something here that functions without you. Both sections. The systems run. The men know what to do. Bonnard knows what he is doing." He paused. "I was thinking about what that means."
+He was five foot nine, which was not short by any reasonable measure, but he found he could not produce an objection that did not sound defensive, so he said nothing, and she made a small sound that might have been amusement and turned back to the ledger.
 
-"It means we are prepared for the spring campaign."
+"Fourteen wagons," she said. "Three of mine. I have the route through Salamanca, but if you are planning to push straight through on the main road, I want to discuss that before we move."
 
-"It means," Mercier said carefully, "that Major Beaumont's case for your promotion is well-supported by the evidence. And that the army will notice that. And that the army finding useful things tends to want to keep them." He went back to his horse.
+He had been planning to push straight through on the main road. He had a map, prepared by someone in his headquarters who had presumably looked at the roads from a sufficient distance, which showed the main road as the most direct option. He said, with military bearing, that he had reviewed the route.
 
-Charles watched him go.
+She looked at him the way he suspected she looked at manifests that did not add up.
 
-The army finding useful things tends to want to keep them.
+"The ford at the river crossing," she said. "What does your map show?"
 
-He had been in the army for two years and four months. He had seventeen months left on the five-year plan, which meant the plan was more than half over and the finish line was closer than the start. Captain, then home. The plan was specific.
+He described what his map showed.
 
-He noticed that the plan felt more like a sentence than a destination. He noticed that and did not examine it.
+"Your map is wrong," she said, not unkindly. "The ford silted in two years ago. Locals built a bridge a quarter-mile upstream. Lighter wagons can use it. Your supply loads cannot. There is a second crossing four miles east. Add time but avoid losing a wagon."
+
+He looked at his map. He looked at her.
+
+"You have made this run before," he said.
+
+"Four times." She closed the ledger with a sound like punctuation. "The roads change. The maps do not. I would have thought the military would have solved this problem by now, but perhaps the military finds it useful to have inaccurate maps."
+
+It was the particular kind of observation that is technically not rude but lands precisely where a rude remark would land. He was aware that she was watching him to see how he would take it.
+
+"Four miles east," he said. "I will want to see it before we commit the convoy."
+
+She nodded once, which was either approval or simple acknowledgment, and turned to speak to her driver. He went to find Corporal Rousseau, who had the watch, and told him to adjust the planned route.
+
+"Change of plan, Corporal?" Rousseau asked, which was the question Rousseau asked about all changes of plan, with his Marseille accent smoothing the edges of it into something that sounded merely conversational.
+
+"The ford is not where the map shows," Charles said. "We go east four miles to the second crossing."
+
+Rousseau absorbed this without visible reaction, which was one of the things Charles valued about him. He went to pass the word. Charles looked back toward the convoy, where Margot had climbed onto the seat of the lead Vieillard wagon and was saying something to her driver that involved pointing at two of the other wagons in a way that suggested she was reorganizing the order of march without consulting anyone.
+
+He considered intervening. He decided to watch what she was doing first.
+
+What she was doing was putting the two heaviest wagons third and fourth instead of first and second, which was correct. Heavy wagons set the pace for a convoy and if they led, the whole train moved at heavy-wagon speed on the flat and bunched badly on inclines. He would have rearranged this himself at the first incline. She had arranged it before they started.
+
+He moved Tonnerre up alongside the wagon.
+
+"You have done this before," he said.
+
+"We have established that," she said.
+
+"I meant the order of march."
+
+She glanced at him. "You were going to leave the Orosco wagons at the front. They are carrying iron hardware. They would have stalled on the first slope and lost us an hour."
+
+"I was going to rearrange them at the first slope."
+
+"I arranged them before the first slope." She looked back to the road ahead, where the first gray light was beginning to separate sky from terrain. "Is there a protocol I am violating?"
+
+There was a protocol she was technically violating. He decided the protocol was less important than the order of march.
+
+"No," he said.
+
+She said nothing, and he could not see her face from this angle, but he had the distinct impression she was filing this away.
 
 * * *
 
-The town was called Lowicz, which nobody in the French army could pronounce correctly, and it had three things of note: a Benedictine abbey that the army was using as a hospital, a market square large enough to drill a section in, and a supply depot that received convoys twice a week from the west.
+The convoy made good time on the first day. The second crossing was where she had said it would be. Three of his men walked the approaches while the wagons queued, and he marked the corrected position on his map in ink, because the pencil notation his headquarters had made would only confuse the next officer who received this map.
 
-He did not think about the convoys. He noticed the depot schedule in the course of understanding the logistics of his quarter of the town and filed the information without attaching anything to it.
+He rode alongside the Vieillard wagons through most of the morning, which was practical because this was where the convoy's most organized point of contact was, and also because Margot spoke Spanish, which he did not, and three times during the morning she translated brief exchanges with locals who appeared on the roadside. One turned out to be offering information about road conditions ahead. Two appeared to be trying to sell things, though he was not clear on what.
 
-On the sixth of January he was crossing the market square on his way from the depot offices to the billet when he heard a voice giving direction to a wagon driver. He knew the tone before he heard the words: not shouting, not asking. The specific register of someone who has already assessed the situation and is distributing the results of that assessment to the people who need to act on it.
+"What did he want?" he asked, after the third one.
 
-He stopped.
+"Cheese," she said. "He was very persistent about the cheese."
 
-Margot Vieillard was standing at the back of a wagon on the north side of the square, a manifest in one hand, directing a driver who was trying to position his vehicle against a warehouse door. She had her coat collar up against the cold and her breath was visible and she was checking the manifest against what was coming out of the wagon with the automatic accuracy of someone who knows what number she is expecting and verifies it without looking like she is verifying it.
+"You did not buy any."
 
-She looked up when he was still thirty meters away. He had not made a particular sound. She simply looked up, which was the thing she did.
+"I have enough cheese." She shifted in the seat and reached into the satchel for the ledger, which she opened across her knees without particularly looking at the road, suggesting she trusted the horse. "The man at the second farm, the one with the blue shutters, he said there was cavalry activity on the road north of Pedroso two days ago. Partisans or French, he was not certain. You should know this."
 
-"Lieutenant Leblanc," she said. Not surprised. Filing him.
+He should know this. He had not gotten it from the man with the blue shutters because he did not speak Spanish.
 
-"Vieillard." He stopped a reasonable distance from the wagon, not wanting to be in the way of the unloading. "I didn't know your run came this far east."
+"Thank you," he said.
 
-"It didn't, until November. The route extended." She looked back at the manifest, checked something, made a mark. "You're quartered here?"
+She glanced up from the ledger, a brief assessment, and went back to her figures.
 
-"My sections, yes. East quarter, near the abbey."
+At midday they stopped to water the horses and mules. He had the men eat on a rotation so the convoy stayed ready. Margot sat on the step of her wagon and ate bread and something wrapped in cloth that smelled like salt fish, and worked on the ledger. He ate standing, which was habit, watching the road in both directions while Tonnerre pulled at a patch of sparse grass near the verge.
 
-"How long?"
-
-"Until the weather breaks. March, probably. Maybe February if we're fortunate."
-
-She nodded. She handed the manifest to a man beside her who had the look of her second in charge, said something to him in a low voice, and walked toward Charles. She moved across the cobblestones with the particular efficiency of someone who did not waste steps: the same quality she'd had on the convoy road, no gesture that wasn't purposeful.
-
-"I have about an hour before the next wagon needs checking," she said. "Is there somewhere warm in this town that serves something approximating food?"
-
-"There is an inn on the south side. The food is what it is."
-
-"Good enough," she said. "Buy me something hot to drink and I'll tell you why the eastern route is worse than anything you've ridden this year."
-
-* * *
-
-The inn was not crowded at midday. They took a table near the fire and a woman brought two cups of something that was not quite coffee and not quite tea and was very hot, which was the relevant quality.
-
-Margot pulled off her gloves, the right one first and then the left, and wrapped both hands around the cup. Charles noted the worn thumb of the left glove, the same one, which meant she had not replaced them in the two months since the Posen run. This told him something about how she spent money and where her priorities sat, which was information he had not intended to acquire and had acquired anyway.
-
-"The eastern route," he said.
-
-"Four convoys since November," she said. "Frankfurt to Lowicz, which is a hundred and sixty kilometers longer than Frankfurt to Posen. The roads east of the Vistula are worse than anything I have dealt with. I lost a wagon at a river crossing in December, the ford was marked as reliable and was not. The load was flour. We recovered about a third of it."
-
-"Were you hurt?"
-
-She looked at him. "No. My man Lefebvre wrenched his shoulder getting the wagon out."
-
-"Good. That he wasn't more seriously hurt."
-
-"Yes." She drank. "The escort situation is better than it was. I have three riders now instead of two."
-
-He remembered telling her two wasn't sufficient. She had said she'd been requesting three since August. He did not say either thing.
-
-"The depot here," he said. "Who do you deal with?"
-
-"A Lieutenant Arnaud." She paused. "Different Arnaud. He is thorough but slow. The paperwork takes twice what it should."
-
-"I know him. I can speak to him about the turnaround time."
-
-She looked at him over her cup. "You don't have to."
-
-"The depot efficiency affects my sections' supply schedule. It's a reasonable thing for me to address."
-
-She held his gaze for a moment. There was something in it that was not quite amusement and not quite exasperation.
-
-"You always do that," she said.
-
-"Do what."
-
-"Find a practical reason for the thing you were going to do anyway." She set down her cup. "You were going to offer to speak to him because it would help me. You found the tactical justification afterward."
-
-Charles thought about this. It was accurate. He was not sure how she had identified it when he himself had not.
-
-"Possibly," he said.
-
-"You did it on the convoy too. You worked the unloading with my men because there weren't enough hands and it was faster. That was true. But you also just did it because the work was there and you were there."
-
-He did not say anything.
-
-"I'm not criticizing it," she said. "I do the same thing. I always find the practical reason." She looked at the fire. "My father says it's because we are both uncomfortable with the idea of doing something for no reason except that we want to."
-
-"Your father knows me."
-
-"He knows the type." She picked up her cup again. "He's been working with military officers for eleven years. He says most of them fall into two categories: the ones who need to be the reason for everything, and the ones who find reasons for things that need doing." She looked at him. "You are the second kind. So am I."
-
-Charles considered that. "And which kind is more useful?"
-
-"The second. Obviously." She said it plainly. "The first kind get men killed being the center of things. The second kind get things done."
-
-The fire made a sound. Outside, someone was crossing the square with a cart, the wheels loud on the frozen cobblestones.
-
-"How is the man from the Posen run?" she said. "Bonnard."
-
-He looked at her. She remembered Bonnard's name, two months later, from a passing conversation in the snow.
-
-"He is promoted to Sergeant," Charles said. "He runs his section well."
-
-"Good." She nodded, genuinely. "He was looking for something solid to stand on. I could see it."
+"Do you always eat standing?" she asked, without looking up.
 
 "Yes."
 
-"Did you know that when you brought him on the escort?"
+"That seems uncomfortable."
 
-"I suspected it. I thought the work would help."
+"Less comfortable than being surprised," he said.
 
-"It did," she said. "Or you did. Or both." She finished her coffee. "My father's other observation is that the second type of officer, the ones who get things done, are the ones the army has the hardest time releasing. Because they are too useful."
+She wrote something in the ledger. "You have been doing this for three years?"
 
-Mercier had said the same thing, in different words, in October on the road from Udine, and again in December outside the farmhouse on the screening line. It was beginning to feel like the thing everyone around him was saying, in rotation, as though they had agreed on it separately and were delivering the same message in different containers.
+"Three and some months."
 
-"I know," he said.
+"And before that?"
 
-She looked at him. "Do you?"
+"Cadet school. Before that, Bordeaux." He paused. "You know this from the letters."
 
-"Beaumont has recommended me for Captain in the spring." He had not intended to say it. He had not told anyone except Mercier, who had extracted it through observation rather than being told. He said it now without understanding quite why.
+"Knowing a thing from letters and knowing it from the person are different," she said, which was a thing he had been finding true all morning. "In the letters you write about the operations as though they are puzzles. Routes and timing and the logistics of moving men across distances. You did not write much about the men."
 
-She was quiet for a moment. "And after Captain?"
+He had written about the men. He had written about Mercier and his missing pinky and Bonnard's steadiness and Rousseau's developing eye for terrain. He said this.
 
-"The plan was five years and then home." He heard the past tense as it came out. He had not used the past tense before. "The plan is five years."
+"You wrote about what they were useful for," she said. "That is not quite the same thing."
 
-She looked at him steadily. "Is it still the plan?"
+He thought about this.
 
-Charles picked up his cup. It was empty. He set it back down.
+"It is hard to write about the men without writing about what happened to some of them," he said. "And that is not the kind of letter I want to send."
 
-"Yes," he said. It was the honest answer. The plan had not changed. The plan was intact and he was on schedule. He believed this.
+She looked up from the ledger then. She looked at him directly, with the assessing quality she brought to most things. He was aware, in a way that was not entirely comfortable, that she was actually seeing him rather than extracting information.
 
-"You don't sound certain," she said.
+"No," she said. "I imagine not." And went back to the ledger.
 
-"I am certain about the plan. I am less certain that the plan is sufficient."
-
-She was quiet.
-
-"A plan," he said, slowly, "is a set of numbers. This many years. That rank. Then home. The numbers are the same as they were when I started. But something in the territory around the numbers is different than I expected it to be."
-
-He had not said this to anyone. He was not sure he had said it to himself clearly until this moment.
-
-Margot was looking at the fire. "I had a plan," she said. "When my father was ill in May and I took the first run. The plan was: do this once, come home, let him recover, go back to normal." She paused. "By the second run, normal had shifted. After the fourth run, I wasn't sure what I was going back to."
-
-"You kept going."
-
-"I kept going because the work was real and I was good at it and the men needed the supplies." She looked at him. "The plan was fine. It just turned out the work was a different thing than I thought it was going to be."
-
-He understood that. He had understood the same thing in an Italian village in October, watching a woman draw water from a well. Being good at this is not uncomplicated.
-
-"The plan still matters," he said.
-
-"Yes," she said. "It does." She pulled her gloves back on, right hand first. "But you should probably be honest with yourself about what you are deciding when you decide to accept the promotion."
-
-He looked at her.
-
-"You are not just accepting a rank," she said. "You are accepting what comes with it. And from what you have described, Major Beaumont has been clear about what comes with it." She stood and picked up her manifest from the table. "That is not a criticism. It might be the right decision. I don't know your family or your home or what you are going back to." She looked at him steadily. "But decide it. Don't let it be decided for you by the accumulation of small yeses."
-
-She pulled her collar up. "Thank you for the coffee. I'll be here through Thursday."
-
-She went out into the cold and he watched the door close behind her, and he sat with the empty cups for a while, not thinking about anything in particular and thinking about several things at once.
+They moved out again in twenty minutes. He rode to the head of the column and did not look back at the wagon, because looking back would have been noted and would not have accomplished anything.
 
 * * *
 
-He did not sleep well that night.
+The second day was slower. One of the Orosco wagons threw a wheel, which cost two hours while the driver and one of Charles's men with carpentry experience coaxed it back into condition with insufficient tools and considerable improvisation. Margot came to look at it, assessed the situation in about thirty seconds, and produced from somewhere in her satchel a specific wooden wedge that fit the hub better than what they had been using. She did not explain where the wedge had come from. She handed it to the carpenter and went back to her wagon.
 
-Not because of anything dramatic. The billet was warm enough, the men were quiet, the horses were settled. He lay on his bedroll with his hand on his boot and the paper there, Bordeaux, Elise's handwriting, and he thought about what Margot had said.
+"Where did she get that?" Rousseau asked, appearing at Charles's elbow.
 
-*Don't let it be decided for you by the accumulation of small yeses.*
+"I have no idea," Charles said.
 
-He had said yes when Beaumont gave him the second section. He had said yes in December when Beaumont asked if he understood what the captaincy would mean. He had said yes to the escort duty in November, yes to the screening line in December, yes to the extended training schedule in January.
+"Does she carry a complete wagon repair kit in that bag?"
 
-Each yes was the correct answer in the moment it was asked. Each yes was what the situation required of the person who understood it clearly. He was the person who understood it clearly. So he had said yes.
+"She might."
 
-The accumulation of those yeses had produced something he had not quite looked at directly until a woman at an inn in Lowicz had named it for him.
+Rousseau looked at the Vieillard wagon with the expression he usually reserved for particularly defensible terrain. "Practical woman," he said, and went back to his post.
 
-He lay with the paper under his hand and thought about his father's instruction: *five years. Make Captain and come home.* He thought about Elise's letter to Philippe: *competence isn't care.* He thought about Mercier, twice: *the army doesn't release useful things.* He thought about Philippe himself, at the picket line in November, adjusting his collar: *go home before it gets comfortable.*
+They made camp that evening in a field outside a small village. Charles posted the watch, checked the perimeter, ate with his sergeants. After, when the camp had settled into its nighttime sounds and the fire had died down to coals, he walked the wagon line on his way to check the night watch, and she was sitting outside the lead wagon with the lantern and the ledger again.
 
-It was not yet comfortable. He was not sure it was ever going to be comfortable, which might have been the point. He was not sure if the absence of comfort was a warning or a justification.
+"You work late," he said.
 
-He did not know the answer to this. He turned it over for a long time and arrived back where he started, which was not resolution but at least a clearer view of the question.
+"The accounts do not complete themselves." She moved the lantern slightly to improve the light. "Sit down. I will not bite."
 
-He fell asleep at some point. In the morning he woke up and checked his sections and ran training and was good at it, which was the one thing that had not changed.
+He sat on an upended crate across from her. The lantern threw a circle of yellow light. Somewhere in the village a dog was barking at something.
+
+"Tell me about the route tomorrow," she said.
+
+He told her. She listened, asked two questions that were better than the questions a staff officer would have asked, and corrected one assumption he had made about the road surface near the river based on information from her driver, who had taken this road the previous winter.
+
+"How do you keep all of this?" he asked. "The route information. The road conditions."
+
+"Letters," she said. "And memory. And the ledger, when something is specific enough to record." She turned a page. "Your predecessor on this convoy last year took a different route. It added two days and lost a mule. I sent your headquarters a note about the better route. I do not know if they read it."
+
+He was fairly certain they had not read it. He had not been given any note from a merchant advisor when he received his orders.
+
+"I will write it up myself when we return," he said.
+
+She looked at him again with that brief, checking quality. "Most officers do not bother," she said.
+
+"Most officers probably do not need to take this route again."
+
+"You might."
+
+"Then I will need the route information."
+
+She smiled at this, not broadly but a real one, the kind that implied something was genuinely funny rather than merely tolerable. He noticed this and did not say anything about it, because there was nothing to say that would not have been worse than silence.
+
+"Your letters," she said. "They are better than most people's letters."
+
+"I write them carefully."
+
+"I know. You write them the way you approach a problem, which is methodically but not without interest. It is unusual." She glanced down at the ledger. "My father's other correspondents write letters that are entirely about themselves. You ask questions."
+
+"Questions are more useful than statements."
+
+"Most men do not believe this in practice."
+
+He thought about what to say to this, and then decided on the truth. "I was given good advice early. Ask questions before you assume you know the shape of a thing."
+
+"Who gave you that advice?"
+
+"Sergeant Mercier. Early on, when I was making a great many wrong assumptions about the shape of things."
+
+"Is he still with you?"
+
+"Yes."
+
+"Write to me something about him," she said. "Not what he is useful for. Something about him."
+
+He thought about Mercier. The deliberate speech. The missing finger. The way he checked the boots of a new conscript before he checked their weapons, because boots were what killed men on long marches, and new conscripts did not know this yet.
+
+"He checks new men's boots," Charles said. "Before anything else. Most sergeants check the weapons."
+
+She looked up.
+
+"He checks the boots," Charles said, "because he knows what kills men in the first week, and it is not bad weapons. It is blisters and wet feet and being told to keep moving regardless."
+
+She was quiet for a moment. The dog in the village had stopped barking.
+
+"Write me that in a letter," she said. "Write me the things that matter and not just the useful things. I think you know the difference."
+
+He thought he probably did. He also thought this was a harder thing to write than route information, and that he was not sure he could do it without it becoming something he was not ready to send.
+
+"I will try," he said, which was honest.
+
+She closed the ledger. "Get some sleep," she said. "You have watch at three."
+
+"How do you know I have watch at three?"
+
+"You told your corporal at supper. You were not far away."
+
+He stood. He put his hands in his pockets, a habit he had not entirely broken since Bordeaux.
+
+"Good night," he said.
+
+"Good night, Lieutenant."
+
+He walked the wagon line in the dark, checked the watch positions, told Rousseau everything was in order. He lay down on his bedroll and looked at the stars and thought, with the part of his mind that ran underneath everything else like a ground current, that four years of letters and three days of actual proximity were producing something he did not have words for yet, and that the lack of words was probably sensible, and that he should go to sleep.
+
+He went to sleep.
 
 * * *
 
-He wrote to Beaumont that evening.
+On the morning of the third day they reached the handoff point, a junction town with a small garrison and a market square that smelled of animal and dust. The convoy would continue under garrison protection from here. Charles's assignment ended at this town.
 
-The letter was short.
+He oversaw the transfer, checked the paperwork, confirmed that the garrison lieutenant understood which wagons contained what and in which order the handoff should proceed. Margot supervised from her wagon, and at one point corrected the garrison lieutenant's count of the Vieillard cargo, which she did politely but without hesitation, and was correct.
 
-*Major Beaumont: I accept the recommendation for promotion, with the understanding you have described regarding the nature of the commitment. I am asking that the recommendation note specifically that my intention is to complete my service at the five-year mark and request discharge accordingly. I recognize this may not be honored. I am asking that it be noted.*
+After, when the wagons were sorted and his men were watering the horses, she came to where he was standing with Tonnerre at the edge of the square.
 
-He read it twice. He sent it.
+"The ford," she said.
 
-Then he went to check the horses, because the horses needed checking and it was something concrete to do with his hands while the rest of it settled.
+"Your ford that my map had wrong."
 
-Mercier was at the far end of the line, doing the same thing.
+"There is another one. Not on this route, but on the road between here and the valley below Pedroso. Your maps will show a ford at the widest point, which is where anyone would look for one. The actual safe crossing is fifty yards upstream, where the rocks create a shelf. The wide ford goes deep in the center. Fast water under the surface even when it looks calm."
 
-"I sent the acceptance," Charles said.
+He took out the map and she pointed, and he marked it.
 
-Mercier nodded. He moved to the next horse. Left foreleg. "Did you put conditions on it?"
+"How do you know this one?" he asked.
 
-"I asked for the five-year mark to be noted in the recommendation."
+"Rodrigo, my driver. He is from this region. He swims in rivers the way you walk on roads." She put her hand on the map to orient it. "Here. Mark it clearly. Fifty yards upstream from the ford your map shows."
 
-"That is not conditions," Mercier said. "That is a request."
+He marked it clearly.
 
-"I know."
+"Thank you," he said.
 
-Mercier moved to the right foreleg. He said nothing else.
+She stepped back. In the morning light he noticed what he had noticed in parts over three days and was noticing as a whole now: that she was not a girl from a brief meeting in Poland, which was what he had been holding in his mind alongside the letters, superimposing the two and getting a composite that was less accurate than either. She was a person he had been talking to for four years who was also an actual person in front of him, and these two things had only just aligned.
 
-Charles stayed at the line for a while, hand on Tonnerre's neck, the gelding's breath visible in the cold. The abbey bells rang eight. The town was quiet. Somewhere to the east, past the frozen fields and the Vistula and the things that lived in the space between the armies, the spring was still two months away.
+She looked at him steadily.
 
-He was still on the plan.
+"You were better than I expected," she said.
 
-He was on the plan.
+"At escorting the convoy?"
+
+"At listening." She adjusted the strap of the satchel. "Most officers do not listen to merchants. They listen at merchants, which is different."
+
+"You know things I do not know," he said. "Listening seems practical."
+
+"Most people do not find it practical."
+
+He had no argument with this.
+
+"Safe travel," he said.
+
+"And you," she said. "Use the ford I told you about."
+
+She went back to her wagons. He watched for one moment, the length of time it takes to establish that you are not watching particularly, and then turned to find Rousseau waiting a discreet ten feet away with an expression of elaborate non-observation.
+
+"Convoy handed off," Charles said.
+
+"Yes, sir."
+
+"We move out in twenty minutes."
+
+"Yes, sir."
+
+Rousseau said nothing further. Charles was aware this restraint was costing him something.
+
+Two weeks later, moving the unit to a new position, Charles chose the route through the valley below Pedroso. He found the ford where the map showed it, looked at it, thought about the rocks creating a shelf fifty yards upstream, and moved the column upstream. The water there was knee-deep and steady, the rock shelf solid under the horses' hooves. They crossed in twelve minutes without difficulty.
+
+He marked the map again, adding the note: *safe crossing, shelf 50m upstream from map position. Do not use wide ford. Deceptive depth.*
+
+Two days later he heard from a courier that a cavalry patrol had been badly shot up in the valley below Pedroso, at the wide ford, where they had bunched up in the center while the water went deep around them.
+
+He sat with this information for a while. Then he wrote it into his notebook under route assessments and went to check on the horses.
+
+* * *
+
+The young man's name was Sergeant Arnaud Fouet. He was twenty-one years old and had come to the unit from a line regiment, transferred after demonstrating in three engagements that he had a particular aptitude for reading terrain that his previous command had not known what to do with. Charles had known what to do with it. He had spent four months developing it, walking Fouet through the specific work of evaluating a ridge line, reading shadows for covered approach routes, estimating enemy strength from dust clouds and the sound of movement before it became visible.
+
+Fouet had been quick and serious and had the quality Charles valued most in men he was developing: he asked better questions as he learned more rather than fewer, because learning made him see more of what he did not yet understand.
+
+Charles had recommended him for a placement with a screening unit to the west, because the screening unit needed someone with exactly Fouet's terrain sense and the assignment would develop him further. He had written the recommendation himself. He had been specific about Fouet's capabilities, which was what the recommendation required.
+
+The screening unit was engaged at a ridge complex southeast of their position. The engagement went badly from the start. The screening unit had taken a covered approach they had not evaluated correctly, and the ridge they moved to hold turned out to be dominated by a higher feature two hundred yards east. Three men killed, one of them Sergeant Arnaud Fouet, who had been at the front of the approach because terrain assessment was what he was there for.
+
+Charles received the report in the morning. He read it twice, put it on the table, and went to check on Tonnerre, who had been favoring his left foreleg slightly since the previous day's march and who stood patiently while Charles ran his hand down the leg and found nothing specific, only the general wear of hard roads.
+
+He wrote the letter to Fouet's family in the afternoon. He had written enough of these letters now that the form was established: the service, the circumstances, the character, the expression of condolence. The form was useful because it held the shape of the thing and did not require him to find new words each time. The form was not comfort. It was a structure he completed correctly, and then it was done, and the letter went.
+
+He sat at the table after and did not write anything else for a while.
+
+The specific thought he was working around was this: if he had not written the recommendation, Fouet would not have been with the screening unit. If he had not developed Fouet's terrain sense, there would have been no recommendation to write, because there would have been no exceptional capability to recommend. If he had left Fouet to develop on his own, or not at all, Fouet would have remained in the line regiment, doing adequate work, without the specific expertise that had made him the right man for the wrong assignment.
+
+He had made Fouet better. A better sergeant gets harder assignments. He had made Fouet valuable enough to be spent.
+
+He was aware that this logic, followed far enough, would make the mentorship of any soldier into a liability, which was absurd. He was aware that the ridge complex had been badly handled and that someone else's failure in terrain assessment was the proximate cause. He was aware that Fouet had been a soldier, doing a soldier's work, in a war that did not particularly negotiate with individual quality.
+
+He was aware of all of this. It did not help much.
+
+He took the list out of the inner pocket where he kept it and added Fouet's name in the margin of the third page, because there was no more room in the columns. He looked at the list for a moment, then folded it back and put it away.
+
+The form of the letter was correct. He had expressed the condolence properly. The work was done.
+
+He went to find Mercier, because Mercier had known Fouet, and because there was nothing to say but it was better to be standing with someone who had also known the man than to be sitting alone with the form letter and the list.
+
+Mercier was cleaning his kit by the fire, slowly and thoroughly, which was what Mercier did when he was processing something he did not intend to speak about directly. They sat together for an hour. They did not talk about Fouet. Mercier made coffee, strong enough to function as a structural material, and Charles drank it and watched the fire and let the hour pass.
+
+"The ridge complex," Mercier said finally, not looking up from a boot he was examining.
+
+"Yes."
+
+"He should not have been at the front of the approach."
+
+"No."
+
+Mercier put the boot down. He looked at his hand, at the gap where the pinky had been. "He was good," he said.
+
+"Very good."
+
+"Good enough for someone to put him somewhere his good was not well used."
+
+Charles said nothing.
+
+"That is not your doing," Mercier said, which was the end of it, because Mercier did not repeat himself.
+
+They sat another half hour. Then Charles stood and said good night and went to bed.
+
+* * *
+
+The orders for the requisition came through in September, routed through two levels of command before reaching him with the kind of phrasing that was very clear about what was required and entirely silent on what it would mean for the people it was required from.
+
+He went to his superior, a colonel who had the look of a man who had already had this conversation with someone above him and preferred not to have it again.
+
+"Sir," Charles said. "The villages on the eastern section of the line are smaller. The requisition at the same rate will take a higher proportion of what they have." He had the numbers. He always had the numbers. "If we concentrate the requisition on three larger settlements to the north, we can meet the supply requirement without the same impact."
+
+The colonel looked at the requisition order. He looked at Charles.
+
+"These are your orders," the colonel said. "The settlements designated are designated for logistical reasons that are not within your scope to revise. Execute the order."
+
+"Yes, sir," Charles said.
+
+He executed the order.
+
+The execution was organized the way he organized everything: systematically, with attention to what the order required and what it permitted. It required a specific quantity of grain, dried provisions, and draft animals for military use. It did not specify that he must take seed grain. He did not take seed grain, which required him to be more precise about the measurements, because seed grain and eating grain are stored together and the men doing the loading needed to be told clearly which was which. He told them clearly. He also did not take the working horses of families that had no alternative transport, taking instead from households that had additional animals, which required more stops and a longer day but achieved the supply requirement. The order did not require him to make these distinctions. He made them anyway, because the order did not forbid it and because he had the latitude and chose to use it.
+
+The village at the end of the eastern section was small, perhaps thirty houses. The square was empty when they arrived except for a dog and two elderly men who watched from a doorway and did not approach. His men knew the work by then and moved through it efficiently: the wagons positioned, the counting done, the loading organized. He supervised from the center of the square, moving as needed, speaking to his men in the low voice he used when he wanted things done quickly and without performance.
+
+The woman was in the doorway of a house at the edge of the square. Not one of the houses being requisitioned from, just a doorway. She was perhaps fifty years old, wearing dark clothing, with her arms folded in the particular way that is not cold, and she watched. She did not speak, and he did not speak to her, and she continued watching while his men finished loading the wagons and he did the final count and gave the order to move out.
+
+He looked at her once, at the end. She was still watching. He turned away and mounted Tonnerre and rode to the head of the column.
+
+That evening he wrote in his journal. He recorded the settlement, the date, the quantities requisitioned: forty-two measures of grain, eighteen measures of dried provisions, four draft animals, two carts. He noted that seed stores had been left intact. He noted that working animals for households with no alternative transport had been left. He noted that the requisition had met the specified quantities.
+
+He did not write about the woman in the doorway.
+
+He read back over what he had written, which was accurate and complete, and closed the journal.
+
+* * *
+
+Margot's letter arrived in October, forwarded through the supply chain with the usual delay, written in late August and six weeks in transit. He read it in the evening, by the fire, while Rousseau went over the next day's route with Bonnard somewhere behind him.
+
+She wrote about Frankfurt primarily, because her father had needed her there for the summer, which she described with precise notation of what had needed to be done and what had been done, though with an undertone of affection for the Frankfurt office that was not in the letters she wrote from the road. She had apparently reorganized the filing system, which had been in a state she characterized as creative, and had settled a dispute with a partner firm that had been running two years longer than it should have.
+
+Toward the end of the letter she wrote about Spain. She wrote: *Father's partner in the region you escorted through has gone entirely silent. Castellon, who manages the network there, stopped writing in August. The contacts who relied on that network for news of supply movements have likewise gone quiet. Father is concerned but has no one to send for information. I suspect the situation in the region has become difficult. If you are nearby and have any intelligence that does not violate your obligations, I would be grateful for the picture.*
+
+He read this section twice.
+
+The settlement Castellon's network had covered, or what he suspected was the same network from the geographic correspondence, was on the eastern section of the line. He did not know the name Castellon specifically, but he knew the region, and he knew what had happened in the region in September, and the silence that had fallen over the supply contacts was a silence he could account for with reasonable confidence.
+
+He put the letter down and looked at the fire.
+
+He did not write back that night. He thought about what he would say and could not find the shape of it, which was unusual for him with letters, so he let it sit the way he let difficult terrain assessments sit, giving them time to resolve into something he could see clearly.
+
+When he wrote back, ten days later, he wrote about the convoy escort, which he had not described in any detail because it had arrived after his last letter. He wrote about the roads and the ford she had corrected him on, and that he had used the second ford and it had served well. He wrote about something she had asked him to write about, which was Mercier and the boots, and he found that once he started he could do it: describe Mercier at the boots of a new conscript with the patience of someone who knows that this particular five minutes is worth more than the next hour of weapons drill. He tried to write about Mercier as a person, which required noticing different things than he usually recorded, and which took him three drafts before it felt accurate rather than performed.
+
+He wrote about the roads continuing to change faster than the maps, and that he had taken to maintaining his own annotated copy because the official maps were maintained by people who were not in Spain.
+
+He did not write about the requisition.
+
+He did not write that he knew why Castellon's network had gone silent, or what it would take to restart it, or that the quantities required by the order had been met with precision while the seed stores had been left intact, which was the best he had been able to do within what was permitted, and which had not been enough to prevent the silence.
+
+He wrote: *I hope the Frankfurt filing system holds. I hope your father's concerns for the region resolve. The situation has been difficult across much of the eastern line this autumn and I suspect travel and correspondence have been disrupted by the general pressure of operations. I cannot offer a more specific picture. I am sorry I cannot offer more.*
+
+He read it back. It was accurate. It said precisely what it said, and nothing that it did not say.
+
+He folded the letter and addressed it and put it with the outgoing post.
+
+* * *
+
+He was twenty-three years old in October and would turn twenty-four in January, which was a thing he noted for the record and did not otherwise particularly mark. He had been in service for three years and some months. He was a lieutenant who had not disgraced himself, who had kept his men alive at a rate that was above the general average for the work they were doing, who could read a road and assess a position and write a cogent report and execute an uncomfortable order within the limits of what could be done within it.
+
+He had met Margot Vieillard in person for the first time in four years. He had found that she was exactly as competent as her letters suggested, that the competence was slightly different in person because letters were a kind of editing and people were not, and that the difference was more interesting than the editing. He had used the ford she told him about and it had been exactly where she said. He had learned that she kept a wooden wedge in her satchel for wheel hub repairs, and that she smiled when something was genuinely funny, and that she thought he listened in a way that was uncommon.
+
+He had not allowed himself to think past the practical inventory of these facts, which was the correct way to handle things when he was not sure what handling them correctly would require.
+
+The letters continued. They were, on his end, better than they had been. He tried to write the things that mattered and not only the useful things, because she had asked him to and because he had found it was possible. It cost something to write that way. He was not sure yet what it cost or what the cost was for, but he wrote the letters carefully and sent them and waited for her return letters with a patience that was almost entirely convincing.
+
+The list had one more name than it had before October. He kept it in the inner pocket, adding to it when he needed to. He kept the paper from Elise in the left boot, as always, before any movement that might become something he needed to move quickly out of.
+
+The two papers occupied different pockets and served different purposes and he did not think about the relationship between them.
+
+The autumn deepened. The rearguard work continued, unglamorous as advertised, the long grinding work of maintaining a line while larger forces moved around it like weather. He reported. He assessed. He wrote letters. He kept the accounts as accurate as he could manage, in the journal and in the requisition records and in the annotated maps and in the careful correspondence that was becoming, without him having fully decided this, one of the things he did with the parts of himself that the official work did not reach.
+
+He did not write about the woman in the doorway.
+
+But he remembered her, the way you remember the specific gravity of a thing that has no other place to go.
