@@ -134,6 +134,8 @@ The gate was the same gate it had been when he left. Stone posts, iron hinges, t
 
 He sat on Tonnerre for a moment.
 
+He put his hand on his coat pocket. The paper was there, Bordeaux, Elise's handwriting, folded to the size of a playing card. He looked at the gate post, at the stone wall, at the drive going up through the vineyards. He was standing at the address. He took his hand away.
+
 Mercier waited behind him without speaking.
 
 Charles opened the gate and rode through.
