@@ -96,7 +96,23 @@ He turned and counted while the unit established positions, which is to say he c
 
 He gave the order to establish positions and the work of defending began.
 
-The two hours proceeded as extended tactical actions proceed: badly in detail, in aggregate well enough. In detail there were moments of chaos that contained no good option, moments where his orders had consequences he had not predicted and had to correct for, moments where he could see that the situation had moved past the plan and he was operating on instinct formed from five years of similar situations rather than from the plan. In aggregate, the tree line held. He kept adjusting positions as the enemy probed for weaknesses, pulled one section left and one forward, used the ridgeline for observation when the left flank drew pressure, kept Rousseau's section in reserve and used it twice to plug gaps that would have cost him the line if they had opened fully.
+The two hours proceeded as extended tactical actions proceed: badly in detail, in aggregate well enough.
+
+In detail: the first ten minutes were the worst. The unit was still shaken from the approach, horses unsettled, the men finding their positions in the tree line with the particular inefficiency that came from moving fast under fire and then having to stop and think. He rode the line twice, giving orders he had already given, because orders given once under fire are heard once under fire and that is not the same as understood. By the fifteen-minute mark the positions were set and the fire was disciplined and the enemy, who had expected less resistance, was adjusting.
+
+The problem with the left flank developed at the forty-minute mark. An enemy section was moving into a fold in the ground that his original position estimate had not fully accounted for. If they reached the fold they would have an angle on the tree line that would make the left position untenable. He could see this developing. He had approximately eight minutes before it became a problem and three minutes after that before it became a disaster.
+
+He sent Rousseau with his section to the left, to a secondary tree line that was thinner cover but covered the fold. "Hold the angle," he said. "Not the ground. The angle."
+
+Rousseau looked at where he was pointing and nodded once with the expression of a man who has understood the geometry. He moved his section in the good clean way he had developed over two years in Spain.
+
+The fold was blocked. The left held.
+
+In the center, around the one-hour mark, the fire intensified to a level that told him the enemy had identified the center positions as the primary threat and was concentrating resources. A man went down on his left. He did not have time to look. He gave the order to pull the center back twenty meters to secondary cover within the tree line, which gave up some firing angle but gave the enemy less of a target, and the fire eased.
+
+He kept adjusting positions as the enemy probed, moving sections in response to information as it arrived, always one adjustment ahead of failure. He used the ridgeline for observation when the left flank drew pressure. He kept Rousseau's section as a reserve after the fold was secured and used it twice more to fill gaps that would have cost him the line if they had opened fully.
+
+He knew what he was doing. That was the particular quality of these two hours: he knew what he was doing. He had done enough of this that he recognized the shape of the action as it was happening and could respond to it the way one responds to a language one speaks. The men were in trouble. He kept them out of more trouble. That was the work.
 
 At the one-hour mark he assessed the tree line. The enemy had identified their main firing positions and was applying concentrated pressure on the right. The right would fail within twenty minutes.
 
@@ -118,7 +134,11 @@ Three.
 
 Charles sat with the number three in the way he had learned to sit with numbers of this kind, which was to say: he did not look away from it, he did not assign it meaning beyond what it was, he let it be the number it was, because the alternative was to not feel it or to feel it in a way that was not functional, and he needed to be functional.
 
-He wrote the letters that night by lamp. He had a form now. He knew what the form was for. Three letters: Pellerin's family in Lyon, Archambault's mother in Metz, Cassouin's young wife in Dijon, because someone at headquarters had mentioned Cassouin was newly married and Charles had stored this fact in the way he stored all facts about his men, precisely and with attention to what it meant.
+He wrote the letters that night by lamp. He had a form now. He knew what the form was for and why it had become a form rather than a fresh composition each time: because fresh composition required him to find words adequate to the thing, and there were no words adequate to the thing, and the form at least provided a structure that did not pretend to be adequate. It said: your son died in service. It said: he was a good soldier. It said: his loss is felt by those who served with him. These things were true. They were also the surface of something much deeper and much less orderable.
+
+Three letters: Pellerin's family in Lyon, Archambault's mother in Metz, Cassouin's young wife in Dijon. He had the addresses because he made it his business to know his men's addresses from the moment they joined the unit, which had seemed like morbid preparation the first time he did it and now seemed simply practical.
+
+He did not know Cassouin's wife's name. He had not asked, and Cassouin had not volunteered it, because men in units generally did not talk about home in the specific way. He addressed the letter: To the family of Private Bernard Cassouin. He thought about the small book with the blocked page. He had put it in Cassouin's coat pocket when they laid him out. He did not read it. He thought that whoever received that book would understand it was a letter that had never needed sending.
 
 He opened his field journal when the letters were done. He turned to the list in the back. He added three names.
 
@@ -228,7 +248,35 @@ He looked at his hands, the calluses from reins and sword. He thought about the 
 
 "Same skill," he said. "Different purposes."
 
-"Yes," she said. She held his gaze long enough that it became a conversation without words, the kind he had not had with another person in a very long time.
+"Yes," she said.
+
+She looked at him with something in her expression that had no military equivalent. Not anger. Not accusation. Something more careful than either of those.
+
+"You took the supplies so that an army could keep moving," she said. "The army moved. The campaign continued. There is a logic to it."
+
+"Yes," he said.
+
+"And the villages went hungry."
+
+"Some of them."
+
+"And the merchant networks that depended on those villages having surplus to trade collapsed." She said this in the same tone she had used to describe the Aragon network, the fact-stating tone. "And my father's partner in the region lost his principal business relationship. And his family lives on considerably less now than they did before 1810."
+
+He sat with this. He had, at various points over the past two years, constructed the defense. The army needed supplies. Without the army the campaign failed. Without the campaign Spain remained under a government that had been installed by conquest rather than consent. The calculation, in the abstract, had an answer.
+
+"I know the argument," she said, as though she could hear him constructing it. "The army is necessary and the army needs supplies and therefore the supplies are necessary and the villages are an acceptable cost." She set her ledger aside. "I am not arguing that the army should have gone hungry. I am saying that I see what happens after. I am the person who comes through the region six months later trying to rebuild what someone else's necessary action destroyed."
+
+He thought about Mercier's inspection sequence. The automatic thing, done correctly, twenty-five years of practice. The thing he would do for the rest of his life.
+
+"What would you have had me do?" he said.
+
+"Nothing different," she said. "I am not saying you should have refused the orders. I am saying: this is what it costs. Someone has to know what it costs. You should know."
+
+He did know. He had known, in a general way, since the woman in the doorway in 1810. He had known it and had not allowed himself to follow the knowing to its conclusion, because the conclusion led somewhere he could not afford to go and still do the work.
+
+"I know," he said.
+
+She looked at him. She held his gaze long enough that it became a conversation without words, the kind he had not had with another person in a very long time.
 
 He wanted to tell her that he had thought about her before the charge. He had no reasonable explanation for why he had thought of her before a charge rather than after, which was the ordinary time for thinking about people one cared about. He did not tell her this. It seemed like something that required a better explanation than he currently had.
 
