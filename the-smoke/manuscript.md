@@ -1364,8 +1364,6 @@ He told himself this several times, which was not something he had needed to do 
 
 ---
 
-# The Smoke — Manuscript
-
 CHAPTER 6
 
 The cold in Prussia was a different animal than the cold in the Alps.
@@ -1713,8 +1711,6 @@ Charles stood at the picket line for a long time.
 He did not sleep.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 7
 
@@ -2102,8 +2098,6 @@ He closed his eyes.
 
 ---
 
-# The Smoke — Manuscript
-
 CHAPTER 8
 
 The Pyrenees were not the Alps.
@@ -2309,8 +2303,6 @@ Then he reached down, without particular thought, and pulled off his left boot a
 He folded it back to its shape and put it back in the boot and set the boot aside and went to sleep.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 9
 
@@ -2604,13 +2596,13 @@ He sat with this information for a while. Then he wrote it into his notebook und
 
 * * *
 
-The young man's name was Sergeant Arnaud Fouet. He was twenty-one years old and had come to the unit from a line regiment, transferred after demonstrating in three engagements that he had a particular aptitude for reading terrain that his previous command had not known what to do with. Charles had known what to do with it. He had spent four months developing it, walking Fouet through the specific work of evaluating a ridge line, reading shadows for covered approach routes, estimating enemy strength from dust clouds and the sound of movement before it became visible.
+The young man's name was Sergeant Marcel Fouet. He was twenty-one years old and had come to the unit from a line regiment, transferred after demonstrating in three engagements that he had a particular aptitude for reading terrain that his previous command had not known what to do with. Charles had known what to do with it. He had spent four months developing it, walking Fouet through the specific work of evaluating a ridge line, reading shadows for covered approach routes, estimating enemy strength from dust clouds and the sound of movement before it became visible.
 
 Fouet had been quick and serious and had the quality Charles valued most in men he was developing: he asked better questions as he learned more rather than fewer, because learning made him see more of what he did not yet understand.
 
 Charles had recommended him for a placement with a screening unit to the west, because the screening unit needed someone with exactly Fouet's terrain sense and the assignment would develop him further. He had written the recommendation himself. He had been specific about Fouet's capabilities, which was what the recommendation required.
 
-The screening unit was engaged at a ridge complex southeast of their position. The engagement went badly from the start. The screening unit had taken a covered approach they had not evaluated correctly, and the ridge they moved to hold turned out to be dominated by a higher feature two hundred yards east. Three men killed, one of them Sergeant Arnaud Fouet, who had been at the front of the approach because terrain assessment was what he was there for.
+The screening unit was engaged at a ridge complex southeast of their position. The engagement went badly from the start. The screening unit had taken a covered approach they had not evaluated correctly, and the ridge they moved to hold turned out to be dominated by a higher feature two hundred yards east. Three men killed, one of them Sergeant Marcel Fouet, who had been at the front of the approach because terrain assessment was what he was there for.
 
 Charles received the report in the morning. He read it twice, put it on the table, and went to check on Tonnerre, who had been favoring his left foreleg slightly since the previous day's march and who stood patiently while Charles ran his hand down the leg and found nothing specific, only the general wear of hard roads.
 
@@ -2735,8 +2727,6 @@ He did not write about the woman in the doorway.
 But he remembered her, the way you remember the specific gravity of a thing that has no other place to go.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 10
 
@@ -3044,8 +3034,6 @@ He read this four times. He found it completely satisfying, which was either evi
 
 ---
 
-# The Smoke — Manuscript
-
 CHAPTER 11
 
 The promotion arrived in the spring of 1812, written in the compact administrative prose that the army used for all important things, as though importance required less language rather than more. Captain Charles Leblanc. Effective the first of April.
@@ -3201,8 +3189,6 @@ He wrote back: One more season. The campaign is at a stage where withdrawal make
 He put the letters back in the bundle and tied the cord and put them in his coat. He went to find Rousseau, who needed to be briefed on the following week's patrol schedule, and who met him with the expression of competent attention that Rousseau always wore for briefings, and who Charles found, at the end of every difficult day, to be an uncomplicated relief.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 12
 
@@ -3378,8 +3364,6 @@ He put it back and rode out to the briefing.
 
 ---
 
-# The Smoke — Manuscript
-
 CHAPTER 13
 
 She got the news on a Tuesday in March, from a man named Hoffmann who worked for her father and who had the specific expression of someone who has been rehearsing a conversation on a long road and still does not know how to start it. He was standing in the doorway of the Frankfurt office when she arrived in the morning. He had his hat in his hands.
@@ -3461,8 +3445,6 @@ She sealed it and gave it to Hoffmann to add to the outgoing correspondence.
 She picked up the Strasbourg file and went back to work.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 14
 
@@ -3587,8 +3569,6 @@ He did not sleep.
 In the morning he mounted Tonnerre and rode toward whatever came next.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 15
 
@@ -3724,8 +3704,6 @@ He said nothing, because there was nothing to say that was adequate and Beaumont
 
 ---
 
-# The Smoke — Manuscript
-
 CHAPTER 16
 
 The Frankfurt office had a view of the street that she had always found useful for thinking. Not the view itself, which was a cobbled street with a bakery on the far corner and a chandler's shop that had been there since before she could remember, but the movement: people going somewhere, goods being moved, the ordinary commerce of a city continuing on a Tuesday morning in the way it continued on all mornings.
@@ -3790,7 +3768,7 @@ I will not tell you what to do. I have never told you what to do and I do not in
 
 But I am building something here. Something that is mine. Something I believe in. And I cannot build it indefinitely alongside the knowledge that what you do undoes what I do, and that you are not coming, and that the next season will be the same as this one.
 
-I still love you. God help me, I still love you, and I say that with full awareness of what it means and what it does not mean. It does not mean I will wait forever. I cannot. I have a life to build, with or without you.
+I still love you. I say that with full awareness of what it means and what it does not mean. It does not mean I will wait forever. I cannot. I have a life to build, with or without you.
 
 You know where to find me. You have always known.
 
@@ -3807,8 +3785,6 @@ She went back to the desk and opened the Kessler file and began drafting the for
 Outside, a cart moved along the street with a specific efficient sound of goods being taken somewhere they were needed. She did not look up.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 17
 
@@ -3889,8 +3865,6 @@ He closed the journal.
 He lay down on his bed with his coat on and did not sleep for a long time, and when he finally slept it was without dreams, which was either a mercy or a sign that his mind had run out of the material it needed to produce them.
 
 ---
-
-# The Smoke — Manuscript
 
 CHAPTER 18
 
