@@ -118,7 +118,7 @@ He stopped when he had said what was true. He was not sure the words were adequa
 
 He walked back to headquarters in the rain.
 
-He turned to the list in the back of his journal that night. He opened it to the page that was now nearly full, the margins beginning to crowd with names written smaller when the columns ran out. He had started the second column two years ago in Spain, and the second column was two-thirds full, and he was beginning to look at the third page with the awareness that the third page was coming.
+He turned to the list in the back of his journal that night. It was two and a half pages now. The second column had filled and he had started crowding names into the margins, written smaller to fit, the handwriting changing as it compressed. He was beginning to look at the third page.
 
 He found a space near the bottom of the right margin and added Mercier's name.
 
