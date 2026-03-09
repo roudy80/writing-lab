@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 16
 
 The Frankfurt office had a view of the street that she had always found useful for thinking. Not the view itself, which was a cobbled street with a bakery on the far corner and a chandler's shop that had been there since before she could remember, but the movement: people going somewhere, goods being moved, the ordinary commerce of a city continuing on a Tuesday morning in the way it continued on all mornings.
@@ -64,7 +62,7 @@ I will not tell you what to do. I have never told you what to do and I do not in
 
 But I am building something here. Something that is mine. Something I believe in. And I cannot build it indefinitely alongside the knowledge that what you do undoes what I do, and that you are not coming, and that the next season will be the same as this one.
 
-I still love you. God help me, I still love you, and I say that with full awareness of what it means and what it does not mean. It does not mean I will wait forever. I cannot. I have a life to build, with or without you.
+I still love you. I say that with full awareness of what it means and what it does not mean. It does not mean I will wait forever. I cannot. I have a life to build, with or without you.
 
 You know where to find me. You have always known.
 
