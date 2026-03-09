@@ -10,7 +10,7 @@ The terrain sketch attached showed a valley approach with limited cover on the l
 
 He folded the orders and put them in his coat pocket and stood for a moment looking at the tent wall.
 
-He found Major Beaumont at headquarters, standing with his hands behind his back, looking at the same terrain sketch pinned to a board. He had been promoted twice since Italy and commanded a brigade now, which meant he spent most of his time at maps and boards rather than at the front, and his hands had gone soft in a way that cavalry hands did not usually go soft. He still moved carefully. He still drank alone.
+He found Major Beaumont at headquarters, standing with his hands behind his back, looking at the same terrain sketch pinned to a board. He was at a senior staff position now, which meant he spent most of his time at maps and boards rather than at the front, and his hands had gone soft in a way that cavalry hands did not usually go soft. He still moved carefully. He still drank alone.
 
 "Sir," Charles said.
 
