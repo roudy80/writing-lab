@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 14
 
 He had been filling out discharge paperwork for three months when the news came from Elba.
