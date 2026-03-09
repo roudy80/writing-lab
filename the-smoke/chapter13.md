@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 13
 
 She got the news on a Tuesday in March, from a man named Hoffmann who worked for her father and who had the specific expression of someone who has been rehearsing a conversation on a long road and still does not know how to start it. He was standing in the doorway of the Frankfurt office when she arrived in the morning. He had his hat in his hands.
