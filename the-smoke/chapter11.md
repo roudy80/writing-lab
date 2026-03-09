@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 11
 
 The promotion arrived in the spring of 1812, written in the compact administrative prose that the army used for all important things, as though importance required less language rather than more. Captain Charles Leblanc. Effective the first of April.
