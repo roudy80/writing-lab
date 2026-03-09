@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 8
 
 The Pyrenees were not the Alps.
