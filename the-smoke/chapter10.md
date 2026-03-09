@@ -74,9 +74,9 @@ He counted twice. He counted three times.
 
 He was short two men. Then a figure emerged from the snow from the direction of the Russian line, one of the Girard cousins, walking, leading his horse, the horse limping. One. Still short one.
 
-"Ferrand," Mercier said, beside him. Not a question.
+Bonnard came up on his right, close enough to speak low. "Ferrand, sir. I didn't see it happen."
 
-"Yes." He could see Mercier's face clearly enough to know that Mercier had already counted and had arrived at the same number.
+"No." He looked at Mercier, who had counted too and was looking at the same empty space in the snow. Neither of them said anything else.
 
 They rejoined the mass of cavalry pulling back and reforming for a second pass. Charles looked for Ferrand in the shapes moving through the snow and could not find him. He looked at where the Russian line had been, now reforming itself, the gaps the cavalry had punched through it already closing. He looked at the snow between here and there.
 
