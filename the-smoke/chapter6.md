@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 6
 
 The cold in Prussia was a different animal than the cold in the Alps.
