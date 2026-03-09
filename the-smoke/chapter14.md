@@ -2,164 +2,123 @@
 
 CHAPTER 14
 
-The discharge request went to Beaumont on the first of January, 1808.
+He had been filling out discharge paperwork for three months when the news came from Elba.
 
-Charles had written it twice. The first draft was formal and brief, the language of official correspondence, a request for discharge at the completion of the garrison assignment with reference to the five-year service plan. He read it and wrote a second draft.
+Napoleon had returned. The paperwork went into a drawer. He went to find Rousseau.
 
-The second draft said the same things. He sent the second draft.
+He had not wanted to go back. He was aware of this as a new fact about himself, the way one becomes aware of new facts about oneself by noticing a response that was not present before. At eighteen he had ridden toward the Tagliamento with the specific eagerness of someone who does not yet know what is ahead. At twenty-one he had ridden toward Eylau with clear eyes and the specific preparation of someone who knows the cost and has accepted it. At twenty-eight he rode toward the Belgian border with the exhaustion of someone who knows exactly what the work costs and is going anyway because there is no other choice that makes sense in the structure of his life as it currently exists. Not because he wants to. Not because he believes in the campaign. Because stopping, at this point, requires an act of will he cannot locate.
 
-Beaumont called him in the next morning.
+He thought about this distinction on the road north. It seemed important. He had never been a man who fought for glory or advancement or the abstract satisfaction of service. He had fought because stopping had always cost more than continuing. The logic was the same now. The feeling underneath it was different.
 
-The meeting was in Beaumont's office, which had been a merchant's counting room before the garrison and still had the ledger shelves on the north wall, empty now, the wood worn smooth at the edges by years of men reaching for account books. Beaumont was at the desk. He had the discharge request in front of him.
+The army assembled with the efficiency that Napoleon always extracted from it, the machinery of the Grande Armée cranking back into motion after eight months of dormancy with a speed that was almost offensive given what the last three years had been. Charles moved through the preparation the way he moved through all preparations: the horses, the men, the equipment, the orders. He knew what to do at every stage because he had done it many times and his hands knew the work before his mind engaged. This efficiency was either a sign of competence or a sign that the work had become so automatic that it no longer required him to be entirely present, and he was not sure which.
 
-"Sit down," Beaumont said.
+Rousseau reported to him at the staging area looking exactly as Rousseau always looked: present, attending, the Marseille accent sharpened by three years of sergeant's work into something that landed between conversation and instruction depending on who he was talking to. He had the quality Charles had been developing in him since the convoy escort in 1810: the quiet confidence of a man who has been tested enough to know what he can do.
 
-Charles sat.
+"Well," Rousseau said.
 
-Beaumont looked at the request for a moment, not reading it, the way a man looks at something he has already read and is now considering. Then he looked at Charles.
+"Well," Charles said.
 
-"I want to keep you," he said.
+That was the conversation. They had been through enough together that most conversations were not necessary.
 
-Charles waited.
-
-"The regiment is restructuring in the spring. The corps needs experienced company commanders. I have three positions and I am short on officers who can fill them without supervision." Beaumont set the request down. "I want you in one of those positions. You know that."
-
-"Yes, sir."
-
-"I want you to reconsider the discharge."
-
-Charles looked at him. He had expected this. He had thought about it for three months, since August, since the river in Tilsit, since the moment when he had acknowledged to himself clearly that he was choosing to leave and not being driven out. He had thought about what he would say when Beaumont made the argument, and he had found the words in December, on a quiet night, and he had them now.
-
-"Sir," he said. "I am the best officer you have for those positions. That is not arrogance, it is your own assessment and I have heard you make it."
-
-"Yes."
-
-"That is exactly why I should go." He said it calmly. "If I am that useful here, I am being kept by my usefulness rather than by choice. And a man kept by his usefulness rather than by choice is a man who has let the decision be made for him." He paused. "I told you in January of last year that I wanted the five-year mark noted. You noted it. I am at two years and nine months. I am asking for the remainder to be counted against the garrison assignment, which ends in March. The request stands."
-
-Beaumont looked at him. A long look, the kind that assessed and did not give away the result.
-
-"Who told you that?" he said. "About being kept by usefulness."
-
-"Several people," Charles said. "At different times. I was slow to hear it."
-
-Beaumont was quiet for a moment. He looked at the request on the desk.
-
-"The recommendation will be complete," he said. "Full endorsement. I'll see to it." He picked up his pen. "March, then."
-
-"March. Yes, sir."
-
-Beaumont signed the relevant document. He did not say anything else, and Charles recognized that the silence was a form of respect, the acknowledgment that the argument had been made and heard and settled and did not require further comment.
-
-He stood and came to attention.
-
-"It has been," Beaumont said, not looking up from his desk, "a privilege to command you, Captain Leblanc."
-
-"Sir." Charles held the attention for a moment. "The privilege was mine."
-
-He walked out of the counting room into the January cold.
+He checked the paper in his boot before they moved out. Bordeaux. The fold was worn nearly through again. He would need to replace it before the next engagement. He found a piece of paper and copied the address in the evening, folded it to the same size. Elise's handwriting was not his. He looked at his own copy and then put it in his boot and told himself it was the address that mattered, not the hand.
 
 * * *
 
-He told Mercier that evening.
+He had been in large actions. The Tagliamento in the dark. Eylau in the snow, the scale of it. The years in Spain, the particular grinding accumulation of smaller actions that together produced a weight comparable to a single large one.
 
-"March," Charles said.
+Waterloo was larger than all of them.
 
-Mercier was at the horse line, which was where Mercier was when Charles needed to find him. He said nothing for a moment, his hands on a horse's flank.
+He understood this before the battle from the numbers: the army assembled, the dispositions, the scale of what Wellington had across the ridge. Numbers he could read the way a merchant reads accounts: they described what was coming. He had been in enough actions to understand the gap between numbers and experience, but even allowing for that gap, the numbers for the eighteenth of June described something he had not been in before.
 
-"I thought about your question," Mercier said.
+It rained the night before. The kind of June rain that should not have been cold but was, that got under everything and turned the fields to the particular consistency that cavalry horses find maximally objectionable. He spent two hours with Tonnerre in the early darkness, the bay gelding pressing against him with the specific agitation of a horse that knows something is coming and does not know when. He talked him through it. Low voice, hand on the neck, the one-two pat until the agitation settled into something more like watchful attention.
 
-"I know."
+"I know," he said to Tonnerre, several times. "I know."
 
-"Bordeaux."
-
-"Yes."
-
-Mercier moved to the next horse. Left foreleg, right foreleg. The inspection sequence he had done ten thousand times, in mud and snow and summer heat, in Germany and Italy and Poland. He worked through it without varying his pace.
-
-"I have a sister in Lyon," he said. "I haven't seen her in six years."
-
-Charles waited.
-
-"I would need to stop in Lyon on the way." He moved to the hind legs. "If the road goes through Lyon."
-
-"The road goes through Lyon."
-
-Mercier straightened. He looked at Charles with the direct, unperformed attention that Charles had learned over two and a half years to read as the fullest version of what Mercier had to give.
-
-"Then yes," he said. "I'll come."
+He thought about Margot. He put it away. He thought about Elise and his father and the vineyard and the smell of the Gironde in the morning. He put that away too. He had learned over ten years that before a large action, sentimentality was not useful and deliberate attention to the work was. He went through the unit disposition in his head until he could see it clearly and then he slept for three hours on the ground with his coat over him.
 
 * * *
 
-He told Bonnard and Rousseau together.
+The battle was noise and mud and the specific disorientation that comes from being inside something too large to see all of.
 
-They were in the company office, such as it was: a converted storeroom with a table and three chairs and a shelf of company records that Bonnard kept with the meticulous accuracy of a man who understood that the records were a form of respect for the men they described.
+He was commanding a squadron, sixty men, positioned with the cavalry reserve. His role was to respond to developing situations, to be the mobile element that went where the action needed it. This meant he spent the morning watching through a telescope from his command position and reading the battle the way he had learned to read battles: not the grand picture, which was above his position to see and not his job to manage, but the local picture, the ground in front of him, the movement patterns that told him what the enemy was doing and what the gaps were.
 
-"March," Charles said.
+The noise was the Eylau noise but sustained. He had experienced Eylau as a single overwhelming event, a contained thing that you moved through and came out the other side. Waterloo was that same noise for nine hours, and the difference between those two experiences was not primarily the noise but what the sustained duration did to the men, and to him.
 
-Bonnard nodded. He had known. Charles could see it in the lack of surprise: Bonnard had been anticipating this conversation since August, had organized his thinking around it.
+By the third hour the cannon fire had become, in the specific way that sustained loud things become, more like a condition of the environment than an event. He noticed himself registering it as background rather than threat, which was the adaptation the body made under sustained fire, and which was not entirely safe. He kept himself in the active attention that kept the adaptation from becoming inattention, which required effort that was harder to locate by the third hour than it had been by the first.
 
-Rousseau looked at the wall for a moment, then at Charles. He was twenty-two now, a sergeant, with a sergeant's steadiness that was beginning to overlay the eager young corporal of Munich. There was still something light in him, something that the war had compressed but not extinguished.
+He watched his squadron. He watched for the quality that was the first sign of a unit coming apart: the specific kind of looking-around that was not tactical observation but displacement, men looking for something to orient to when the orientation they had was not sufficient. He saw it developing in two men on the left edge around the fourth hour, and he repositioned them to the center and put them adjacent to Rousseau's section, where Rousseau's steady presence had the stabilizing effect on men that competent sergeants always had. This was exactly what Charles had promoted Rousseau to sergeant for. He had done it correctly. Rousseau was doing it correctly. The unit held.
 
-"Who takes command?" Rousseau said.
+He read the ground through the telescope, through the smoke, through the accumulated visual noise of nine hours of battle. He kept his men functional. He sent sections when sections were needed and pulled them back when the calculation said pull back. He made decisions. He had been making these decisions for ten years and his decisions were correct.
 
-"Bonnard, pending Beaumont's confirmation. I have already recommended him."
+The cost of correct decisions was something he had stopped calculating by the Peninsular War. He made the decisions and he paid the cost later and this was the only available method.
 
-Bonnard looked at the table. The expression of a man who has just been handed something he was not certain he had earned and was not going to argue about it.
+Around the fifth hour a gap opened on the right flank of the position his squadron was covering. He could see it developing: an enemy section moving through broken ground toward a ridge that, if they reached it, would give them an angle on the flank that would compromise the whole defensive position. The gap needed to be closed before the enemy section reached the ridge. It needed a fast-moving section with a good sergeant who could execute without waiting for further orders once the objective was clear.
 
-"The company is solid," Charles said. "Both of you built that. What you do with it after March is yours." He looked at both of them. "You don't need me to tell you how to run it. You haven't needed me for six months."
+He called Rousseau.
 
-"That's not entirely true," Rousseau said.
+He explained the objective through the telescope: the ridge, the angle of approach, the enemy section's current position and rate of movement. He said: take the ridge, hold the angle, you have six minutes.
 
-"It's mostly true. And the rest will fill in quickly."
+Rousseau looked through the telescope, looked at the ground, looked at Charles.
 
-He said the things that needed to be said about the transition, the paperwork, the handover schedule. He said them efficiently, because efficiency was how he did things, and because the practical details gave structure to a conversation that would otherwise have had too much feeling in it for any of them to manage cleanly.
+"Yes, sir," he said.
 
-When he was done, Rousseau stood and held out his hand. "It was a good company, sir."
+He moved his section.
 
-Charles shook it. "It was."
+Charles watched through the telescope.
 
-Bonnard stood. He held out his hand and Charles shook it, and they looked at each other for a moment. Bonnard was twenty-four and from Lyon and had joined the cavalry because his father had been cavalry and had come through the junction at Küstrin and the winter in Poland and Eylau and Friedland and garrison duty in Tilsit, and had become in the process someone Charles would trust with anything he had.
+The section moved well. Rousseau had them in a good line, moving fast, using the broken ground for cover where it was available and committing to the open ground where it was not, which was the correct decision and Charles could see it was the correct decision as he watched it being executed.
 
-"Philippe would be proud of you," Charles said.
+They reached the ridge before the enemy section.
 
-Bonnard looked at the floor for a moment. Then he looked up.
+The maneuver succeeded.
 
-"I know," he said. "I think about that."
+He was watching through the telescope when Rousseau went down.
 
-Charles left them to it.
+He saw it clearly enough to recognize him. He was at the ridge, his section had taken it, there was brief fire from the enemy section that had not quite reached them and then the fire that came from a different direction, the direction Charles had not fully accounted for when he gave the orders. Rousseau was there and then he was not, and Charles could see from the way he went down that this was not a wound.
+
+The maneuver succeeded. The position held. The gap on the flank was closed. His plan worked.
+
+He stood with the telescope in his hands and said nothing.
+
+He gave the next order, because the next order was required, because the battle was continuing and his men needed the orders and nothing useful was served by stopping. He gave the order. He watched the section on the ridge complete the consolidation. He looked through the telescope at the ridge and confirmed the position was held.
+
+He did not go to the ridge until the position was secure and the situation around his squadron had stabilized. This was correct procedure. Going earlier would have been a choice about how he felt rather than a choice about what was needed.
+
+He rode to the ridge when he could. Rousseau was there with two others. His section had laid him out correctly. Someone had folded his coat under his head.
+
+Charles crouched beside him. Rousseau's face had the quality that faces have when the person is no longer in them, which Charles had seen enough times to recognize and which he still found, every time, as irreducible. His journal was in his coat pocket.
+
+He took the journal. He did not know why he took it, except that leaving it felt wrong. He put it in his own coat pocket and rode back to his command position.
 
 * * *
 
-He spent the last two weeks in order. There was a great deal of administrative work in the handover of a company, and he did all of it correctly, because doing things correctly until the last day was the only way he knew how to do things. He signed the transfer documents and the inventory records and the formal recommendation for Bonnard's promotion and the letters of service for the men who would be discharged along with him.
+Napoleon was defeated at Waterloo. The army collapsed over the following days in the specific way that armies collapse when the central energy that holds them is gone: not all at once but in a series of decisions that individually seemed rational and together produced a rout. Charles managed his squadron through the withdrawal in good order. He lost no additional men in the retreat that he had not lost in the battle.
 
-There were eleven of them, men whose service terms ended near his own, and he wrote a letter of service for each one that was specific to that man: his skills, his particular contributions, what a future employer or a family or a village should know about what this person had done and who he was. It took three evenings. He did not think of it as extra work.
+That night, in a farmhouse somewhere south of the field, he opened Rousseau's journal.
 
-On the last night he sat with the field journal.
+The entries were in Rousseau's hand: compact, practical, the observations of a man who had spent five years in the Peninsular War developing an eye for terrain and for what men did under pressure. He read through them in reverse, starting from the most recent. The penultimate entry was from the night before the battle: rain, cold, a note about the condition of the horses, a note about a man in the section who had been quiet that day, something to watch.
 
-He opened it to the back. The list was three pages now, dense in the margins, the names written in the small careful print he had developed for entries he wanted to keep. He read through it from the beginning. Moreau, at the bridge, October 1805. The names from the Tagliamento. The July rearguard action, no casualties in his section, but he had written the names of the infantry dead he had seen on the road, because they had been real and they had been there and the record should know they existed. Ferrand. Philippe.
+The last entry was from the morning of the battle. It was short.
 
-Three pages. Two and a half years.
+The Captain says we flank left if the opportunity presents. He usually sees the opportunity before I do. I trust him completely. If he thinks it is right, it must be right.
 
-He did not try to make it mean something specific. It meant what it was: people who had been in the world and were no longer in it. He had kept the count because Beaumont had said the counting was the right thing to do, and Beaumont was right, and Charles would keep the count for the rest of his life, which was what keeping it meant.
+He read this twice.
 
-He closed the journal.
+He sat with it for a long time in the farmhouse, with the sound of the retreat moving on the road outside, and did not look away from it.
 
-He put his hand on his boot. The paper was there: Bordeaux, Elise's handwriting, folded to the size of a playing card. He had put a new one in when the old one became too worn to read, and he had done this twice, and the address had not changed, and now he was going there.
+Rousseau had trusted him completely. That was true. Rousseau was dead. That was true. His plan had been correct. That was also true. He had given the order with care and had identified the right section and the right sergeant and the right objective, and the maneuver had succeeded and Rousseau was dead and these two things were both true simultaneously and could not be resolved into a single thing.
 
-He took the paper out of his boot and held it.
+He thought about the list. He thought about Pellerin and Archambault and Cassouin, killed in the charge he had also managed correctly. He thought about Mercier, killed on a routine patrol he had not commanded. He thought about Fontaine, killed on a plan he had argued against.
 
-Tomorrow he would leave Tilsit with Mercier and eleven other men, moving west on the road toward Frankfurt and then Lyon and then south and west to Bordeaux, a distance of fifteen hundred kilometers that he would cover in stages, taking his time, because there was no longer any urgency about the direction.
+He had made a correct decision. Rousseau was dead because of a correct decision.
 
-He thought about Margot, and Frankfurt, and the fact that the road went through Frankfurt.
+He thought: there is no right way. Just different costs.
 
-He thought about Elise, who would already know he was coming because she always knew, and who would have things to say that would take a long time to say and which he wanted to hear.
+He opened the journal to the list. He found the space at the bottom of the right margin, where the names were written smaller because the columns were full, and he added Rousseau's name. Then he looked at the list: three pages now, dense in the margins, the names filling every available space on all three pages.
 
-He thought about his father saying *Captain* to himself in the library at ten at night, to no one, the way people said true things when they were alone.
+He closed the journal. He put Rousseau's journal on the table beside his own and looked at both of them.
 
-He put the paper in his coat pocket. Not the boot. He was not going into combat tomorrow.
+He did not sleep.
 
-He lay on the bedroll.
+In the morning he mounted Tonnerre and rode toward whatever came next.
 
-He closed his eyes.
-
-In the morning, he was going home.
