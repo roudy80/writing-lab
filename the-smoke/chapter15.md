@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 15
 
 Major Leblanc.
