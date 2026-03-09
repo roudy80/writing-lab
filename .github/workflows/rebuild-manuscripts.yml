@@ -1,0 +1,55 @@
+name: Rebuild Manuscripts
+
+on:
+  push:
+    paths:
+      - 'the-smoke/chapter*.md'
+      - 'severance/chapter*.md'
+      - 'the-same-light/chapter*.md'
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Rebuild manuscripts
+        run: |
+          python3 << 'PYEOF'
+          import os, glob, re
+
+          books = {
+              'the-smoke': 'the-smoke/manuscript.md',
+              'severance': 'severance/manuscript.md',
+              'the-same-light': 'the-same-light/manuscript.md',
+          }
+
+          def chapter_num(path):
+              m = re.search(r'chapter(\d+)', os.path.basename(path))
+              return int(m.group(1)) if m else 0
+
+          for folder, manuscript_path in books.items():
+              chapters = sorted(glob.glob(f'{folder}/chapter*.md'), key=chapter_num)
+              if not chapters:
+                  continue
+              parts = []
+              for ch in chapters:
+                  with open(ch, 'r') as f:
+                      parts.append(f.read().strip())
+              manuscript = '\n\n---\n\n'.join(parts)
+              with open(manuscript_path, 'w') as f:
+                  f.write(manuscript + '\n')
+              print(f'{folder}: {len(chapters)} chapters, {len(manuscript)} chars')
+          PYEOF
+
+      - name: Commit updated manuscripts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add the-smoke/manuscript.md severance/manuscript.md the-same-light/manuscript.md
+          git diff --cached --quiet && echo "No changes" || git commit -m "Auto-rebuild manuscripts"
+          git push
