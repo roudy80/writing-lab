@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 9
 
 The convoy assembled before dawn, which was the only reasonable time to assemble anything in July if you wanted the mules to still be moving by midmorning. Charles counted wagons from horseback, Tonnerre shifting under him with the particular restlessness of a horse that had slept badly and knew the day would not improve this. Fourteen wagons, mixed cargo, three of them belonging to Vieillard and Sons according to the manifest he had been handed the night before by a harried clerk who had not looked up from his desk once during the entire transaction.
@@ -292,13 +290,13 @@ He sat with this information for a while. Then he wrote it into his notebook und
 
 * * *
 
-The young man's name was Sergeant Arnaud Fouet. He was twenty-one years old and had come to the unit from a line regiment, transferred after demonstrating in three engagements that he had a particular aptitude for reading terrain that his previous command had not known what to do with. Charles had known what to do with it. He had spent four months developing it, walking Fouet through the specific work of evaluating a ridge line, reading shadows for covered approach routes, estimating enemy strength from dust clouds and the sound of movement before it became visible.
+The young man's name was Sergeant Marcel Fouet. He was twenty-one years old and had come to the unit from a line regiment, transferred after demonstrating in three engagements that he had a particular aptitude for reading terrain that his previous command had not known what to do with. Charles had known what to do with it. He had spent four months developing it, walking Fouet through the specific work of evaluating a ridge line, reading shadows for covered approach routes, estimating enemy strength from dust clouds and the sound of movement before it became visible.
 
 Fouet had been quick and serious and had the quality Charles valued most in men he was developing: he asked better questions as he learned more rather than fewer, because learning made him see more of what he did not yet understand.
 
 Charles had recommended him for a placement with a screening unit to the west, because the screening unit needed someone with exactly Fouet's terrain sense and the assignment would develop him further. He had written the recommendation himself. He had been specific about Fouet's capabilities, which was what the recommendation required.
 
-The screening unit was engaged at a ridge complex southeast of their position. The engagement went badly from the start. The screening unit had taken a covered approach they had not evaluated correctly, and the ridge they moved to hold turned out to be dominated by a higher feature two hundred yards east. Three men killed, one of them Sergeant Arnaud Fouet, who had been at the front of the approach because terrain assessment was what he was there for.
+The screening unit was engaged at a ridge complex southeast of their position. The engagement went badly from the start. The screening unit had taken a covered approach they had not evaluated correctly, and the ridge they moved to hold turned out to be dominated by a higher feature two hundred yards east. Three men killed, one of them Sergeant Marcel Fouet, who had been at the front of the approach because terrain assessment was what he was there for.
 
 Charles received the report in the morning. He read it twice, put it on the table, and went to check on Tonnerre, who had been favoring his left foreleg slightly since the previous day's march and who stood patiently while Charles ran his hand down the leg and found nothing specific, only the general wear of hard roads.
 
