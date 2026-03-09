@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 10
 
 The orders arrived on a Tuesday, which Charles had always found to be an unremarkable day for unremarkable things, and a Tuesday seemed therefore approximately correct for being told that his unit was to delay the enemy advance long enough for the infantry to withdraw through a gap that should not have existed and would not have existed except that someone at Corps level had miscalculated the speed of the French retreat and subsequently the speed of the Allied pursuit.
