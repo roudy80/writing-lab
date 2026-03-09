@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 7
 
 The assignment came on a Tuesday morning, nine days after the junction at Küstrin, and Charles received it the way he received most things he didn't want: without visible reaction, which was the only reaction that helped.
