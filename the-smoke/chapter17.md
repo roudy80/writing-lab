@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 17
 
 The plan was brilliant and he knew it was brilliant, which was a different experience than it had been at twenty-two.
