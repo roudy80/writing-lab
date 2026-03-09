@@ -1,5 +1,3 @@
-# The Smoke — Manuscript
-
 CHAPTER 18
 
 The volleys cracked across the field in the way that military volleys do: not the chaotic sound of combat but the ordered crack of an intended salute, three shots together, the sound absorbed by the open ground and the gray November sky. The gun-smoke drifted.
