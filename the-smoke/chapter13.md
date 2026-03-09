@@ -140,7 +140,7 @@ The river was wide and calm and the evening light was doing what it had been doi
 
 "Stop the convoys?"
 
-"Stop everything. For a while." She looked at the water. "My father is in good health. The operation runs without him now, or runs with less of him. I have been thinking about what I said to you in Lowicz, in January."
+"Stop everything. For a while." She looked at the water. "My father is in good health. He manages the Frankfurt end of things. I take more of the road work now, but we still run it together." She paused. "I have been thinking about what I said to you in Lowicz, in January."
 
 "Don't let it be decided by the accumulation of small yeses."
 
