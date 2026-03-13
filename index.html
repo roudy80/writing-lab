@@ -16,8 +16,32 @@
   .home-header h1 { font-size: 1.6rem; color: #c9b99a; letter-spacing: 0.05em; }
   .home-header p { margin-top: 6px; color: #888; font-size: 0.9rem; font-family: sans-serif; }
 
-  .book-section { padding: 28px 24px 0; }
-  .book-title { font-size: 0.75rem; font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.15em; color: #888; margin-bottom: 14px; }
+  .book-section { border-bottom: 1px solid #2a2a2a; }
+
+  /* Collapsible book header */
+  .book-toggle {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 20px 24px; cursor: pointer;
+    background: none; border: none; width: 100%; text-align: left;
+    color: inherit;
+  }
+  .book-toggle:active { background: #222; }
+  .book-toggle-left { display: flex; flex-direction: column; gap: 4px; }
+  .book-title { font-size: 0.75rem; font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.15em; color: #888; }
+  .book-resume {
+    font-size: 0.78rem; font-family: sans-serif; color: #c9b99a;
+    opacity: 0; transition: opacity 0.2s;
+  }
+  .book-resume.visible { opacity: 1; }
+  .book-chevron {
+    font-size: 0.85rem; color: #666; font-family: sans-serif;
+    transition: transform 0.2s; flex-shrink: 0;
+  }
+  .book-chevron.open { transform: rotate(90deg); }
+
+  /* Chapter list */
+  .book-body { display: none; padding: 0 24px 16px; }
+  .book-body.open { display: block; }
 
   .chapter-list { list-style: none; }
   .chapter-list li { border-bottom: 1px solid #2a2a2a; }
@@ -28,6 +52,10 @@
   }
   .chapter-list li a:hover, .chapter-list li a:active { color: #c9b99a; }
   .chapter-list li a span { font-size: 0.8rem; color: #666; font-family: sans-serif; float: right; margin-top: 2px; }
+  .chapter-list li a.last-read { color: #c9b99a; }
+  .chapter-list li a.last-read::before {
+    content: '▶ '; font-size: 0.7rem;
+  }
 
   .notes-section { padding: 28px 24px; margin-top: 8px; }
   .notes-section textarea {
@@ -75,6 +103,13 @@
   .reader-content hr { border: none; border-top: 1px solid #333; margin: 28px auto; width: 40%; }
   .reader-content em { color: #c9b99a; }
 
+  /* Reading progress bar */
+  .progress-bar {
+    position: fixed; top: 0; left: 0; height: 2px;
+    background: #c9b99a; width: 0%; z-index: 20;
+    transition: width 0.1s;
+  }
+
   .copied-msg {
     position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%);
     background: #c9b99a; color: #1a1a1a; padding: 8px 20px;
@@ -88,6 +123,8 @@
 </head>
 <body>
 
+<div class="progress-bar" id="progress-bar"></div>
+
 <!-- HOME -->
 <div id="home">
   <div class="home-header">
@@ -95,77 +132,93 @@
     <p>Select a chapter to read</p>
   </div>
 
+  <!-- Before the Wind Shifts -->
   <div class="book-section">
-    <div class="book-title">The Smoke — Historical Fiction</div>
-    <ul class="chapter-list" id="smoke-list">
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter1.md','Chapter 1','The Smoke');return false;">Chapter 1 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter2.md','Chapter 2','The Smoke');return false;">Chapter 2 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter3.md','Chapter 3','The Smoke');return false;">Chapter 3 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter4.md','Chapter 4','The Smoke');return false;">Chapter 4 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter5.md','Chapter 5','The Smoke');return false;">Chapter 5 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter6.md','Chapter 6','The Smoke');return false;">Chapter 6 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter7.md','Chapter 7','The Smoke');return false;">Chapter 7 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter8.md','Chapter 8','The Smoke');return false;">Chapter 8 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter9.md','Chapter 9','The Smoke');return false;">Chapter 9 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter10.md','Chapter 10','The Smoke');return false;">Chapter 10 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter11.md','Chapter 11','The Smoke');return false;">Chapter 11 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter12.md','Chapter 12','The Smoke');return false;">Chapter 12 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter13.md','Chapter 13','The Smoke');return false;">Chapter 13 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter14.md','Chapter 14','The Smoke');return false;">Chapter 14 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter15.md','Chapter 15','The Smoke');return false;">Chapter 15 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter16.md','Chapter 16','The Smoke');return false;">Chapter 16 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter17.md','Chapter 17','The Smoke');return false;">Chapter 17 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/chapter18.md','Chapter 18 — Final','The Smoke');return false;">Chapter 18 — Final <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-smoke/manuscript.md','Full Manuscript','The Smoke');return false;">Full Manuscript <span>›</span></a></li>
-    </ul>
+    <button class="book-toggle" onclick="toggleBook('wind-shifts')">
+      <div class="book-toggle-left">
+        <div class="book-title">Before the Wind Shifts — Romance</div>
+        <div class="book-resume" id="resume-wind-shifts"></div>
+      </div>
+      <div class="book-chevron" id="chevron-wind-shifts">›</div>
+    </button>
+    <div class="book-body" id="body-wind-shifts">
+      <ul class="chapter-list">
+        <li><a href="#" id="link-wind-shifts-1" onclick="loadChapter('before-the-wind-shifts/chapter1.md','Chapter 1','Before the Wind Shifts','wind-shifts');return false;">Chapter 1 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-2" onclick="loadChapter('before-the-wind-shifts/chapter2.md','Chapter 2','Before the Wind Shifts','wind-shifts');return false;">Chapter 2 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-3" onclick="loadChapter('before-the-wind-shifts/chapter3.md','Chapter 3','Before the Wind Shifts','wind-shifts');return false;">Chapter 3 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-4" onclick="loadChapter('before-the-wind-shifts/chapter4.md','Chapter 4','Before the Wind Shifts','wind-shifts');return false;">Chapter 4 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-5" onclick="loadChapter('before-the-wind-shifts/chapter5.md','Chapter 5','Before the Wind Shifts','wind-shifts');return false;">Chapter 5 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-6" onclick="loadChapter('before-the-wind-shifts/chapter6.md','Chapter 6','Before the Wind Shifts','wind-shifts');return false;">Chapter 6 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-7" onclick="loadChapter('before-the-wind-shifts/chapter7.md','Chapter 7','Before the Wind Shifts','wind-shifts');return false;">Chapter 7 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-8" onclick="loadChapter('before-the-wind-shifts/chapter8.md','Chapter 8','Before the Wind Shifts','wind-shifts');return false;">Chapter 8 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-9" onclick="loadChapter('before-the-wind-shifts/chapter9.md','Chapter 9','Before the Wind Shifts','wind-shifts');return false;">Chapter 9 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-10" onclick="loadChapter('before-the-wind-shifts/chapter10.md','Chapter 10','Before the Wind Shifts','wind-shifts');return false;">Chapter 10 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-11" onclick="loadChapter('before-the-wind-shifts/chapter11.md','Chapter 11','Before the Wind Shifts','wind-shifts');return false;">Chapter 11 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-12" onclick="loadChapter('before-the-wind-shifts/chapter12.md','Chapter 12','Before the Wind Shifts','wind-shifts');return false;">Chapter 12 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-13" onclick="loadChapter('before-the-wind-shifts/chapter13.md','Chapter 13','Before the Wind Shifts','wind-shifts');return false;">Chapter 13 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-14" onclick="loadChapter('before-the-wind-shifts/chapter14.md','Chapter 14','Before the Wind Shifts','wind-shifts');return false;">Chapter 14 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-15" onclick="loadChapter('before-the-wind-shifts/chapter15.md','Chapter 15','Before the Wind Shifts','wind-shifts');return false;">Chapter 15 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-16" onclick="loadChapter('before-the-wind-shifts/chapter16.md','Chapter 16','Before the Wind Shifts','wind-shifts');return false;">Chapter 16 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-17" onclick="loadChapter('before-the-wind-shifts/chapter17.md','Chapter 17','Before the Wind Shifts','wind-shifts');return false;">Chapter 17 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-18" onclick="loadChapter('before-the-wind-shifts/chapter18.md','Chapter 18','Before the Wind Shifts','wind-shifts');return false;">Chapter 18 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-19" onclick="loadChapter('before-the-wind-shifts/chapter19.md','Chapter 19','Before the Wind Shifts','wind-shifts');return false;">Chapter 19 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-20" onclick="loadChapter('before-the-wind-shifts/chapter20.md','Chapter 20','Before the Wind Shifts','wind-shifts');return false;">Chapter 20 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-21" onclick="loadChapter('before-the-wind-shifts/chapter21.md','Chapter 21','Before the Wind Shifts','wind-shifts');return false;">Chapter 21 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-22" onclick="loadChapter('before-the-wind-shifts/chapter22.md','Chapter 22','Before the Wind Shifts','wind-shifts');return false;">Chapter 22 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-23" onclick="loadChapter('before-the-wind-shifts/chapter23.md','Chapter 23','Before the Wind Shifts','wind-shifts');return false;">Chapter 23 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-24" onclick="loadChapter('before-the-wind-shifts/chapter24.md','Chapter 24','Before the Wind Shifts','wind-shifts');return false;">Chapter 24 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-25" onclick="loadChapter('before-the-wind-shifts/chapter25.md','Chapter 25','Before the Wind Shifts','wind-shifts');return false;">Chapter 25 <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-26" onclick="loadChapter('before-the-wind-shifts/chapter26.md','Chapter 26 — Final','Before the Wind Shifts','wind-shifts');return false;">Chapter 26 — Final <span>›</span></a></li>
+        <li><a href="#" id="link-wind-shifts-ms" onclick="loadChapter('before-the-wind-shifts/manuscript.md','Full Manuscript','Before the Wind Shifts','wind-shifts');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
   </div>
 
-  <div class="book-section" style="margin-top:24px;">
-    <div class="book-title">The Scattered Worlds: Severance — Sci-Fi</div>
-    <ul class="chapter-list">
-      <li><a href="#" onclick="loadChapter('severance/chapter1.md','Chapter 1 — Sonic Boom','Severance');return false;">Ch 1 — Sonic Boom <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter2.md','Chapter 2 — Ground Zero','Severance');return false;">Ch 2 — Ground Zero <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter3.md','Chapter 3 — Red Horizon','Severance');return false;">Ch 3 — Red Horizon <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter4.md','Chapter 4 — The Weight of Selection','Severance');return false;">Ch 4 — The Weight of Selection <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter5.md','Chapter 5 — Triage','Severance');return false;">Ch 5 — Triage <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter6.md','Chapter 6 — Zero Gravity','Severance');return false;">Ch 6 — Zero Gravity <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter7.md','Chapter 7 — What the Numbers Dont Count','Severance');return false;">Ch 7 — What the Numbers Don't Count <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter8.md','Chapter 8 — The Vote That Wasnt One','Severance');return false;">Ch 8 — The Vote That Wasn't One <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter9.md','Chapter 9 — Acceptable Margins','Severance');return false;">Ch 9 — Acceptable Margins <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter10.md','Chapter 10 — Frame and Void','Severance');return false;">Ch 10 — Frame and Void <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter11.md','Chapter 11 — The People They Left','Severance');return false;">Ch 11 — The People They Left <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter12.md','Chapter 12 — Sovereignty','Severance');return false;">Ch 12 — Sovereignty <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter13.md','Chapter 13 — The Public Number','Severance');return false;">Ch 13 — The Public Number <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter14.md','Chapter 14 — Notification','Severance');return false;">Ch 14 — Notification <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter15.md','Chapter 15 — The Ring Closes','Severance');return false;">Ch 15 — The Ring Closes <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter16.md','Chapter 16 — The Cost of the Word','Severance');return false;">Ch 16 — The Cost of the Word <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter17.md','Chapter 17 — The Limits of the Record','Severance');return false;">Ch 17 — The Limits of the Record <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/chapter18.md','Chapter 18 — Cascade','Severance');return false;">Ch 18 — Cascade <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('severance/manuscript.md','Full Manuscript','The Scattered Worlds: Severance');return false;">Full Manuscript <span>›</span></a></li>
-    </ul>
+  <!-- The Smoke -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('the-smoke')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Smoke — Historical Fiction</div>
+        <div class="book-resume" id="resume-the-smoke"></div>
+      </div>
+      <div class="book-chevron" id="chevron-the-smoke">›</div>
+    </button>
+    <div class="book-body" id="body-the-smoke">
+      <ul class="chapter-list" id="smoke-list">
+        <li><a href="#" id="link-the-smoke-1" onclick="loadChapter('the-smoke/chapter1.md','Chapter 1','The Smoke','the-smoke');return false;">Chapter 1 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-2" onclick="loadChapter('the-smoke/chapter2.md','Chapter 2','The Smoke','the-smoke');return false;">Chapter 2 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-3" onclick="loadChapter('the-smoke/chapter3.md','Chapter 3','The Smoke','the-smoke');return false;">Chapter 3 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-4" onclick="loadChapter('the-smoke/chapter4.md','Chapter 4','The Smoke','the-smoke');return false;">Chapter 4 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-5" onclick="loadChapter('the-smoke/chapter5.md','Chapter 5','The Smoke','the-smoke');return false;">Chapter 5 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-6" onclick="loadChapter('the-smoke/chapter6.md','Chapter 6','The Smoke','the-smoke');return false;">Chapter 6 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-7" onclick="loadChapter('the-smoke/chapter7.md','Chapter 7','The Smoke','the-smoke');return false;">Chapter 7 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-8" onclick="loadChapter('the-smoke/chapter8.md','Chapter 8','The Smoke','the-smoke');return false;">Chapter 8 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-9" onclick="loadChapter('the-smoke/chapter9.md','Chapter 9','The Smoke','the-smoke');return false;">Chapter 9 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-10" onclick="loadChapter('the-smoke/chapter10.md','Chapter 10','The Smoke','the-smoke');return false;">Chapter 10 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-11" onclick="loadChapter('the-smoke/chapter11.md','Chapter 11','The Smoke','the-smoke');return false;">Chapter 11 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-12" onclick="loadChapter('the-smoke/chapter12.md','Chapter 12','The Smoke','the-smoke');return false;">Chapter 12 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-13" onclick="loadChapter('the-smoke/chapter13.md','Chapter 13','The Smoke','the-smoke');return false;">Chapter 13 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-14" onclick="loadChapter('the-smoke/chapter14.md','Chapter 14','The Smoke','the-smoke');return false;">Chapter 14 <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-15" onclick="loadChapter('the-smoke/chapter15.md','Chapter 15 — Final','The Smoke','the-smoke');return false;">Chapter 15 — Final <span>›</span></a></li>
+        <li><a href="#" id="link-the-smoke-ms" onclick="loadChapter('the-smoke/manuscript.md','Full Manuscript','The Smoke','the-smoke');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
   </div>
 
-  <div class="book-section" style="margin-top:24px;">
-    <div class="book-title">The Same Light — Literary Fiction</div>
-    <ul class="chapter-list">
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter1.md','Chapter 1','The Same Light');return false;">Chapter 1 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter2.md','Chapter 2','The Same Light');return false;">Chapter 2 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter3.md','Chapter 3','The Same Light');return false;">Chapter 3 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter4.md','Chapter 4','The Same Light');return false;">Chapter 4 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter5.md','Chapter 5','The Same Light');return false;">Chapter 5 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter6.md','Chapter 6','The Same Light');return false;">Chapter 6 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter7.md','Chapter 7','The Same Light');return false;">Chapter 7 <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter8.md','Chapter 8 — The Real Emergency','The Same Light');return false;">Ch 8 — The Real Emergency <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/chapter9.md','Chapter 9 — The Porch','The Same Light');return false;">Ch 9 — The Porch <span>›</span></a></li>
-      <li><a href="#" onclick="loadChapter('the-same-light/manuscript.md','Full Manuscript','The Same Light');return false;">Full Manuscript <span>›</span></a></li>
-    </ul>
-  </div>
-
-  <div class="book-section" style="margin-top:24px;">
-    <div class="book-title">Waiting at the Red Gate — Memoir</div>
-    <ul class="chapter-list">
-      <li><a href="#" onclick="loadChapter('red-gate/manuscript.md','Full Manuscript','Waiting at the Red Gate');return false;">Full Manuscript <span>›</span></a></li>
-    </ul>
+  <!-- Waiting at the Red Gate -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('red-gate')">
+      <div class="book-toggle-left">
+        <div class="book-title">Waiting at the Red Gate — Memoir</div>
+        <div class="book-resume" id="resume-red-gate"></div>
+      </div>
+      <div class="book-chevron" id="chevron-red-gate">›</div>
+    </button>
+    <div class="book-body" id="body-red-gate">
+      <ul class="chapter-list">
+        <li><a href="#" id="link-red-gate-ms" onclick="loadChapter('red-gate/manuscript.md','Full Manuscript','Waiting at the Red Gate','red-gate');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
   </div>
 
   <div class="notes-section">
@@ -194,25 +247,73 @@
 const REPO = 'roudy80/writing-lab';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
-const API_BASE = `https://api.github.com/repos/${REPO}/contents/`;
 
 let currentText = '';
 let currentLabel = '';
+let currentBookId = '';
+let currentPath = '';
 
+// ── Book collapse ──────────────────────────────────────────────
+function toggleBook(bookId) {
+  const body = document.getElementById('body-' + bookId);
+  const chevron = document.getElementById('chevron-' + bookId);
+  const isOpen = body.classList.contains('open');
+  body.classList.toggle('open', !isOpen);
+  chevron.classList.toggle('open', !isOpen);
+  localStorage.setItem('book-open-' + bookId, !isOpen ? '1' : '0');
+}
+
+// ── Reading position ───────────────────────────────────────────
+function saveReadingPosition(bookId, path, label) {
+  localStorage.setItem('last-read-' + bookId, JSON.stringify({ path, label }));
+  updateResumeLabels();
+}
+
+function updateResumeLabels() {
+  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+    const saved = localStorage.getItem('last-read-' + bookId);
+    const el = document.getElementById('resume-' + bookId);
+    if (saved && el) {
+      const { label } = JSON.parse(saved);
+      el.textContent = 'Last read: ' + label;
+      el.classList.add('visible');
+    }
+  });
+}
+
+function markLastRead(bookId, path, label) {
+  // Remove previous highlight
+  document.querySelectorAll('.last-read').forEach(a => a.classList.remove('last-read'));
+  // Highlight the current one by finding the link with matching onclick
+  document.querySelectorAll('#body-' + bookId + ' a').forEach(a => {
+    if (a.getAttribute('onclick') && a.getAttribute('onclick').includes("'" + path + "'")) {
+      a.classList.add('last-read');
+    }
+  });
+}
+
+// ── Navigation ─────────────────────────────────────────────────
 function goHome() {
   document.getElementById('home').style.display = 'block';
   document.getElementById('reader').style.display = 'none';
-  window.scrollTo(0,0);
+  window.scrollTo(0, 0);
+  window.removeEventListener('scroll', onReaderScroll);
 }
 
-function loadChapter(path, label, book) {
+function loadChapter(path, label, book, bookId) {
   document.getElementById('home').style.display = 'none';
   document.getElementById('reader').style.display = 'block';
   currentLabel = label;
+  currentBookId = bookId;
+  currentPath = path;
   document.getElementById('reader-label').textContent = book + ' — ' + label;
   document.getElementById('reader-content').innerHTML = '<div class="loading">Loading…</div>';
   document.getElementById('copy-btn').textContent = 'Loading…';
-  window.scrollTo(0,0);
+  document.getElementById('progress-bar').style.width = '0%';
+  window.scrollTo(0, 0);
+
+  saveReadingPosition(bookId, path, label);
+  markLastRead(bookId, path, label);
 
   fetch(RAW_BASE + path + '?t=' + Date.now())
     .then(r => r.text())
@@ -222,6 +323,7 @@ function loadChapter(path, label, book) {
       const isLarge = text.length > 50000;
       const canShare = !!navigator.share;
       document.getElementById('copy-btn').textContent = (isLarge && canShare) ? 'Share Text' : 'Copy All';
+      window.addEventListener('scroll', onReaderScroll);
     })
     .catch(() => {
       document.getElementById('reader-content').innerHTML = '<div class="loading">Could not load file.</div>';
@@ -229,6 +331,19 @@ function loadChapter(path, label, book) {
     });
 }
 
+// ── Reading progress bar ───────────────────────────────────────
+function onReaderScroll() {
+  const el = document.getElementById('reader-content');
+  if (!el) return;
+  const rect = el.getBoundingClientRect();
+  const total = el.offsetHeight - window.innerHeight;
+  if (total <= 0) { document.getElementById('progress-bar').style.width = '100%'; return; }
+  const scrolled = Math.max(0, -rect.top);
+  const pct = Math.min(100, (scrolled / total) * 100);
+  document.getElementById('progress-bar').style.width = pct + '%';
+}
+
+// ── Markdown renderer ──────────────────────────────────────────
 function renderMarkdown(text) {
   let html = text
     .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
@@ -249,6 +364,7 @@ function renderMarkdown(text) {
   return html;
 }
 
+// ── Copy / Share ───────────────────────────────────────────────
 function showMsg(text) {
   const msg = document.getElementById('copied-msg');
   msg.textContent = text;
@@ -258,20 +374,12 @@ function showMsg(text) {
 
 function copyText() {
   if (!currentText) return;
-
-  // For large text (full manuscripts), use Web Share API with raw text —
-  // iOS share sheet gives a "Copy" option that handles large text reliably,
-  // plus direct share to Notes, Mail, etc. No file saving required.
   if (navigator.share && currentText.length > 50000) {
     navigator.share({ title: currentLabel, text: currentText })
       .then(() => showMsg('Done!'))
-      .catch(err => {
-        // User cancelled — that's fine. On actual failure, try clipboard.
-        if (err.name !== 'AbortError') clipboardCopy();
-      });
+      .catch(err => { if (err.name !== 'AbortError') clipboardCopy(); });
     return;
   }
-
   clipboardCopy();
 }
 
@@ -290,17 +398,13 @@ function fallbackCopy() {
   ta.value = currentText;
   ta.style.cssText = 'position:fixed;top:0;left:0;opacity:0;';
   document.body.appendChild(ta);
-  ta.focus();
-  ta.select();
-  try {
-    document.execCommand('copy');
-    showMsg('Copied!');
-  } catch(e) {
-    showMsg('Could not copy — try sharing instead');
-  }
+  ta.focus(); ta.select();
+  try { document.execCommand('copy'); showMsg('Copied!'); }
+  catch(e) { showMsg('Could not copy — try sharing instead'); }
   document.body.removeChild(ta);
 }
 
+// ── Notes ──────────────────────────────────────────────────────
 function saveNotes() {
   const notes = document.getElementById('notes-input').value.trim();
   if (!notes) return;
@@ -310,7 +414,28 @@ function saveNotes() {
 }
 
 document.getElementById('notes-input').placeholder =
-  'Type feedback or ideas here, then paste them to Claude in your next chat. (Direct GitHub saving requires a token — ask Claude to set that up if you want it automatic.)';
+  'Type feedback or ideas here, then paste them to Claude in your next chat.';
+
+// ── Init ───────────────────────────────────────────────────────
+(function init() {
+  // Restore open/collapsed state (all collapsed by default)
+  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+    const wasOpen = localStorage.getItem('book-open-' + bookId) === '1';
+    if (wasOpen) {
+      document.getElementById('body-' + bookId).classList.add('open');
+      document.getElementById('chevron-' + bookId).classList.add('open');
+    }
+  });
+  // Restore last-read highlights and resume labels
+  updateResumeLabels();
+  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+    const saved = localStorage.getItem('last-read-' + bookId);
+    if (saved) {
+      const { path } = JSON.parse(saved);
+      markLastRead(bookId, path, '');
+    }
+  });
+})();
 </script>
 
 </body>
