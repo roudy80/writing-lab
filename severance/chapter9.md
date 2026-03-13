@@ -1,12 +1,12 @@
-# The Scattered Worlds: Severance
+# Chapter 9: Acceptable Margins
 
-Chapter 9: Acceptable Margins
 Dr. Elena Marsh | Crew Selection Office, Houston
+
 March 3, 2027 | 9:17 AM CST
 
 The cryosleep compatibility data had been sitting in her secure folder for six days before Elena opened it, which was not because she had forgotten it was there.
 
-Dr. Kim Aldridge had sent it with a subject line that was careful in the specific way that subject lines were careful when the sender knew the content would be difficult: "Preliminary Cryosleep Compatibility Analysis, Review at Your Discretion." Elena had read the subject line on a Thursday evening, had noted it, and had spent the six days since clearing other things from her desk. The Austin family had moved to medical screening. The Okafor family required a second-round behavioral assessment. There were forty-three files in various stages. She'd been busy.
+Dr. Kim Aldridge had sent it with a subject line that was careful in the specific way subject lines were careful when the sender knew the content would be difficult: Preliminary Cryosleep Compatibility Analysis, Review at Your Discretion. Elena had read the subject line on a Thursday evening, had noted it, and had spent the six days since clearing other things from her desk. The Austin family had moved to medical screening. The Okafor family required a second-round behavioral assessment. There were forty-three files in various stages. She'd been busy.
 
 She opened the analysis on a Tuesday morning, with a coffee she didn't taste, in the office that still smelled faintly of the previous occupant's preferred air freshener.
 
@@ -18,7 +18,7 @@ Elena read this figure and set down her coffee and looked at it.
 
 Fourteen to twenty-two percent of the candidates in the first selection cohort were biologically unlikely to survive a cryosleep period of the duration the mission required. Not certain to die. Unlikely to survive. Kim had built confidence intervals around the figure that were appropriately cautious given the data quality, and the intervals were wide, and the figure could be as low as nine percent or as high as thirty-one, but the center of mass was in that fourteen to twenty-two range and Kim's analysis of the biological markers was solid.
 
-The mission required 4,000 crew for the interstellar ship. A fourteen percent incompatibility rate meant somewhere between 500 and 900 people who had been selected, or who would be selected, for a mission they could not biologically complete.
+The mission required 4,000 crew for the interstellar ship. A fourteen percent incompatibility rate meant somewhere between five hundred and nine hundred people who had been selected, or who would be selected, for a mission they could not biologically complete.
 
 Elena thought about the Austin family. She thought about the sixteen-year-old whose isolation tolerance she'd flagged, who she'd moved to retest in six months and who had tested well at the six-month mark, strong enough that Elena had advanced them to medical screening with a note: developing well, recommend provisional acceptance. The provisional acceptance was in the system. The medical screening had found no issues.
 
@@ -26,7 +26,7 @@ The medical screening hadn't tested for cryosleep compatibility because six mont
 
 There was one now.
 
-*
+* * *
 
 She found Kim in the lab that occupied the building's second floor, a repurposed conference space with three workstations and a centrifuge that hummed at a frequency Elena had noticed the first week and stopped hearing by the second. Kim was at her primary workstation, running something that didn't require her full attention, and looked up when Elena came in with the expression of someone who had been waiting for this conversation.
 
@@ -58,7 +58,7 @@ Elena looked at the centrifuge. It hummed. The morning sun through the window wa
 
 "Yes."
 
-Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity, Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards. The language was hers, written in November 2025, before anyone had a validated protocol for cryosleep compatibility, before the Nagoya data had been extended into the analysis Kim was now presenting. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
+Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity — Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards, language Elena had written in November 2025, before anyone had a validated protocol for cryosleep compatibility. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
 
 She had four thousand spots to fill. She had a mission that launched in fifteen years if everything went right. She had a 14 to 22 percent incompatibility rate in her current pool and a validation protocol that could be run against those candidates in four months.
 
@@ -70,7 +70,7 @@ She had four thousand spots to fill. She had a mission that launched in fifteen 
 
 Kim nodded. She was making notes.
 
-"One more thing," Elena said. "The incompatible candidates. The ones who test positive for the markers." She chose the next words carefully. "What are their odds if they don't make the ship? I mean survival odds, if the impact occurs."
+"One more thing," Elena said. "The incompatible candidates. The ones who test positive for the markers." She chose the next words carefully. "What are their odds if they don't make the ship? Survival odds, if the impact occurs."
 
 Kim looked at her.
 
@@ -80,7 +80,7 @@ Kim looked at her.
 
 She went back downstairs.
 
-*
+* * *
 
 Her daughter called at noon, which was a Tuesday habit that had developed over the past year, Sofia calling from Austin where she was in the second year of her bioengineering PhD, the two of them talking for fifteen or twenty minutes about things that were and were not the thing they were actually talking about.
 
@@ -102,13 +102,13 @@ Elena looked at her closed office door. "She was."
 
 Paul was Sofia's partner, an environmental engineer, a man Elena had met twice and found genuinely pleasant. Sofia accepted the topic change with the particular grace of someone who understood why it was being made.
 
-"He's good. He's been following the Mars situation. The independence vote."
+"He's good. He's been following the Mars situation. The independence question."
 
-"There hasn't been a vote."
+"There hasn't been a vote yet."
 
-"Yet." Sofia paused. "Mom, is it true that the Mars station is going to become a fully independent entity? Like, legally separate from the mission?"
+"Yet." Sofia paused. "Mom, is it true that the Mars station is going to become a fully independent entity? Legally separate from the mission?"
 
-Elena had read the diplomatic cables. She was not supposed to have read the diplomatic cables, but Sarah Grant's office had included her on a distribution list that included them, which Elena had decided was intentional rather than an error. "That situation is developing," she said. "I can't talk about it specifically."
+Elena had read the diplomatic cables. She was not supposed to have read the diplomatic cables, but Senator Grant's office had included her on a distribution list that included them, which Elena had decided was intentional rather than an error. "That situation is developing," she said. "I can't talk about it specifically."
 
 "Right." Another pause. "Do you ever think about whether it matters? The whole thing. Like, in the largest sense."
 
@@ -126,7 +126,7 @@ It was the question Elena had been not thinking about for sixteen months, which 
 
 "But the other eight billion nine hundred and ninety-six million people."
 
-"Are what the mission is trying to prevent having to happen to." Elena set down her fork. "The deflection mission. The ship is the backup. The asteroid deflection is the primary."
+"Are what the mission is trying to prevent having to happen to." Elena set down her fork. "The deflection mission is the response to the threat. The ship is the backup. The asteroid deflection is the primary."
 
 "And if the deflection fails."
 
@@ -134,7 +134,7 @@ It was the question Elena had been not thinking about for sixteen months, which 
 
 Sofia was quiet for a moment. "I think about it sometimes," she said. "Whether I'd want to be on it. If I had the qualifications."
 
-Elena had thought about this too, had thought about it more than she was comfortable admitting, had thought about the fourteen-year-old in the Austin family file with the isolation tolerance flag and the way Sofia had described Paul as someone who struggled with extended periods of limited social contact. Had thought about it and had not looked at Sofia's file in the selection system, which she had the access to do and had not done, and which she was going to continue not doing, because there were lines she had to hold and that was one of them.
+Elena had thought about this too, had thought about it more than she was comfortable admitting. She had not looked at Sofia's file in the selection system, which she had the access to do and had not done, and which she was going to continue not doing, because there were lines she had to hold and that was one of them.
 
 "Do your work," Elena said. "That's what matters right now. Be good at what you do."
 
@@ -146,3 +146,4 @@ Across the facility, in the secure server room, 1,200 candidate files sat with n
 
 The work continued. She kept doing it.
 
+— END OF CHAPTER 9 —
