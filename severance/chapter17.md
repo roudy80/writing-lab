@@ -1,7 +1,7 @@
-# The Scattered Worlds: Severance
+# Chapter 17: The Limits of the Record
 
-Chapter 17: The Limits of the Record
 Thomas Rourke | Jamaica Plain, Boston
+
 October 8, 2032 | 6:15 PM EST
 
 The federal civil complaint reached its final disposition in August, which meant that Thomas had spent seven years building a record and had arrived at the record's end: two partial settlements, one denial upheld on appeal, three agencies under the monitoring office's revised oversight framework, and a legal document that was approximately nine hundred pages long and would be cited in subsequent litigation in Dallas and Detroit and Portland and three other cities where the same pattern had produced the same outcome and the same community organizations had done the same work and arrived at the same partial, honest, inadequate result.
@@ -16,7 +16,7 @@ Thomas had said: the monitoring office. The appeals that are still active in oth
 
 The room had been quiet in the specific way it was quiet when something had been said that everyone was thinking and no one had wanted to say first.
 
-*
+* * *
 
 The Compass mission was eighteen months from arrival.
 
@@ -26,7 +26,7 @@ He had started reading those updates in 2031 when Compass launched. Eighteen mon
 
 The probability had not moved.
 
-Fifty-four percent, published in November 2029, confirmed in the 2030 and 2031 annual assessments. The 2032 assessment was due in December and the technical journalists who covered the story had been cautious in their speculation, which meant they'd been briefed on something they weren't publishing yet. Thomas had read four pieces in September that described the targeting problem in more detail than previous coverage had, which typically meant the people being interviewed were preparing the ground for an announcement.
+Fifty-four percent, published in November 2029, confirmed in the 2030 and 2031 annual assessments. The 2032 assessment was due in December and the technical journalists who covered the story had been cautious in their speculation, which typically meant they'd been briefed on something they weren't publishing yet. Thomas had read four pieces in September that described the targeting problem in more detail than previous coverage had, which typically meant the people being interviewed were preparing the ground for an announcement.
 
 He didn't know what the announcement would be. He'd stopped trying to know things before they were knowable three years ago, when Ben Oakes's private briefing had become public knowledge and Thomas had understood that the gap between what he knew in advance and what he could do with that knowledge was not smaller than the gap between what he knew publicly and what he could do. The knowing-early hadn't helped. The working-steadily had.
 
@@ -34,9 +34,9 @@ He drove to the community center on a Tuesday evening for the October session. T
 
 He stood in the empty room for a moment.
 
-The chairs were set up. The room was the same room it had been for seven years. The same fold-out tables, the same folding chairs with the scratch on the third-row left that had been there since 2026, the same whiteboard with the same set of markers that the same man from the Dorchester group always capped wrong. The room had hosted 338 sessions. Thomas had kept count in a spreadsheet the way he kept count of everything that mattered.
+The chairs were set up. The room was the same room it had been for six years. The same fold-out tables, the same folding chairs with the scratch on the third-row left that had been there since 2026, the same whiteboard with the same set of markers that the same man from the Dorchester group always capped wrong. The room had hosted three hundred and thirty-eight sessions. Thomas had kept count in a spreadsheet the way he kept count of everything that mattered.
 
-The keeping count was not nostalgia. It was the habit of a man who believed that the record had value independent of the outcome, and that the value accumulated, and that you could not know in advance which specific entry in the record would matter to someone for whom it became the reference point they needed. The nine hundred pages of the federal complaint had already been cited four times. Someone was going to cite the 338 sessions at some point. He didn't know for what.
+The keeping count was not nostalgia. It was the habit of a man who believed that the record had value independent of the outcome, and that the value accumulated, and that you could not know in advance which specific entry in the record would matter to someone for whom it became the reference point they needed. The nine hundred pages of the federal complaint had already been cited four times. Someone was going to cite those three hundred and thirty-eight sessions at some point. He didn't know for what.
 
 Dmitri came in at 6:30, half an hour early, which was Dmitri's signal that he had something to say before the session.
 
@@ -56,7 +56,7 @@ Thomas sat down across from him. "What are you going to do about it."
 
 Dmitri looked at him. This was the shift in their relationship, the one that had been developing for two years: Thomas asking Dmitri what he was going to do about it rather than answering the question himself.
 
-"I'm going to take it to the city council in November. Not the neighborhood council -- the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
+"I'm going to take it to the city council in November. Not the neighborhood council — the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
 
 "That makes the monitoring office a city-level political issue."
 
@@ -72,7 +72,7 @@ Thomas thought about this. Dmitri was right about the notification provision. He
 
 "I know that too." Dmitri had the quality Thomas had always valued in him: he had thought it through before he spoke. "The alternative is an enforcement mechanism that doesn't enforce. Which is no mechanism at all."
 
-Thomas looked at the chairs. Thirty-eight chairs and three along the wall. Seven years of sessions and nine hundred pages and a monitoring office that was sending one letter in sixty days.
+Thomas looked at the chairs. Thirty-eight chairs and three along the wall. Six years of sessions and nine hundred pages and a monitoring office that was sending one letter in sixty days.
 
 "The record we've been building," Thomas said. "The complaint, the settlements, the monitoring office, the documentation. You understand that the record has value independent of whether it changes what the agencies do in the next six months."
 
@@ -82,13 +82,15 @@ Thomas looked at the chairs. Thirty-eight chairs and three along the wall. Seven
 
 "I think the record was the right tool for the right problem," Dmitri said. "The problem has evolved."
 
-Thomas sat with this for a moment. He had been thinking about this for two years and had not said it, because saying it was a commitment to a different kind of work, and he had been careful, over seven years, to do only the work he was sure he could do well.
+Thomas sat with this for a moment. He had been thinking about this for two years and had not said it, because saying it was a commitment to a different kind of work, and he had been careful, over six years, to do only the work he was sure he could do well.
 
 "After November," he said. "When you take it to city council. Come back and tell me what you need."
 
 Dmitri nodded. He understood what Thomas was offering.
 
-The session started at seven. Thirty-nine people. Three new faces. The usual work: monitoring office status, active appeals, the two cases in other cities where the Thomas's documentation had been referenced by local advocacy teams. At eight o'clock, after the operational items, Thomas opened the floor.
+* * *
+
+The session started at eight. Thirty-nine people. Three new faces. The usual work: monitoring office status, active appeals, the two cases in other cities where Thomas's documentation had been referenced by local advocacy teams. At nine o'clock, after the operational items, Thomas opened the floor.
 
 "The Compass mission reaches arrival in early 2034," he said. "The structural data from that mission will either improve the deflection probability or complicate it. We're going to know more by the middle of next year than we've known at any point since 2025."
 
@@ -110,7 +112,7 @@ He'd never finished that sentence in a session before. He'd always stopped befor
 
 "Same as before," Thomas said.
 
-The session ended at nine. He locked up. He walked to his car. He sat in it for a while, the October cold coming in, the Lamartine Street trees bare now, the streetlight making pools of orange on the wet pavement.
+The session ended. He locked up. He walked to his car. He sat in it for a while, the October cold coming in, the Lamartine Street trees bare now, the streetlight making pools of orange on the wet pavement.
 
 He thought about Compass, traveling through the dark toward a rubble pile that would either be moved or not be moved, carrying instruments that would tell the targeting team what they needed to know and possibly what they didn't want to know.
 
@@ -122,3 +124,4 @@ He started the car and drove home. He had a session to prepare for Thursday and 
 
 He went inside and opened the laptop and started working on it.
 
+— END OF CHAPTER 17 —
