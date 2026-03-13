@@ -1,10 +1,10 @@
-# The Scattered Worlds: Severance
+# Chapter 13: The Public Number
 
-Chapter 13: The Public Number
 Thomas Rourke | Jamaica Plain, Boston
-November 14, 2029 | 7:22 AM EST
 
-The ARIA briefing dropped at 7:22 on a Tuesday morning and Thomas read it on his phone before he got out of bed, which was a habit he'd developed over four years of watching the numbers and which he was occasionally aware was not a healthy habit.
+November 14, 2029 | 6:22 AM EST
+
+The ARIA briefing dropped on a Tuesday morning and Thomas read it on his phone before he got out of bed, which was a habit he'd developed over four years of watching the numbers, and which he was occasionally aware was not a healthy habit.
 
 The headline figure was 54 percent.
 
@@ -26,7 +26,7 @@ The Thursday session had grown. Forty-two regular attendees now, up from the ori
 
 Thomas poured his coffee and sat at his kitchen table and opened his laptop.
 
-By 8:15 the ARIA briefing had generated 1,400 news articles. He looked at a sample of them. The range was what he'd expected: measured scientific reporting from the serious outlets, crisis-register headlines from the ones that understood their traffic model, and the specific flavor of political response that emerged whenever a federal agency published information that complicated someone's preferred narrative. Senator Grant's office had released a statement within forty minutes of the briefing, which was fast enough that the statement had been prepared in advance, which meant Grant's office had known this was coming and had been ready. The statement was careful. It acknowledged the revised figure, it emphasized the precursor mission, and it used the phrase "honest and transparent assessment" three times in six paragraphs, which was the rhetorical equivalent of a doctor telling you that a diagnosis is preliminary before explaining what it might mean.
+By mid-morning the ARIA briefing had generated well over a thousand news articles. He looked at a sample. The range was what he'd expected: measured scientific reporting from the serious outlets, crisis-register headlines from the ones that understood their traffic model, and the specific flavor of political response that emerged whenever a federal agency published information that complicated someone's preferred narrative. Senator Grant's office had released a statement within forty minutes of the briefing, which was fast enough that the statement had been prepared in advance, which meant Grant's office had known this was coming. The statement was careful. It acknowledged the revised figure, it emphasized the precursor mission, and it used the phrase "honest and transparent assessment" three times in six paragraphs, which was the rhetorical equivalent of a doctor telling you that a diagnosis is preliminary before explaining what it might mean.
 
 Thomas noted the statement and moved on.
 
@@ -94,7 +94,7 @@ There was a pause, and Thomas understood that Ben had expected more from this co
 
 He hung up and sat at the kitchen table for a while with his coffee going cold. Then he opened a new spreadsheet and started a list.
 
-*
+* * *
 
 The Thursday session that week was different.
 
@@ -102,7 +102,7 @@ Thomas had been facilitating community sessions for four years and he'd learned 
 
 Twenty-six of the forty-two were there. The rest had sent messages: some were watching the news, some were with family, some were doing what people did when a number got published that they'd been trying not to think about. The sixteen who'd stayed away weren't disengaged. They were processing.
 
-Dmitri was in his usual chair, second row left. Nina was in the back with her daughter, who was four now and had developed the ability to color through an adult meeting without making noise, which was a skill Thomas genuinely admired. Three new faces that Thomas didn't recognize sat near the door, which was where new people always sat, close enough to leave if they needed to.
+Dmitri was in his usual chair, second row left. Nina was in the back with her daughter, who was four now and had developed the ability to color through an adult meeting without making noise, which was a skill Thomas genuinely admired. Three new faces sat near the door, which was where new people always sat, close enough to leave if they needed to.
 
 Thomas didn't open with the ARIA briefing. He opened with what he always opened with: the work in front of them. The two agencies still in discovery. The appeals on the denials. The monitoring office implementation timeline, which he'd been tracking with the relevant staff contacts and which was three months behind its own published schedule, which was not surprising and was useful information to have documented.
 
@@ -122,7 +122,7 @@ The room was quiet.
 
 A woman in the third row, one of the three new faces, asked: "What does 54 percent mean for us? For the people not on the ship?"
 
-Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan -- the deflection mission -- has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup anymore in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
+Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan — the deflection mission — has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
 
 "Four thousand people," said Dmitri. Not a question.
 
@@ -136,7 +136,7 @@ The room sat with this. The four-year-old in the back was coloring. The fluoresc
 
 "So what do we do?" Warren asked.
 
-Thomas had been thinking about this since 7:22 that morning. He had a list. "The same thing we've been doing, but with more urgency. The monitoring office has to be held to its implementation timeline. The two agencies in discovery need to know that the public attention cycle generated by this morning's briefing is something we intend to use, not ignore. The appeals have deadlines and those deadlines matter more than they did yesterday."
+Thomas had been thinking about this since early that morning. He had a list. "The same thing we've been doing, but with more urgency. The monitoring office has to be held to its implementation timeline. The two agencies in discovery need to know that the public attention cycle generated by this morning's briefing is something we intend to use, not ignore. The appeals have deadlines and those deadlines matter more than they did yesterday."
 
 "And the larger thing," Dmitri said. "The political conversation about the ship. About who's on it."
 
@@ -168,3 +168,4 @@ He thought about a coin flip with nine billion people on it.
 
 He started the car and drove home and opened the new spreadsheet and kept working.
 
+— END OF CHAPTER 13 —
