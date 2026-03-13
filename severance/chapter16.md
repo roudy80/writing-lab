@@ -1,12 +1,12 @@
-# The Scattered Worlds: Severance
+# Chapter 16: The Cost of the Word
 
-Chapter 16: The Cost of the Word
 Dr. Marcus Webb | Mars Station Olympus
+
 February 4, 2031 | 08:30 Mars Local Solar Time
 
 The reply from Geneva had taken nineteen days.
 
-Not fourteen minutes and fourteen more -- nineteen days of official silence that Marcus had spent watching the crew notice and not comment on, which was its own kind of comment. He had drafted four potential response scenarios during those nineteen days, organized by the framework's likely position, and had filed them in a folder on his personal drive that he'd titled, with a dry accuracy that had amused him the first day and stopped amusing him around day twelve, "options."
+Not fourteen minutes and fourteen more — nineteen days of official silence that Marcus had spent watching the crew notice and not comment on, which was its own kind of comment. He had drafted four potential response scenarios during those nineteen days, organized by the Framework's likely position, and had filed them in a folder on his personal drive that he'd titled, with a dry accuracy that had amused him the first day and stopped amusing him around day twelve, "options."
 
 The reply had arrived in the early morning and Marcus had read it before breakfast and then eaten breakfast and then read it again.
 
@@ -20,7 +20,7 @@ He had been in enough institutional negotiations to understand that a working gr
 
 He called a crew meeting.
 
-*
+* * *
 
 "They proposed a working group," Paulo said.
 
@@ -28,9 +28,9 @@ He called a crew meeting.
 
 "Which means they're not saying yes."
 
-"It means they're not saying no. There's a difference." Marcus had the message on the display in the common area, the formal language glowing against the Martian morning visible through the habitat window. Thirty-one people in the room, which was everyone. They'd been thirty-one for eight months now and would become thirty-three in April when the next crew rotation arrived. "The working group is a process. It means they're willing to have the conversation."
+"It means they're not saying no. There's a difference." Marcus had the message on the display in the common area, the formal language glowing against the Martian morning visible through the habitat window. Thirty-one people in the room, which was everyone. They'd been thirty-one for eight months and would become thirty-three in April when the next crew rotation arrived. "The working group is a process. It means they're willing to have the conversation."
 
-Adaeze, the systems engineer, was in her usual seat. She had the quality Marcus had come to rely on of asking questions from the position of someone who had already thought the answer through. "What do we lose during the working group process."
+Adaeze, the systems engineer, was in her usual seat. She had the quality Marcus had come to rely on of asking questions from the position of someone who had already thought the answer through. "What do we lose during the working group process?"
 
 "Nothing immediately. Our operational status doesn't change. Communication priority is unaffected. The supply chain is the same."
 
@@ -64,7 +64,7 @@ Lena looked at the message on the display. "They have twenty-two people on the w
 
 "Who do you have in mind?"
 
-Marcus looked at the room. Four years of small community had made the selection obvious. "Paulo for the operational arguments. Adaeze for the technical architecture. And you for the mission argument -- why Mars sovereignty serves the long-term goals of human expansion better than administrative dependency."
+Marcus looked at the room. Four years of small community had made the selection obvious. "Paulo for the operational arguments. Adaeze for the technical architecture. And you for the mission argument — why Mars sovereignty serves the long-term goals of human expansion better than administrative dependency."
 
 "You want me to argue that to Geneva," Lena said.
 
@@ -72,15 +72,7 @@ Marcus looked at the room. Four years of small community had made the selection 
 
 This produced a small laugh from the room, which was the right response to the moment. The tension that had been building since the message arrived shifted slightly, not resolved but redistributed.
 
-"Sixty days for the charter negotiation," Paulo said. "Then what?"
-
-"Then the working group meets. The timeline on that is open, which is the part Geneva will try to use to slow the process indefinitely." Marcus had been thinking about the leverage question since the reply arrived. "Our leverage is the operational fact. Every month we operate successfully at full independence is a month that demonstrates the argument we're making. Geneva knows that. The working group process is partly designed to see whether our operations degrade without Framework integration -- whether we actually need them as much as they assume we do."
-
-"Do we," Adaeze asked.
-
-"No," Marcus said. "Which we are going to demonstrate, calmly and professionally, over the course of the next several years if necessary."
-
-*
+* * *
 
 The charter negotiation took eighty-nine days, which was twenty-nine days past the sixty-day target Geneva had proposed.
 
@@ -92,11 +84,11 @@ This was progress. Marcus wrote "progress" in his personal log on day eighty-nin
 
 The working group was formally constituted in June. Three people from Olympus, four from Geneva, two observers from Luna Base, and one observer from the Brazilian delegation that had been the loudest voice in the Framework's multi-sovereign structure about the governance questions Mars raised.
 
-Lena's argument, which she had spent two months refining, was built around a single premise: that the goals of the Framework for Coordinated Planetary Defense -- which were to ensure the survival of human civilization across multiple planetary locations -- were better served by a Mars that operated as a genuine partner rather than a managed dependency, because genuine partners developed the resilience and capability that survival required, while managed dependencies developed only what their managers authorized. A dependency's ceiling was its manager's vision. A partner's ceiling was its own.
+Lena's argument, which she had spent two months refining, was built around a single premise: that the goals of the Framework for Coordinated Planetary Defense — which were to ensure the survival of human civilization across multiple planetary locations — were better served by a Mars that operated as a genuine partner rather than a managed dependency, because genuine partners developed the resilience and capability that survival required, while managed dependencies developed only what their managers authorized. A dependency's ceiling was its manager's vision. A partner's ceiling was its own.
 
-Marcus read the transcript of her first working group session three times. She had made the argument better than he would have made it. He sent her a message that said: "Good work." She replied: "You could have said that three years ago." He wrote back: "I wasn't convinced yet."
+Marcus read the transcript of her first working group session three times. She had made the argument better than he would have made it. He sent her a message that said: Good work. She replied: You could have said that three years ago. He wrote back: I wasn't convinced yet.
 
-*
+* * *
 
 The negotiation was still ongoing at the end of 2031, which was the outcome Marcus had been planning for when he'd told the crew this might take years. Geneva was not obstructing, exactly. It was doing what institutional organizations did when confronted with a question they hadn't been designed to answer: it was moving carefully, consulting its member-state representatives, ensuring that any precedent set for Mars would be a precedent it could live with when the next governance question arrived from the next place that needed answering.
 
@@ -104,7 +96,7 @@ Marcus understood this. He didn't like it but he understood it.
 
 What he was less prepared for was the crew.
 
-Not dissent -- there was no dissent. The crew had voted twenty-eight to three and the three who had voted against had not revisited the question publicly. What there was, eight months into a working group that met twice monthly and produced careful incremental language, was something more diffuse: a tiredness with the abstract, a hunger for resolution, a growing restlessness in a community that had made a clear decision and was now living in the administrative fog of that decision's consequences.
+Not dissent — there was no dissent. The crew had voted twenty-eight to three and the three who had voted against had not revisited the question publicly. What there was, eight months into a working group that met twice monthly and produced careful incremental language, was something more diffuse: a tiredness with the abstract, a hunger for resolution, a growing restlessness in a community that had made a clear decision and was now living in the administrative fog of that decision's consequences.
 
 He recognized the feeling. It was the feeling of people who had been decisive waiting for institutions to catch up. The institutions would catch up, or they wouldn't, and either way the work on Mars was proceeding and the community was proceeding and the station was proceeding, and the legal question was genuine but it was not the thing that would determine whether Olympus survived.
 
@@ -120,3 +112,4 @@ He was sure about some of it. He was uncertain about enough of it to stay honest
 
 The anomalous readings turned out to be a calibration drift in one of the secondary sensors, correctable in fifteen minutes. Marcus corrected it, noted the fix in the maintenance log, and moved on to the next thing.
 
+— END OF CHAPTER 16 —
