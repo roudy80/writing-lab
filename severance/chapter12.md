@@ -1,7 +1,7 @@
-# The Scattered Worlds: Severance
+# Chapter 12: Sovereignty
 
-Chapter 12: Sovereignty
 Dr. Marcus Webb | Mars Station Olympus
+
 April 3, 2029 | 11:14 AM Mars Local Solar Time
 
 The message from Earth had taken fourteen minutes to arrive and would take fourteen minutes to reply to, which gave Marcus twenty-eight minutes in which the conversation could not move forward, and which he was using to re-read the message a third time and look out the habitat window at the rust-colored plateau that had been his horizon for four years.
@@ -18,7 +18,7 @@ Dr. Lena Shaw had done this. That was the accurate assessment and Marcus had bee
 
 The problem with independence was that it was not the plan.
 
-The plan, the plan Marcus had voted for along with the other eleven crew members on October 19, 2025, had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
+The plan — the plan Marcus had voted for along with the other eleven crew members on October 19, 2025 — had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
 
 The Framework had a view on this. The message from Geneva expressed the view in diplomatic language that Marcus had learned to read as: you are a facility of the Framework, you receive Framework support and guidance, and your "operational independence" is a practical characteristic of a remote facility rather than a legal or governance status.
 
@@ -28,7 +28,7 @@ The crew had been having this conversation informally for a year. Marcus had bee
 
 He hit reply and started typing.
 
-*
+* * *
 
 Lena Shaw came to find him at noon, which she did on most days because they had both developed the habit of eating lunch at the same time in the main habitat common area. It was the kind of habit that developed in small communities where the schedules aligned whether you planned them or not.
 
@@ -48,7 +48,7 @@ He told Lena the substance of this. She ate her lunch without commenting, which 
 
 "Are we?"
 
-He'd thought about this. The ship needed Mars. Not operationally, not yet, but the long-term plan included Mars as a support infrastructure, a waypoint and a second base of human activity that made the interstellar mission less contingent on a single fragile Earth civilization. That was the plan as written by people who had been writing plans on Earth in 2025 with a particular picture of what Mars would be. The picture was outdated.
+He'd thought about this. The ship needed Mars. Not operationally, not yet, but the long-term plan included Mars as support infrastructure, a waypoint and a second base of human activity that made the interstellar mission less contingent on a single fragile Earth civilization. That was the plan as written by people who had been writing plans on Earth in 2025 with a particular picture of what Mars would be. The picture was outdated.
 
 "We're not destabilizing it," he said. "We're insisting that the program account for what Mars actually is instead of what the 2025 projections assumed it would be."
 
@@ -78,9 +78,9 @@ She looked at her lunch. "What does the crew think?"
 
 "I'm going to find out this afternoon." He stood up. "I'm calling a meeting."
 
-*
+* * *
 
-The meeting was in the main common area, all thirty-one crew members who were on the station, with two joining by video link from the water extraction site three kilometers away. Marcus had not prepared remarks. He'd found, over four years, that the crew responded better to conversations than to presentations, and that the conversations were more useful to him than the presentations anyway because the crew was genuinely intelligent and noticed things he didn't notice.
+The meeting was in the main common area, all thirty-one crew members on the station, with two joining by video link from the water extraction site three kilometers away. Marcus had not prepared remarks. He'd found, over four years, that the crew responded better to conversations than to presentations, and that the conversations were more useful to him than the presentations anyway because the crew was genuinely intelligent and noticed things he didn't notice.
 
 He described the Geneva message. He described his reply. He described the choice as he saw it: continue negotiating with the Framework from within its structure, or make a formal request for governance recognition as an independent entity.
 
@@ -118,3 +118,4 @@ He thought this was the right call. He also thought the next thirteen years were
 
 He went back to work.
 
+— END OF CHAPTER 12 —
