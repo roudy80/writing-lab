@@ -33,6 +33,15 @@
     opacity: 0; transition: opacity 0.2s;
   }
   .book-resume.visible { opacity: 1; }
+  .continue-btn {
+    display: none; margin: 0 24px 16px;
+    padding: 12px 18px; background: #c9b99a; color: #1a1a1a;
+    border: none; border-radius: 4px; cursor: pointer;
+    font-family: sans-serif; font-size: 0.9rem; font-weight: bold;
+    width: calc(100% - 48px); text-align: left;
+  }
+  .continue-btn.visible { display: block; }
+  .continue-btn:active { background: #b5a589; }
   .book-chevron {
     font-size: 0.85rem; color: #666; font-family: sans-serif;
     transition: transform 0.2s; flex-shrink: 0;
@@ -142,6 +151,7 @@
       <div class="book-chevron" id="chevron-wind-shifts">›</div>
     </button>
     <div class="book-body" id="body-wind-shifts">
+      <button class="continue-btn" id="continue-wind-shifts" onclick="resumeReading('wind-shifts')">▶ Continue Reading</button>
       <ul class="chapter-list">
         <li><a href="#" id="link-wind-shifts-1" onclick="loadChapter('before-the-wind-shifts/chapter1.md','Chapter 1','Before the Wind Shifts','wind-shifts');return false;">Chapter 1 <span>›</span></a></li>
         <li><a href="#" id="link-wind-shifts-2" onclick="loadChapter('before-the-wind-shifts/chapter2.md','Chapter 2','Before the Wind Shifts','wind-shifts');return false;">Chapter 2 <span>›</span></a></li>
@@ -184,6 +194,7 @@
       <div class="book-chevron" id="chevron-severance">›</div>
     </button>
     <div class="book-body" id="body-severance">
+      <button class="continue-btn" id="continue-severance" onclick="resumeReading('severance')">▶ Continue Reading</button>
       <ul class="chapter-list">
         <li><a href="#" onclick="loadChapter('severance/chapter1.md','Chapter 1','The Scattered Worlds: Severance','severance');return false;">Chapter 1 <span>›</span></a></li>
         <li><a href="#" onclick="loadChapter('severance/chapter2.md','Chapter 2','The Scattered Worlds: Severance','severance');return false;">Chapter 2 <span>›</span></a></li>
@@ -243,6 +254,7 @@
       <div class="book-chevron" id="chevron-the-smoke">›</div>
     </button>
     <div class="book-body" id="body-the-smoke">
+      <button class="continue-btn" id="continue-the-smoke" onclick="resumeReading('the-smoke')">▶ Continue Reading</button>
       <ul class="chapter-list" id="smoke-list">
         <li><a href="#" id="link-the-smoke-1" onclick="loadChapter('the-smoke/chapter1.md','Chapter 1','The Smoke','the-smoke');return false;">Chapter 1 <span>›</span></a></li>
         <li><a href="#" id="link-the-smoke-2" onclick="loadChapter('the-smoke/chapter2.md','Chapter 2','The Smoke','the-smoke');return false;">Chapter 2 <span>›</span></a></li>
@@ -274,6 +286,7 @@
       <div class="book-chevron" id="chevron-red-gate">›</div>
     </button>
     <div class="book-body" id="body-red-gate">
+      <button class="continue-btn" id="continue-red-gate" onclick="resumeReading('red-gate')">▶ Continue Reading</button>
       <ul class="chapter-list">
         <li><a href="#" id="link-red-gate-ms" onclick="loadChapter('red-gate/manuscript.md','Full Manuscript','Waiting at the Red Gate','red-gate');return false;">Full Manuscript <span>›</span></a></li>
       </ul>
@@ -306,11 +319,13 @@
 const REPO = 'roudy80/writing-lab';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
+const ALL_BOOKS = ['wind-shifts', 'severance', 'the-smoke', 'red-gate'];
 
 let currentText = '';
 let currentLabel = '';
 let currentBookId = '';
 let currentPath = '';
+let scrollSaveTimer = null;
 
 // ── Book collapse ──────────────────────────────────────────────
 function toggleBook(bookId) {
@@ -323,27 +338,36 @@ function toggleBook(bookId) {
 }
 
 // ── Reading position ───────────────────────────────────────────
-function saveReadingPosition(bookId, path, label) {
-  localStorage.setItem('last-read-' + bookId, JSON.stringify({ path, label }));
+function saveReadingPosition(bookId, path, label, scrollPct) {
+  const data = { path, label, scrollPct: scrollPct || 0 };
+  localStorage.setItem('last-read-' + bookId, JSON.stringify(data));
   updateResumeLabels();
 }
 
+function getReadingPosition(bookId) {
+  const saved = localStorage.getItem('last-read-' + bookId);
+  return saved ? JSON.parse(saved) : null;
+}
+
 function updateResumeLabels() {
-  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
-    const saved = localStorage.getItem('last-read-' + bookId);
-    const el = document.getElementById('resume-' + bookId);
-    if (saved && el) {
-      const { label } = JSON.parse(saved);
-      el.textContent = 'Last read: ' + label;
-      el.classList.add('visible');
+  ALL_BOOKS.forEach(bookId => {
+    const saved = getReadingPosition(bookId);
+    const labelEl = document.getElementById('resume-' + bookId);
+    const btnEl = document.getElementById('continue-' + bookId);
+    if (saved && labelEl) {
+      const pct = Math.round(saved.scrollPct || 0);
+      labelEl.textContent = 'Last read: ' + saved.label + (pct > 0 ? ' · ' + pct + '%' : '');
+      labelEl.classList.add('visible');
+    }
+    if (saved && btnEl) {
+      btnEl.textContent = '▶ Continue — ' + saved.label + (saved.scrollPct > 0 ? ' (' + Math.round(saved.scrollPct) + '%)' : '');
+      btnEl.classList.add('visible');
     }
   });
 }
 
-function markLastRead(bookId, path, label) {
-  // Remove previous highlight
+function markLastRead(bookId, path) {
   document.querySelectorAll('.last-read').forEach(a => a.classList.remove('last-read'));
-  // Highlight the current one by finding the link with matching onclick
   document.querySelectorAll('#body-' + bookId + ' a').forEach(a => {
     if (a.getAttribute('onclick') && a.getAttribute('onclick').includes("'" + path + "'")) {
       a.classList.add('last-read');
@@ -351,28 +375,55 @@ function markLastRead(bookId, path, label) {
   });
 }
 
+function resumeReading(bookId) {
+  const saved = getReadingPosition(bookId);
+  if (!saved) return;
+  loadChapter(saved.path, saved.label, '', bookId, saved.scrollPct);
+}
+
 // ── Navigation ─────────────────────────────────────────────────
 function goHome() {
+  // Save scroll position before leaving
+  if (currentBookId && currentPath) {
+    const pct = getScrollPct();
+    saveReadingPosition(currentBookId, currentPath, currentLabel, pct);
+  }
   document.getElementById('home').style.display = 'block';
   document.getElementById('reader').style.display = 'none';
   window.scrollTo(0, 0);
   window.removeEventListener('scroll', onReaderScroll);
+  clearTimeout(scrollSaveTimer);
 }
 
-function loadChapter(path, label, book, bookId) {
+function getScrollPct() {
+  const el = document.getElementById('reader-content');
+  if (!el) return 0;
+  const total = el.offsetHeight - window.innerHeight;
+  if (total <= 0) return 100;
+  return Math.min(100, (window.scrollY / total) * 100);
+}
+
+function loadChapter(path, label, book, bookId, restoreScrollPct) {
   document.getElementById('home').style.display = 'none';
   document.getElementById('reader').style.display = 'block';
   currentLabel = label;
   currentBookId = bookId;
   currentPath = path;
-  document.getElementById('reader-label').textContent = book + ' — ' + label;
+
+  // Derive book name from bookId if not passed
+  if (!book) {
+    const titleEl = document.querySelector('#body-' + bookId + ' ~ * .book-title, .book-section .book-title');
+    // fallback: just use label
+  }
+
+  document.getElementById('reader-label').textContent = (book || bookId) + ' — ' + label;
   document.getElementById('reader-content').innerHTML = '<div class="loading">Loading…</div>';
   document.getElementById('copy-btn').textContent = 'Loading…';
   document.getElementById('progress-bar').style.width = '0%';
   window.scrollTo(0, 0);
 
-  saveReadingPosition(bookId, path, label);
-  markLastRead(bookId, path, label);
+  saveReadingPosition(bookId, path, label, restoreScrollPct || 0);
+  markLastRead(bookId, path);
 
   fetch(RAW_BASE + path + '?t=' + Date.now())
     .then(r => r.text())
@@ -383,6 +434,17 @@ function loadChapter(path, label, book, bookId) {
       const canShare = !!navigator.share;
       document.getElementById('copy-btn').textContent = (isLarge && canShare) ? 'Share Text' : 'Copy All';
       window.addEventListener('scroll', onReaderScroll);
+
+      // Restore scroll position after render
+      if (restoreScrollPct && restoreScrollPct > 0) {
+        requestAnimationFrame(() => {
+          const el = document.getElementById('reader-content');
+          const total = el.offsetHeight - window.innerHeight;
+          if (total > 0) {
+            window.scrollTo(0, (restoreScrollPct / 100) * total);
+          }
+        });
+      }
     })
     .catch(() => {
       document.getElementById('reader-content').innerHTML = '<div class="loading">Could not load file.</div>';
@@ -390,16 +452,22 @@ function loadChapter(path, label, book, bookId) {
     });
 }
 
-// ── Reading progress bar ───────────────────────────────────────
+// ── Reading progress bar + auto-save scroll ────────────────────
 function onReaderScroll() {
   const el = document.getElementById('reader-content');
   if (!el) return;
-  const rect = el.getBoundingClientRect();
   const total = el.offsetHeight - window.innerHeight;
   if (total <= 0) { document.getElementById('progress-bar').style.width = '100%'; return; }
-  const scrolled = Math.max(0, -rect.top);
-  const pct = Math.min(100, (scrolled / total) * 100);
+  const pct = Math.min(100, (window.scrollY / total) * 100);
   document.getElementById('progress-bar').style.width = pct + '%';
+
+  // Debounced save every 2s while scrolling
+  clearTimeout(scrollSaveTimer);
+  scrollSaveTimer = setTimeout(() => {
+    if (currentBookId && currentPath) {
+      saveReadingPosition(currentBookId, currentPath, currentLabel, pct);
+    }
+  }, 2000);
 }
 
 // ── Markdown renderer ──────────────────────────────────────────
