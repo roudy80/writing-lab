@@ -1,4 +1,16 @@
-# Chapter 1: Sonic Boom
+# The Scattered Worlds: Severance
+
+THE SCATTERED WORLDS
+
+Book One
+
+SEVERANCE
+
+ACT ONE
+
+Impact · 2025–2026
+
+Chapter 1: Sonic Boom
 
 Maria Webb   Commercial Flight 847
 
@@ -200,11 +212,9 @@ Maria Webb had started it thinking about birthday cake.
 
 She ended it wondering what seventeen years was actually long enough to build.
 
-  END OF CHAPTER 1
+  END OF CHAPTER 1  
 
----
-
-# Chapter 2: Ground Zero
+Chapter 2: Ground Zero
 
 Thomas Rourke | Downtown Boston
 
@@ -384,9 +394,7 @@ He put the phone back in his pocket and watched the fire across the Common, and 
 
 : END OF CHAPTER 2,
 
----
-
-# Chapter 3: Red Horizon
+Chapter 3: Red Horizon
 
 Dr. Marcus Webb | Mars Station Olympus
 
@@ -618,9 +626,7 @@ The larger body was still out there. Somebody needed to be somewhere other than 
 
 — END OF CHAPTER 3 —
 
----
-
-# Chapter 4: The Weight of Selection
+Chapter 4: The Weight of Selection
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -796,9 +802,7 @@ She started the car and drove home.
 
 — END OF CHAPTER 4 —
 
----
-
-# Chapter 5: Triage
+Chapter 5: Triage
 
 Thomas Rourke | Boston Reconstruction Zone
 
@@ -944,9 +948,7 @@ He got in his car and drove back to the temporary apartment and did not figure i
 
 — END OF CHAPTER 5 —
 
----
-
-# Chapter 6: Zero Gravity
+Chapter 6: Zero Gravity
 
 Maria Webb | Cape Canaveral to Luna Base
 
@@ -1148,9 +1150,7 @@ She pushed off from the window and went to begin the post-flight checklist. Ther
 
 — END OF CHAPTER 6 —
 
----
-
-# Chapter 7: What the Numbers Don't Count
+Chapter 7: What the Numbers Don't Count
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -1286,9 +1286,7 @@ He was starting to understand that this was going to be a problem.
 
 — END OF CHAPTER 7 —
 
----
-
-# Chapter 8: The Vote That Wasn't One
+Chapter 8: The Vote That Wasn't One
 
 Senator Sarah Grant | Geneva, Switzerland
 
@@ -1388,9 +1386,7 @@ ACT TWO
 
 Construction · 2027–2033
 
----
-
-# Chapter 9: Acceptable Margins
+Chapter 9: Acceptable Margins
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -1540,9 +1536,7 @@ The work continued. She kept doing it.
 
 — END OF CHAPTER 9 —
 
----
-
-# Chapter 10: Frame and Void
+Chapter 10: Frame and Void
 
 Maria Webb | Luna Base, Sector C Observation Platform
 
@@ -1652,9 +1646,7 @@ Then she got up and went back to work.
 
 — END OF CHAPTER 10 —
 
----
-
-# Chapter 11: The People They Left
+Chapter 11: The People They Left
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -1756,9 +1748,7 @@ He suspected he was going to have to.
 
 — END OF CHAPTER 11 —
 
----
-
-# Chapter 12: Sovereignty
+Chapter 12: Sovereignty
 
 Dr. Marcus Webb | Mars Station Olympus
 
@@ -1880,9 +1870,7 @@ He went back to work.
 
 — END OF CHAPTER 12 —
 
----
-
-# Chapter 13: The Public Number
+Chapter 13: The Public Number
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -2054,9 +2042,7 @@ He started the car and drove home and opened the new spreadsheet and kept workin
 
 — END OF CHAPTER 13 —
 
----
-
-# Chapter 14: Notification
+Chapter 14: Notification
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -2224,9 +2210,7 @@ She closed the laptop and drove home.
 
 — END OF CHAPTER 14 —
 
----
-
-# Chapter 15: The Ring Closes
+Chapter 15: The Ring Closes
 
 Maria Webb | Luna Base, Assembly Framework Observation Post Alpha
 
@@ -2356,9 +2340,7 @@ They ate in the cafeteria with three hundred and ninety-eight other people who w
 
 — END OF CHAPTER 15 —
 
----
-
-# Chapter 16: The Cost of the Word
+Chapter 16: The Cost of the Word
 
 Dr. Marcus Webb | Mars Station Olympus
 
@@ -2474,9 +2456,7 @@ The anomalous readings turned out to be a calibration drift in one of the second
 
 — END OF CHAPTER 16 —
 
----
-
-# Chapter 17: The Limits of the Record
+Chapter 17: The Limits of the Record
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -2604,9 +2584,7 @@ He went inside and opened the laptop and started working on it.
 
 — END OF CHAPTER 17 —
 
----
-
-# Chapter 18: Cascade
+Chapter 18: Cascade
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -2798,9 +2776,7 @@ ACT THREE
 
 Fracture · 2034–2038
 
----
-
-# Chapter 19: The Record and the Room
+Chapter 19: The Record and the Room
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -2942,9 +2918,7 @@ He set up twenty-eight of them, which was how many the room held comfortably, an
 
 — END OF CHAPTER 19 —
 
----
-
-# Chapter 20: The Number They Expected
+Chapter 20: The Number They Expected
 
 Senator Sarah Grant | Washington, D.C. / Geneva
 
@@ -3088,9 +3062,7 @@ She opened her laptop and started on the Senate report, because the work in fron
 
 — END OF CHAPTER 20 —
 
----
-
-# Chapter 21: What the Map Shows
+Chapter 21: What the Map Shows
 
 Maria Webb | Luna Base, Phoenix Mission Operations
 
@@ -3194,9 +3166,7 @@ She ran it until she got it right. Then she ran it again.
 
 — END OF CHAPTER 21 —
 
----
-
-# Chapter 22: Terms
+Chapter 22: Terms
 
 Dr. Marcus Webb | Mars Station Olympus
 
@@ -3324,9 +3294,7 @@ He went to check the agricultural module sensors, which had been running warm, a
 
 — END OF CHAPTER 22 —
 
----
-
-# Chapter 23: Cascade
+Chapter 23: Cascade
 
 Dr. Elena Marsh | Cryogenic Systems Control, Luna Base
 
@@ -3520,9 +3488,7 @@ The display in the empty control room kept recording. The forty bars stayed gree
 
 — END OF CHAPTER 23 —
 
----
-
-# Chapter 24: Plume
+Chapter 24: Plume
 
 Maria Webb | External Inspection Patrol, Luna Base
 
@@ -3652,9 +3618,7 @@ She started the approach from the beginning and ran it until she was satisfied, 
 
 — END OF CHAPTER 24 —
 
----
-
-# Chapter 25: What the Record Means Now
+Chapter 25: What the Record Means Now
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -3772,9 +3736,7 @@ He set his alarm for six and went to sleep.
 
 — END OF CHAPTER 25 —
 
----
-
-# Chapter 26: The Cost of Holding
+Chapter 26: The Cost of Holding
 
 Senator Sarah Grant | Geneva
 
@@ -3914,9 +3876,7 @@ She opened her laptop and started on the Senate briefing, because the next conve
 
 — END OF CHAPTER 26 —
 
----
-
-# Chapter 27: Starting Over
+Chapter 27: Starting Over
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -4066,9 +4026,7 @@ Then she went inside and thought about the second letter, and the one after that
 
 — END OF CHAPTER 27 —
 
----
-
-# Chapter 28: The Argument Mars Makes
+Chapter 28: The Argument Mars Makes
 
 Dr. Marcus Webb | Mars Station Olympus
 
@@ -4192,9 +4150,7 @@ He went to bed.
 
 — END OF CHAPTER 28 —
 
----
-
-# Chapter 29: Six
+Chapter 29: Six
 
 Maria Webb | Phoenix Mission Operations, Luna Base
 
@@ -4334,9 +4290,7 @@ She went to sleep.
 
 — END OF CHAPTER 29 —
 
----
-
-# Chapter 30: The Testimony and the Call
+Chapter 30: The Testimony and the Call
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -4476,9 +4430,7 @@ ACT FOUR
 
 Departure · 2039–2042
 
----
-
-# Chapter 31: Departure
+Chapter 31: Departure
 
 Maria Webb | Phoenix Mission Operations, Luna Base
 
@@ -4554,9 +4506,7 @@ Outside, Earth fell slowly behind them, and ahead, at a distance of roughly one 
 
 — END OF CHAPTER 31 —
 
----
-
-# Chapter 32: The Record
+Chapter 32: The Record
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -4644,9 +4594,7 @@ He set an alarm for six AM and went to sleep.
 
 — END OF CHAPTER 32 —
 
----
-
-# Chapter 33: The List
+Chapter 33: The List
 
 Dr. Elena Marsh | Crew Selection Office, Houston
 
@@ -4768,9 +4716,7 @@ The list was almost complete.
 
 — END OF CHAPTER 33 —
 
----
-
-# Chapter 34: Fracture Lines
+Chapter 34: Fracture Lines
 
 Senator Sarah Grant | Washington, D.C. / Geneva
 
@@ -4888,9 +4834,7 @@ She called the Australian foreign minister's office and asked for a time.
 
 — END OF CHAPTER 34 —
 
----
-
-# Chapter 35: Arrival
+Chapter 35: Arrival
 
 Maria Webb | Phoenix, Approach to 2042-Delta
 
@@ -4976,9 +4920,7 @@ She opened the pre-deployment checklist.
 
 — END OF CHAPTER 35 —
 
----
-
-# Chapter 36: Geometry
+Chapter 36: Geometry
 
 Maria Webb | Phoenix, 2042-Delta Intercept
 
@@ -5078,9 +5020,7 @@ It would have to be enough.
 
 — END OF CHAPTER 36 —
 
----
-
-# Chapter 37: Dark
+Chapter 37: Dark
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -5208,9 +5148,7 @@ Three months.
 
 — END OF CHAPTER 37 —
 
----
-
-# Chapter 38: What the Numbers Say
+Chapter 38: What the Numbers Say
 
 Senator Sarah Grant | Washington, D.C.
 
@@ -5298,9 +5236,7 @@ She opened her laptop and began the draft for tomorrow's testimony.
 
 — END OF CHAPTER 38 —
 
----
-
-# Chapter 39: What She Keeps
+Chapter 39: What She Keeps
 
 Dr. Elena Marsh | Houston / Luna Base
 
@@ -5414,9 +5350,7 @@ The boarding continued.
 
 — END OF CHAPTER 39 —
 
----
-
-# Chapter 40: Commander
+Chapter 40: Commander
 
 Maria Webb | Luna Base / The Ship
 
@@ -5500,9 +5434,7 @@ Hollis showed her.
 
 — END OF CHAPTER 40 —
 
----
-
-# Chapter 41: Last Thursday
+Chapter 41: Last Thursday
 
 Thomas Rourke | Jamaica Plain, Boston
 
@@ -5592,9 +5524,7 @@ He parked the car and went inside and made tea and sat in the chair by the windo
 
 — END OF CHAPTER 41 —
 
----
-
-# Chapter 42: The Final Vote
+Chapter 42: The Final Vote
 
 Senator Sarah Grant | Washington, D.C. / Geneva
 
@@ -5672,9 +5602,7 @@ She slept.
 
 — END OF CHAPTER 42 —
 
----
-
-# Chapter 43: Meridian
+Chapter 43: Meridian
 
 Luna Base / Boston / Washington / Houston
 
