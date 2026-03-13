@@ -1,24 +1,24 @@
-# The Scattered Worlds: Severance
+# Chapter 14: Notification
 
-Chapter 14: Notification
 Dr. Elena Marsh | Crew Selection Office, Houston
+
 March 9, 2030 | 10:47 AM CST
 
-The first notification went to a marine biologist named David Harmon, age thirty-four, who had scored in the ninety-second percentile on the behavioral assessments and whose cryosleep compatibility screening had come back with the three metabolic markers flagged red.
+The first notification went to a marine biologist named David Harmon, age thirty-four, who had scored in the ninety-second percentile on the behavioral assessments and whose cryosleep compatibility screening had come back with three metabolic markers flagged red.
 
 Elena drafted the letter herself. She had three templates prepared by the legal team: one for candidates in active screening, one for candidates who had passed medical clearance before the protocol update, and one for candidates who had been provisionally accepted. Harmon was in the third category. The third template was the most careful one. It was also the most inadequate.
 
 She rewrote it.
 
-The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real -- candidates with borderline results had a pathway to retest and to request review by the medical board -- and it explained what appeals had produced so far, which was honest information, which was: in the first 42 notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
+The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real — candidates with borderline results had a pathway to retest and to request review by the medical board — and it explained what appeals had produced so far, which was honest information: in the first forty-two notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
 
 It said that the selection team recognized the difficulty of receiving this information, and that counseling resources were available through the Framework's candidate support office.
 
-It did not say: you have scored in the 92nd percentile and you are one of the best candidates we have reviewed and we cannot put you on the ship because your cellular metabolism will not survive forty years of cold sleep and there is nothing any of us can do about that.
+It did not say: you have scored in the ninety-second percentile and you are one of the best candidates we have reviewed and we cannot put you on the ship because your cellular metabolism will not survive forty years of cold sleep and there is nothing any of us can do about that.
 
 Elena read the letter twice, made one change to the third paragraph, and sent it.
 
-*
+* * *
 
 Kim Aldridge knocked on Elena's office door at eleven. She came in without being asked, which was a privilege she'd earned over three years of working in the same building with the kind of daily proximity that either became easy or broke entirely, and in their case had become easy.
 
@@ -42,7 +42,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 "Go ahead."
 
-"The candidates we're notifying. Harmon is one example. The people in this category -- compatibility issue, otherwise excellent candidates. What happens to them?"
+"The candidates we're notifying. Harmon is one example. The people in this category — compatibility issue, otherwise excellent candidates. What happens to them?"
 
 "They're removed from the mission pool. The letter explains the appeals process."
 
@@ -50,7 +50,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 Elena looked at the window. Outside, the Houston morning was already bright and beginning to get warm, the particular light of a city that was warm earlier every year. "The same thing that happens to everyone not on the ship."
 
-"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol -- the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
+"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol — the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
 
 Elena understood this. She'd been living in the space between the abstract and the specific for four years. "We're not sending anyone to their death," she said. "We're telling them that the mission they applied for requires a biological characteristic they don't have. The deflection mission is the response to the threat. The ship is the hedge. We are building the best possible hedge."
 
@@ -68,13 +68,13 @@ She left. Elena sat at her desk and looked at the letter queue.
 
 Forty-three sent. Two hundred and twelve pending in the first cohort. She had a system for moving through them: twelve per day, each one reviewed, each one personalized at the third paragraph with whatever detail from the candidate's file made them specific rather than a template. It took an hour each morning. She had been doing it for eleven days and had not found a way to make it easier.
 
-*
+* * *
 
 The candidate who called was not supposed to call.
 
 The notification letters were clear about the contact protocol: responses and questions went to the candidate support office, which had a team and a process. The letter had Elena's office as the sender but it did not have a direct callback number. Somehow, a woman named Patricia Novak had found one.
 
-Elena's assistant forwarded the call on a Friday afternoon with a note that said the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally -- she was in the second cohort, earlier in the process -- but the Luna Base Commander's name was not one she needed to look up.
+Elena's assistant forwarded the call on a Friday afternoon with a note saying the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally — she was in the second cohort, earlier in the process — but the Luna Base Commander's name was not one she needed to look up.
 
 She took the call.
 
@@ -104,7 +104,7 @@ The call ended. Elena sat with the phone for a moment. Patricia Novak had spent 
 
 She went back to the letter queue.
 
-*
+* * *
 
 The twelve notifications for that day took an hour and twenty minutes. She worked through them in the order they appeared: a structural engineer from Vancouver, a physician from Nairobi, a linguist from Seoul, a former Navy pilot from Norfolk who had scored in the ninety-eighth percentile on every category except one. Each file had a name and a number and a photograph taken at the initial screening, and she looked at each photograph before she finalized each letter. It was not efficient. It was the minimum she owed them.
 
@@ -150,9 +150,9 @@ Elena straightened up. "When?"
 
 "Sunday. Dinner at that place on South Congress." A pause. "I said yes."
 
-Elena sat with this for a moment. Her daughter was engaged. Her daughter was going to marry an environmental engineer named Paul who struggled with extended periods of limited social contact and who would, as far as Elena was concerned, spend his life in Drayfield or Austin or wherever the two of them made their life on a planet that she was helping four thousand people escape.
+Elena sat with this for a moment. Her daughter was engaged. Her daughter was going to marry an environmental engineer named Paul who would spend his life in Austin or wherever the two of them made their life, on a planet that Elena was helping four thousand people leave.
 
-"I'm very happy," Elena said. And meant it entirely and also felt the particular vertigo of a person who holds two true things that don't fit comfortably together.
+"I'm very happy," Elena said. And meant it entirely, and also felt the particular vertigo of a person who holds two true things that don't fit comfortably together.
 
 "I know," Sofia said. "I can hear it."
 
@@ -164,3 +164,4 @@ She was building a record. Each letter was a record that the process had been ca
 
 She closed the laptop and drove home.
 
+— END OF CHAPTER 14 —
