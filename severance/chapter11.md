@@ -1,14 +1,14 @@
-# The Scattered Worlds: Severance
+# Chapter 11: The People They Left
 
-Chapter 11: The People They Left
 Thomas Rourke | Jamaica Plain, Boston
+
 September 12, 2028 | 6:41 PM EST
 
 The appeals had mostly failed.
 
 Thomas had filed twenty-nine in the spring of 2026, following up on the three he'd submitted in January. Of those thirty-two, eight had been approved for partial restoration of original funding, which meant about a third of the original allocation and an indefinite timeline for the rest. Twelve were still in review, which was bureaucratic language for yes but not yet or no but not yet and was only distinguishable from the other by subsequent events. Twelve had been denied.
 
-He had expected this. He had filed them anyway because filing them had produced something he hadn't entirely anticipated: a paper trail that was now being used, by three different community organizations in the outer ring neighborhoods, as the evidentiary foundation for a federal civil complaint they'd filed in January 2028 through a pro-bono legal team at Northeastern University. The complaint alleged systematic de-prioritization of impact-affected communities in the reconstruction authorization process. It named the Office of Management and Budget and the Department of Housing and Urban Development and four other agencies.
+He had expected this. He had filed them anyway because filing them had produced something he hadn't entirely anticipated: a paper trail that was now being used, by three different community organizations in the outer ring neighborhoods, as the evidentiary foundation for a federal civil complaint filed in January 2028 through a pro-bono legal team at Northeastern University. The complaint alleged systematic de-prioritization of impact-affected communities in the reconstruction authorization process. It named the Office of Management and Budget and the Department of Housing and Urban Development and four other agencies.
 
 Thomas was not the plaintiff. He was a witness and a source. He had provided documentation and had answered questions under oath in two depositions and had been careful, in both depositions, to answer exactly what was asked and nothing beyond it, because he was not a lawyer and because the lawyers had asked him to be careful and because careful was how he worked.
 
@@ -18,13 +18,13 @@ Mrs. Petrovitch was back in her apartment. The Lamartine Street building had bee
 
 He'd said something about the drywall being finished eventually. She'd handed him a cup of tea and said that she hoped so, in the tone of someone who had recalibrated their relationship with eventually.
 
-*
+* * *
 
-Ben Oakes had been a structural engineer before the impact. They'd met at a conference in 2022, had stayed loosely in contact the way professionals stayed in contact: occasional emails, a few conference-adjacent beers, the kind of relationship that was professional rather than personal but that had a warmth to it.
+Ben Oakes had been a structural engineer before the impact. They'd met at a conference in 2022 and had stayed loosely in contact the way professionals stayed in contact: occasional emails, a few conference-adjacent beers, the kind of relationship that was professional rather than personal but that had a warmth to it.
 
-On October 15, 2025, Ben had been in a meeting at a research facility in Pasadena when the shockwave hit. He had been recruited within the week, not to the Luna Base program but to something adjacent: a project at the Jet Propulsion Laboratory that was working on the asteroid deflection mission specifically, the hardware and software required to actually change the trajectory of a 340-meter object in space with enough precision to miss the Earth.
+On October 15, 2025, Ben had been in a meeting at a research facility in Pasadena when the shockwave hit. He had been recruited within the week, not to the Luna Base program but to something adjacent: a project at the Jet Propulsion Laboratory working on the asteroid deflection mission specifically, the hardware and software required to actually change the trajectory of a 340-meter object in space with enough precision to miss the Earth.
 
-Ben had been on Thomas's contact list when Thomas had texted the question after the impact. The reply had come three days later. Then nothing for eighteen months. Then an email, brief, saying that he was in a position where he couldn't talk about the work specifically but that he was glad Thomas was doing what he was doing.
+Ben had been the one Thomas had texted the afternoon of the impact. The reply had come three days later. Then nothing for eighteen months. Then an email, brief, saying that he was in a position where he couldn't talk about the work specifically but that he was glad Thomas was doing what he was doing.
 
 The current contact had started in April 2028, when Ben had shown up at a structural assessment conference in Chicago that Thomas was presenting at, and had found him after the session and suggested they get dinner.
 
@@ -98,3 +98,4 @@ He had not figured out what to do with what Ben had told him.
 
 He suspected he was going to have to.
 
+— END OF CHAPTER 11 —
