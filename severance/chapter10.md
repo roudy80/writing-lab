@@ -1,22 +1,22 @@
-# The Scattered Worlds: Severance
+# Chapter 10: Frame and Void
 
-Chapter 10: Frame and Void
-Maria Webb | Luna Base, Sector 7 Observation Platform
+Maria Webb | Luna Base, Sector C Observation Platform
+
 February 18, 2028 | 14:33 Luna Standard Time
 
 The ship didn't look like a ship yet.
 
 That was Maria's first thought every time she came to the observation platform, the one on the outside of Habitat Ring C that you reached through an airlock sequence and a ladder that the engineers had bolted to the regolith with an informality that suggested they'd built it in an afternoon and hadn't gotten around to replacing it with something permanent. The platform was a steel grating attached to a lunar boulder that the base's early construction crews had converted into a foundation point, and it gave you a clear sightline across four kilometers of hard vacuum to the assembly framework.
 
-What you saw from four kilometers was structure. Ribs of high-tensile aluminum alloy arranged in a spine that was already longer than the biggest thing humanity had previously launched into space, flanked by the permanent construction scaffolding that crawled with robotic arms and suited technicians reduced to glove-sized figures at this distance. The cross-sections weren't closed yet. The ship's habitation rings were visible as open frameworks, hoops through which you could see the stars. The drive assembly at the stern was present only as its mounting architecture, the cradles and heat exchangers and magnetic field generators that would eventually enclose the engine itself, which had not been fully designed yet. That was the part ARIA referred to, in its daily construction progress reports, as "drive system integration pending final propulsion specifications," which was engineering for we haven't decided yet.
+What you saw from four kilometers was structure. Ribs of high-tensile aluminum alloy arranged in a spine that was already longer than the biggest thing humanity had previously launched into space, flanked by the permanent construction scaffolding that crawled with robotic arms and suited technicians reduced to glove-sized figures at this distance. The cross-sections weren't closed yet. The ship's habitation rings were visible as open frameworks, hoops through which you could see the stars. The drive assembly at the stern was present only as its mounting architecture — the cradles and heat exchangers and magnetic field generators that would eventually enclose the engine itself, which had not been fully designed yet. That was the part ARIA referred to, in its daily construction progress reports, as "drive system integration pending final propulsion specifications," which was engineering language for we haven't decided yet.
 
 But the spine was there. The spine was undeniably there, and it was larger than Maria had expected even though she had been flying construction cargo to this facility for two years and had watched it grow component by component, and the gap between understanding something's scale from numbers and understanding it from sight was a gap that kept surprising her.
 
 She stayed on the platform for eleven minutes, which was longer than the cold justified. Then she went back through the airlock.
 
-*
+* * *
 
-Commander Patricia Novak's office was what a base commander's office looked like when the base commander had been too busy for three years to do anything about the way her office looked: a desk with a surface that was entirely covered by things that had been set there temporarily, three monitors, a folded lunar suit hanging from a hook that had probably been installed for a different purpose, and a whiteboard on the wall that had not been fully erased in what appeared to be several months. The most recent writing on the whiteboard was a schedule. The previous writing, visible through the new, appeared to be a technical diagram of some kind.
+Commander Patricia Novak's office was what a base commander's office looked like when the base commander had been too busy for three years to do anything about the way her office looked: a desk with a surface entirely covered by things that had been set there temporarily, three monitors, a folded lunar suit hanging from a hook that had probably been installed for a different purpose, and a whiteboard on the wall that had not been fully erased in what appeared to be several months. The most recent writing on the whiteboard was a schedule. The previous writing, visible through the new, appeared to be a technical diagram of some kind.
 
 Novak was standing at the whiteboard when Maria came in, not looking at it but thinking at it, which was a distinction Maria had learned to recognize.
 
@@ -86,6 +86,8 @@ Maria nodded. She stood to leave, then stopped.
 
 "I know it's not." Maria put her hand on the doorframe. "I was just saying."
 
+* * *
+
 She went back through the corridor to the pilot quarters, passing three technicians she knew by name and two she didn't, nodding to all of them with the practiced ease of someone who lived in a community of three hundred and forty people and had learned the social economy of a place where there was nowhere to go to be alone except the observation platform in the cold.
 
 She sat on her bunk and looked at the ceiling, which was a standard-issue habitat ceiling and did not have anything particular to recommend it as a subject of contemplation.
@@ -98,9 +100,10 @@ She thought about her nephew's birthday cake, the chocolate one, whether her sis
 
 She thought about the column of smoke and earth that had been rising from Massachusetts when she'd looked out the window of Flight 847 and understood, in the first clean moment before the professionalism took over, what the world had just become.
 
-Seventeen years ago that had been a shock. It had sharpened, in seventeen months, into something more like a project. It was still a project. It was also, she was beginning to understand, the whole structure of the rest of her life, and she had known this for some time, and she was just today arriving at the specific version of knowing it that sat differently in the body than all the previous versions.
+Two and a half years ago that had been a shock. It had sharpened, in the months since, into something more like a project. It was still a project. It was also, she was beginning to understand, the whole structure of the rest of her life, and she had known this for some time, and she was just today arriving at the specific version of knowing it that sat differently in the body than all the previous versions.
 
 She lay back on the bunk and closed her eyes for three minutes, which was all she had before her next briefing.
 
 Then she got up and went back to work.
 
+— END OF CHAPTER 10 —
