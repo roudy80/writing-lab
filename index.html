@@ -174,6 +174,40 @@
     </div>
   </div>
 
+  <!-- The Scattered Worlds: Severance -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('severance')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Scattered Worlds: Severance — Fiction</div>
+        <div class="book-resume" id="resume-severance"></div>
+      </div>
+      <div class="book-chevron" id="chevron-severance">›</div>
+    </button>
+    <div class="book-body" id="body-severance">
+      <ul class="chapter-list">
+        <li><a href="#" id="link-severance-1" onclick="loadChapter('severance/chapter1.md','Chapter 1','The Scattered Worlds: Severance','severance');return false;">Chapter 1 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-2" onclick="loadChapter('severance/chapter2.md','Chapter 2','The Scattered Worlds: Severance','severance');return false;">Chapter 2 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-3" onclick="loadChapter('severance/chapter3.md','Chapter 3','The Scattered Worlds: Severance','severance');return false;">Chapter 3 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-4" onclick="loadChapter('severance/chapter4.md','Chapter 4','The Scattered Worlds: Severance','severance');return false;">Chapter 4 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-5" onclick="loadChapter('severance/chapter5.md','Chapter 5','The Scattered Worlds: Severance','severance');return false;">Chapter 5 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-6" onclick="loadChapter('severance/chapter6.md','Chapter 6','The Scattered Worlds: Severance','severance');return false;">Chapter 6 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-7" onclick="loadChapter('severance/chapter7.md','Chapter 7','The Scattered Worlds: Severance','severance');return false;">Chapter 7 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-8" onclick="loadChapter('severance/chapter8.md','Chapter 8','The Scattered Worlds: Severance','severance');return false;">Chapter 8 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-9" onclick="loadChapter('severance/chapter9.md','Chapter 9','The Scattered Worlds: Severance','severance');return false;">Chapter 9 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-10" onclick="loadChapter('severance/chapter10.md','Chapter 10','The Scattered Worlds: Severance','severance');return false;">Chapter 10 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-11" onclick="loadChapter('severance/chapter11.md','Chapter 11','The Scattered Worlds: Severance','severance');return false;">Chapter 11 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-12" onclick="loadChapter('severance/chapter12.md','Chapter 12','The Scattered Worlds: Severance','severance');return false;">Chapter 12 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-13" onclick="loadChapter('severance/chapter13.md','Chapter 13','The Scattered Worlds: Severance','severance');return false;">Chapter 13 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-14" onclick="loadChapter('severance/chapter14.md','Chapter 14','The Scattered Worlds: Severance','severance');return false;">Chapter 14 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-15" onclick="loadChapter('severance/chapter15.md','Chapter 15','The Scattered Worlds: Severance','severance');return false;">Chapter 15 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-16" onclick="loadChapter('severance/chapter16.md','Chapter 16','The Scattered Worlds: Severance','severance');return false;">Chapter 16 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-17" onclick="loadChapter('severance/chapter17.md','Chapter 17','The Scattered Worlds: Severance','severance');return false;">Chapter 17 <span>›</span></a></li>
+        <li><a href="#" id="link-severance-18" onclick="loadChapter('severance/chapter18.md','Chapter 18 — Final','The Scattered Worlds: Severance','severance');return false;">Chapter 18 — Final <span>›</span></a></li>
+        <li><a href="#" id="link-severance-ms" onclick="loadChapter('severance/manuscript.md','Full Manuscript','The Scattered Worlds: Severance','severance');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
   <!-- The Smoke -->
   <div class="book-section">
     <button class="book-toggle" onclick="toggleBook('the-smoke')">
@@ -270,7 +304,7 @@ function saveReadingPosition(bookId, path, label) {
 }
 
 function updateResumeLabels() {
-  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
     const saved = localStorage.getItem('last-read-' + bookId);
     const el = document.getElementById('resume-' + bookId);
     if (saved && el) {
@@ -419,7 +453,7 @@ document.getElementById('notes-input').placeholder =
 // ── Init ───────────────────────────────────────────────────────
 (function init() {
   // Restore open/collapsed state (all collapsed by default)
-  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
     const wasOpen = localStorage.getItem('book-open-' + bookId) === '1';
     if (wasOpen) {
       document.getElementById('body-' + bookId).classList.add('open');
@@ -428,7 +462,7 @@ document.getElementById('notes-input').placeholder =
   });
   // Restore last-read highlights and resume labels
   updateResumeLabels();
-  ['wind-shifts', 'the-smoke', 'red-gate'].forEach(bookId => {
+  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
     const saved = localStorage.getItem('last-read-' + bookId);
     if (saved) {
       const { path } = JSON.parse(saved);
