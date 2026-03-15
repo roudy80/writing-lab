@@ -142,4 +142,4 @@ The mathematics were correct. Thomas would understand that, when he thought abou
 
 He got in his car and drove back to the temporary apartment and did not figure it out that night.
 
-— END OF CHAPTER 5 —
+,  END OF CHAPTER 5 , 

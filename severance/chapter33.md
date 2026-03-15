@@ -6,7 +6,7 @@ March 8, 2040 | 08:15 AM CST
 
 The final candidate pool for the interstellar mission contained four thousand, three hundred and twelve names.
 
-Elena had been working toward this number for eleven years — not this specific number, which was a product of the conscious-crew redesign and the revised habitation capacity that Novak's engineering team had certified in January — but toward the idea of a number, the moment when the list would close and she would know who was going and who was not. She had imagined this moment many times. In her imagination it had the quality of completion.
+Elena had been working toward this number for eleven years, not this specific number, which was a product of the conscious-crew redesign and the revised habitation capacity that Novak's engineering team had certified in January, but toward the idea of a number, the moment when the list would close and she would know who was going and who was not. She had imagined this moment many times. In her imagination it had the quality of completion.
 
 In practice it had the quality of four thousand, three hundred and twelve people, each of whom was a file she had reviewed, a decision she had made or supervised, a life she had measured against criteria that she had designed and revised and revised again and that she still, on careful examination, could not fully defend.
 
@@ -20,13 +20,13 @@ She read the final pool report.
 
 The report was forty-six pages. Elena read all of it, the way she read all documents that were the product of work she had commissioned: not to verify the conclusions, which she had been tracking in real time, but because the reading was the last chance to find something the process had missed.
 
-The pool was sixty-one percent female, thirty-nine percent male, spanning forty-three nationalities, with age distribution centered at thirty-eight years and ranging from twenty-six to fifty-one. The professional distribution reflected the mission requirements: agriculture and food systems, medicine, engineering and fabrication, education, psychology, governance, arts and culture, the specific scientific disciplines required for the destination environment. No military personnel, by deliberate design. Minimal government officials, by practical necessity — the governance structure of the ship was designed to be built by the crew rather than imported from Earth.
+The pool was sixty-one percent female, thirty-nine percent male, spanning forty-three nationalities, with age distribution centered at thirty-eight years and ranging from twenty-six to fifty-one. The professional distribution reflected the mission requirements: agriculture and food systems, medicine, engineering and fabrication, education, psychology, governance, arts and culture, the specific scientific disciplines required for the destination environment. No military personnel, by deliberate design. Minimal government officials, by practical necessity, the governance structure of the ship was designed to be built by the crew rather than imported from Earth.
 
 Twenty-six hundred of the four thousand three hundred and twelve had been in the pool since before the cryosleep redesign. Seven hundred and twelve of those had originally been designated as cryosleep-incompatible and had been reassessed after the conscious-crew transition. Of the seven hundred and twelve, four hundred and nineteen had been reinstated. Elena had written each of the reinstatement letters personally, which had taken ninety-three days and which she had not delegated because she had written the original incompatibility determinations and the reinstatement had to come from the same hand.
 
-The remaining one thousand seven hundred and twelve names were new entrants assessed under the conscious-crew criteria, which were different from the cryosleep criteria in ways that Elena had spent eighteen months designing and that she thought were better — not because they were more defensible but because they were more honest about what they were actually trying to select for.
+The remaining one thousand seven hundred and twelve names were new entrants assessed under the conscious-crew criteria, which were different from the cryosleep criteria in ways that Elena had spent eighteen months designing and that she thought were better, not because they were more defensible but because they were more honest about what they were actually trying to select for.
 
-What you were selecting for, in a conscious-crew mission of forty-plus years, was not the absence of psychological risk factors. It was the presence of a specific kind of durability — not rigidity, not self-sufficiency, but the capacity to remain in genuine relationship with the people around you over the kind of timescale that relationships were not designed to sustain, and to do so under conditions that would be interesting and meaningful and also, at intervals, very hard.
+What you were selecting for, in a conscious-crew mission of forty-plus years, was not the absence of psychological risk factors. It was the presence of a specific kind of durability, not rigidity, not self-sufficiency, but the capacity to remain in genuine relationship with the people around you over the kind of timescale that relationships were not designed to sustain, and to do so under conditions that would be interesting and meaningful and also, at intervals, very hard.
 
 She had no test for this. She had proxies. She had the proxies for eleven years and had gotten better at reading them and was still not certain she was reading them correctly.
 
@@ -62,9 +62,9 @@ Kim pulled up a document on her tablet. "The constitutional working group finish
 
 "It's uncomfortable for everyone." Elena leaned back in her chair. "Including me."
 
-She had been on the list since January. She had put herself on it in January, in the slot designated for the mission's behavioral systems director — the person responsible for psychological health and conflict management over the duration of the transit. She had designed the role. She was, by any objective measure, the most qualified person for it.
+She had been on the list since January. She had put herself on it in January, in the slot designated for the mission's behavioral systems director, the person responsible for psychological health and conflict management over the duration of the transit. She had designed the role. She was, by any objective measure, the most qualified person for it.
 
-She had not told Kim yet. She was going to have to tell Kim soon, because Kim was also on the list — in the medical systems role, which she had earned through four years of the best applied cryosleep and behavioral research the program had produced — and Elena owed her the conversation before the list was published.
+She had not told Kim yet. She was going to have to tell Kim soon, because Kim was also on the list, in the medical systems role, which she had earned through four years of the best applied cryosleep and behavioral research the program had produced, and Elena owed her the conversation before the list was published.
 
 "Kim," she said.
 
@@ -88,13 +88,13 @@ Kim looked at her for a moment. "I figured. For about three months now." She loo
 
 "And us."
 
-Kim was quiet. She had the expression she had when she was sitting with something large — not the working expression, not the problem-solving expression, but the one that meant she was letting something be large for a moment before she decided what to do with it.
+Kim was quiet. She had the expression she had when she was sitting with something large, not the working expression, not the problem-solving expression, but the one that meant she was letting something be large for a moment before she decided what to do with it.
 
 "Forty years," she said.
 
 "More, probably. Depending on what we find."
 
-"More." Kim looked at the window, at the Houston morning outside — the traffic, the light on the buildings, the ordinary texture of a city that had been absorbing the weight of what was coming for fifteen years and that still looked, in the morning light, like a city. "I have a sister in Portland," she said.
+"More." Kim looked at the window, at the Houston morning outside, the traffic, the light on the buildings, the ordinary texture of a city that had been absorbing the weight of what was coming for fifteen years and that still looked, in the morning light, like a city. "I have a sister in Portland," she said.
 
 "I know."
 
@@ -110,7 +110,7 @@ Elena thought about Sofia, who was forty-four and teaching and who had asked, th
 
 "And she knows."
 
-"She's known longer than I have." Elena looked at the pool report on her desk — forty-six pages, four thousand three hundred and twelve names, eleven years of work arriving at a number. "The list closes in thirty days. I need to finish the supplemental assessments before then. Can you take the northern Europe cohort?"
+"She's known longer than I have." Elena looked at the pool report on her desk, forty-six pages, four thousand three hundred and twelve names, eleven years of work arriving at a number. "The list closes in thirty days. I need to finish the supplemental assessments before then. Can you take the northern Europe cohort?"
 
 Kim looked at her for a moment. Then she picked up her tablet. "Yes," she said. "I can take the northern Europe cohort."
 
@@ -118,4 +118,4 @@ They worked until six. Outside, Houston did what Houston did: moved, adjusted, c
 
 The list was almost complete.
 
-— END OF CHAPTER 33 —
+,  END OF CHAPTER 33 , 

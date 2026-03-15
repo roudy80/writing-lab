@@ -2934,7 +2934,7 @@ Inouye looked at his platoon - kids, most of them, who’d followed him through 
 
 He grabbed a handful of grenades and moved.
 
-“Lieutenant, what are you—”
+“Lieutenant, what are you, ”
 
 “Cover me,” Inouye said, and started running.
 
@@ -3090,7 +3090,7 @@ He was already in Vietnam.
 
 The mustache stayed.
 
-So did the attitude that made him the perfect man to plan Operation Bolo—a mission that would trick the North Vietnamese Air Force into the biggest air battle of the war by making expensive F-4 Phantoms pretend to be vulnerable F-105 bombers until the MiGs showed up to fight.
+So did the attitude that made him the perfect man to plan Operation Bolo, a mission that would trick the North Vietnamese Air Force into the biggest air battle of the war by making expensive F-4 Phantoms pretend to be vulnerable F-105 bombers until the MiGs showed up to fight.
 
 Then the Phantoms would stop pretending.
 
@@ -3104,21 +3104,21 @@ Robin Olds didn’t choose to be a fighter pilot so much as he was born into it 
 
 His father, Robert Olds, flew in WWI and rose through the ranks to major general. The family moved between Army Air Corps bases, and young Robin grew up around hangars and flight lines, watching biplanes take off and land, listening to pilots tell stories in the officer’s club.
 
-He played football at West Point—varsity all four years, good enough that the Pittsburgh Steelers offered him a contract after graduation. He turned them down. Professional football paid better, but it didn’t involve flying fighters at 400 miles per hour.
+He played football at West Point, varsity all four years, good enough that the Pittsburgh Steelers offered him a contract after graduation. He turned them down. Professional football paid better, but it didn’t involve flying fighters at 400 miles per hour.
 
 He graduated from West Point in June 1943, went straight to flight training, and by 1944 he was in England flying P-38 Lightnings with the 479th Fighter Group.
 
-The P-38 was a twin-engine fighter with distinctive twin booms—beautiful, fast, and complicated enough that it separated the good pilots from the ones who’d rather be flying something simpler. Olds loved it immediately.
+The P-38 was a twin-engine fighter with distinctive twin booms, beautiful, fast, and complicated enough that it separated the good pilots from the ones who’d rather be flying something simpler. Olds loved it immediately.
 
-His first kills came in August 1944 during a bomber escort mission over France. Two Focke-Wulf 190s dove on the bombers Olds was protecting. He shot down both in the same engagement—pure deflection shooting while maneuvering at 300 mph, the kind of flying that required instinct faster than thought.
+His first kills came in August 1944 during a bomber escort mission over France. Two Focke-Wulf 190s dove on the bombers Olds was protecting. He shot down both in the same engagement, pure deflection shooting while maneuvering at 300 mph, the kind of flying that required instinct faster than thought.
 
 By the end of WWII, Olds had 12 confirmed kills flying P-38s and P-51 Mustangs. He was 22 years old and already an ace.
 
-The war ended. Olds stayed in. Flew F-80 jets. Commanded squadrons. Married a movie actress—Ella Raines, beautiful and famous, which suited Olds just fine because he enjoyed being the center of attention when he wasn’t in a cockpit and even more when he was.
+The war ended. Olds stayed in. Flew F-80 jets. Commanded squadrons. Married a movie actress, Ella Raines, beautiful and famous, which suited Olds just fine because he enjoyed being the center of attention when he wasn’t in a cockpit and even more when he was.
 
 He moved through the ranks doing what good officers do: leading men, flying whatever the Air Force gave him, occasionally ignoring regulations when they got stupid.
 
-By 1966, he was a full colonel commanding the 8th Tactical Fighter Wing—the “Wolfpack”—at Ubon Royal Thai Air Force Base in Thailand. His mission: fly F-4 Phantoms into North Vietnam, protect the F-105 strike packages bombing targets around Hanoi, and try not to get shot down by MiGs or surface-to-air missiles.
+By 1966, he was a full colonel commanding the 8th Tactical Fighter Wing, the “Wolfpack”, at Ubon Royal Thai Air Force Base in Thailand. His mission: fly F-4 Phantoms into North Vietnam, protect the F-105 strike packages bombing targets around Hanoi, and try not to get shot down by MiGs or surface-to-air missiles.
 
 The MiGs were a problem.
 
@@ -3126,19 +3126,19 @@ The MiG Problem
 
 North Vietnam’s air force was small but effective. They flew Soviet-supplied MiG-17s and MiG-21s from bases near Hanoi that American forces weren’t allowed to bomb because of political restrictions.
 
-The MiG-17 was a subsonic fighter—older, slower than the F-4 Phantom. On paper, it shouldn’t have been a threat. The F-4 was faster, had better missiles, more power, superior technology.
+The MiG-17 was a subsonic fighter, older, slower than the F-4 Phantom. On paper, it shouldn’t have been a threat. The F-4 was faster, had better missiles, more power, superior technology.
 
 In reality, the MiG-17 was a knife fighter. Tiny, agile, could turn inside the heavier F-4 in a dogfight. And North Vietnamese pilots used their advantages ruthlessly: they’d wait until American strike packages were inbound, then launch from their protected airfields and hit the formations when the F-105 bombers were most vulnerable.
 
-The F-105 Thunderchief—“Thud” to everyone who flew one—was a big, fast, single-seat fighter-bomber built to deliver nuclear weapons at low altitude and high speed. It could carry more bombs than a WWII B-17. But it was not maneuverable, and once loaded with bombs and fuel, it was easy prey for nimble MiG-17s.
+The F-105 Thunderchief, “Thud” to everyone who flew one, was a big, fast, single-seat fighter-bomber built to deliver nuclear weapons at low altitude and high speed. It could carry more bombs than a WWII B-17. But it was not maneuverable, and once loaded with bombs and fuel, it was easy prey for nimble MiG-17s.
 
-The F-4 Phantoms flying escort tried to protect the Thuds, but the MiGs had advantages: they operated close to their bases, they could pick their fights, and they didn’t have to win—they just had to disrupt the bombing runs and force the Americans to jettison their ordnance early.
+The F-4 Phantoms flying escort tried to protect the Thuds, but the MiGs had advantages: they operated close to their bases, they could pick their fights, and they didn’t have to win, they just had to disrupt the bombing runs and force the Americans to jettison their ordnance early.
 
 By late 1966, this was working. MiGs would hit the strike packages, F-4s would engage to protect the bombers, and the whole mission would turn into a confused furball where nobody could get clean shots and the bombers had to abort.
 
 But the real problem wasn’t the MiGs’ capabilities. It was the Rules of Engagement handed down from Washington.
 
-American pilots were required to achieve Visual Identification before firing their missiles. In an era of supersonic jets and beyond-visual-range radar missiles, this was insane. The F-4’s whole advantage was its AIM-7 Sparrow—a radar-guided missile that could kill at distances where you couldn’t even see the target. The VID requirement forced pilots to close to knife-fighting range, negating every technological advantage the Phantom possessed.
+American pilots were required to achieve Visual Identification before firing their missiles. In an era of supersonic jets and beyond-visual-range radar missiles, this was insane. The F-4’s whole advantage was its AIM-7 Sparrow, a radar-guided missile that could kill at distances where you couldn’t even see the target. The VID requirement forced pilots to close to knife-fighting range, negating every technological advantage the Phantom possessed.
 
 The restriction existed because Washington was terrified of accidentally shooting down a friendly aircraft or hitting a Soviet “advisor” and creating an international incident. So American fighter pilots flew into combat with one hand tied behind their backs, forbidden to use their best weapons the way they were designed.
 
@@ -3158,11 +3158,11 @@ Planning Bolo
 
 Olds started planning in late December 1966. The concept was simple. The execution was going to be complicated. And the politics were going to be a nightmare.
 
-The real enemy wasn’t just the MiGs—it was the micromanagement from Washington. Beyond the VID requirement, the White House had its fingers in every aspect of the air war, approving target lists, restricting flight paths, second-guessing tactical decisions made by pilots who actually had to fly the missions.
+The real enemy wasn’t just the MiGs, it was the micromanagement from Washington. Beyond the VID requirement, the White House had its fingers in every aspect of the air war, approving target lists, restricting flight paths, second-guessing tactical decisions made by pilots who actually had to fly the missions.
 
 Olds looked at this restriction and realized: if he could guarantee that anything coming up to meet his formation was hostile, he could effectively bypass the VID rule without technically violating it. The setup of the trap would be the identification.
 
-But to make the trap work, he needed intelligence support—specifically the “Big Eye” EC-121 radar aircraft and the Iron Horse ELINT birds that could intercept North Vietnamese radio communications. He needed to hear the moment the MiG controllers ordered their fighters to scramble. He needed to know the MiGs were taking the bait before his formation was committed.
+But to make the trap work, he needed intelligence support, specifically the “Big Eye” EC-121 radar aircraft and the Iron Horse ELINT birds that could intercept North Vietnamese radio communications. He needed to hear the moment the MiG controllers ordered their fighters to scramble. He needed to know the MiGs were taking the bait before his formation was committed.
 
 The problem: Washington had ordered a stand-down of “sensitive” intelligence assets for that day. Too risky. Too easy for something to go wrong and create a diplomatic incident.
 
@@ -3174,21 +3174,21 @@ By the time the bureaucrats realized what was happening, missiles would already 
 
 The deception itself had to be perfect down to the smallest technical detail:
 
-The QRC-160 jamming pods. This was the key. F-105 Thuds carried these electronic countermeasure pods to jam North Vietnamese radar. F-4 Phantoms normally didn’t. When North Vietnamese radar operators saw the specific electronic signature of a QRC-160 on their screens, they knew it was a Thud—a heavily loaded bomber, vulnerable, worth scrambling fighters to intercept.
+The QRC-160 jamming pods. This was the key. F-105 Thuds carried these electronic countermeasure pods to jam North Vietnamese radar. F-4 Phantoms normally didn’t. When North Vietnamese radar operators saw the specific electronic signature of a QRC-160 on their screens, they knew it was a Thud, a heavily loaded bomber, vulnerable, worth scrambling fighters to intercept.
 
-Olds had his maintenance crews jerry-rig the pods onto his Phantoms. It wasn’t standard configuration. The pods weren’t designed to fit on F-4s and the mounting points had to be improvised. But they made it work—attaching the jamming pods in positions that would create the same radar return signature the North Vietnamese expected from F-105 strike packages.
+Olds had his maintenance crews jerry-rig the pods onto his Phantoms. It wasn’t standard configuration. The pods weren’t designed to fit on F-4s and the mounting points had to be improvised. But they made it work, attaching the jamming pods in positions that would create the same radar return signature the North Vietnamese expected from F-105 strike packages.
 
 When the North Vietnamese radar picked up that QRC-160 signature, they’d see exactly what they wanted to see: American bombers inbound, ripe for the killing.
 
-Same altitudes, speeds, and routes. The Thuds flew predictable patterns based on their targets and threat environment. The F-4s would match them precisely—same ingress routes, same altitude blocks, throttling back to slower speeds even though the Phantoms wanted to go faster.
+Same altitudes, speeds, and routes. The Thuds flew predictable patterns based on their targets and threat environment. The F-4s would match them precisely, same ingress routes, same altitude blocks, throttling back to slower speeds even though the Phantoms wanted to go faster.
 
-Same radio procedures. This was where it got delicate. The pilots had to sound like F-105 bomber crews—discussing fuel consumption, ordnance settings, “switches hot” for bombing runs that weren’t coming. Not the clipped, aggressive radio discipline of fighter pilots hunting for a fight.
+Same radio procedures. This was where it got delicate. The pilots had to sound like F-105 bomber crews, discussing fuel consumption, ordnance settings, “switches hot” for bombing runs that weren’t coming. Not the clipped, aggressive radio discipline of fighter pilots hunting for a fight.
 
 The North Vietnamese monitored American radio frequencies constantly. Their SIGINT operators listened for patterns, for call signs, for the cadence and vocabulary that would tell them what kind of mission was inbound. Bomber pilots talked differently than fighter pilots. They managed fuel more carefully. They coordinated weapon delivery. They sounded focused but methodical, not aggressive and hunting.
 
 Olds’ pilots rehearsed the scripts. Practiced the bomber pilot drawl. Made sure every call sounded like men flying a strike mission, not men setting a trap.
 
-The vertical stack. The mission would involve multiple waves of F-4s hitting different altitudes over the target area—Phuc Yen airfield, one of North Vietnam’s primary MiG bases:
+The vertical stack. The mission would involve multiple waves of F-4s hitting different altitudes over the target area, Phuc Yen airfield, one of North Vietnam’s primary MiG bases:
 
 ∙The Bait (Olds Flight): Four F-4s arriving at the expected “Thud” time and altitude, broadcasting the QRC-160 signature, flying the bomber profile perfectly.
 
@@ -3196,15 +3196,15 @@ The vertical stack. The mission would involve multiple waves of F-4s hitting dif
 
 The timing had to be perfect. Too close together and the North Vietnamese might realize multiple formations were inbound and suspect something. Too far apart and the first wave might get overwhelmed before the second wave could help.
 
-Everything depended on weather. The mission required cloud cover over the target area—enough that the North Vietnamese couldn’t visually identify the incoming aircraft as F-4s instead of F-105s until it was too late. But not so much weather that the American fighters couldn’t see well enough to fight.
+Everything depended on weather. The mission required cloud cover over the target area, enough that the North Vietnamese couldn’t visually identify the incoming aircraft as F-4s instead of F-105s until it was too late. But not so much weather that the American fighters couldn’t see well enough to fight.
 
 Olds briefed his wing commanders on the plan, then briefed the pilots who’d fly the mission.
 
 “You’re F-105s until the MiGs commit,” he told them. “Fly like Thuds. Talk like Thuds. Make them think you’re fat, slow, and loaded with bombs. Then when they come up to kill you, drop the act and kill them first.”
 
-The mission would fly on January 2, 1967—weather permitting.
+The mission would fly on January 2, 1967, weather permitting.
 
-The day before the scheduled mission, someone mentioned to Olds that a high-value intelligence collection aircraft had a classified mission scheduled in the same airspace—a sensitive overflight that absolutely could not be interfered with.
+The day before the scheduled mission, someone mentioned to Olds that a high-value intelligence collection aircraft had a classified mission scheduled in the same airspace, a sensitive overflight that absolutely could not be interfered with.
 
 Olds looked at the staff officer who’d delivered this information and said, “Did anyone tell them not to fly that day?”
 
@@ -3224,29 +3224,29 @@ January 2, 1967: Olds Flight Inbound
 
 The weather over North Vietnam looked perfect: high overcast, clouds at the right altitudes to hide the aircraft type until visual range, but clear enough below to maneuver and fight.
 
-0500 hours. Mission briefing. Olds stood in front of his pilots and walked through the plan one more time. Call signs. Altitudes. Timing. Radio procedures. The bomber pilot script they’d rehearsed. What to do when the MiGs showed up—because they would show up.
+0500 hours. Mission briefing. Olds stood in front of his pilots and walked through the plan one more time. Call signs. Altitudes. Timing. Radio procedures. The bomber pilot script they’d rehearsed. What to do when the MiGs showed up, because they would show up.
 
 “Fly exactly like Thuds until we’re committed,” Olds said. “Sound like bomber drivers. Make them think you’re easy meat. Then when they take the bait, kill everything that isn’t ours.”
 
-The pilots were excited. This was what they’d trained for—air-to-air combat, fighters versus fighters, not dropping bombs or dodging SAMs but actually hunting enemy aircraft. And they were doing it led by a man who’d shot down Germans over Europe before most of them were born.
+The pilots were excited. This was what they’d trained for, air-to-air combat, fighters versus fighters, not dropping bombs or dodging SAMs but actually hunting enemy aircraft. And they were doing it led by a man who’d shot down Germans over Europe before most of them were born.
 
-Olds would lead the first wave personally—Olds Flight, four F-4 Phantoms. Behind them, staggered in time and altitude: Ford Flight, Rambler Flight, Lincoln Flight. Fourteen F-4s total in the main operation, with additional support flights providing backup and rescue coverage.
+Olds would lead the first wave personally, Olds Flight, four F-4 Phantoms. Behind them, staggered in time and altitude: Ford Flight, Rambler Flight, Lincoln Flight. Fourteen F-4s total in the main operation, with additional support flights providing backup and rescue coverage.
 
 Each F-4 carried AIM-7 Sparrow radar-guided missiles and AIM-9 Sidewinder heat-seeking missiles. No bombs. No extra fuel tanks beyond what they’d need to reach the target area and return. They were configured purely for air-to-air combat, which meant they had less range than a normal strike package but significantly better maneuverability.
 
-The F-4 Phantom was a beast—two-seat, twin-engine fighter-bomber that could exceed Mach 2. It was big and heavy compared to the nimble MiG-17s and MiG-21s they expected to face, but it had power and weapons systems the MiGs couldn’t match.
+The F-4 Phantom was a beast, two-seat, twin-engine fighter-bomber that could exceed Mach 2. It was big and heavy compared to the nimble MiG-17s and MiG-21s they expected to face, but it had power and weapons systems the MiGs couldn’t match.
 
-The key weakness: the F-4 had no gun. It relied entirely on missiles, which in 1967 were less reliable than anyone wanted to admit. The AIM-7 Sparrow worked maybe 10% of the time under combat conditions—electrical interference, radar break-lock, faulty seeker heads, motors that failed to ignite. The AIM-9 Sidewinder was better, maybe 20% reliability, but still far from the guided weapons of later years.
+The key weakness: the F-4 had no gun. It relied entirely on missiles, which in 1967 were less reliable than anyone wanted to admit. The AIM-7 Sparrow worked maybe 10% of the time under combat conditions, electrical interference, radar break-lock, faulty seeker heads, motors that failed to ignite. The AIM-9 Sidewinder was better, maybe 20% reliability, but still far from the guided weapons of later years.
 
 That meant you needed multiple shots, good positioning, and patience to actually kill a MiG. And you needed to get close enough for the Sidewinder’s infrared seeker to lock onto the enemy’s engine heat, which meant close enough that the MiG could shoot back.
 
 But today, if everything worked, they’d finally get to use their weapons the way they were designed to be used.
 
-0700 hours. Olds climbed into the cockpit of his F-4. His weapons systems officer—the back-seater who handled the radar and missiles—was First Lieutenant Charles Clifton. They’d flown together before. Clifton knew his job and knew how Olds flew, which was aggressively.
+0700 hours. Olds climbed into the cockpit of his F-4. His weapons systems officer, the back-seater who handled the radar and missiles, was First Lieutenant Charles Clifton. They’d flown together before. Clifton knew his job and knew how Olds flew, which was aggressively.
 
-The canopy came down. The engines spooled up with the characteristic scream of the J79 turbojets—loud enough to feel in your chest from a hundred yards away, the sound that meant an F-4 was going to work.
+The canopy came down. The engines spooled up with the characteristic scream of the J79 turbojets, loud enough to feel in your chest from a hundred yards away, the sound that meant an F-4 was going to work.
 
-Olds ran through his checks. Instruments good. Radar working. Missiles armed. Fuel sufficient. QRC-160 jamming pod showing active—the electronic signature that would tell North Vietnamese radar operators they were looking at a Thud, not a Phantom.
+Olds ran through his checks. Instruments good. Radar working. Missiles armed. Fuel sufficient. QRC-160 jamming pod showing active, the electronic signature that would tell North Vietnamese radar operators they were looking at a Thud, not a Phantom.
 
 He looked at the three other F-4s in his flight, all running up their engines, pilots ready.
 
@@ -3254,15 +3254,15 @@ Tower cleared them for takeoff.
 
 Olds released brakes and shoved the throttles forward. The F-4 surged down the runway, heavy with fuel and missiles, then rotated and climbed into the morning sky over Thailand.
 
-They formed up—four aircraft in combat spread—and turned north toward Laos and the border with North Vietnam.
+They formed up, four aircraft in combat spread, and turned north toward Laos and the border with North Vietnam.
 
 Behind them, the other flights were launching on schedule. The ballet was beginning.
 
-Crossing into North Vietnam, Olds throttled back to match the speed profile of an F-105 strike package. The F-4 wanted to go faster—the engines had power to spare—but faster would give away the deception.
+Crossing into North Vietnam, Olds throttled back to match the speed profile of an F-105 strike package. The F-4 wanted to go faster, the engines had power to spare, but faster would give away the deception.
 
 He flew the exact route that strike packages used, maintaining the altitude and formation that F-105s would use approaching Hanoi. The QRC-160 pods mounted on his Phantom were broadcasting the electronic signature that North Vietnamese radar operators had seen dozens of times before: American bombers inbound, heavily loaded, predictable.
 
-On the radio, Olds kept his transmissions sparse but deliberate. When he did speak, he used the language of a Thud driver—slow, careful, focused on fuel consumption and weapons settings for a bombing run that wasn’t coming.
+On the radio, Olds kept his transmissions sparse but deliberate. When he did speak, he used the language of a Thud driver, slow, careful, focused on fuel consumption and weapons settings for a bombing run that wasn’t coming.
 
 “Olds Lead, switches hot. Checking fuel flow.”
 
@@ -3274,7 +3274,7 @@ They heard exactly what they expected: F-105 bomber pilots preparing for a strik
 
 Olds could picture the scene on the ground: radar operators watching their scopes, seeing the familiar QRC-160 electronic signature, plotting the approach vector. MiG controllers calculating how many fighters to launch, which bases to scramble from, what altitude to position for the intercept.
 
-In the back seat, Clifton was monitoring their own receivers. “Big Eye”—the EC-121 radar aircraft orbiting safely in the Gulf of Tonkin—was watching the whole theater, tracking both American and North Vietnamese aircraft on long-range radar. The Iron Horse ELINT bird was intercepting North Vietnamese ground control communications, listening to the controllers talking to their pilots.
+In the back seat, Clifton was monitoring their own receivers. “Big Eye”, the EC-121 radar aircraft orbiting safely in the Gulf of Tonkin, was watching the whole theater, tracking both American and North Vietnamese aircraft on long-range radar. The Iron Horse ELINT bird was intercepting North Vietnamese ground control communications, listening to the controllers talking to their pilots.
 
 When the MiG controllers gave the scramble order, the Americans would hear it in real time. Olds would know the trap was working before the MiGs even got airborne.
 
@@ -3286,7 +3286,7 @@ It came three minutes later.
 
 “Olds Lead, this is Big Eye.” The EC-121 controller’s voice was calm but urgent. “Bandits launching from Phuc Yen. Multiple contacts, climbing, heading your position. Bullseye three-two-zero at twenty miles.”
 
-Bullseye was the code word for Hanoi. Three-two-zero degrees, twenty miles—northwest of the capital. The MiGs were scrambling from their main base, climbing to altitude, vectoring toward what they thought was a vulnerable strike package.
+Bullseye was the code word for Hanoi. Three-two-zero degrees, twenty miles, northwest of the capital. The MiGs were scrambling from their main base, climbing to altitude, vectoring toward what they thought was a vulnerable strike package.
 
 The trap was sprung.
 
@@ -3306,13 +3306,13 @@ Contact
 
 MiG-21s.
 
-Not the older MiG-17s they’d expected and trained to fight—these were the newer, faster interceptors. Swept wings, clean lines, afterburners glowing as they climbed to meet the incoming “strike package.”
+Not the older MiG-17s they’d expected and trained to fight, these were the newer, faster interceptors. Swept wings, clean lines, afterburners glowing as they climbed to meet the incoming “strike package.”
 
 Sleek. Fast. Dangerous.
 
 Olds saw them at the same instant they saw him.
 
-For about two seconds, the North Vietnamese pilots must have been very confused. They were expecting F-105s—big, heavy, loaded with bombs, easy targets flying predictable bombing profiles.
+For about two seconds, the North Vietnamese pilots must have been very confused. They were expecting F-105s, big, heavy, loaded with bombs, easy targets flying predictable bombing profiles.
 
 What they got was four F-4 Phantoms in full air-to-air configuration, already maneuvering for firing position, already locking them up with radar, already committed to the fight.
 
@@ -3324,11 +3324,11 @@ He selected the closest MiG-21, watched Clifton work the radar in the back seat,
 
 Tone. The high-pitched whine in his headset that meant the AIM-7 Sparrow had radar lock.
 
-“Fox One!” The call that meant radar missile away—“Fox” because the radio brevity code for “firing missile” was “Fox,” and “One” designated the AIM-7 Sparrow.
+“Fox One!” The call that meant radar missile away, “Fox” because the radio brevity code for “firing missile” was “Fox,” and “One” designated the AIM-7 Sparrow.
 
 The Sparrow dropped from the Phantom’s belly, motor ignited in a flash of white smoke, and the missile accelerated toward the MiG trailing a contrail across the sky.
 
-The MiG pilot saw it coming—the white smoke trail was impossible to miss—and broke hard left, trying to evade, pulling Gs to get out of the missile’s tracking cone.
+The MiG pilot saw it coming, the white smoke trail was impossible to miss, and broke hard left, trying to evade, pulling Gs to get out of the missile’s tracking cone.
 
 But the Sparrow tracked true. The radar kept painting the target, the missile kept correcting, and at a combined closure rate of over 1,000 miles per hour, there wasn’t time for the MiG to maneuver far enough.
 
@@ -3342,9 +3342,9 @@ The sky over Phuc Yen turned into chaos.
 
 The Furball
 
-Air combat at 400 miles per hour is controlled violence. You’re pulling Gs—five, six, seven times the force of gravity pressing you into your seat—while trying to track a target moving in three dimensions, trying to get a missile lock, trying not to fly into the ground or another friendly aircraft or lose your spatial awareness and enter an unrecoverable dive.
+Air combat at 400 miles per hour is controlled violence. You’re pulling Gs, five, six, seven times the force of gravity pressing you into your seat, while trying to track a target moving in three dimensions, trying to get a missile lock, trying not to fly into the ground or another friendly aircraft or lose your spatial awareness and enter an unrecoverable dive.
 
-Olds broke right, after another MiG-21 that was trying to get position on one of his wingmen. The F-4 responded sluggishly—heavy, not built for dogfighting like this—but Olds had been flying fighters for twenty years and knew how to make the big Phantom do what he needed.
+Olds broke right, after another MiG-21 that was trying to get position on one of his wingmen. The F-4 responded sluggishly, heavy, not built for dogfighting like this, but Olds had been flying fighters for twenty years and knew how to make the big Phantom do what he needed.
 
 The MiG saw him coming, broke hard into the turn, trying to get inside the Phantom’s turning radius. The MiG-21 could turn tighter, especially at lower speeds where the F-4 wallowed.
 
@@ -3354,7 +3354,7 @@ Clifton in the back seat: “I’ve got him on radar. Lock is solid. Good tone.�
 
 “Fox One!” Another Sparrow.
 
-This one missed—the MiG broke at the last second and the missile flew through empty sky, its radar losing lock as the target maneuvered out of the tracking cone.
+This one missed, the MiG broke at the last second and the missile flew through empty sky, its radar losing lock as the target maneuvered out of the tracking cone.
 
 Olds swore, selected another Sparrow from his dwindling supply, waited for Clifton to reacquire the lock.
 
@@ -3364,11 +3364,11 @@ Across the radio, the battle was spreading:
 
 “Lincoln Lead engaging, tally two more bandits low!”
 
-“Rambler Three has a MiG on his six—break right, break right!”
+“Rambler Three has a MiG on his six, break right, break right!”
 
 The whole wing was in the fight now. F-4s and MiGs tangling across twenty miles of sky, contrails marking every hard turn, missile smoke trails crisscrossing like white streamers against the gray cloud deck.
 
-The irony wasn’t lost on Olds. For months, the Rules of Engagement had required visual identification before firing—a restriction that forced American pilots to close to knife-fighting range before they could use their weapons, negating every technological advantage the F-4 possessed.
+The irony wasn’t lost on Olds. For months, the Rules of Engagement had required visual identification before firing, a restriction that forced American pilots to close to knife-fighting range before they could use their weapons, negating every technological advantage the F-4 possessed.
 
 Today, by setting the trap so carefully that anything coming up to meet them was guaranteed hostile, Olds had effectively solved the VID problem. The setup was the identification. Every MiG in the sky was there because they thought they were attacking bombers. There were no friendlies, no neutrals, nothing but confirmed enemy fighters who’d taken the bait.
 
@@ -3388,7 +3388,7 @@ Closing range. 8,000 feet. 7,000. Clifton working the radar, refining the lock, 
 
 “Fox One!”
 
-The Sparrow flew true this time. The MiG’s pilot saw it coming—maybe heard his own warning receiver screaming, maybe saw the smoke trail in his mirrors—and tried a break turn, but he was low on energy and low on altitude and the missile didn’t care about either.
+The Sparrow flew true this time. The MiG’s pilot saw it coming, maybe heard his own warning receiver screaming, maybe saw the smoke trail in his mirrors, and tried a break turn, but he was low on energy and low on altitude and the missile didn’t care about either.
 
 Detonation directly behind the MiG’s tailpipe. The engine exploded in a ball of orange fire, the aircraft rolled inverted and went straight into the ground five miles from Phuc Yen airfield.
 
@@ -3396,7 +3396,7 @@ Second kill.
 
 Olds pulled up hard, bleeding off speed in the climb, looking for more targets, checking his fuel and weapons state.
 
-Two Sparrows left. Fuel getting low but still acceptable. The fight had burned through his reserves faster than planned—lots of high-G maneuvering, lots of afterburner use.
+Two Sparrows left. Fuel getting low but still acceptable. The fight had burned through his reserves faster than planned, lots of high-G maneuvering, lots of afterburner use.
 
 The sky was emptying. The MiGs that hadn’t been shot down were running for their bases, afterburners lit, staying low where the F-4s couldn’t catch them without flying into the teeth of North Vietnamese anti-aircraft defenses.
 
@@ -3412,7 +3412,7 @@ His wingmen called in. Everyone was low but everyone had enough to make it home 
 
 Across the radio, the other flights were breaking off as well, reforming, starting the long flight back to Thailand.
 
-Red Crown—the EC-121 controller who’d been watching the whole fight on radar from his safe orbit over the Gulf of Tonkin—came over the radio with professional calm that didn’t quite hide the excitement:
+Red Crown, the EC-121 controller who’d been watching the whole fight on radar from his safe orbit over the Gulf of Tonkin, came over the radio with professional calm that didn’t quite hide the excitement:
 
 “Olds Lead, Red Crown. Preliminary count shows seven MiG-21s destroyed, no friendly losses. Confirm you are all heading home?”
 
@@ -3430,7 +3430,7 @@ But inside the cockpit, Olds was grinning beneath his oxygen mask.
 
 They’d planned the mission perfectly, executed it exactly as briefed, and achieved results beyond what anyone had dared hope for.
 
-The MiGs had thought they were jumping easy prey—fat, slow F-105 bombers loaded with ordnance and focused on reaching their targets.
+The MiGs had thought they were jumping easy prey, fat, slow F-105 bombers loaded with ordnance and focused on reaching their targets.
 
 Instead they flew into a formation of F-4 Phantoms configured for air-to-air combat, flown by pilots who’d been waiting months for exactly this fight, led by a commander who’d been shooting down enemy aircraft since before most of them were born.
 
@@ -3440,23 +3440,23 @@ The Landing
 
 Ubon Royal Thai Air Force Base, 1100 hours.
 
-Olds brought his F-4 around on final approach, lowered the landing gear, deployed the arresting hook—standard procedure after combat because you wanted every safety margin available when you were tired and running on adrenaline and the aircraft had been stressed by combat maneuvering.
+Olds brought his F-4 around on final approach, lowered the landing gear, deployed the arresting hook, standard procedure after combat because you wanted every safety margin available when you were tired and running on adrenaline and the aircraft had been stressed by combat maneuvering.
 
-The Phantom touched down hard—they always did, the F-4 wasn’t a graceful lander even on a good day—and the arresting cable grabbed the hook and brought the big fighter to a stop in a few hundred feet.
+The Phantom touched down hard, they always did, the F-4 wasn’t a graceful lander even on a good day, and the arresting cable grabbed the hook and brought the big fighter to a stop in a few hundred feet.
 
 Olds taxied to the ramp where ground crew was already waiting. They’d heard the radio calls. They knew what happened. They knew their wing had just made history.
 
 As Olds shut down the engines and opened the canopy, crew chiefs and maintainers were already swarming the aircraft, checking for damage, preparing to rearm and refuel for the next mission if needed.
 
-Olds climbed down the ladder. His flight suit was soaked with sweat—flying combat for two hours in a cockpit that wasn’t air-conditioned, pulling sustained Gs, managing fuel and weapons while fighting for your life, would do that to you.
+Olds climbed down the ladder. His flight suit was soaked with sweat, flying combat for two hours in a cockpit that wasn’t air-conditioned, pulling sustained Gs, managing fuel and weapons while fighting for your life, would do that to you.
 
-The other pilots from Olds Flight were landing behind him, followed by Ford Flight and the rest of the wing. As each F-4 taxied in, the ground crews would count the missile rails—empty rails meant kills claimed, meant their pilots had done what they’d gone up there to do.
+The other pilots from Olds Flight were landing behind him, followed by Ford Flight and the rest of the wing. As each F-4 taxied in, the ground crews would count the missile rails, empty rails meant kills claimed, meant their pilots had done what they’d gone up there to do.
 
 The intelligence debrief took hours. Each pilot describing exactly what happened, where they engaged, what weapons they used, how the MiGs reacted, what the MiGs did. The intelligence officers cross-referenced the accounts, matched them with gun camera footage, correlated with the radar tracks from Big Eye, confirmed the kills.
 
 Final count: Seven MiG-21s destroyed. No American losses. No damage to any American aircraft beyond the expected wear from high-G maneuvering and the stress of sustained afterburner use.
 
-Olds himself was credited with one confirmed kill—a MiG-21 that his Sparrow had shredded over Phuc Yen. But the mission wasn’t about individual scores. It was about what the Wolfpack had accomplished as a formation: the most successful air-to-air engagement of the Vietnam War.
+Olds himself was credited with one confirmed kill, a MiG-21 that his Sparrow had shredded over Phuc Yen. But the mission wasn’t about individual scores. It was about what the Wolfpack had accomplished as a formation: the most successful air-to-air engagement of the Vietnam War.
 
 The wing had decimated an entire North Vietnamese fighter flight. Seven kills in one mission. The sort of numbers that hadn’t been seen in air combat since World War II, and those had come from bomber escort missions with dozens of fighters engaging over German airspace.
 
@@ -3466,7 +3466,7 @@ It was the most successful air-to-air mission the Air Force had flown in Vietnam
 
 Word spread through the wing, then to other bases, then up the chain to Seventh Air Force headquarters in Saigon, then back to the Pentagon.
 
-The mission had worked exactly as planned. The deception was perfect. The execution was flawless. The intelligence support had been borrowed without permission but had proven essential. And Robin Olds—the fighter pilot with the unauthorized mustache and the attitude that occasionally drove his superiors crazy—had just proven that sometimes breaking the mold was exactly what the situation required.
+The mission had worked exactly as planned. The deception was perfect. The execution was flawless. The intelligence support had been borrowed without permission but had proven essential. And Robin Olds, the fighter pilot with the unauthorized mustache and the attitude that occasionally drove his superiors crazy, had just proven that sometimes breaking the mold was exactly what the situation required.
 
 The Aftermath
 
@@ -3474,27 +3474,27 @@ Operation Bolo changed the air war over North Vietnam.
 
 The immediate tactical effect was stark: North Vietnamese MiG pilots became much more cautious. They’d lost seven aircraft in one engagement to what they thought was an easy target. That kind of loss rate isn’t sustainable when your entire fighter force numbers fewer than 200 aircraft and replacement pilots take months to train.
 
-MiG activity dropped significantly in the weeks after Bolo. When they did engage, they were more careful, more selective, less willing to commit to fights they weren’t certain they could win. The aggressive intercepts of American strike packages—the tactic that had been disrupting bombing missions for months—became rarer.
+MiG activity dropped significantly in the weeks after Bolo. When they did engage, they were more careful, more selective, less willing to commit to fights they weren’t certain they could win. The aggressive intercepts of American strike packages, the tactic that had been disrupting bombing missions for months, became rarer.
 
-The strategic effect was broader: Bolo proved that American fighters could dominate the air over North Vietnam when properly employed. The problem hadn’t been the aircraft or the pilots—it was the tactics, the Rules of Engagement, and the political micromanagement that prevented fighter pilots from fighting the way they’d been trained.
+The strategic effect was broader: Bolo proved that American fighters could dominate the air over North Vietnam when properly employed. The problem hadn’t been the aircraft or the pilots, it was the tactics, the Rules of Engagement, and the political micromanagement that prevented fighter pilots from fighting the way they’d been trained.
 
 Olds had shown that with creative planning, aggressive execution, and a willingness to work around the restrictions that didn’t make tactical sense, the F-4 could beat the MiG-21 decisively.
 
 For the pilots flying missions over North Vietnam, Bolo was validation. They’d been saying for months that they could win if they were allowed to fight properly. Olds had proven them right.
 
-For Olds personally, the mission cemented his reputation. He’d already been well-known in the Air Force—WWII ace, successful commander, personality larger than regulations typically allowed. Bolo made him a legend.
+For Olds personally, the mission cemented his reputation. He’d already been well-known in the Air Force, WWII ace, successful commander, personality larger than regulations typically allowed. Bolo made him a legend.
 
 He continued commanding the 8th Tactical Fighter Wing through 1967, flying missions over North Vietnam, mentoring younger pilots, and generally being exactly the kind of leader fighter pilots wanted: someone who’d done it himself, who understood what they faced, and who would never ask them to do something he wasn’t willing to do.
 
 The mustache stayed. His superiors had given up trying to make him shave it. What were they going to do, relieve the wing commander who’d just planned and led the most successful air combat mission of the war?
 
-The mustache became part of the Olds legend. Fighter pilots across the Air Force started growing mustaches in tribute—not quite as large or as flagrant as Olds’, but enough to make the point that fighter pilots weren’t administrative officers and grooming regulations written for desk jobs didn’t quite fit men who flew combat missions in 500-knot knife fights.
+The mustache became part of the Olds legend. Fighter pilots across the Air Force started growing mustaches in tribute, not quite as large or as flagrant as Olds’, but enough to make the point that fighter pilots weren’t administrative officers and grooming regulations written for desk jobs didn’t quite fit men who flew combat missions in 500-knot knife fights.
 
-Olds eventually returned to the United States in late 1967 with his combat tour complete. He’d added four MiG kills in Vietnam to his twelve from WWII, making him a triple ace—one of only a handful of American pilots to achieve ace status in two different wars.
+Olds eventually returned to the United States in late 1967 with his combat tour complete. He’d added four MiG kills in Vietnam to his twelve from WWII, making him a triple ace, one of only a handful of American pilots to achieve ace status in two different wars.
 
-The Air Force promoted him to brigadier general in 1968. He commanded the Air Force Academy for a while, then various other assignments, always maintaining his reputation as the fighter pilot’s fighter pilot—aggressive, competent, unwilling to tolerate bureaucratic nonsense when it got in the way of the mission.
+The Air Force promoted him to brigadier general in 1968. He commanded the Air Force Academy for a while, then various other assignments, always maintaining his reputation as the fighter pilot’s fighter pilot, aggressive, competent, unwilling to tolerate bureaucratic nonsense when it got in the way of the mission.
 
-He retired from the Air Force in 1973. The final rank annoyed him slightly—he thought he’d earned more stars, and he was probably right—but he was never one to dwell on what promotion boards thought about unconventional officers.
+He retired from the Air Force in 1973. The final rank annoyed him slightly, he thought he’d earned more stars, and he was probably right, but he was never one to dwell on what promotion boards thought about unconventional officers.
 
 He spent his retirement doing what retired fighter pilots do: flying airshows when his health allowed, giving talks about aerial combat and leadership, occasionally consulting on aviation matters, and telling stories to anyone who’d listen about what it was like to fly P-38s over Europe or F-4s over Hanoi.
 
@@ -3508,7 +3508,7 @@ The F-4 Phantom wasn’t the best dogfighter. The MiG-21 could turn inside it at
 
 Olds didn’t care about paper. He cared about getting his pilots into positions where they could win, and he understood that winning often meant dictating the terms of the engagement before the fight even started.
 
-That’s what Bolo was: dictating terms. The MiGs thought they were choosing to fight vulnerable bombers on their own timeline. Olds had already chosen for them—they were fighting Phantoms configured for air-to-air combat, flown by pilots who’d been briefed and trained specifically for this mission, positioned at altitudes that gave the Americans every advantage, led by a commander who’d been shooting down enemy aircraft since before most of them were born.
+That’s what Bolo was: dictating terms. The MiGs thought they were choosing to fight vulnerable bombers on their own timeline. Olds had already chosen for them, they were fighting Phantoms configured for air-to-air combat, flown by pilots who’d been briefed and trained specifically for this mission, positioned at altitudes that gave the Americans every advantage, led by a commander who’d been shooting down enemy aircraft since before most of them were born.
 
 The deception worked because Olds paid attention to details that most commanders would have missed or dismissed as unnecessary. The QRC-160 jamming pods that created the right electronic signature. The exact speeds and altitudes that F-105s used. The radio procedures and vocabulary that bomber pilots employed. The timing that brought multiple flights into the fight at staggered intervals.
 
@@ -3520,7 +3520,7 @@ It was exactly the kind of tactical creativity that good officers develop when t
 
 Olds learned that from his father, who’d been a pioneer in strategic bombing doctrine and understood that doctrine was a starting point, not a straitjacket. He refined it through WWII, flying P-38s and P-51s in combat where the enemy didn’t care what your manual said. And he perfected it in Vietnam, where the political restrictions and Rules of Engagement required creativity just to fight effectively.
 
-The mustache was just his way of reminding everyone—superiors and subordinates alike—that sometimes the regulations need to get out of the way and let the people who know what they’re doing get it done.
+The mustache was just his way of reminding everyone, superiors and subordinates alike, that sometimes the regulations need to get out of the way and let the people who know what they’re doing get it done.
 
 Fighter pilots understood. They grew mustaches in solidarity. They flew more aggressively. They looked for ways to work around the restrictions that didn’t make tactical sense.
 
@@ -3528,19 +3528,19 @@ The bureaucrats in Washington probably didn’t understand. But they couldn’t 
 
 Why This Mission Still Matters
 
-Operation Bolo is taught at fighter weapons schools—the Air Force’s Fighter Weapons School at Nellis, the Navy’s TOPGUN program—as a case study in tactical deception and mission planning. The details change as technology evolves—modern fighters use different weapons, different sensors, different tactics—but the principle remains: sometimes the best way to win a fight is to make the enemy think they’re in a different fight until it’s too late.
+Operation Bolo is taught at fighter weapons schools, the Air Force’s Fighter Weapons School at Nellis, the Navy’s TOPGUN program, as a case study in tactical deception and mission planning. The details change as technology evolves, modern fighters use different weapons, different sensors, different tactics, but the principle remains: sometimes the best way to win a fight is to make the enemy think they’re in a different fight until it’s too late.
 
 Make them commit based on false assumptions, then exploit those assumptions before they can adapt.
 
 The mission also represents something important about the Vietnam air war specifically: American pilots and aircraft could absolutely win when employed properly, when politics didn’t override tactics, when commanders were allowed to plan missions based on what would work rather than what would avoid potential embarrassment in Washington.
 
-The frustration of Vietnam—for the pilots flying the missions, for commanders like Olds who understood what their people were capable of—was that political restrictions and questionable strategic decisions often prevented them from doing what they were trained to do.
+The frustration of Vietnam, for the pilots flying the missions, for commanders like Olds who understood what their people were capable of, was that political restrictions and questionable strategic decisions often prevented them from doing what they were trained to do.
 
-Bolo worked because Olds was given enough freedom to plan a mission the way it needed to be planned. Yes, he had to work around some restrictions—borrowing intelligence assets without permission, finding creative solutions to the VID requirement—but the core of the mission was sound tactically and he was allowed to execute it.
+Bolo worked because Olds was given enough freedom to plan a mission the way it needed to be planned. Yes, he had to work around some restrictions, borrowing intelligence assets without permission, finding creative solutions to the VID requirement, but the core of the mission was sound tactically and he was allowed to execute it.
 
-When fighter pilots talk about Bolo today, they talk about the planning, the execution, the discipline required to maintain the deception until the MiGs committed. They talk about the technical details—the QRC-160 pods, the vertical stack of flights, the radio procedures.
+When fighter pilots talk about Bolo today, they talk about the planning, the execution, the discipline required to maintain the deception until the MiGs committed. They talk about the technical details, the QRC-160 pods, the vertical stack of flights, the radio procedures.
 
-But they also talk about Olds himself—the personality, the leadership, the refusal to accept that “we can’t do that” was a good enough answer when “that” was what needed doing.
+But they also talk about Olds himself, the personality, the leadership, the refusal to accept that “we can’t do that” was a good enough answer when “that” was what needed doing.
 
 And they talk about the mustache.
 
@@ -3556,7 +3556,7 @@ The regulation said fighter pilots should be clean-shaven or maintain modest fac
 
 Robin Olds said fighter pilots should win.
 
-The Air Force eventually decided—quietly, without ever officially changing the regulation—that Olds was right.
+The Air Force eventually decided, quietly, without ever officially changing the regulation, that Olds was right.
 
 The mustache stayed. The MiGs didn’t.
 
@@ -3572,7 +3572,7 @@ By the time the North Vietnamese figured out the deception, it was already too l
 
 The MiGs died before they understood what hit them.
 
-That’s not just good tactics. That’s Robin Olds deciding the Rules of Engagement weren’t working and writing better ones—then executing them perfectly while wearing a mustache that technically violated regulations but practically made a statement about what mattered and what didn’t.
+That’s not just good tactics. That’s Robin Olds deciding the Rules of Engagement weren’t working and writing better ones, then executing them perfectly while wearing a mustache that technically violated regulations but practically made a statement about what mattered and what didn’t.
 
 Send him to Vietnam for it?
 

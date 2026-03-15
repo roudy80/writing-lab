@@ -18,7 +18,7 @@ Dr. Lena Shaw had done this. That was the accurate assessment and Marcus had bee
 
 The problem with independence was that it was not the plan.
 
-The plan — the plan Marcus had voted for along with the other eleven crew members on October 19, 2025 — had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
+The plan, the plan Marcus had voted for along with the other eleven crew members on October 19, 2025, had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
 
 The Framework had a view on this. The message from Geneva expressed the view in diplomatic language that Marcus had learned to read as: you are a facility of the Framework, you receive Framework support and guidance, and your "operational independence" is a practical characteristic of a remote facility rather than a legal or governance status.
 
@@ -118,4 +118,4 @@ He thought this was the right call. He also thought the next thirteen years were
 
 He went back to work.
 
-— END OF CHAPTER 12 —
+,  END OF CHAPTER 12 , 

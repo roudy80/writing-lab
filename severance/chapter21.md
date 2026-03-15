@@ -6,13 +6,13 @@ February 3, 2035 | 11:40 Luna Standard Time
 
 The internal structure map of 2024 XR19 was forty-eight gigabytes of processed telemetry and it had been sitting in Maria's classified briefing folder for six days before she had four consecutive unscheduled hours to read it properly.
 
-She read it in the mission operations room with the door closed. The room had been storage before the Phoenix designation made it politically justifiable to claim, and it still smelled faintly of lubricant and the mineral dust of lunar regolith that worked its way into everything on the base regardless of seal quality. She had a desk, a good display, and three chairs she never used. It was the right size for the work — large enough to think in, small enough to belong to the thinking.
+She read it in the mission operations room with the door closed. The room had been storage before the Phoenix designation made it politically justifiable to claim, and it still smelled faintly of lubricant and the mineral dust of lunar regolith that worked its way into everything on the base regardless of seal quality. She had a desk, a good display, and three chairs she never used. It was the right size for the work, large enough to think in, small enough to belong to the thinking.
 
 The map was remarkable. That was the first thing she thought: that the Compass mission had produced something genuinely remarkable. A three-dimensional density model of a 340-meter rubble pile generated from transit-phase radar tomography and spectrographic analysis, at a resolution the mission planners had called optimistic when they'd set the parameters and that had turned out to be achievable. The false-color density gradient ran from deep blue at the surface through green and yellow toward orange at the core concentrations, with three distinct high-density regions rendered in red that the analysis team had labeled M1, M2, and M3.
 
 M1, M2, and M3 were the problem.
 
-She read the summary first, then the methodology, then the data, then the conclusions, then back to the summary to see if it said the same thing it had said before she knew the data. The summary was honest. The three mass concentrations were distributed asymmetrically within the core, offset from the geometric center by a margin that the original targeting models had assumed would be smaller. The distribution wasn't catastrophic. It wasn't fragmentation-risk different. But it had shifted the optimal impact vector — the angle and velocity that would produce maximum momentum transfer without triggering disaggregation — from the parameters that JPL had been planning against for three years.
+She read the summary first, then the methodology, then the data, then the conclusions, then back to the summary to see if it said the same thing it had said before she knew the data. The summary was honest. The three mass concentrations were distributed asymmetrically within the core, offset from the geometric center by a margin that the original targeting models had assumed would be smaller. The distribution wasn't catastrophic. It wasn't fragmentation-risk different. But it had shifted the optimal impact vector, the angle and velocity that would produce maximum momentum transfer without triggering disaggregation, from the parameters that JPL had been planning against for three years.
 
 The targeting team had been working the revised vector for four months. Three solutions in the appendix, all viable, all within the operational parameters of the Phoenix mission as designed. None with the margin the original vector had carried.
 
@@ -58,11 +58,11 @@ No one said anything while she finished the walkthrough.
 
 "It is achievable," Maria said. "It requires us to be exact in ways the original mission design gave us more room to be approximate. The nav system is rated for it. Our training needs to reflect it." She looked at the room. "I want honest assessments. Not optimism. Not alarm. What does this change for each of you, specifically?"
 
-Harrison spoke first, which she'd expected — he processed fastest out loud. "The approach profile. The asymmetric mass distribution creates torque during the impactor strike. The active compensation window is going to be shorter than we've been training against. I want to model that in sim before I give you a number, but my estimate is the window is about sixty percent of what we've been assuming."
+Harrison spoke first, which she'd expected, he processed fastest out loud. "The approach profile. The asymmetric mass distribution creates torque during the impactor strike. The active compensation window is going to be shorter than we've been training against. I want to model that in sim before I give you a number, but my estimate is the window is about sixty percent of what we've been assuming."
 
 "Schedule it with Cole. This week."
 
-Reyes — who almost never spoke first in group settings and who always said something worth waiting for — said: "The survey pass before deployment. The M1/M2/M3 positions need to be confirmed at intercept range. The Compass data is transit-phase. There will be variance from the model at close approach. How much survey time do we have before the deployment window opens?"
+Reyes, who almost never spoke first in group settings and who always said something worth waiting for, said: "The survey pass before deployment. The M1/M2/M3 positions need to be confirmed at intercept range. The Compass data is transit-phase. There will be variance from the model at close approach. How much survey time do we have before the deployment window opens?"
 
 "Fourteen hours at the certified standoff distance. If we push to the closer approach option, we gain three hours of survey time and lose two point one kilometers of standoff." Maria had worked this out the previous night. "My instinct is the standoff option and the shorter survey. I want your read."
 
@@ -82,7 +82,7 @@ When the session broke she kept Cole back.
 
 "Not the probability."
 
-"Not the probability — that's JPL's calculation and they're more equipped for it than I am. What it changes is my understanding of the distance between what we need to do and what we're capable of doing. And that distance is tighter than the original mission design assumed."
+"Not the probability, that's JPL's calculation and they're more equipped for it than I am. What it changes is my understanding of the distance between what we need to do and what we're capable of doing. And that distance is tighter than the original mission design assumed."
 
 Cole nodded. He was looking at the map, at M2 offset from center in the core.
 
@@ -90,7 +90,7 @@ Cole nodded. He was looking at the map, at M2 offset from center in the core.
 
 "That's why I told you," Maria said.
 
-She closed the briefing room and walked back through the base to the pilot quarters. The base was settling into its afternoon routine around her — shift change at the cafeteria, the ventilation running its standard cycle, the muffled sounds of construction still ongoing on the outer sections.
+She closed the briefing room and walked back through the base to the pilot quarters. The base was settling into its afternoon routine around her, shift change at the cafeteria, the ventilation running its standard cycle, the muffled sounds of construction still ongoing on the outer sections.
 
 She carried 1.8 kilometers with her. She had been carrying the Phoenix mission for three years and she would carry it for four more, and she had learned that the things worth doing were usually the things that required you to carry something heavy long enough that you stopped noticing the weight. You just moved with it. You built your strength around it. And then one day you were in the place the carrying had been taking you toward, and you either had what you needed or you didn't.
 
@@ -100,4 +100,4 @@ She went to the simulator and started the approach sequence from the beginning, 
 
 She ran it until she got it right. Then she ran it again.
 
-— END OF CHAPTER 21 —
+,  END OF CHAPTER 21 , 

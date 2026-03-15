@@ -96,7 +96,7 @@ She thought about her father's hands resting on the helmet, not putting it on, j
 
 She meant it completely.
 
-—
+---
 
 He was awake before her in the morning, which did not surprise her.
 

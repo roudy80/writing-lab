@@ -14,7 +14,7 @@ She noted it and adjusted her attention elsewhere.
 
 It didn't entirely work.
 
-—
+---
 
 He'd started doing a thing at meals.
 
@@ -46,7 +46,7 @@ She thought about no gap. She thought about being completely in the right place.
 
 She kept moving.
 
-—
+---
 
 He found her on the east side of the base that evening, past the fence line where the pines ran along the drainage. She went there sometimes in the late evenings, when the air had cooled and the light was going out of the sky in long horizontal lines. It was outside the base perimeter technically, but it was also thirty feet from the fence and she'd been going there since her second season without anyone asking why.
 
@@ -94,7 +94,7 @@ She stayed another few minutes. Not because she needed to. Just because the dark
 
 Then she went back inside and got ready for tomorrow.
 
-—
+---
 
 The slow accumulation, that was the only name she had for it. The way something could be happening without announcing itself, without an event you could point to and say: there, that's when it started. She'd watched fires build this way. A week of low humidity and rising temps, a week of fuel curing in the heat, a week of winds from the wrong direction, and then one dry lightning cell and the whole prepared landscape ignited and you had to respond as though the fire had appeared suddenly when in fact it had been arriving for weeks.
 

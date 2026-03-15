@@ -50,7 +50,7 @@ She looked at the equipment bay. Through the open door the October sky was the s
 
 She went back to work.
 
-—
+---
 
 The last deployment of the season was Friday. A small fire, a hold-over from the northeast cluster, gone to the ground in the overnight dew and needing a mop-up crew to finish it. She ran it with four people and had it done in three hours and was back at base by noon.
 
@@ -80,7 +80,7 @@ She sat there until the room was fully dark.
 
 Then she went to find Danny.
 
-—
+---
 
 She found Danny at the equipment cage, finishing the off-season lockdown inventory, the kind of work that could be done in the dark and didn't require conversation.
 

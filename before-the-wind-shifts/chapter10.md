@@ -46,7 +46,7 @@ The moment lasted maybe four seconds. She could feel that it was the kind of fou
 
 She finished the carabiner and reached for the next one.
 
-—
+---
 
 Later, alone in the small office off the main corridor where she did her paperwork, she put it away. She was methodical about this, the same process she used for other things that needed containing. Identify the thing, assign it a category, close the drawer.
 
@@ -62,7 +62,7 @@ She thought about the way he'd said yeah. Not as agreement. As recognition. The 
 
 She thought about it for about thirty seconds. Then she stopped.
 
-—
+---
 
 That evening, alone in her room after the briefing, her mind let go of the immediate work and went somewhere quieter. It was there before she could redirect it.
 
@@ -84,7 +84,7 @@ It was manageable. The thought had passed.
 
 What it had left in the landscape was her own problem.
 
-—
+---
 
 She didn't tell him any of this. She got up the next morning and went to PT and ran and briefed the crew and checked the weather data and found him in the equipment bay at some point in the afternoon and said something operational and he answered something operational and they moved past each other without incident.
 
@@ -92,7 +92,7 @@ She was good at this.
 
 She was very good at this.
 
-—
+---
 
 Two days later she was watching Petrov run the anchor sequence on the south slope, alone, and she saw something shift in the way he moved through the middle section. He'd slowed down without thinking about slowing down. His hands were sure without checking whether they were sure.
 

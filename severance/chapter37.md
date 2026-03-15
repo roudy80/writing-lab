@@ -6,19 +6,19 @@ December 2040 through January 2041
 
 Phoenix would not be back until September.
 
-That was the thing Thomas had been carrying since October, when he had looked up the return trajectory and done the math and understood that the mission — which had launched in September 2039, reached the asteroid in November 2040, and was now burning back toward Earth — would not arrive at Luna Base until September 2041. Ten months of return transit. Ten months of Phoenix being somewhere in the dark with whatever it had done, the results invisible to everyone on Earth until the trajectory data accumulated enough to show which way the asteroid was actually going.
+That was the thing Thomas had been carrying since October, when he had looked up the return trajectory and done the math and understood that the mission, which had launched in September 2039, reached the asteroid in November 2040, and was now burning back toward Earth, would not arrive at Luna Base until September 2041. Ten months of return transit. Ten months of Phoenix being somewhere in the dark with whatever it had done, the results invisible to everyone on Earth until the trajectory data accumulated enough to show which way the asteroid was actually going.
 
-The trajectory data was publicly available. ARIA updated it every six hours on the agency website. Thomas had looked at it once and decided not to look at it again, not because he couldn't read it — he had learned enough orbital mechanics in fourteen years of monitoring office work to understand what the numbers meant — but because the numbers updated too slowly to be useful and checking them would become a habit he didn't want.
+The trajectory data was publicly available. ARIA updated it every six hours on the agency website. Thomas had looked at it once and decided not to look at it again, not because he couldn't read it, he had learned enough orbital mechanics in fourteen years of monitoring office work to understand what the numbers meant, but because the numbers updated too slowly to be useful and checking them would become a habit he didn't want.
 
 He had developed, over the years, a good sense of which habits were worth developing.
 
 * * *
 
-Thursday sessions in December ran through the holiday week, which they always had. Thomas had never closed the sessions for holidays, on the theory that the people who needed the sessions most were often the people with the fewest reasons to celebrate the holiday. The December attendance was usually lower than the fall sessions — not much lower, because the regulars came regardless, but the walk-ins were fewer.
+Thursday sessions in December ran through the holiday week, which they always had. Thomas had never closed the sessions for holidays, on the theory that the people who needed the sessions most were often the people with the fewest reasons to celebrate the holiday. The December attendance was usually lower than the fall sessions, not much lower, because the regulars came regardless, but the walk-ins were fewer.
 
 This December the walk-in rate held at the fall average. He noticed this and did not comment on it.
 
-Dmitri came to the December session on the third Thursday, which he rarely did — his council work had expanded since his reelection and his Thursday availability was sporadic. He sat in the back and participated in the record review and stayed afterward when most people had left.
+Dmitri came to the December session on the third Thursday, which he rarely did, his council work had expanded since his reelection and his Thursday availability was sporadic. He sat in the back and participated in the record review and stayed afterward when most people had left.
 
 "The Phoenix result," Dmitri said. He had the directness he always had when he was asking something he actually wanted to know the answer to. "When do we find out?"
 
@@ -46,7 +46,7 @@ Dmitri nodded slowly. He had the quality of someone who understood the distincti
 
 "Yes."
 
-They sat for a moment in the empty room. The chairs were in their usual configuration — the semicircle that allowed everyone to see everyone else, that he had been setting up for fourteen years and that had become, over time, not something he arranged but something that was simply how the room went.
+They sat for a moment in the empty room. The chairs were in their usual configuration, the semicircle that allowed everyone to see everyone else, that he had been setting up for fourteen years and that had become, over time, not something he arranged but something that was simply how the room went.
 
 "The ship," Dmitri said.
 
@@ -84,11 +84,11 @@ Thomas picked up before the second ring. He had been keeping the phone close sin
 
 "Go ahead."
 
-"The preliminary tracking data from the Goldstone and Arecibo arrays has been running since mid-December. There's a trajectory deviation. We expected a deviation — that's what the mission was for. The deviation is real and it's measurable."
+"The preliminary tracking data from the Goldstone and Arecibo arrays has been running since mid-December. There's a trajectory deviation. We expected a deviation, that's what the mission was for. The deviation is real and it's measurable."
 
 "Is it enough."
 
-"The analysis isn't complete. The confidence interval on the deviation magnitude is still wide — we need another three months of data to narrow it. What I can tell you is that the preliminary figure is within the range that the targeting team calculated as achievable under Solution Two." He stopped. "That's all I can tell you. I'm sorry. I know it's not the answer."
+"The analysis isn't complete. The confidence interval on the deviation magnitude is still wide, we need another three months of data to narrow it. What I can tell you is that the preliminary figure is within the range that the targeting team calculated as achievable under Solution Two." He stopped. "That's all I can tell you. I'm sorry. I know it's not the answer."
 
 "It's better than no data."
 
@@ -100,7 +100,7 @@ Thomas looked out the window at the January street. "The preliminary figure is w
 
 "I'll wait."
 
-"Thomas. Whatever the spring analysis shows —"
+"Thomas. Whatever the spring analysis shows , "
 
 "I know," Thomas said. "Whatever it shows, the ship is launching. I know."
 
@@ -124,4 +124,4 @@ He got up and made tea and sat back down and looked at the window.
 
 Three months.
 
-— END OF CHAPTER 37 —
+,  END OF CHAPTER 37 , 

@@ -52,7 +52,7 @@ They went to the truck. She drove. He was in the passenger seat with the camera 
 
 They drove.
 
-—
+---
 
 The fire that day was a containment support job, supplementing an engine crew that had a line established but needed air resources for the northeast corner where the terrain made ground access slow. Straightforward work, the kind she could run mostly on reflex, which was useful because some part of her attention was running a different process in the background and she needed the work to be manageable on reflex.
 
@@ -76,7 +76,7 @@ She was grateful for that too, which told her something she was not ready to loo
 
 She put her water bottle away and went back to work.
 
-—
+---
 
 On the flight home she sat across from him instead of beside him, the way the aircraft seating fell. He was looking at footage on the camera screen, headphones on, and she was doing the after-action documentation on the tablet, and they were in the same aircraft and not in each other's space and it was fine.
 

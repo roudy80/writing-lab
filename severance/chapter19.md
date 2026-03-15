@@ -12,11 +12,11 @@ He made coffee and stood at the window and watched Jamaica Plain come awake in t
 
 Normal life. The particular insistence of it.
 
-He'd been thinking about the hearing for three months, since Dmitri had called in November to say it was happening. The Committee on Housing and Reconstruction had agreed to hold a formal session on the monitoring office's enforcement record — a thing that had not happened before, that Thomas had not entirely believed would happen until Dmitri sent the official notice with the council letterhead and the date.
+He'd been thinking about the hearing for three months, since Dmitri had called in November to say it was happening. The Committee on Housing and Reconstruction had agreed to hold a formal session on the monitoring office's enforcement record, a thing that had not happened before, that Thomas had not entirely believed would happen until Dmitri sent the official notice with the council letterhead and the date.
 
 It had taken Dmitri two years to get here from that November conversation when he'd said, in the community center, that he was going to take it to the city council. Two years of working the notification provision in the monitoring office charter. Two years of building relationships with three council members whose districts overlapped with the outer ring neighborhoods. Two years of attending planning board meetings and housing committee sessions and neighborhood forums with the same patient presence that Thomas had modeled, without ever quite teaching it, by doing it himself for the six years before Dmitri started.
 
-Thomas had not been in the room for most of those two years. He'd been available — had answered questions, reviewed draft testimony, suggested sources. But the work had been Dmitri's, and Nina's, and Warren's, and Rosa's, and the dozen other people who had built the Jamaica Plain sessions into something that now had three satellite sessions in Roxbury and Dorchester and East Boston, each with its own facilitators, each running with a methodology that was recognizable as the Thursday sessions but that had grown past what Thomas could have designed alone.
+Thomas had not been in the room for most of those two years. He'd been available, had answered questions, reviewed draft testimony, suggested sources. But the work had been Dmitri's, and Nina's, and Warren's, and Rosa's, and the dozen other people who had built the Jamaica Plain sessions into something that now had three satellite sessions in Roxbury and Dorchester and East Boston, each with its own facilitators, each running with a methodology that was recognizable as the Thursday sessions but that had grown past what Thomas could have designed alone.
 
 This was the outcome he'd been working toward and had never quite been able to plan for. He was not sure what to do with it, which was a feeling he associated with things going right.
 
@@ -30,7 +30,7 @@ Dmitri picked him up at eight-fifteen. They drove to City Hall in Dmitri's car, 
 
 "They'll say staffing."
 
-"They'll say staffing." Thomas had thought about this response for a month. "I'll say the charter doesn't have a staffing exception for the consultation requirement. The staffing argument is real — they genuinely don't have enough people, and that's not a fabrication. But I want to be precise about the difference between an explanation and an excuse. An explanation says why something happened. An excuse says it therefore doesn't matter. The communities waiting on those consultations weren't waiting any less because the monitoring office was understaffed."
+"They'll say staffing." Thomas had thought about this response for a month. "I'll say the charter doesn't have a staffing exception for the consultation requirement. The staffing argument is real, they genuinely don't have enough people, and that's not a fabrication. But I want to be precise about the difference between an explanation and an excuse. An explanation says why something happened. An excuse says it therefore doesn't matter. The communities waiting on those consultations weren't waiting any less because the monitoring office was understaffed."
 
 Dmitri nodded. He drove. Outside, the highway fed into surface streets, the approach to the government district, the old buildings alongside the newer ones that had gone up in the years when the reconstruction funding was still moving.
 
@@ -58,7 +58,7 @@ They parked and walked to the building. The hearing room was already half-full.
 
 * * *
 
-Thomas had testified in depositions and in federal proceedings. A city council hearing was smaller and less formal, which made it more human, which made it harder in a specific way the federal proceedings hadn't been. He could see the council members' faces clearly. He could see the people in the gallery — community members, some of whom he recognized, some he didn't, a few with children drawing in notebooks or looking at phones with the studied indifference that meant they were paying close attention.
+Thomas had testified in depositions and in federal proceedings. A city council hearing was smaller and less formal, which made it more human, which made it harder in a specific way the federal proceedings hadn't been. He could see the council members' faces clearly. He could see the people in the gallery, community members, some of whom he recognized, some he didn't, a few with children drawing in notebooks or looking at phones with the studied indifference that meant they were paying close attention.
 
 He gave the testimony.
 
@@ -88,7 +88,7 @@ They went to a diner near City Hall. Dmitri ordered the soup. Thomas ordered cof
 
 "It was the right room. Finally in the right room."
 
-Thomas thought about this. The right room. He'd been thinking about rooms for nine years — which rooms the work could reach and which it couldn't. The federal complaint had reached the rooms where lawyers worked. The community sessions had reached the rooms where neighbors worked. Today had reached the room where the city officially examined itself.
+Thomas thought about this. The right room. He'd been thinking about rooms for nine years, which rooms the work could reach and which it couldn't. The federal complaint had reached the rooms where lawyers worked. The community sessions had reached the rooms where neighbors worked. Today had reached the room where the city officially examined itself.
 
 Each room was different. Each room had produced something different. The question that followed him was whether the rooms added up to something, or whether they were just rooms.
 
@@ -104,11 +104,11 @@ Thomas had known this was coming. Had sensed it forming for a year. Still felt t
 
 "The neighborhood council. Three of the community members whose families I've worked with for four years. One of the council members whose office has been our best contact on the enforcement question." He looked at Thomas steadily. "I want your honest read."
 
-Thomas considered what he actually thought, which required separating it from what he would have assumed he'd think before he understood what Dmitri had become in the last four years. "I think you're the right person for it. I think the communities that need representation in that room most are the people who've been in our sessions — and you came from where they came from, which is different from representing them, and matters." He paused. "I also think the work will change when you're inside the room instead of outside it. There are things the inside position allows that the outside doesn't, and things it prevents."
+Thomas considered what he actually thought, which required separating it from what he would have assumed he'd think before he understood what Dmitri had become in the last four years. "I think you're the right person for it. I think the communities that need representation in that room most are the people who've been in our sessions, and you came from where they came from, which is different from representing them, and matters." He paused. "I also think the work will change when you're inside the room instead of outside it. There are things the inside position allows that the outside doesn't, and things it prevents."
 
 "And you've always been outside the room."
 
-"By choice. Because it's where I was most useful and because I knew it." Thomas looked at his coffee. "You're going to be more useful inside. You've been building toward it for four years. The organizing work, the relationship work, the enforcement documentation — that's the credential for the room you're trying to get into."
+"By choice. Because it's where I was most useful and because I knew it." Thomas looked at his coffee. "You're going to be more useful inside. You've been building toward it for four years. The organizing work, the relationship work, the enforcement documentation, that's the credential for the room you're trying to get into."
 
 Dmitri nodded slowly. He looked out the diner window at the City Hall building. "Will you help."
 
@@ -138,4 +138,4 @@ Thomas got out of the car. He unlocked the community center. He went inside and 
 
 He set up twenty-eight of them, which was how many the room held comfortably, and then he pulled out two more because there had been thirty-one at the last session and he was not going to be the reason someone couldn't sit down.
 
-— END OF CHAPTER 19 —
+,  END OF CHAPTER 19 , 

@@ -18,7 +18,7 @@ He'd said he understood.
 
 She'd looked at him for a moment. Then she'd turned back to the maps.
 
-—
+---
 
 The drop zone was a ridge to the west of the fire's head, the last defensible position before a fuel-heavy slope that would go if the fire made a run north. She put the crew down in two groups, a minute apart, and had them moving to assigned positions before the second group had fully staged. The pace was different from smaller deployments. Everything was faster and the stakes of speed were higher and she was aware of both simultaneously.
 

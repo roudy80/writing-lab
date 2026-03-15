@@ -92,7 +92,7 @@ The mathematics were correct. Sarah Grant was going to hold that, and keep build
 
 She pulled the next document toward her and got back to work.
 
-— END OF CHAPTER 8 —
+,  END OF CHAPTER 8 , 
 
 ACT TWO
 

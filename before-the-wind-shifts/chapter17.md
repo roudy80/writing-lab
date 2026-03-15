@@ -30,7 +30,7 @@ He held her eyes for a moment. "All right," he said.
 
 She left.
 
-—
+---
 
 The briefing was at 0700 and she was early for it and had the weather data up on the board before anyone else arrived. Kowalski came in at 0650 and poured coffee and did not look at her face, which meant he'd already read it and made a decision about what he'd seen and was keeping that decision to himself, which was more consideration than she'd expected from Kowalski and which she registered as a small gift.
 
@@ -88,7 +88,7 @@ He nodded once. He picked up his notebook. He went to the door and stopped.
 
 She looked at the maps. Then she picked up the marker and went back to the numbers.
 
-—
+---
 
 Torres cornered her at lunch.
 
@@ -122,7 +122,7 @@ She was mostly fine.
 
 The parts that weren't fine, she kept to the list.
 
-—
+---
 
 She stayed late in the operations room that night, past when she had any operational reason to. She was reviewing the deployment reports from the major fire, the full accounting, four hundred pages of documentation that would go to the regional office and become part of the permanent record.
 

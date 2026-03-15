@@ -6,7 +6,7 @@ April through August, 2041
 
 Sofia called the morning the ARIA report dropped.
 
-Elena had been awake since before midnight — not because she'd known the report was coming, though she had, but because the kind of awareness that had been building in her for six years had a quality she recognized as not-sleeping, the mind refusing to power down when something large was in motion. She had given up on sleep at four and read the report when it posted and was on her second cup of coffee when her phone lit up with Sofia's name.
+Elena had been awake since before midnight, not because she'd known the report was coming, though she had, but because the kind of awareness that had been building in her for six years had a quality she recognized as not-sleeping, the mind refusing to power down when something large was in motion. She had given up on sleep at four and read the report when it posted and was on her second cup of coffee when her phone lit up with Sofia's name.
 
 "Thirty-one percent," Sofia said.
 
@@ -14,7 +14,7 @@ Elena had been awake since before midnight — not because she'd known the repor
 
 "You knew it might be this."
 
-"I knew it might be lower. I hoped it would be higher. The targeting team did everything the data allowed." Elena looked at the Houston window — the pre-dawn dark, the first suggestion of gray at the horizon. "The ship is still launching."
+"I knew it might be lower. I hoped it would be higher. The targeting team did everything the data allowed." Elena looked at the Houston window, the pre-dawn dark, the first suggestion of gray at the horizon. "The ship is still launching."
 
 "I know." A pause. "Are you still on it?"
 
@@ -24,7 +24,7 @@ Elena had been awake since before midnight — not because she'd known the repor
 
 "Sofia."
 
-Another pause. The kind that had become familiar in the three years since Elena had told Sofia she was on the list — not a silence of unresolved argument but of things that had been fully said and that did not require repeating.
+Another pause. The kind that had become familiar in the three years since Elena had told Sofia she was on the list, not a silence of unresolved argument but of things that had been fully said and that did not require repeating.
 
 "Thirty-one percent," Sofia said again, and the repetition was not a question. It was Sofia saying the number the way you said something you were learning to hold. Learning to carry.
 
@@ -32,7 +32,7 @@ Another pause. The kind that had become familiar in the three years since Elena 
 
 "I know what you're asking me to carry," Sofia said. "I've known for four years. I agreed to it four years ago." A beat. "I'm still agreeing."
 
-Elena let out a breath. Not relief — the thing was too large for simple relief — but something adjacent to it, the specific quality of being known by someone and having that knowing hold.
+Elena let out a breath. Not relief, the thing was too large for simple relief, but something adjacent to it, the specific quality of being known by someone and having that knowing hold.
 
 "The crew boarding," Elena said. "Starts in October. I'll be on Luna Base by November."
 
@@ -50,9 +50,9 @@ Elena let out a breath. Not relief — the thing was too large for simple relief
 
 * * *
 
-The final crew orientation ran from September through October. Four thousand, three hundred and twelve people, divided into cohorts of two hundred, moving through a structured program designed by Elena's team over eighteen months: the ship's layout and systems, the governance framework they had ratified in September, the psychological preparation for departure — which was not preparation in the sense of making it easier, because nothing made it easier, but preparation in the sense of giving people the tools to know what they were experiencing when they experienced it.
+The final crew orientation ran from September through October. Four thousand, three hundred and twelve people, divided into cohorts of two hundred, moving through a structured program designed by Elena's team over eighteen months: the ship's layout and systems, the governance framework they had ratified in September, the psychological preparation for departure, which was not preparation in the sense of making it easier, because nothing made it easier, but preparation in the sense of giving people the tools to know what they were experiencing when they experienced it.
 
-Elena ran twelve of the forty-three sessions herself. She had not planned to run twelve. She had planned to run four and observe the rest. But the sessions were different from what she had expected — not worse, not more difficult, but more present. She found that the people in the room wanted to talk about things that the session plan covered and also things the session plan did not cover, and the things it did not cover were often more important.
+Elena ran twelve of the forty-three sessions herself. She had not planned to run twelve. She had planned to run four and observe the rest. But the sessions were different from what she had expected, not worse, not more difficult, but more present. She found that the people in the room wanted to talk about things that the session plan covered and also things the session plan did not cover, and the things it did not cover were often more important.
 
 In session nine, a man named Adeyemi who was in the agricultural cohort asked: "What do we do when someone wants to give up?"
 
@@ -60,7 +60,7 @@ The room was quiet. It was the question everyone in the room had been thinking a
 
 "You stay with them," Elena said. "You don't fix it. You stay with them until the wanting to give up passes or changes into something else. In a closed environment over a long transit, the people around you are the resource. You are each other's resource." She looked at him. "The governance framework gives you structures for this. The structures help. But the structures are made of people. The people are the thing."
 
-Adeyemi nodded. He had a quality she had noted in his file — a specific kind of steadiness that she had come to recognize as one of the most reliable predictors of the thing she was trying to select for. Not the absence of difficulty. The capacity to remain present inside it.
+Adeyemi nodded. He had a quality she had noted in his file, a specific kind of steadiness that she had come to recognize as one of the most reliable predictors of the thing she was trying to select for. Not the absence of difficulty. The capacity to remain present inside it.
 
 In session fourteen, a woman named Strand asked whether Elena was afraid.
 
@@ -68,7 +68,7 @@ The room was quiet in a different way.
 
 Elena had been asked this before. She had been asked it by journalists and Framework committee members and her own assessment team and by Sofia, once, in a way that required an honest answer rather than a professional one. She had different answers for different contexts.
 
-"Yes," she said. "I think anyone who isn't afraid of what we're doing isn't fully understanding what we're doing." She looked at the room. "Fear is appropriate. What matters is what you do with it. We've designed the ship and the governance structure and this orientation to give you something to do with it — productive channels, meaningful work, community. You won't stop being afraid. You'll have somewhere to put the fear so it doesn't take up all the space."
+"Yes," she said. "I think anyone who isn't afraid of what we're doing isn't fully understanding what we're doing." She looked at the room. "Fear is appropriate. What matters is what you do with it. We've designed the ship and the governance structure and this orientation to give you something to do with it, productive channels, meaningful work, community. You won't stop being afraid. You'll have somewhere to put the fear so it doesn't take up all the space."
 
 Strand looked at her. "Are you going to be on the ship?"
 
@@ -80,11 +80,11 @@ The room absorbed this. Several people nodded. One woman, whose file Elena recal
 
 She flew to Luna Base in November.
 
-Kim was already there, had been there since October, managing the psychological integration phase as the first crew cohorts boarded. Elena met her in the staging area — a large pressurized space that had been the main cargo bay two years ago and that had been converted into the crew arrival hub, with orientation stations and medical check-in and the specific controlled energy of a place where something large was beginning.
+Kim was already there, had been there since October, managing the psychological integration phase as the first crew cohorts boarded. Elena met her in the staging area, a large pressurized space that had been the main cargo bay two years ago and that had been converted into the crew arrival hub, with orientation stations and medical check-in and the specific controlled energy of a place where something large was beginning.
 
 "How are they," Elena said.
 
-Kim looked at the staging area — two hundred people in the first cohort, moving through their arrival procedures, the specific mix of expressions that attended the moment when something you had been preparing for became the thing you were actually doing. "They're good," she said. "Better than I expected at this stage. The orientation preparation is holding."
+Kim looked at the staging area, two hundred people in the first cohort, moving through their arrival procedures, the specific mix of expressions that attended the moment when something you had been preparing for became the thing you were actually doing. "They're good," she said. "Better than I expected at this stage. The orientation preparation is holding."
 
 "Good."
 
@@ -92,13 +92,13 @@ Kim looked at the staging area — two hundred people in the first cohort, movin
 
 "I've seen the ship."
 
-"You've seen the construction documentation and the engineering specs and the simulation walkthroughs. You haven't walked it empty." Kim paused. "Walk it empty. Before it's full of people it belongs to other people. Right now it's just — it."
+"You've seen the construction documentation and the engineering specs and the simulation walkthroughs. You haven't walked it empty." Kim paused. "Walk it empty. Before it's full of people it belongs to other people. Right now it's just, it."
 
 Elena looked at her. Then she went.
 
 * * *
 
-The ship was enormous in the way that anything designed to be a city for forty years was enormous, and also, in its emptiness, intimate. She walked the Ring One corridor — the living quarters ring, where she would have a cabin approximately the size of the studio apartment she had lived in during graduate school and that would be, for the rest of her life, the place she came back to. The corridor curved away from her in both directions, the artificial gravity holding her feet to the floor, the overhead lighting set at the low level used during maintenance hours.
+The ship was enormous in the way that anything designed to be a city for forty years was enormous, and also, in its emptiness, intimate. She walked the Ring One corridor, the living quarters ring, where she would have a cabin approximately the size of the studio apartment she had lived in during graduate school and that would be, for the rest of her life, the place she came back to. The corridor curved away from her in both directions, the artificial gravity holding her feet to the floor, the overhead lighting set at the low level used during maintenance hours.
 
 She walked for forty minutes. She went through the common areas and the medical bay and the agricultural ring, where the growing systems were installed and calibrated and waiting. She stood in the central hub in zero gravity for a few minutes, floating in the middle of the space that would be the ship's operational heart for four decades.
 
@@ -110,4 +110,4 @@ Then she went back to the staging area and found Kim and they went to the briefi
 
 The boarding continued.
 
-— END OF CHAPTER 39 —
+,  END OF CHAPTER 39 , 

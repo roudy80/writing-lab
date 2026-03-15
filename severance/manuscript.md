@@ -492,7 +492,7 @@ The object had been approximately forty meters across. A fragment of a larger bo
 
 The impact site was the Quabbin Reservoir watershed in central Massachusetts. The energy release had been equivalent to somewhere between 250 and 320 megatons, depending on the source of the estimate and how much of the broadcasts they'd managed to catch clearly. The pressure wave had caused structural damage across six states. Casualty estimates in the early fragments had said millions; later fragments were more careful with language in ways that suggested the earlier estimates had been, if anything, conservative.
 
-Global communication infrastructure had been disrupted by two separate mechanisms, and Marcus had spent part of the third day working through the physics of both. The impact had produced enough atmospheric ionization to interfere with radio propagation across the northern hemisphere for the first several hours — not a true electromagnetic pulse the way a nuclear detonation would generate one, but enough plasma disruption in the upper atmosphere to degrade satellite links and HF communications across a wide area. More significantly, the physical destruction of the northeastern United States had severed the undersea fiber cables and satellite ground stations concentrated in that corridor, which handled a disproportionate share of global internet traffic. The Northeast wasn't just a region. It was infrastructure. When it went dark, it took significant portions of the global communications backbone with it. Systems were coming back online gradually as backup routing activated across Atlantic cables further south, which was why the fragments were getting clearer. Within another week, Marcus estimated, they'd have something close to a real connection again.
+Global communication infrastructure had been disrupted by two separate mechanisms, and Marcus had spent part of the third day working through the physics of both. The impact had produced enough atmospheric ionization to interfere with radio propagation across the northern hemisphere for the first several hours, not a true electromagnetic pulse the way a nuclear detonation would generate one, but enough plasma disruption in the upper atmosphere to degrade satellite links and HF communications across a wide area. More significantly, the physical destruction of the northeastern United States had severed the undersea fiber cables and satellite ground stations concentrated in that corridor, which handled a disproportionate share of global internet traffic. The Northeast wasn't just a region. It was infrastructure. When it went dark, it took significant portions of the global communications backbone with it. Systems were coming back online gradually as backup routing activated across Atlantic cables further south, which was why the fragments were getting clearer. Within another week, Marcus estimated, they'd have something close to a real connection again.
 
 He kept a private log during those four days, separate from the official station records. Not because the content needed to be hidden but because the official log was for facts and this was for something else. What he wrote in it was mostly questions. Questions about the resupply mission timeline and whether the political infrastructure to authorize it would survive what Earth was going through. Questions about what self-sufficiency actually meant for a station designed as a temporary research post rather than a permanent settlement. Questions about the phrase a fragment of a larger body, and what the scientists at JPL and ESA were doing right now, and what they were finding.
 
@@ -624,7 +624,7 @@ Tomorrow they would start building something. He didn't know yet exactly what it
 
 The larger body was still out there. Somebody needed to be somewhere other than Earth when it arrived.
 
-— END OF CHAPTER 3 —
+,  END OF CHAPTER 3 , 
 
 Chapter 4: The Weight of Selection
 
@@ -800,7 +800,7 @@ At nine o'clock she put on her coat and walked out through the empty office. In 
 
 She started the car and drove home.
 
-— END OF CHAPTER 4 —
+,  END OF CHAPTER 4 , 
 
 Chapter 5: Triage
 
@@ -946,7 +946,7 @@ The mathematics were correct. Thomas would understand that, when he thought abou
 
 He got in his car and drove back to the temporary apartment and did not figure it out that night.
 
-— END OF CHAPTER 5 —
+,  END OF CHAPTER 5 , 
 
 Chapter 6: Zero Gravity
 
@@ -1148,7 +1148,7 @@ Maria watched the robotic arms work in the silence outside the window, moving ma
 
 She pushed off from the window and went to begin the post-flight checklist. There was a return cargo manifest to review, a maintenance cycle to sign off on, and a debrief with Luna Base operations before the next launch window opened. The work was what it was. She did it.
 
-— END OF CHAPTER 6 —
+,  END OF CHAPTER 6 , 
 
 Chapter 7: What the Numbers Don't Count
 
@@ -1162,7 +1162,7 @@ The headline was careful. Emergency Supplemental Authorization Re-Allocation: Lu
 
 By the time the sky outside his temporary apartment had gone from black to gray, he'd read it twice and written down the numbers. Not the round numbers from the press conference slides, the ones calibrated for television. The actual project-by-project breakdown that someone in the Office of Management and Budget had assembled with the specific thoroughness of a bureaucrat who understood that their work would outlast the political cover that commissioned it.
 
-Forty-three percent of the emergency reconstruction authorization — the money designated in October for exactly this, rebuilding what the impact had destroyed — had been redirected. Not eliminated. The paperwork was careful about that. Redirected. Reallocated to priority tier infrastructure in support of the Luna-Ark program: launch facility upgrades, rare-earth extraction contracts, materials processing facilities in Nevada and Utah and three other states that happened to contain the right minerals and the right senators.
+Forty-three percent of the emergency reconstruction authorization, the money designated in October for exactly this, rebuilding what the impact had destroyed, had been redirected. Not eliminated. The paperwork was careful about that. Redirected. Reallocated to priority tier infrastructure in support of the Luna-Ark program: launch facility upgrades, rare-earth extraction contracts, materials processing facilities in Nevada and Utah and three other states that happened to contain the right minerals and the right senators.
 
 Thomas put the printout on the kitchen table and looked at it for a long time.
 
@@ -1212,7 +1212,7 @@ At noon he walked two blocks to the community center on the corner of Green and 
 
 He'd been holding these sessions since November, informally at first, then with a regular time and a regular room. They were not official. Carol had mentioned once, obliquely, that certain people at the program's administrative level were aware of them and had chosen not to comment, which Thomas understood as tacit tolerance rather than approval. He was not sure he cared about the distinction.
 
-The room held twenty-two people this Thursday. He recognized most of them. The man in the back who'd asked about the federal assessment process three sessions ago and was now asking follow-up questions that showed he'd done his own research in the interval. The woman with the baby, who came because her building's assessment was still pending and who stayed after each session to ask specific technical questions in a way that suggested she was more technically literate than her file indicated. Two young men from the apartment building on Boylston, the one that had been cleared but whose landlord had stopped accepting rent payments and was clearly running an insurance play — a situation Thomas had been trying to address through channels that were increasingly theoretical.
+The room held twenty-two people this Thursday. He recognized most of them. The man in the back who'd asked about the federal assessment process three sessions ago and was now asking follow-up questions that showed he'd done his own research in the interval. The woman with the baby, who came because her building's assessment was still pending and who stayed after each session to ask specific technical questions in a way that suggested she was more technically literate than her file indicated. Two young men from the apartment building on Boylston, the one that had been cleared but whose landlord had stopped accepting rent payments and was clearly running an insurance play, a situation Thomas had been trying to address through channels that were increasingly theoretical.
 
 He'd started these sessions explaining the assessment process: what the orange notices meant, what the sequence from assessment to authorization to remediation looked like, what the federal paperwork required. That was still part of it. But the conversation had shifted over three months into something larger, a running community seminar on the mechanics of how decisions got made: how reconstruction money moved, how the bureaucratic sequencing worked, where the appeals points were, what kinds of pressure actually moved things and what kinds were absorbed without effect.
 
@@ -1254,7 +1254,7 @@ He paused.
 
 Dmitri said, very quietly: "And you believe in it."
 
-Thomas looked at him — at Mrs. Petrovitch's orange notice somewhere in the stack on his desk, at the thirty-two projects in the redirected column, at the appeals process with a sixty-day response window and a low success rate.
+Thomas looked at him, at Mrs. Petrovitch's orange notice somewhere in the stack on his desk, at the thirty-two projects in the redirected column, at the appeals process with a sixty-day response window and a low success rate.
 
 "I believe the mathematics are sound," he said.
 
@@ -1284,7 +1284,7 @@ Thomas Rourke was very good at not stopping.
 
 He was starting to understand that this was going to be a problem.
 
-— END OF CHAPTER 7 —
+,  END OF CHAPTER 7 , 
 
 Chapter 8: The Vote That Wasn't One
 
@@ -1380,7 +1380,7 @@ The mathematics were correct. Sarah Grant was going to hold that, and keep build
 
 She pulled the next document toward her and got back to work.
 
-— END OF CHAPTER 8 —
+,  END OF CHAPTER 8 , 
 
 ACT TWO
 
@@ -1446,7 +1446,7 @@ Elena looked at the centrifuge. It hummed. The morning sun through the window wa
 
 "Yes."
 
-Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity — Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards, language Elena had written in November 2025, before anyone had a validated protocol for cryosleep compatibility. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
+Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity, Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards, language Elena had written in November 2025, before anyone had a validated protocol for cryosleep compatibility. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
 
 She had four thousand spots to fill. She had a mission that launched in fifteen years if everything went right. She had a 14 to 22 percent incompatibility rate in her current pool and a validation protocol that could be run against those candidates in four months.
 
@@ -1534,7 +1534,7 @@ Across the facility, in the secure server room, 1,200 candidate files sat with n
 
 The work continued. She kept doing it.
 
-— END OF CHAPTER 9 —
+,  END OF CHAPTER 9 , 
 
 Chapter 10: Frame and Void
 
@@ -1546,7 +1546,7 @@ The ship didn't look like a ship yet.
 
 That was Maria's first thought every time she came to the observation platform, the one on the outside of Habitat Ring C that you reached through an airlock sequence and a ladder that the engineers had bolted to the regolith with an informality that suggested they'd built it in an afternoon and hadn't gotten around to replacing it with something permanent. The platform was a steel grating attached to a lunar boulder that the base's early construction crews had converted into a foundation point, and it gave you a clear sightline across four kilometers of hard vacuum to the assembly framework.
 
-What you saw from four kilometers was structure. Ribs of high-tensile aluminum alloy arranged in a spine that was already longer than the biggest thing humanity had previously launched into space, flanked by the permanent construction scaffolding that crawled with robotic arms and suited technicians reduced to glove-sized figures at this distance. The cross-sections weren't closed yet. The ship's habitation rings were visible as open frameworks, hoops through which you could see the stars. The drive assembly at the stern was present only as its mounting architecture — the cradles and heat exchangers and magnetic field generators that would eventually enclose the engine itself, which had not been fully designed yet. That was the part ARIA referred to, in its daily construction progress reports, as "drive system integration pending final propulsion specifications," which was engineering language for we haven't decided yet.
+What you saw from four kilometers was structure. Ribs of high-tensile aluminum alloy arranged in a spine that was already longer than the biggest thing humanity had previously launched into space, flanked by the permanent construction scaffolding that crawled with robotic arms and suited technicians reduced to glove-sized figures at this distance. The cross-sections weren't closed yet. The ship's habitation rings were visible as open frameworks, hoops through which you could see the stars. The drive assembly at the stern was present only as its mounting architecture, the cradles and heat exchangers and magnetic field generators that would eventually enclose the engine itself, which had not been fully designed yet. That was the part ARIA referred to, in its daily construction progress reports, as "drive system integration pending final propulsion specifications," which was engineering language for we haven't decided yet.
 
 But the spine was there. The spine was undeniably there, and it was larger than Maria had expected even though she had been flying construction cargo to this facility for two years and had watched it grow component by component, and the gap between understanding something's scale from numbers and understanding it from sight was a gap that kept surprising her.
 
@@ -1644,7 +1644,7 @@ She lay back on the bunk and closed her eyes for three minutes, which was all sh
 
 Then she got up and went back to work.
 
-— END OF CHAPTER 10 —
+,  END OF CHAPTER 10 , 
 
 Chapter 11: The People They Left
 
@@ -1746,7 +1746,7 @@ He had not figured out what to do with what Ben had told him.
 
 He suspected he was going to have to.
 
-— END OF CHAPTER 11 —
+,  END OF CHAPTER 11 , 
 
 Chapter 12: Sovereignty
 
@@ -1768,7 +1768,7 @@ Dr. Lena Shaw had done this. That was the accurate assessment and Marcus had bee
 
 The problem with independence was that it was not the plan.
 
-The plan — the plan Marcus had voted for along with the other eleven crew members on October 19, 2025 — had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
+The plan, the plan Marcus had voted for along with the other eleven crew members on October 19, 2025, had been to commit to becoming a permanent self-sustaining settlement. The plan had not specified the governance structure of that settlement. It had not specified whether a permanent self-sustaining settlement on Mars was a facility of the Framework for Coordinated Planetary Defense, an independent entity, or something in between that didn't have a name yet.
 
 The Framework had a view on this. The message from Geneva expressed the view in diplomatic language that Marcus had learned to read as: you are a facility of the Framework, you receive Framework support and guidance, and your "operational independence" is a practical characteristic of a remote facility rather than a legal or governance status.
 
@@ -1868,7 +1868,7 @@ He thought this was the right call. He also thought the next thirteen years were
 
 He went back to work.
 
-— END OF CHAPTER 12 —
+,  END OF CHAPTER 12 , 
 
 Chapter 13: The Public Number
 
@@ -1994,7 +1994,7 @@ The room was quiet.
 
 A woman in the third row, one of the three new faces, asked: "What does 54 percent mean for us? For the people not on the ship?"
 
-Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan — the deflection mission — has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
+Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan, the deflection mission, has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
 
 "Four thousand people," said Dmitri. Not a question.
 
@@ -2040,7 +2040,7 @@ He thought about a coin flip with nine billion people on it.
 
 He started the car and drove home and opened the new spreadsheet and kept working.
 
-— END OF CHAPTER 13 —
+,  END OF CHAPTER 13 , 
 
 Chapter 14: Notification
 
@@ -2054,7 +2054,7 @@ Elena drafted the letter herself. She had three templates prepared by the legal 
 
 She rewrote it.
 
-The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real — candidates with borderline results had a pathway to retest and to request review by the medical board — and it explained what appeals had produced so far, which was honest information: in the first forty-two notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
+The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real, candidates with borderline results had a pathway to retest and to request review by the medical board, and it explained what appeals had produced so far, which was honest information: in the first forty-two notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
 
 It said that the selection team recognized the difficulty of receiving this information, and that counseling resources were available through the Framework's candidate support office.
 
@@ -2086,7 +2086,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 "Go ahead."
 
-"The candidates we're notifying. Harmon is one example. The people in this category — compatibility issue, otherwise excellent candidates. What happens to them?"
+"The candidates we're notifying. Harmon is one example. The people in this category, compatibility issue, otherwise excellent candidates. What happens to them?"
 
 "They're removed from the mission pool. The letter explains the appeals process."
 
@@ -2094,7 +2094,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 Elena looked at the window. Outside, the Houston morning was already bright and beginning to get warm, the particular light of a city that was warm earlier every year. "The same thing that happens to everyone not on the ship."
 
-"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol — the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
+"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol, the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
 
 Elena understood this. She'd been living in the space between the abstract and the specific for four years. "We're not sending anyone to their death," she said. "We're telling them that the mission they applied for requires a biological characteristic they don't have. The deflection mission is the response to the threat. The ship is the hedge. We are building the best possible hedge."
 
@@ -2118,7 +2118,7 @@ The candidate who called was not supposed to call.
 
 The notification letters were clear about the contact protocol: responses and questions went to the candidate support office, which had a team and a process. The letter had Elena's office as the sender but it did not have a direct callback number. Somehow, a woman named Patricia Novak had found one.
 
-Elena's assistant forwarded the call on a Friday afternoon with a note saying the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally — she was in the second cohort, earlier in the process — but the Luna Base Commander's name was not one she needed to look up.
+Elena's assistant forwarded the call on a Friday afternoon with a note saying the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally, she was in the second cohort, earlier in the process, but the Luna Base Commander's name was not one she needed to look up.
 
 She took the call.
 
@@ -2208,7 +2208,7 @@ She was building a record. Each letter was a record that the process had been ca
 
 She closed the laptop and drove home.
 
-— END OF CHAPTER 14 —
+,  END OF CHAPTER 14 , 
 
 Chapter 15: The Ring Closes
 
@@ -2232,11 +2232,11 @@ She stayed on the observation post for seventeen minutes after the docking team 
 
 The mission parameters had been locked in October.
 
-Not the full mission, not the interstellar mission with its forty-year transit and its cold sleep and its arrival at a star that had only been confirmed as having planets nine years ago. That mission remained in the future in the way large permanent things remained in the future — certain in outline, specific in detail, still too large to hold all at once. What had been locked in October was the other mission: the asteroid deflection mission. The one that would happen first. The one that determined whether the interstellar mission was a hedge or a main event.
+Not the full mission, not the interstellar mission with its forty-year transit and its cold sleep and its arrival at a star that had only been confirmed as having planets nine years ago. That mission remained in the future in the way large permanent things remained in the future, certain in outline, specific in detail, still too large to hold all at once. What had been locked in October was the other mission: the asteroid deflection mission. The one that would happen first. The one that determined whether the interstellar mission was a hedge or a main event.
 
 The parameters: a crew of six aboard the modification vessel Phoenix, launched in 2039, intercept in 2041, deflection operation over a period of four to six weeks, return transit depending on the operational outcome. Maria was the mission commander and had been officially designated as such for three months, which had been enough time for the designation to feel real rather than provisional.
 
-She had spent those three months learning everything that was known about a rubble-pile asteroid designated 2024 XR19 by the catalog and called "the problem" or "the object" by the people who worked with it daily, because giving it a name made it easier to discuss and harder to think about clearly. The internal structure was the variable. The precursor mission — an unmanned survey vehicle called Compass — was en route and would arrive in 2033, and the structural data from Compass would determine the final targeting protocol for the kinetic impactors she was going to place.
+She had spent those three months learning everything that was known about a rubble-pile asteroid designated 2024 XR19 by the catalog and called "the problem" or "the object" by the people who worked with it daily, because giving it a name made it easier to discuss and harder to think about clearly. The internal structure was the variable. The precursor mission, an unmanned survey vehicle called Compass, was en route and would arrive in 2033, and the structural data from Compass would determine the final targeting protocol for the kinetic impactors she was going to place.
 
 She had read every paper on rubble-pile asteroid dynamics published in the last eighteen years. She had talked to the targeting team at JPL for a combined total of forty hours over three months. She had a very clear picture of what she was being asked to do and a very clear understanding of how many variables in that picture were still blank.
 
@@ -2252,7 +2252,7 @@ The thing existed. The rendering showed that clearly.
 
 Six people around the table: Novak, Maria, Dr. Harrison from the technical advisory board who had come up from Earth for the week, and three engineers whose names Maria knew and whose expertise she trusted. The agenda was the habitation ring completion milestone and the timeline revisions that came with it.
 
-"Ring Two closed this morning," Novak said. She said it the same way she said everything that was not a question: as a fact that required acknowledgment before proceeding. "Ring Three integration begins in April. If the fabrication platform stays on schedule — which it has, for the last two quarters — Ring Three closes in November. We enter 2032 with all three habitation rings complete and the drive assembly integration as the remaining major structural work."
+"Ring Two closed this morning," Novak said. She said it the same way she said everything that was not a question: as a fact that required acknowledgment before proceeding. "Ring Three integration begins in April. If the fabrication platform stays on schedule, which it has, for the last two quarters, Ring Three closes in November. We enter 2032 with all three habitation rings complete and the drive assembly integration as the remaining major structural work."
 
 "Drive assembly is the long pole," Harrison said. He was the kind of scientist who had stopped being primarily a scientist at some point and had become primarily a person who explained science to decision-makers, and he was very good at it. "The propulsion specifications are locked but the integration tolerances are tighter than anything we've built before. Eighteen months minimum, twenty-four months if there are fit issues."
 
@@ -2292,7 +2292,7 @@ The simulation today was approach and parking orbit insertion at a rubble-pile o
 
 She stayed in the simulator after the run ended. The display showed the post-run analysis, the decision tree rendered as a diagram with her choices marked and the alternatives calculated. She'd made sixteen decisions in the run. Thirteen were rated optimal. Two were rated acceptable. One was flagged for review.
 
-She looked at the flagged decision. She'd seen the flag before on other runs — a choice to prioritize station-keeping over instrument calibration in a specific two-minute window. The simulation's evaluation model considered the other choice optimal. Maria consistently chose the station-keeping. She'd been thinking about why for two months.
+She looked at the flagged decision. She'd seen the flag before on other runs, a choice to prioritize station-keeping over instrument calibration in a specific two-minute window. The simulation's evaluation model considered the other choice optimal. Maria consistently chose the station-keeping. She'd been thinking about why for two months.
 
 The answer she kept arriving at was: because the simulation's model assumes the instrument calibration matters more than the station-keeping in the specified window, and I think the model is wrong, and I think the margin for error on station-keeping in approach proximity is smaller than the model accounts for, and I would rather lose two minutes of calibration data than risk a drift event.
 
@@ -2338,7 +2338,7 @@ Novak was quiet for a moment. "I know," she said.
 
 They ate in the cafeteria with three hundred and ninety-eight other people who were building the same thing for the same reason and who were not going to stop.
 
-— END OF CHAPTER 15 —
+,  END OF CHAPTER 15 , 
 
 Chapter 16: The Cost of the Word
 
@@ -2348,7 +2348,7 @@ February 4, 2031 | 08:30 Mars Local Solar Time
 
 The reply from Geneva had taken nineteen days.
 
-Not fourteen minutes and fourteen more — nineteen days of official silence that Marcus had spent watching the crew notice and not comment on, which was its own kind of comment. He had drafted four potential response scenarios during those nineteen days, organized by the Framework's likely position, and had filed them in a folder on his personal drive that he'd titled, with a dry accuracy that had amused him the first day and stopped amusing him around day twelve, "options."
+Not fourteen minutes and fourteen more, nineteen days of official silence that Marcus had spent watching the crew notice and not comment on, which was its own kind of comment. He had drafted four potential response scenarios during those nineteen days, organized by the Framework's likely position, and had filed them in a folder on his personal drive that he'd titled, with a dry accuracy that had amused him the first day and stopped amusing him around day twelve, "options."
 
 The reply had arrived in the early morning and Marcus had read it before breakfast and then eaten breakfast and then read it again.
 
@@ -2406,7 +2406,7 @@ Lena looked at the message on the display. "They have twenty-two people on the w
 
 "Who do you have in mind?"
 
-Marcus looked at the room. Four years of small community had made the selection obvious. "Paulo for the operational arguments. Adaeze for the technical architecture. And you for the mission argument — why Mars sovereignty serves the long-term goals of human expansion better than administrative dependency."
+Marcus looked at the room. Four years of small community had made the selection obvious. "Paulo for the operational arguments. Adaeze for the technical architecture. And you for the mission argument, why Mars sovereignty serves the long-term goals of human expansion better than administrative dependency."
 
 "You want me to argue that to Geneva," Lena said.
 
@@ -2426,7 +2426,7 @@ This was progress. Marcus wrote "progress" in his personal log on day eighty-nin
 
 The working group was formally constituted in June. Three people from Olympus, four from Geneva, two observers from Luna Base, and one observer from the Brazilian delegation that had been the loudest voice in the Framework's multi-sovereign structure about the governance questions Mars raised.
 
-Lena's argument, which she had spent two months refining, was built around a single premise: that the goals of the Framework for Coordinated Planetary Defense — which were to ensure the survival of human civilization across multiple planetary locations — were better served by a Mars that operated as a genuine partner rather than a managed dependency, because genuine partners developed the resilience and capability that survival required, while managed dependencies developed only what their managers authorized. A dependency's ceiling was its manager's vision. A partner's ceiling was its own.
+Lena's argument, which she had spent two months refining, was built around a single premise: that the goals of the Framework for Coordinated Planetary Defense, which were to ensure the survival of human civilization across multiple planetary locations, were better served by a Mars that operated as a genuine partner rather than a managed dependency, because genuine partners developed the resilience and capability that survival required, while managed dependencies developed only what their managers authorized. A dependency's ceiling was its manager's vision. A partner's ceiling was its own.
 
 Marcus read the transcript of her first working group session three times. She had made the argument better than he would have made it. He sent her a message that said: Good work. She replied: You could have said that three years ago. He wrote back: I wasn't convinced yet.
 
@@ -2438,7 +2438,7 @@ Marcus understood this. He didn't like it but he understood it.
 
 What he was less prepared for was the crew.
 
-Not dissent — there was no dissent. The crew had voted twenty-eight to three and the three who had voted against had not revisited the question publicly. What there was, eight months into a working group that met twice monthly and produced careful incremental language, was something more diffuse: a tiredness with the abstract, a hunger for resolution, a growing restlessness in a community that had made a clear decision and was now living in the administrative fog of that decision's consequences.
+Not dissent, there was no dissent. The crew had voted twenty-eight to three and the three who had voted against had not revisited the question publicly. What there was, eight months into a working group that met twice monthly and produced careful incremental language, was something more diffuse: a tiredness with the abstract, a hunger for resolution, a growing restlessness in a community that had made a clear decision and was now living in the administrative fog of that decision's consequences.
 
 He recognized the feeling. It was the feeling of people who had been decisive waiting for institutions to catch up. The institutions would catch up, or they wouldn't, and either way the work on Mars was proceeding and the community was proceeding and the station was proceeding, and the legal question was genuine but it was not the thing that would determine whether Olympus survived.
 
@@ -2454,7 +2454,7 @@ He was sure about some of it. He was uncertain about enough of it to stay honest
 
 The anomalous readings turned out to be a calibration drift in one of the secondary sensors, correctable in fifteen minutes. Marcus corrected it, noted the fix in the maintenance log, and moved on to the next thing.
 
-— END OF CHAPTER 16 —
+,  END OF CHAPTER 16 , 
 
 Chapter 17: The Limits of the Record
 
@@ -2514,7 +2514,7 @@ Thomas sat down across from him. "What are you going to do about it."
 
 Dmitri looked at him. This was the shift in their relationship, the one that had been developing for two years: Thomas asking Dmitri what he was going to do about it rather than answering the question himself.
 
-"I'm going to take it to the city council in November. Not the neighborhood council — the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
+"I'm going to take it to the city council in November. Not the neighborhood council, the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
 
 "That makes the monitoring office a city-level political issue."
 
@@ -2582,7 +2582,7 @@ He started the car and drove home. He had a session to prepare for Thursday and 
 
 He went inside and opened the laptop and started working on it.
 
-— END OF CHAPTER 17 —
+,  END OF CHAPTER 17 , 
 
 Chapter 18: Cascade
 
@@ -2596,7 +2596,7 @@ Elena was not on the Compass mission team and did not have direct access to the 
 
 Harrison's voice said: the data is what we needed and it is also worse than we hoped.
 
-The asteroid's internal structure was a cohesion gradient rather than a uniform rubble pile. The outer shell, three hundred to four hundred meters beneath the surface, had a higher cohesion index than the models had predicted, which was good — it meant the kinetic impactors would transfer momentum more efficiently than the pessimistic scenario had modeled. The core, below that, was looser than expected. Not fragmentation-risk loose. But the distribution of mass concentrations within the core meant that the targeting solution had a narrower optimal window than the JPL team had been working with.
+The asteroid's internal structure was a cohesion gradient rather than a uniform rubble pile. The outer shell, three hundred to four hundred meters beneath the surface, had a higher cohesion index than the models had predicted, which was good, it meant the kinetic impactors would transfer momentum more efficiently than the pessimistic scenario had modeled. The core, below that, was looser than expected. Not fragmentation-risk loose. But the distribution of mass concentrations within the core meant that the targeting solution had a narrower optimal window than the JPL team had been working with.
 
 Narrower was not impossible. Harrison was careful about that. The targeting problem was solvable with the data they now had. The team had been working with a range of possible solutions and was now working with a smaller range. The probability estimate, Harrison said, was currently in revision.
 
@@ -2610,7 +2610,7 @@ A pause. "The initial analyst consensus before formal review is in the high fort
 
 Elena wrote it down. High forties. She sat with it for a moment, then asked the next question. "Where does that put the mission parameters?"
 
-"The mission parameters for Phoenix are unchanged. Maria Webb's mission is still viable and still the optimal approach. The trajectory, the timing, the impactor deployment protocol — all of those are unchanged. What's changed is the margin for targeting error. It's tighter." Harrison paused again. "The mission has to go exactly right."
+"The mission parameters for Phoenix are unchanged. Maria Webb's mission is still viable and still the optimal approach. The trajectory, the timing, the impactor deployment protocol, all of those are unchanged. What's changed is the margin for targeting error. It's tighter." Harrison paused again. "The mission has to go exactly right."
 
 "Missions have to go exactly right."
 
@@ -2624,7 +2624,7 @@ High forties.
 
 The cryosleep system prototype had been installed in the ship's mid-section in June. Installation was a three-month operation: six hundred units, each one a coffin-sized pod of aluminum and insulated composite with the temperature regulation and metabolic monitoring systems built into the wall, each one requiring individual calibration against the ship's environmental control network. The installation team had finished on schedule, which was the phrase the briefings always used when they wanted to convey that something had been done correctly without appearing to be surprised by it.
 
-The first full-scale test was scheduled for October. Not with human subjects — the test protocol used biological proxies, cellular cultures and organ-analog systems developed specifically to validate the cryosleep environment without requiring a living person. Eighty-six pods running simultaneously. Two weeks of cold cycle followed by a controlled revival sequence. The results would determine whether the second test, the one with a small number of human volunteers, could proceed on schedule.
+The first full-scale test was scheduled for October. Not with human subjects, the test protocol used biological proxies, cellular cultures and organ-analog systems developed specifically to validate the cryosleep environment without requiring a living person. Eighty-six pods running simultaneously. Two weeks of cold cycle followed by a controlled revival sequence. The results would determine whether the second test, the one with a small number of human volunteers, could proceed on schedule.
 
 Elena had been involved in the test protocol design and was listed as a technical reviewer on the results analysis team. She had spent eighteen months on this, reading the thermal regulation papers and the metabolic suppression literature and the extended protocols that had come out of the Nagoya work and the follow-on studies from the University of Tokyo and Oslo. She understood the system better than she had when she'd commissioned Kim's initial analysis in 2027, which meant she understood more precisely where the risks were.
 
@@ -2770,7 +2770,7 @@ She wrote until midnight. Then she drove home and set the alarm for five and wen
 
 The ship existed. It could be fixed. She was going to fix it.
 
-— END OF CHAPTER 18 —
+,  END OF CHAPTER 18 , 
 
 ACT THREE
 
@@ -2790,11 +2790,11 @@ He made coffee and stood at the window and watched Jamaica Plain come awake in t
 
 Normal life. The particular insistence of it.
 
-He'd been thinking about the hearing for three months, since Dmitri had called in November to say it was happening. The Committee on Housing and Reconstruction had agreed to hold a formal session on the monitoring office's enforcement record — a thing that had not happened before, that Thomas had not entirely believed would happen until Dmitri sent the official notice with the council letterhead and the date.
+He'd been thinking about the hearing for three months, since Dmitri had called in November to say it was happening. The Committee on Housing and Reconstruction had agreed to hold a formal session on the monitoring office's enforcement record, a thing that had not happened before, that Thomas had not entirely believed would happen until Dmitri sent the official notice with the council letterhead and the date.
 
 It had taken Dmitri two years to get here from that November conversation when he'd said, in the community center, that he was going to take it to the city council. Two years of working the notification provision in the monitoring office charter. Two years of building relationships with three council members whose districts overlapped with the outer ring neighborhoods. Two years of attending planning board meetings and housing committee sessions and neighborhood forums with the same patient presence that Thomas had modeled, without ever quite teaching it, by doing it himself for the six years before Dmitri started.
 
-Thomas had not been in the room for most of those two years. He'd been available — had answered questions, reviewed draft testimony, suggested sources. But the work had been Dmitri's, and Nina's, and Warren's, and Rosa's, and the dozen other people who had built the Jamaica Plain sessions into something that now had three satellite sessions in Roxbury and Dorchester and East Boston, each with its own facilitators, each running with a methodology that was recognizable as the Thursday sessions but that had grown past what Thomas could have designed alone.
+Thomas had not been in the room for most of those two years. He'd been available, had answered questions, reviewed draft testimony, suggested sources. But the work had been Dmitri's, and Nina's, and Warren's, and Rosa's, and the dozen other people who had built the Jamaica Plain sessions into something that now had three satellite sessions in Roxbury and Dorchester and East Boston, each with its own facilitators, each running with a methodology that was recognizable as the Thursday sessions but that had grown past what Thomas could have designed alone.
 
 This was the outcome he'd been working toward and had never quite been able to plan for. He was not sure what to do with it, which was a feeling he associated with things going right.
 
@@ -2808,7 +2808,7 @@ Dmitri picked him up at eight-fifteen. They drove to City Hall in Dmitri's car, 
 
 "They'll say staffing."
 
-"They'll say staffing." Thomas had thought about this response for a month. "I'll say the charter doesn't have a staffing exception for the consultation requirement. The staffing argument is real — they genuinely don't have enough people, and that's not a fabrication. But I want to be precise about the difference between an explanation and an excuse. An explanation says why something happened. An excuse says it therefore doesn't matter. The communities waiting on those consultations weren't waiting any less because the monitoring office was understaffed."
+"They'll say staffing." Thomas had thought about this response for a month. "I'll say the charter doesn't have a staffing exception for the consultation requirement. The staffing argument is real, they genuinely don't have enough people, and that's not a fabrication. But I want to be precise about the difference between an explanation and an excuse. An explanation says why something happened. An excuse says it therefore doesn't matter. The communities waiting on those consultations weren't waiting any less because the monitoring office was understaffed."
 
 Dmitri nodded. He drove. Outside, the highway fed into surface streets, the approach to the government district, the old buildings alongside the newer ones that had gone up in the years when the reconstruction funding was still moving.
 
@@ -2836,7 +2836,7 @@ They parked and walked to the building. The hearing room was already half-full.
 
 * * *
 
-Thomas had testified in depositions and in federal proceedings. A city council hearing was smaller and less formal, which made it more human, which made it harder in a specific way the federal proceedings hadn't been. He could see the council members' faces clearly. He could see the people in the gallery — community members, some of whom he recognized, some he didn't, a few with children drawing in notebooks or looking at phones with the studied indifference that meant they were paying close attention.
+Thomas had testified in depositions and in federal proceedings. A city council hearing was smaller and less formal, which made it more human, which made it harder in a specific way the federal proceedings hadn't been. He could see the council members' faces clearly. He could see the people in the gallery, community members, some of whom he recognized, some he didn't, a few with children drawing in notebooks or looking at phones with the studied indifference that meant they were paying close attention.
 
 He gave the testimony.
 
@@ -2866,7 +2866,7 @@ They went to a diner near City Hall. Dmitri ordered the soup. Thomas ordered cof
 
 "It was the right room. Finally in the right room."
 
-Thomas thought about this. The right room. He'd been thinking about rooms for nine years — which rooms the work could reach and which it couldn't. The federal complaint had reached the rooms where lawyers worked. The community sessions had reached the rooms where neighbors worked. Today had reached the room where the city officially examined itself.
+Thomas thought about this. The right room. He'd been thinking about rooms for nine years, which rooms the work could reach and which it couldn't. The federal complaint had reached the rooms where lawyers worked. The community sessions had reached the rooms where neighbors worked. Today had reached the room where the city officially examined itself.
 
 Each room was different. Each room had produced something different. The question that followed him was whether the rooms added up to something, or whether they were just rooms.
 
@@ -2882,11 +2882,11 @@ Thomas had known this was coming. Had sensed it forming for a year. Still felt t
 
 "The neighborhood council. Three of the community members whose families I've worked with for four years. One of the council members whose office has been our best contact on the enforcement question." He looked at Thomas steadily. "I want your honest read."
 
-Thomas considered what he actually thought, which required separating it from what he would have assumed he'd think before he understood what Dmitri had become in the last four years. "I think you're the right person for it. I think the communities that need representation in that room most are the people who've been in our sessions — and you came from where they came from, which is different from representing them, and matters." He paused. "I also think the work will change when you're inside the room instead of outside it. There are things the inside position allows that the outside doesn't, and things it prevents."
+Thomas considered what he actually thought, which required separating it from what he would have assumed he'd think before he understood what Dmitri had become in the last four years. "I think you're the right person for it. I think the communities that need representation in that room most are the people who've been in our sessions, and you came from where they came from, which is different from representing them, and matters." He paused. "I also think the work will change when you're inside the room instead of outside it. There are things the inside position allows that the outside doesn't, and things it prevents."
 
 "And you've always been outside the room."
 
-"By choice. Because it's where I was most useful and because I knew it." Thomas looked at his coffee. "You're going to be more useful inside. You've been building toward it for four years. The organizing work, the relationship work, the enforcement documentation — that's the credential for the room you're trying to get into."
+"By choice. Because it's where I was most useful and because I knew it." Thomas looked at his coffee. "You're going to be more useful inside. You've been building toward it for four years. The organizing work, the relationship work, the enforcement documentation, that's the credential for the room you're trying to get into."
 
 Dmitri nodded slowly. He looked out the diner window at the City Hall building. "Will you help."
 
@@ -2916,7 +2916,7 @@ Thomas got out of the car. He unlocked the community center. He went inside and 
 
 He set up twenty-eight of them, which was how many the room held comfortably, and then he pulled out two more because there had been thirty-one at the last session and he was not going to be the reason someone couldn't sit down.
 
-— END OF CHAPTER 19 —
+,  END OF CHAPTER 19 , 
 
 Chapter 20: The Number They Expected
 
@@ -2926,7 +2926,7 @@ April 17–21, 2034
 
 The revised probability figure dropped at midnight, and Sarah had been awake for it.
 
-Not because she'd known exactly when ARIA would post the update — the agency had been characteristically precise about not specifying a release window, which was itself a form of communication to people who knew how to read it — but because she'd been awake anyway, working through the Framework's legal exposure on the cryosleep redesign question, and the notification had arrived on her phone while she was reading a structural engineering brief she only partly understood.
+Not because she'd known exactly when ARIA would post the update, the agency had been characteristically precise about not specifying a release window, which was itself a form of communication to people who knew how to read it, but because she'd been awake anyway, working through the Framework's legal exposure on the cryosleep redesign question, and the notification had arrived on her phone while she was reading a structural engineering brief she only partly understood.
 
 Forty-three percent.
 
@@ -2938,17 +2938,17 @@ Sarah set her phone down and looked at the ceiling of her Washington apartment a
 
 * * *
 
-Paul Hartley was in her office at eight with his tablet and the posture he'd developed over five years of managing political crises — not alarmed, not calm, but precisely between them where the useful work happened.
+Paul Hartley was in her office at eight with his tablet and the posture he'd developed over five years of managing political crises, not alarmed, not calm, but precisely between them where the useful work happened.
 
 "European delegations want an emergency Framework session," he said. "I've had messages from Lindqvist's office since three AM. The Brazilians are drafting a formal inquiry. The Indians have gone quiet."
 
 "The Indian silence is worse than the Brazilian drafting," Sarah said.
 
-"Usually. The Chinese response is expected in twelve hours — science ministry is reviewing the data first, which is actually a good sign. They don't review before responding when they've already decided."
+"Usually. The Chinese response is expected in twelve hours, science ministry is reviewing the data first, which is actually a good sign. They don't review before responding when they've already decided."
 
 "Good. What's the press saying."
 
-Paul glanced at his screen. "Mixed accuracy. The number is being reported as a probability rather than a certainty, which is better than 2025. The commentary is another matter. Three major op-eds arguing the probability drop proves the Luna program was the wrong investment — that resources should have gone to Earth resilience. Two arguing it proves we need to spend more on the ship. One arguing forty-three percent is still better odds than most major geopolitical decisions and the panic is disproportionate."
+Paul glanced at his screen. "Mixed accuracy. The number is being reported as a probability rather than a certainty, which is better than 2025. The commentary is another matter. Three major op-eds arguing the probability drop proves the Luna program was the wrong investment, that resources should have gone to Earth resilience. Two arguing it proves we need to spend more on the ship. One arguing forty-three percent is still better odds than most major geopolitical decisions and the panic is disproportionate."
 
 "I agree with the last one. It will be read least."
 
@@ -2972,9 +2972,9 @@ Sarah stood and walked to the window. Washington assembling itself in the mornin
 
 She spent the four days before the Geneva session working the coalition the way she'd been working it since 2026: not by persuading people to believe things they didn't believe, but by finding the outcome that let each party do what they actually needed to do.
 
-The work was different every cycle. The coalition was the same people, but the circumstances had shifted — the probability down, the program longer in operation, the political costs of both commitment and withdrawal different than they'd been a year ago. What she was managing was not a static alliance but a living arrangement, and living arrangements required constant tending.
+The work was different every cycle. The coalition was the same people, but the circumstances had shifted, the probability down, the program longer in operation, the political costs of both commitment and withdrawal different than they'd been a year ago. What she was managing was not a static alliance but a living arrangement, and living arrangements required constant tending.
 
-She talked to fourteen delegations in four days. Some calls were five minutes. The Brazilians required two hours across three conversations because their equity concern — who was in the selection pool relative to their national population — was a genuine concern that deserved a genuine response, not a political management response. She gave them a commitment to expedited review of the nationality distribution formula, which was something she had the authority to give and that addressed what they actually needed.
+She talked to fourteen delegations in four days. Some calls were five minutes. The Brazilians required two hours across three conversations because their equity concern, who was in the selection pool relative to their national population, was a genuine concern that deserved a genuine response, not a political management response. She gave them a commitment to expedited review of the nationality distribution formula, which was something she had the authority to give and that addressed what they actually needed.
 
 The Indians were quiet because they were running their own structural analysis of the asteroid data and wanted to know if their figures matched ARIA's before they said anything publicly. She arranged a direct technical exchange between their science ministry and the JPL team. When their numbers came back consistent with ARIA's, the Indians came into the session already decided. That was the work: removing the reasons for uncertainty before the room assembled.
 
@@ -2994,13 +2994,13 @@ Lindqvist called the night before the session.
 
 "By making the case before the motion, not in response to it. I want thirty minutes at the top of day two, before the floor opens. Uninterrupted." She paused. "Can you give me that."
 
-A pause on his end — Lindqvist calculating. He had been the Framework's co-architect from the beginning, had more invested in its survival than anyone except Sarah, and understood that his ability to give her thirty minutes on day two was a function of his relationships with eight other delegation leads. He was calculating those relationships. "Yes," he said. "You have thirty minutes."
+A pause on his end, Lindqvist calculating. He had been the Framework's co-architect from the beginning, had more invested in its survival than anyone except Sarah, and understood that his ability to give her thirty minutes on day two was a function of his relationships with eight other delegation leads. He was calculating those relationships. "Yes," he said. "You have thirty minutes."
 
 "That's all I need."
 
 * * *
 
-The session ran three days in Geneva. Day one was technical testimony: Kim Aldridge remote, Novak in person, the engineering leads who had designed the cascade modification explaining, with precision and without defensiveness, why a correctly-designed modification had produced an interaction they hadn't modeled. Sarah watched the delegations during this testimony. She was less interested in the content — she knew the content — than in what the content produced on the faces in the room.
+The session ran three days in Geneva. Day one was technical testimony: Kim Aldridge remote, Novak in person, the engineering leads who had designed the cascade modification explaining, with precision and without defensiveness, why a correctly-designed modification had produced an interaction they hadn't modeled. Sarah watched the delegations during this testimony. She was less interested in the content, she knew the content, than in what the content produced on the faces in the room.
 
 What she saw was: people who had been looking for a reason to doubt were not finding the testimony reassuring, because the testimony was honest about the failure, and honesty about failure reads as evidence of more failure. People who had been committed were reading the same honesty as evidence of a program mature enough to find its own problems. The room was doing what rooms always did: sorting itself along lines that were already there.
 
@@ -3030,7 +3030,7 @@ Lindqvist found her in the corridor after the final signature.
 
 "We held it."
 
-He handed her a glass of wine from somewhere. He was good at that — producing the right thing at the right moment, which was one of the qualities that had made him effective for thirty years of multilateral work. They stood by the window that looked out at the lake.
+He handed her a glass of wine from somewhere. He was good at that, producing the right thing at the right moment, which was one of the qualities that had made him effective for thirty years of multilateral work. They stood by the window that looked out at the lake.
 
 "Forty-three percent," he said. "Do you believe the JPL team can improve it before Phoenix launches?"
 
@@ -3052,7 +3052,7 @@ She thought about this honestly. "It stopped feeling like enough sometime around
 
 He nodded slowly. He had the quality of someone who understood that answer completely and found it both insufficient and correct, which was how she felt about it herself.
 
-She flew home the next morning. Eleven hours. She spent nine of them working — the quarterly Senate report, the appropriations preliminary, the equity review commitment to the Brazilians — and two of them looking out the window at the Atlantic below, at the water moving with the patient enormity of something that had been doing this since before anything that would be affected by what was coming.
+She flew home the next morning. Eleven hours. She spent nine of them working, the quarterly Senate report, the appropriations preliminary, the equity review commitment to the Brazilians, and two of them looking out the window at the Atlantic below, at the water moving with the patient enormity of something that had been doing this since before anything that would be affected by what was coming.
 
 Forty-three percent.
 
@@ -3060,7 +3060,7 @@ She had held the coalition together. The work continued.
 
 She opened her laptop and started on the Senate report, because the work in front of her was the only work that mattered.
 
-— END OF CHAPTER 20 —
+,  END OF CHAPTER 20 , 
 
 Chapter 21: What the Map Shows
 
@@ -3070,13 +3070,13 @@ February 3, 2035 | 11:40 Luna Standard Time
 
 The internal structure map of 2024 XR19 was forty-eight gigabytes of processed telemetry and it had been sitting in Maria's classified briefing folder for six days before she had four consecutive unscheduled hours to read it properly.
 
-She read it in the mission operations room with the door closed. The room had been storage before the Phoenix designation made it politically justifiable to claim, and it still smelled faintly of lubricant and the mineral dust of lunar regolith that worked its way into everything on the base regardless of seal quality. She had a desk, a good display, and three chairs she never used. It was the right size for the work — large enough to think in, small enough to belong to the thinking.
+She read it in the mission operations room with the door closed. The room had been storage before the Phoenix designation made it politically justifiable to claim, and it still smelled faintly of lubricant and the mineral dust of lunar regolith that worked its way into everything on the base regardless of seal quality. She had a desk, a good display, and three chairs she never used. It was the right size for the work, large enough to think in, small enough to belong to the thinking.
 
 The map was remarkable. That was the first thing she thought: that the Compass mission had produced something genuinely remarkable. A three-dimensional density model of a 340-meter rubble pile generated from transit-phase radar tomography and spectrographic analysis, at a resolution the mission planners had called optimistic when they'd set the parameters and that had turned out to be achievable. The false-color density gradient ran from deep blue at the surface through green and yellow toward orange at the core concentrations, with three distinct high-density regions rendered in red that the analysis team had labeled M1, M2, and M3.
 
 M1, M2, and M3 were the problem.
 
-She read the summary first, then the methodology, then the data, then the conclusions, then back to the summary to see if it said the same thing it had said before she knew the data. The summary was honest. The three mass concentrations were distributed asymmetrically within the core, offset from the geometric center by a margin that the original targeting models had assumed would be smaller. The distribution wasn't catastrophic. It wasn't fragmentation-risk different. But it had shifted the optimal impact vector — the angle and velocity that would produce maximum momentum transfer without triggering disaggregation — from the parameters that JPL had been planning against for three years.
+She read the summary first, then the methodology, then the data, then the conclusions, then back to the summary to see if it said the same thing it had said before she knew the data. The summary was honest. The three mass concentrations were distributed asymmetrically within the core, offset from the geometric center by a margin that the original targeting models had assumed would be smaller. The distribution wasn't catastrophic. It wasn't fragmentation-risk different. But it had shifted the optimal impact vector, the angle and velocity that would produce maximum momentum transfer without triggering disaggregation, from the parameters that JPL had been planning against for three years.
 
 The targeting team had been working the revised vector for four months. Three solutions in the appendix, all viable, all within the operational parameters of the Phoenix mission as designed. None with the margin the original vector had carried.
 
@@ -3122,11 +3122,11 @@ No one said anything while she finished the walkthrough.
 
 "It is achievable," Maria said. "It requires us to be exact in ways the original mission design gave us more room to be approximate. The nav system is rated for it. Our training needs to reflect it." She looked at the room. "I want honest assessments. Not optimism. Not alarm. What does this change for each of you, specifically?"
 
-Harrison spoke first, which she'd expected — he processed fastest out loud. "The approach profile. The asymmetric mass distribution creates torque during the impactor strike. The active compensation window is going to be shorter than we've been training against. I want to model that in sim before I give you a number, but my estimate is the window is about sixty percent of what we've been assuming."
+Harrison spoke first, which she'd expected, he processed fastest out loud. "The approach profile. The asymmetric mass distribution creates torque during the impactor strike. The active compensation window is going to be shorter than we've been training against. I want to model that in sim before I give you a number, but my estimate is the window is about sixty percent of what we've been assuming."
 
 "Schedule it with Cole. This week."
 
-Reyes — who almost never spoke first in group settings and who always said something worth waiting for — said: "The survey pass before deployment. The M1/M2/M3 positions need to be confirmed at intercept range. The Compass data is transit-phase. There will be variance from the model at close approach. How much survey time do we have before the deployment window opens?"
+Reyes, who almost never spoke first in group settings and who always said something worth waiting for, said: "The survey pass before deployment. The M1/M2/M3 positions need to be confirmed at intercept range. The Compass data is transit-phase. There will be variance from the model at close approach. How much survey time do we have before the deployment window opens?"
 
 "Fourteen hours at the certified standoff distance. If we push to the closer approach option, we gain three hours of survey time and lose two point one kilometers of standoff." Maria had worked this out the previous night. "My instinct is the standoff option and the shorter survey. I want your read."
 
@@ -3146,7 +3146,7 @@ When the session broke she kept Cole back.
 
 "Not the probability."
 
-"Not the probability — that's JPL's calculation and they're more equipped for it than I am. What it changes is my understanding of the distance between what we need to do and what we're capable of doing. And that distance is tighter than the original mission design assumed."
+"Not the probability, that's JPL's calculation and they're more equipped for it than I am. What it changes is my understanding of the distance between what we need to do and what we're capable of doing. And that distance is tighter than the original mission design assumed."
 
 Cole nodded. He was looking at the map, at M2 offset from center in the core.
 
@@ -3154,7 +3154,7 @@ Cole nodded. He was looking at the map, at M2 offset from center in the core.
 
 "That's why I told you," Maria said.
 
-She closed the briefing room and walked back through the base to the pilot quarters. The base was settling into its afternoon routine around her — shift change at the cafeteria, the ventilation running its standard cycle, the muffled sounds of construction still ongoing on the outer sections.
+She closed the briefing room and walked back through the base to the pilot quarters. The base was settling into its afternoon routine around her, shift change at the cafeteria, the ventilation running its standard cycle, the muffled sounds of construction still ongoing on the outer sections.
 
 She carried 1.8 kilometers with her. She had been carrying the Phoenix mission for three years and she would carry it for four more, and she had learned that the things worth doing were usually the things that required you to carry something heavy long enough that you stopped noticing the weight. You just moved with it. You built your strength around it. And then one day you were in the place the carrying had been taking you toward, and you either had what you needed or you didn't.
 
@@ -3164,7 +3164,7 @@ She went to the simulator and started the approach sequence from the beginning, 
 
 She ran it until she got it right. Then she ran it again.
 
-— END OF CHAPTER 21 —
+,  END OF CHAPTER 21 , 
 
 Chapter 22: Terms
 
@@ -3182,9 +3182,9 @@ Not a facility. Not a dependent installation. A partner.
 
 The word had taken eleven months to arrive at. In the Framework's original legal structure, there were three categories: member states, dependent installations, and autonomous entities with full independence status. None of those categories accurately described what Mars Station Olympus was in September 2035. A dependent installation had no governance authority over its own operations. An autonomous entity with full independence required a ratification process that would take six years through the multi-sovereign framework and that the current Geneva leadership had made clear they wouldn't support. Member states required territorial sovereignty that Mars didn't have.
 
-Partner Entity was a category that had not existed before this document. Marcus had spent fourteen months arguing for its creation — not the specific language, which the lawyers had drafted in the final three months, but the principle: that there was a category of organization that existed between dependency and independence, that had real governance authority over its own operations and formal participation rights in decisions that affected it, without requiring either the full dependency of a facility or the full separation of independence.
+Partner Entity was a category that had not existed before this document. Marcus had spent fourteen months arguing for its creation, not the specific language, which the lawyers had drafted in the final three months, but the principle: that there was a category of organization that existed between dependency and independence, that had real governance authority over its own operations and formal participation rights in decisions that affected it, without requiring either the full dependency of a facility or the full separation of independence.
 
-He had made this argument in forty-three working group sessions. He had made it in different forms to different audiences — the legal argument to the Framework's treaty specialists, the practical argument to the mission planners who needed to know what Mars's role in the program would be, the political argument to the delegations who needed to explain it to their governments.
+He had made this argument in forty-three working group sessions. He had made it in different forms to different audiences, the legal argument to the Framework's treaty specialists, the practical argument to the mission planners who needed to know what Mars's role in the program would be, the political argument to the delegations who needed to explain it to their governments.
 
 He had made it often enough that he could no longer quite remember making it. It had become simply what was true.
 
@@ -3194,7 +3194,7 @@ He sent a message to the crew at nine-thirty: The Accord has been signed. Crew m
 
 Lena came to his office at ten.
 
-She sat down and looked at the document on his screen with the expression she had when she was checking reality against expectation. She had been in the working group for the full four years. She had made the core argument — the one that had eventually moved Geneva's position — in the first session and every one after.
+She sat down and looked at the document on his screen with the expression she had when she was checking reality against expectation. She had been in the working group for the full four years. She had made the core argument, the one that had eventually moved Geneva's position, in the first session and every one after.
 
 "It's not full independence," she said.
 
@@ -3202,7 +3202,7 @@ She sat down and looked at the document on his screen with the expression she ha
 
 "But it's what we actually needed."
 
-"Yes." He'd been making this distinction internally for four years, and he was glad she'd arrived at it herself without him having to draw it. "Full independence was the formal claim. What we needed was operational reality reflected in legal language — a voice in decisions that affect us, governance authority over our own work, recognition of what we actually are rather than what the original documents assumed we'd remain."
+"Yes." He'd been making this distinction internally for four years, and he was glad she'd arrived at it herself without him having to draw it. "Full independence was the formal claim. What we needed was operational reality reflected in legal language, a voice in decisions that affect us, governance authority over our own work, recognition of what we actually are rather than what the original documents assumed we'd remain."
 
 "The Accord gives us that."
 
@@ -3210,11 +3210,11 @@ She sat down and looked at the document on his screen with the expression she ha
 
 "What do we give up."
 
-"Supply chain access remains Framework-mediated. Which is fine — we don't need the supply chain. The technical collaboration agreement has an information-sharing requirement, which is also fine, and which gives us access to program data we'd otherwise have to request formally." He paused. "And we're designated as a support node for the interstellar program."
+"Supply chain access remains Framework-mediated. Which is fine, we don't need the supply chain. The technical collaboration agreement has an information-sharing requirement, which is also fine, and which gives us access to program data we'd otherwise have to request formally." He paused. "And we're designated as a support node for the interstellar program."
 
 "That last part."
 
-"I agreed to it because it's true whether we agree to it or not. We're a support node. We've been a support node since 2029. Having it in the document means we have a formal seat at that table — which means we have standing to participate in decisions about the program rather than just receiving information about them."
+"I agreed to it because it's true whether we agree to it or not. We're a support node. We've been a support node since 2029. Having it in the document means we have a formal seat at that table, which means we have standing to participate in decisions about the program rather than just receiving information about them."
 
 Lena absorbed this. "Paulo's going to ask about terraforming."
 
@@ -3228,13 +3228,13 @@ Lena absorbed this. "Paulo's going to ask about terraforming."
 
 "I spent August on that sentence."
 
-She looked at him for a moment — the look she had when she was deciding whether to say something. "When we took the vote in 2029, I thought it was right but I didn't know if it would work. We had the operational leverage — the self-sustainability, the terraforming program, the fact that we'd been running without meaningful support for two years. But I didn't know if leverage was enough against the institutional weight of the Framework."
+She looked at him for a moment, the look she had when she was deciding whether to say something. "When we took the vote in 2029, I thought it was right but I didn't know if it would work. We had the operational leverage, the self-sustainability, the terraforming program, the fact that we'd been running without meaningful support for two years. But I didn't know if leverage was enough against the institutional weight of the Framework."
 
-"It was enough," Marcus said, "because the leverage was real. Not because we were clever about how we used it — because what we were claiming was true. We were operationally independent. The document is just the document finally saying what was already the case."
+"It was enough," Marcus said, "because the leverage was real. Not because we were clever about how we used it, because what we were claiming was true. We were operationally independent. The document is just the document finally saying what was already the case."
 
 "They needed us to need them and we stopped needing them."
 
-"We still need the communication network. We always will. But we can't build our own on the timeline that mattered, and they knew that — so what we needed was for them to understand that the communication access was the only thing they had that we couldn't replicate. Which meant the cost of not reaching an agreement was us, eventually, finding another way. Which was expensive enough for them that they preferred the agreement."
+"We still need the communication network. We always will. But we can't build our own on the timeline that mattered, and they knew that, so what we needed was for them to understand that the communication access was the only thing they had that we couldn't replicate. Which meant the cost of not reaching an agreement was us, eventually, finding another way. Which was expensive enough for them that they preferred the agreement."
 
 Lena nodded slowly. "Is that diplomacy or leverage?"
 
@@ -3242,13 +3242,13 @@ Lena nodded slowly. "Is that diplomacy or leverage?"
 
 * * *
 
-The crew meeting was the full complement — thirty-three people in the main common area, the most they'd had in one room since the 2031 food-independence celebration. Marcus had never fully adjusted to rooms this full. He'd arrived with twelve. He had watched the number grow through rotations and permanent assignments and the gradual conversion of what had been a survival operation into something that felt, increasingly, like a place.
+The crew meeting was the full complement, thirty-three people in the main common area, the most they'd had in one room since the 2031 food-independence celebration. Marcus had never fully adjusted to rooms this full. He'd arrived with twelve. He had watched the number grow through rotations and permanent assignments and the gradual conversion of what had been a survival operation into something that felt, increasingly, like a place.
 
-He walked them through the Accord. Not the diplomatic history — they knew the diplomatic history — but the specific terms and what they meant in practice.
+He walked them through the Accord. Not the diplomatic history, they knew the diplomatic history, but the specific terms and what they meant in practice.
 
 Paulo asked about terraforming. Marcus explained Article 14. Paulo read it while Marcus was explaining it, which was also expected, and his expression when he finished was the expression of someone who has been asking for something for a long time and has finally received what they asked for.
 
-Adaeze asked about the technical collaboration terms. Marcus walked her through the information-sharing provisions. She asked two follow-up questions that identified two ambiguities in the language — both of which Marcus had already flagged for the next working group session.
+Adaeze asked about the technical collaboration terms. Marcus walked her through the information-sharing provisions. She asked two follow-up questions that identified two ambiguities in the language, both of which Marcus had already flagged for the next working group session.
 
 Fletcher, who had been on the station for fourteen months, asked: "What happens if the deflection fails and the impact happens before the ship launches?"
 
@@ -3278,7 +3278,7 @@ Marcus had thought about this many times. He had a real answer and a diplomatic 
 
 * * *
 
-He messaged his brother in Auckland that evening. The quarterly note he'd been sending for eleven years now — longer than many marriages, longer than most professional relationships, a correspondence that had been shaped by the fourteen-minute signal delay into something that felt less like conversation and more like the kind of letters people wrote to each other in the nineteenth century: considered, complete, not expecting an immediate reply.
+He messaged his brother in Auckland that evening. The quarterly note he'd been sending for eleven years now, longer than many marriages, longer than most professional relationships, a correspondence that had been shaped by the fourteen-minute signal delay into something that felt less like conversation and more like the kind of letters people wrote to each other in the nineteenth century: considered, complete, not expecting an immediate reply.
 
 He wrote: The Accord was signed today. Mars is formally a partner in the mission rather than a facility. I know that distinction is abstract from Auckland. What it means practically is that decisions about what Mars does next require our participation rather than our compliance. That matters for what comes after, whichever direction after goes.
 
@@ -3292,7 +3292,7 @@ The Accord was signed. The atmospheric readings continued their slow drift towar
 
 He went to check the agricultural module sensors, which had been running warm, and then went to bed.
 
-— END OF CHAPTER 22 —
+,  END OF CHAPTER 22 , 
 
 Chapter 23: Cascade
 
@@ -3304,35 +3304,35 @@ The second human trial had been running for sixty-two days without a single anom
 
 Elena had been tracking it from Houston for the first month, in daily briefings with Kim that had grown shorter as the days passed and the data held. Then she had come to Luna Base for the final thirty days, because sixty-two days was the longest sustained human cryosleep trial in history and she needed to be in the room when it finished. She needed to watch the revival sequence with her own eyes, not on a screen with a fourteen-second signal delay and the particular quality of distance that screens introduced into moments that deserved presence.
 
-Forty volunteers. Sixty-two days. The cascade modification — a thermal regulation architecture redesign that had taken fourteen months and a construction pause that Novak had managed with the compressed efficiency of someone who understood that every week cost a week — had performed exactly as the modeling had predicted. The individual pod temperatures had held. The inter-pod differential had remained flat. The thermal regulation load had run at ninety-four percent of baseline for sixty-two days, stable, with no cascade behavior visible anywhere in the data.
+Forty volunteers. Sixty-two days. The cascade modification, a thermal regulation architecture redesign that had taken fourteen months and a construction pause that Novak had managed with the compressed efficiency of someone who understood that every week cost a week, had performed exactly as the modeling had predicted. The individual pod temperatures had held. The inter-pod differential had remained flat. The thermal regulation load had run at ninety-four percent of baseline for sixty-two days, stable, with no cascade behavior visible anywhere in the data.
 
 She had read the daily reports with the specific attention of someone looking for what wasn't there. The missing anomaly was, day after day, the most important data point.
 
 This morning was the revival window. It would take six hours for all forty subjects to complete the warming sequence, and then a further four hours of medical monitoring before the trial could be formally declared complete. Elena had been in the control room since six AM. Kim had been there since five-thirty, which was Kim's way of indicating, without saying it, that she was also treating this morning as something that required presence. The medical team occupied the adjacent bay. The monitoring systems showed forty green bars in neat rows on the primary display.
 
-Elena had looked at those forty bars so many times in the past thirty days that she could have drawn them from memory — their positions, their baseline temperature readings, the subtle variation in the revival curves that made each one distinct. Pod Eight ran slightly warm during the mid-warming phase; she had noted it three weeks ago and Kim had confirmed it was within acceptable variance. Pod Thirty-One had a sensor that occasionally registered a tenth of a degree high before self-correcting. She knew all of them.
+Elena had looked at those forty bars so many times in the past thirty days that she could have drawn them from memory, their positions, their baseline temperature readings, the subtle variation in the revival curves that made each one distinct. Pod Eight ran slightly warm during the mid-warming phase; she had noted it three weeks ago and Kim had confirmed it was within acceptable variance. Pod Thirty-One had a sensor that occasionally registered a tenth of a degree high before self-correcting. She knew all of them.
 
 At eight-forty-one, all forty bars were green.
 
 At eight-forty-three, one of them flickered.
 
-Elena saw it before the automated flag appeared. Pod Twenty-Three, third row. A temperature deviation of 0.4 degrees — small enough that the automated system was still calculating whether it met the flagging threshold — and then a recovery, and then the deviation again, slightly larger.
+Elena saw it before the automated flag appeared. Pod Twenty-Three, third row. A temperature deviation of 0.4 degrees, small enough that the automated system was still calculating whether it met the flagging threshold, and then a recovery, and then the deviation again, slightly larger.
 
 "Kim."
 
-"I see it." Kim was already at the thermal subsystem panel. "Pod twenty-three, third row. Temperature regulation variance. Let me isolate the —"
+"I see it." Kim was already at the thermal subsystem panel. "Pod twenty-three, third row. Temperature regulation variance. Let me isolate the , "
 
-The flag appeared. Amber. Then a second flag, Pod Thirty-One — the one with the sensitive sensor, but this reading wasn't the sensor, Elena was certain of that before she'd consciously reasoned through why — and then a third flag, two pods to the left of Twenty-Three.
+The flag appeared. Amber. Then a second flag, Pod Thirty-One, the one with the sensitive sensor, but this reading wasn't the sensor, Elena was certain of that before she'd consciously reasoned through why, and then a third flag, two pods to the left of Twenty-Three.
 
 Elena felt the specific quality of recognition that was worse than surprise. Surprise was clean. This was recognition: the sensation of seeing something you had seen before, in a smaller form, in a context you had been told was resolved. The flags were appearing in the eastern bank. The thermal regulation load counter in the corner of her display read ninety-six percent. Then ninety-eight.
 
 "Kim."
 
-"I know." Kim's voice had flattened into the register she used when she was working, when the thinking had to go somewhere useful immediately and there was no room in the voice for anything else. "The inter-pod differential is building. It shouldn't be building. The modification was —"
+"I know." Kim's voice had flattened into the register she used when she was working, when the thinking had to go somewhere useful immediately and there was no room in the voice for anything else. "The inter-pod differential is building. It shouldn't be building. The modification was , "
 
 "What's changed. What's different from yesterday."
 
-"I'm looking." Keyboard sounds. A pause long enough to feel like something. "The modification is functioning. The thermal regulation architecture is performing within its redesigned parameters. Something external is driving the differential. Something we're not —"
+"I'm looking." Keyboard sounds. A pause long enough to feel like something. "The modification is functioning. The thermal regulation architecture is performing within its redesigned parameters. Something external is driving the differential. Something we're not , "
 
 The load counter hit one hundred and two percent. Three more flags in the eastern bank, appearing in the twelve seconds she'd been watching the counter.
 
@@ -3344,7 +3344,7 @@ She watched the display.
 
 The refresh happened.
 
-The base-level vibration reading for the cryogenic ring section had increased by a factor of three. Still within safety parameters — not large enough to trigger an automated alert, not close to anything that would appear in a routine construction monitoring sweep. But there, and new, having appeared in the last fifteen seconds. And in the eastern bank, four more pods had just flagged.
+The base-level vibration reading for the cryogenic ring section had increased by a factor of three. Still within safety parameters, not large enough to trigger an automated alert, not close to anything that would appear in a routine construction monitoring sweep. But there, and new, having appeared in the last fifteen seconds. And in the eastern bank, four more pods had just flagged.
 
 She understood it before she said it out loud, the understanding arriving whole, the way understanding sometimes did when you had spent enough time thinking about a problem that the answer didn't have to be assembled piece by piece.
 
@@ -3360,7 +3360,7 @@ She stopped. The pause had a different quality than the working pause. This one 
 
 The sentence landed in the room and stayed there.
 
-The modification had changed the thermal characteristics of the system in ways that had been modeled, extensively, and proved stable under every condition the model had anticipated. The model had not anticipated this specific combination: the modified architecture, running in extended operation with forty human subjects in the eastern bank, subjected to sustained external vibration at a frequency that the original architecture would have damped and that the modified architecture — optimized for thermal stability, specifically for thermal stability — did not.
+The modification had changed the thermal characteristics of the system in ways that had been modeled, extensively, and proved stable under every condition the model had anticipated. The model had not anticipated this specific combination: the modified architecture, running in extended operation with forty human subjects in the eastern bank, subjected to sustained external vibration at a frequency that the original architecture would have damped and that the modified architecture, optimized for thermal stability, specifically for thermal stability, did not.
 
 The modification's strength had become its vulnerability. She had time to understand this clearly and then no time to think about it further because the load counter read one hundred and nine percent and eleven pods in the eastern bank were flagged and the warming sequence had twelve minutes left to run.
 
@@ -3368,15 +3368,15 @@ The modification's strength had become its vulnerability. She had time to unders
 
 "I'm calling them now."
 
-The exchange on the operations channel took forty seconds. Elena watched the display. She counted the flags — eleven, holding at eleven, no new ones in the last eight seconds, which might mean the vibration was at a steady state rather than increasing. The thermal regulation load had stopped climbing. Still at one hundred and fourteen percent, still feeding on itself, but not accelerating.
+The exchange on the operations channel took forty seconds. Elena watched the display. She counted the flags, eleven, holding at eleven, no new ones in the last eight seconds, which might mean the vibration was at a steady state rather than increasing. The thermal regulation load had stopped climbing. Still at one hundred and fourteen percent, still feeding on itself, but not accelerating.
 
-Pod temperatures in the flagged bank were deviating by 1.2 degrees. The warming sequence had ten minutes left. The subjects in the eastern bank were in the most vulnerable phase of revival — metabolic systems restarting, body temperatures climbing through the range where deviation mattered most.
+Pod temperatures in the flagged bank were deviating by 1.2 degrees. The warming sequence had ten minutes left. The subjects in the eastern bank were in the most vulnerable phase of revival, metabolic systems restarting, body temperatures climbing through the range where deviation mattered most.
 
 She calculated the margin without wanting to. If the cascade continued at its current rate, the thermal backup system would reach its capacity limit in approximately thirteen minutes. The warming sequence would complete in ten. Three minutes of margin, assuming the cascade didn't accelerate, assuming the construction stop reduced the vibration input before the cascade became self-sustaining without external driving.
 
 "They're stopping," Kim said. "Equipment shutdown in thirty seconds."
 
-Elena watched the vibration counter. It didn't drop immediately — structural vibration propagated through the ring section and needed time to dissipate, the energy moving through the metal in waves that took their own time to settle. She watched the counter and counted seconds and did not look away from it.
+Elena watched the vibration counter. It didn't drop immediately, structural vibration propagated through the ring section and needed time to dissipate, the energy moving through the metal in waves that took their own time to settle. She watched the counter and counted seconds and did not look away from it.
 
 At the nineteen-second mark the vibration readings began to fall.
 
@@ -3402,7 +3402,7 @@ Elena realized she had been holding her breath and let it out carefully, so that
 
 Kim didn't answer immediately. When she did, her voice was level in the way it was level when the answer was not the answer you wanted but was the answer that was true. "Close enough that I'm going to be very precise in the incident report about the margin."
 
-Elena looked at the forty bars. Eleven with yellow shading — flagged, monitored, within range but not clean. Twenty-nine still green. The load counter at one hundred and six and still dropping.
+Elena looked at the forty bars. Eleven with yellow shading, flagged, monitored, within range but not clean. Twenty-nine still green. The load counter at one hundred and six and still dropping.
 
 She watched the counter descend. One hundred and four. One hundred and two. One hundred.
 
@@ -3424,13 +3424,13 @@ The rest: the modified thermal regulation architecture had a vulnerability the o
 
 She wrote that sentence three times before she had it right. She needed it to be accurate without being evasive, and she needed it to be clear without performing blame toward Kim, whose work order approval had been correct given the information available to her. The system had failed because of an interaction between two independently correct decisions. That was the kind of failure that was hardest to prevent and most important to document precisely.
 
-At full ship scale: fourteen hundred pods per habitation ring. Three rings. The cascade vulnerability that had appeared in forty pods, driven by external vibration, would have a different profile at full scale — different in ways that the current models couldn't fully predict, because the models had just been shown to be missing a variable.
+At full ship scale: fourteen hundred pods per habitation ring. Three rings. The cascade vulnerability that had appeared in forty pods, driven by external vibration, would have a different profile at full scale, different in ways that the current models couldn't fully predict, because the models had just been shown to be missing a variable.
 
 She wrote: the modification as currently implemented may not be sufficient for the full-scale operational environment. The vibration interaction must be characterized at scale before full integration can proceed. She did not write: I don't know if this is fixable in the timeline we have. She thought it. She thought it with the specific clarity that came from having spent nine years working problems like this and knowing what the solvable ones felt like and what the other kind felt like.
 
 She called Novak.
 
-Novak answered on the second cycle. Luna Base operations in the background — the ventilation hum, the faint echo of a pressurized corridor.
+Novak answered on the second cycle. Luna Base operations in the background, the ventilation hum, the faint echo of a pressurized corridor.
 
 "The trial completed," Elena said. "All forty subjects conscious. Eleven flagged deviations, no medical adverse events."
 
@@ -3448,7 +3448,7 @@ Novak was quiet. Elena had worked with her long enough to know this silence: not
 
 "I know."
 
-"If the modification requires additional redesign —"
+"If the modification requires additional redesign , "
 
 "Then April moves." Elena said it without apology, because this was not the moment for apology and Novak was not the person who needed it. "I know what April means for the departure window. I also know what it means to integrate a system with an unresolved failure mode at full scale, with four thousand people inside it, for forty years. I'm not going to recommend integration until I can tell you the system is safe to integrate."
 
@@ -3456,7 +3456,7 @@ A pause. Then: "Send me Kim's preliminary numbers when you have them."
 
 "Within forty-eight hours."
 
-"Elena." Novak's voice shifted slightly — still precise, but outside the formal register. "Sixty-two days. Forty people. No adverse events. The trial worked."
+"Elena." Novak's voice shifted slightly, still precise, but outside the formal register. "Sixty-two days. Forty people. No adverse events. The trial worked."
 
 "The trial worked."
 
@@ -3470,9 +3470,9 @@ A pause. Then: "Send me Kim's preliminary numbers when you have them."
 
 The call ended.
 
-Elena sat in the empty control room for a while. The forty bars on the primary display were all clean now — yellow shading gone, medical team having cleared all subjects, the trial data archiving itself into the permanent record. The display was calm. It had no way of knowing what the day had been.
+Elena sat in the empty control room for a while. The forty bars on the primary display were all clean now, yellow shading gone, medical team having cleared all subjects, the trial data archiving itself into the permanent record. The display was calm. It had no way of knowing what the day had been.
 
-She thought about the forty people who were currently in the medical bay, awake, having come through sixty-two days of suspended animation and then a twelve-minute crisis during their revival that they had not known was happening and that she had not been able to tell them about. They had signed consents that described the risks in general terms. The specific risk of this morning — the vibration interaction, the cascade onset, the eleven pods running yellow while the clock ran — had not been in the consent document because it had not been in anyone's model.
+She thought about the forty people who were currently in the medical bay, awake, having come through sixty-two days of suspended animation and then a twelve-minute crisis during their revival that they had not known was happening and that she had not been able to tell them about. They had signed consents that described the risks in general terms. The specific risk of this morning, the vibration interaction, the cascade onset, the eleven pods running yellow while the clock ran, had not been in the consent document because it had not been in anyone's model.
 
 She thought about the engineer from Manitoba whose letter she had sent two years ago, telling him the cryosleep path was closed. She thought about the one hundred and ninety people whose files were in the database and whose circumstances she did not yet know had changed, because the Framework vote that would change them hadn't happened yet and might not happen if the integration timeline collapsed and the program made a different decision.
 
@@ -3486,7 +3486,7 @@ She was asleep before she finished the thought she'd been trying to complete.
 
 The display in the empty control room kept recording. The forty bars stayed green.
 
-— END OF CHAPTER 23 —
+,  END OF CHAPTER 23 , 
 
 Chapter 24: Plume
 
@@ -3496,13 +3496,13 @@ March 15, 2036 | 09:14 Luna Standard Time
 
 She saw it before the alert reached her helmet.
 
-Maria was three hundred meters off the ship's habitation ring section, running the port-side inspection pass she did twice a week. Standard survey work — paint-depth readings, seal inspections, thermal imaging on the outer hull — the kind of methodical work that looked routine from the outside and that she'd learned to treat as anything but, because the ship was accumulating a history of small issues that were only findable if you were looking closely.
+Maria was three hundred meters off the ship's habitation ring section, running the port-side inspection pass she did twice a week. Standard survey work, paint-depth readings, seal inspections, thermal imaging on the outer hull, the kind of methodical work that looked routine from the outside and that she'd learned to treat as anything but, because the ship was accumulating a history of small issues that were only findable if you were looking closely.
 
-The ship filled most of her visual field from this distance. She had been looking at it from various angles for four years and had never stopped finding it remarkable — the three rotating rings glowing through the habitat windows, the central spine clean against the star field, the drive assembly at the stern. From three hundred meters in a pressure suit, in the unmediated silence of space, it looked like the largest thing humanity had ever made because it was.
+The ship filled most of her visual field from this distance. She had been looking at it from various angles for four years and had never stopped finding it remarkable, the three rotating rings glowing through the habitat windows, the central spine clean against the star field, the drive assembly at the stern. From three hundred meters in a pressure suit, in the unmediated silence of space, it looked like the largest thing humanity had ever made because it was.
 
 She was logging a paint-depth reading on a heat shield panel when the plume appeared.
 
-It came from the junction between Ring Two and the central spine. Not an explosion — she had seen explosion footage in training and this was not that, not the sudden outward violence of a pressure event. This was a billowing white column that expanded into vacuum with the fluid dynamics of a pressurized gas release: fast at the source, spreading as it decompressed, the nitrogen instantly condensing as it hit the cold of space and its water vapor content sublimated into a visible cloud. It caught what little sunlight reached this far out and turned briefly luminescent before dispersing.
+It came from the junction between Ring Two and the central spine. Not an explosion, she had seen explosion footage in training and this was not that, not the sudden outward violence of a pressure event. This was a billowing white column that expanded into vacuum with the fluid dynamics of a pressurized gas release: fast at the source, spreading as it decompressed, the nitrogen instantly condensing as it hit the cold of space and its water vapor content sublimated into a visible cloud. It caught what little sunlight reached this far out and turned briefly luminescent before dispersing.
 
 It was, in a particular way, beautiful.
 
@@ -3512,13 +3512,13 @@ It was also unmistakable.
 
 "Webb, Platform Alpha copies. What is your assessment of scale."
 
-"Significant. This is not a fitting leak." She was closing distance — standard protocol said to maintain clearance from uncontrolled releases, but the plume's expansion vector was carrying it away from her approach line and she needed to see the junction source. "Platform Alpha, I need Cryogenic Control on this channel immediately."
+"Significant. This is not a fitting leak." She was closing distance, standard protocol said to maintain clearance from uncontrolled releases, but the plume's expansion vector was carrying it away from her approach line and she needed to see the junction source. "Platform Alpha, I need Cryogenic Control on this channel immediately."
 
 "Stand by."
 
-She closed to one hundred and eighty meters and matched velocity with the ring's rotation, holding station relative to the junction. From here she could see the source clearly: an equipment bay access panel on the ring's inner face, a panel she had inspected two weeks ago and logged as clean. The release was coming from the panel's lower seal — not the panel itself failing, but the infrastructure behind it, something under pressure that had found the path of least resistance.
+She closed to one hundred and eighty meters and matched velocity with the ring's rotation, holding station relative to the junction. From here she could see the source clearly: an equipment bay access panel on the ring's inner face, a panel she had inspected two weeks ago and logged as clean. The release was coming from the panel's lower seal, not the panel itself failing, but the infrastructure behind it, something under pressure that had found the path of least resistance.
 
-The plume was expanding steadily. No pulsing, no variation in source rate. A fixed-size breach holding constant pressure differential — better than a propagating failure, worse than a small leak.
+The plume was expanding steadily. No pulsing, no variation in source rate. A fixed-size breach holding constant pressure differential, better than a propagating failure, worse than a small leak.
 
 "Webb, this is Cryogenic Control." A woman's voice, controlled in the way that voices were controlled when the situation was not controlled. "Kim Aldridge. We have an active cascade event in the eastern bank. Construction stop was called three minutes ago. The release you're observing is from the secondary coolant line at the ring junction."
 
@@ -3528,11 +3528,11 @@ The plume was expanding steadily. No pulsing, no variation in source rate. A fix
 
 "Kim, the release is still active. What's the effect on the eastern bank thermal environment."
 
-A pause — the sound of someone running calculation while talking. "The coolant pressure loss is affecting active temperature maintenance in the bay. We've switched to backup thermal systems."
+A pause, the sound of someone running calculation while talking. "The coolant pressure loss is affecting active temperature maintenance in the bay. We've switched to backup thermal systems."
 
 "Backup capacity."
 
-"Sufficient for the revival window if — " Another pause, shorter. "The warming sequence has eleven minutes left. Backup thermal capacity holds for approximately thirteen."
+"Sufficient for the revival window if, " Another pause, shorter. "The warming sequence has eleven minutes left. Backup thermal capacity holds for approximately thirteen."
 
 Two minutes of margin. Maria looked at the plume. Steady. Not growing.
 
@@ -3544,7 +3544,7 @@ Two minutes of margin. Maria looked at the plume. Steady. Not growing.
 
 "Then the margin decreases." Kim said it without softening it. "Which is why I need your eyes on it."
 
-"Understood. The source rate is holding steady — consistent expansion, no variation in column width at the source. I'm watching it."
+"Understood. The source rate is holding steady, consistent expansion, no variation in column width at the source. I'm watching it."
 
 "Good. I need to know immediately if anything changes."
 
@@ -3564,13 +3564,13 @@ Maria exhaled. "The plume is unchanged. Holding steady. You have a coolant line 
 
 * * *
 
-She stayed on station for two more hours. The repair team arrived in three construction vehicles at noon, and she briefed the lead technician with the accumulated observational data from her suit recorder — source location, column behavior over time, the decay sequence as the coolant line pressure equalized and the release slowed from a steady column to intermittent venting to the occasional wisp.
+She stayed on station for two more hours. The repair team arrived in three construction vehicles at noon, and she briefed the lead technician with the accumulated observational data from her suit recorder, source location, column behavior over time, the decay sequence as the coolant line pressure equalized and the release slowed from a steady column to intermittent venting to the occasional wisp.
 
 By eleven-forty the plume had stopped. By noon the junction showed only residual outgassing that dissipated within meters. The repair team went to work.
 
-Maria flew the long route back to the docking bay — around the stern, past the drive assembly, along the top of the central spine. She did this sometimes when she had time, sometimes when she needed to think, and today she needed to think. The ship passed beneath her slowly, the way large things moved when you were close to them: with the patience of something that wasn't going anywhere quickly.
+Maria flew the long route back to the docking bay, around the stern, past the drive assembly, along the top of the central spine. She did this sometimes when she had time, sometimes when she needed to think, and today she needed to think. The ship passed beneath her slowly, the way large things moved when you were close to them: with the patience of something that wasn't going anywhere quickly.
 
-She had been looking at this ship for four years. She knew its geometry the way she knew the geometry of every aircraft she'd ever flown — intuitively, below the level of thought, so that her sense of where things were could be trusted without consultation. She knew where the Ring Two junction sat relative to the spine. She knew which panels she'd inspected two weeks ago and what they'd looked like.
+She had been looking at this ship for four years. She knew its geometry the way she knew the geometry of every aircraft she'd ever flown, intuitively, below the level of thought, so that her sense of where things were could be trusted without consultation. She knew where the Ring Two junction sat relative to the spine. She knew which panels she'd inspected two weeks ago and what they'd looked like.
 
 What she was learning now was how it failed.
 
@@ -3586,7 +3586,7 @@ She found Novak in her office. Novak looked like a person who had been processin
 
 "Kim told me. What's your read."
 
-Maria sat down. She had thought about how to say this clearly on the flight back. "The cryosleep system needs to be rebuilt before full-scale integration. Not the modification adjusted — the architecture reconsidered from the interaction level. The vibration coupling issue isn't solvable by procedure. You can't write a maintenance protocol that eliminates vibration from a ship running in deep space for forty years."
+Maria sat down. She had thought about how to say this clearly on the flight back. "The cryosleep system needs to be rebuilt before full-scale integration. Not the modification adjusted, the architecture reconsidered from the interaction level. The vibration coupling issue isn't solvable by procedure. You can't write a maintenance protocol that eliminates vibration from a ship running in deep space for forty years."
 
 "Kim's preliminary model says the same thing."
 
@@ -3610,13 +3610,13 @@ The plume was gone. The junction was being repaired. The larger problem that the
 
 Maria trusted the process. She had watched this program solve problems that had seemed unsolvable, and she had learned that Novak's quality was exactly the right quality for the work: she did not minimize, she did not panic, and she did not integrate systems she knew were wrong.
 
-The ship would be fixed. The ship would launch. She would not be on it — Phoenix was a different vehicle, smaller, faster, designed for the deflection mission rather than the transit — but the four thousand people who would be on it needed it to work for forty years, and they needed it to work for conditions that no one could fully anticipate.
+The ship would be fixed. The ship would launch. She would not be on it, Phoenix was a different vehicle, smaller, faster, designed for the deflection mission rather than the transit, but the four thousand people who would be on it needed it to work for forty years, and they needed it to work for conditions that no one could fully anticipate.
 
 She went back to the sim bay. She had an asteroid approach sequence to run, and the morning had reminded her, if she'd needed reminding, of exactly what was at stake if she didn't get it right.
 
 She started the approach from the beginning and ran it until she was satisfied, and then ran it again.
 
-— END OF CHAPTER 24 —
+,  END OF CHAPTER 24 , 
 
 Chapter 25: What the Record Means Now
 
@@ -3628,13 +3628,13 @@ The news hit on a Thursday, which was community session day, and Thomas found ou
 
 He stopped setting up chairs and read the alert and then read the linked article and then put the phone in his pocket and finished setting up the chairs, because the session started in forty minutes and the chairs needed to be set up. He pulled out two extras beyond the usual count. He had a feeling the room would be full.
 
-He was right. Twenty-nine people, which was the largest Thursday since October 2033. Some faces he recognized from every session. Some faces from the satellite groups that usually sent written reports rather than people. Two faces he didn't recognize at all, which was unusual for a Thursday — new people usually came in groups, not alone, and these two had come alone, which meant they had found their way here on their own, which meant the news had reached people who didn't already know about the sessions.
+He was right. Twenty-nine people, which was the largest Thursday since October 2033. Some faces he recognized from every session. Some faces from the satellite groups that usually sent written reports rather than people. Two faces he didn't recognize at all, which was unusual for a Thursday, new people usually came in groups, not alone, and these two had come alone, which meant they had found their way here on their own, which meant the news had reached people who didn't already know about the sessions.
 
-Thomas noted this without letting it show. He started the session the way he always started it: with the current state of the monitoring office enforcement record, the documented facts, the timeline. He had been doing this for ten years and the ritual of the opening still served its purpose — it established that this was a room where facts were the baseline, that the conversation started from documentation and moved outward, not the reverse.
+Thomas noted this without letting it show. He started the session the way he always started it: with the current state of the monitoring office enforcement record, the documented facts, the timeline. He had been doing this for ten years and the ritual of the opening still served its purpose, it established that this was a room where facts were the baseline, that the conversation started from documentation and moved outward, not the reverse.
 
 He got through the opening and into the monitoring office update and was twenty minutes in when Dmitri asked the question that was in the room.
 
-"The Luna Base cryogenic test," Dmitri said. He said it in the mild tone he used for things he'd been waiting to raise — measured, not tentative.
+"The Luna Base cryogenic test," Dmitri said. He said it in the mild tone he used for things he'd been waiting to raise, measured, not tentative.
 
 Thomas looked at the room. He could see it in the faces: not panic, not the wide-eyed alarm of people encountering unexpected catastrophe, but the specific alertness of people who had been following a story for ten years and had just watched an important chapter turn. The alertness of people who had been doing their own arithmetic.
 
@@ -3644,9 +3644,9 @@ Warren was there, and Rosa, and Nina with the expression she had for sessions wh
 
 * * *
 
-He told them what was publicly available. The trial had been running for sixty-two days. An incident had occurred during the revival window — a vibration interaction with the modified cryogenic system, details under agency review. No fatalities. All forty subjects conscious and medically cleared. The cryosleep integration schedule was under review. He told them that the technical language in the agency statement suggested this was not a routine equipment malfunction: the phrase design interaction was not how agencies described things they expected to fix with a calibration adjustment.
+He told them what was publicly available. The trial had been running for sixty-two days. An incident had occurred during the revival window, a vibration interaction with the modified cryogenic system, details under agency review. No fatalities. All forty subjects conscious and medically cleared. The cryosleep integration schedule was under review. He told them that the technical language in the agency statement suggested this was not a routine equipment malfunction: the phrase design interaction was not how agencies described things they expected to fix with a calibration adjustment.
 
-Osei — the man from the water extraction family in the outer ring, who asked the most technical questions of anyone in the room — asked whether this was the same failure mode as the 2033 prototype test.
+Osei, the man from the water extraction family in the outer ring, who asked the most technical questions of anyone in the room, asked whether this was the same failure mode as the 2033 prototype test.
 
 Thomas said he didn't know. That the public record on the 2033 test was limited. That he had filed a documentation request with the Luna Base safety review board this afternoon and would share whatever came back.
 
@@ -3654,7 +3654,7 @@ A woman named Grace, who had started coming three months ago after the council h
 
 Thomas said he didn't know. That the technical analysis would determine that, and that the honest answer to the timeline question was that no one outside the program knew yet.
 
-"Does the delay matter," someone said from the back. A man Thomas didn't recognize — one of the two new faces, the one who hadn't leaned forward. He said it with the specific flatness of someone who had been holding the question for a while. "If the ship doesn't launch before 2042, does it matter?"
+"Does the delay matter," someone said from the back. A man Thomas didn't recognize, one of the two new faces, the one who hadn't leaned forward. He said it with the specific flatness of someone who had been holding the question for a while. "If the ship doesn't launch before 2042, does it matter?"
 
 The room was quiet.
 
@@ -3686,7 +3686,7 @@ Dmitri stayed after, as he usually did. They stacked the chairs in the familiar 
 
 "I noticed him."
 
-"He came alone. Found the session through the city website, I think — we're listed as a community resource now since the council hearing coverage." Dmitri set the last stack of chairs against the wall. "He lost his apartment in the Roxbury displacement. Rebuilt. His wife is on the candidate list for the ship — passed the preliminary selection assessment last year."
+"He came alone. Found the session through the city website, I think, we're listed as a community resource now since the council hearing coverage." Dmitri set the last stack of chairs against the wall. "He lost his apartment in the Roxbury displacement. Rebuilt. His wife is on the candidate list for the ship, passed the preliminary selection assessment last year."
 
 Thomas absorbed this.
 
@@ -3700,7 +3700,7 @@ They sat down on the edge of the stage, the community center quiet around them. 
 
 "How."
 
-"The monitoring office failures, the reconstruction gaps, the OMB re-allocation — those were failures of process. Human decisions that could have been made differently. The kind of failure where you can point to something that should have been done and wasn't." Dmitri looked at his hands. "This is a failure of engineering. Of physics. Of limits that weren't fully understood. You can't build a record against that the way you build a record against a missed consultation deadline."
+"The monitoring office failures, the reconstruction gaps, the OMB re-allocation, those were failures of process. Human decisions that could have been made differently. The kind of failure where you can point to something that should have been done and wasn't." Dmitri looked at his hands. "This is a failure of engineering. Of physics. Of limits that weren't fully understood. You can't build a record against that the way you build a record against a missed consultation deadline."
 
 Thomas thought about this. It was accurate. "You're right that it's a different category," he said. "But the response is the same."
 
@@ -3712,7 +3712,7 @@ Thomas thought about this. It was accurate. "You're right that it's a different 
 
 "No. But the people doing the engineering are accountable to a public record even when the failure is physics. The agency statement is public. The safety review process is public. The documentation requests I filed today will produce public responses." Thomas paused. "I don't know if the ship will work. I don't know if the cryosleep system can be fixed in time. Those are things I'm going to track and report as accurately as I've tracked and reported everything else for ten years."
 
-Dmitri nodded slowly. He was looking at the window — the street outside, a car passing, normal life doing what it did. "Ben still hasn't called," he said.
+Dmitri nodded slowly. He was looking at the window, the street outside, a car passing, normal life doing what it did. "Ben still hasn't called," he said.
 
 "No."
 
@@ -3724,7 +3724,7 @@ Dmitri nodded slowly. He was looking at the window — the street outside, a car
 
 "But the probability is what it is. And the ship's cryosleep system just failed in testing. And none of that is in my hands." He said it the way he said things that were true and that he hadn't fully made peace with. "What's in my hands is the documentation request I filed this afternoon, and the follow-up I'm going to make in thirty days if they haven't responded, and the East Boston group that needs to know what happened today so they can process it the same way we just did."
 
-He locked up the community center. Outside, the March air had gone sharp — the specific cold of late evening, when the day's thin warmth had fully left. The street was quiet. The bodega at the corner was still lit, music from somewhere above.
+He locked up the community center. Outside, the March air had gone sharp, the specific cold of late evening, when the day's thin warmth had fully left. The street was quiet. The bodega at the corner was still lit, music from somewhere above.
 
 He drove home thinking about the man in the back of the room. About his wife on the candidate list. About the twelve minutes that had apparently been the margin between forty people completing their revival sequence and something worse. About the engineering team that was now looking at whether the modification they'd been relying on was sufficient for full-scale operation over four decades.
 
@@ -3734,7 +3734,7 @@ The man in the back had found his way here on his own. That meant the room was f
 
 He set his alarm for six and went to sleep.
 
-— END OF CHAPTER 25 —
+,  END OF CHAPTER 25 , 
 
 Chapter 26: The Cost of Holding
 
@@ -3758,7 +3758,7 @@ Kim had said: I know. That's all she'd said. Sarah had believed her.
 
 The incident analysis unfolded over four hours. The cascade modification, its design rationale, the testing history, the second human trial's sixty-two-day run without anomaly. Then the morning of March fifteenth: the construction crew on the outer ring section running a structural brace installation, the vibration propagating through the hull, the modified thermal regulation architecture's response.
 
-The French delegation lead interrupted twice. Both interruptions were good questions — he had done his technical homework, which was either the sign of a delegation genuinely concerned about the engineering or the sign of a delegation that had decided to make the engineering its political lever and had prepared accordingly. Probably both.
+The French delegation lead interrupted twice. Both interruptions were good questions, he had done his technical homework, which was either the sign of a delegation genuinely concerned about the engineering or the sign of a delegation that had decided to make the engineering its political lever and had prepared accordingly. Probably both.
 
 "The modification was certified before the trial," he said. "By whom, and on what basis."
 
@@ -3772,7 +3772,7 @@ Sarah watched the room during this exchange. The delegations that had come in sk
 
 The room was dividing along lines that had been there before the session started. Her job was to prevent that division from becoming the outcome.
 
-The afternoon session was devoted to engineering analysis. Kim walked through the cascade mechanism, the modification's design rationale, and the cascade behavior at forty-pod scale versus the projected behavior at fourteen hundred pods per ring. The technical briefing was thorough and, Sarah thought, slightly too thorough — Kim had prepared for the depth of the most technical questions she might receive and as a result was giving more technical detail than most delegations would retain. This was a common error in expert testimony. The experts knew which details mattered and couldn't fully model how much less their audience knew.
+The afternoon session was devoted to engineering analysis. Kim walked through the cascade mechanism, the modification's design rationale, and the cascade behavior at forty-pod scale versus the projected behavior at fourteen hundred pods per ring. The technical briefing was thorough and, Sarah thought, slightly too thorough, Kim had prepared for the depth of the most technical questions she might receive and as a result was giving more technical detail than most delegations would retain. This was a common error in expert testimony. The experts knew which details mattered and couldn't fully model how much less their audience knew.
 
 During the break Sarah pulled Paul aside. "The afternoon session. The technical briefing."
 
@@ -3788,7 +3788,7 @@ Day two was the political session. Sarah had thirty minutes at the top of the da
 
 She used them.
 
-She said: the forty-three percent probability is a data point, not a verdict. She said: the testing process worked — the failure was found at small scale, with forty subjects, not at operational scale with four thousand. She said: every delegation in this room made a commitment based on the understanding that the program would encounter problems and solve them. This is a problem being solved.
+She said: the forty-three percent probability is a data point, not a verdict. She said: the testing process worked, the failure was found at small scale, with forty subjects, not at operational scale with four thousand. She said: every delegation in this room made a commitment based on the understanding that the program would encounter problems and solve them. This is a problem being solved.
 
 Then she said the thing she'd been deciding for three days whether to say.
 
@@ -3796,9 +3796,9 @@ Then she said the thing she'd been deciding for three days whether to say.
 
 The room shifted. Not the specific quality of surprise but the specific quality of a subject arriving that had been present in every private conversation and was now public.
 
-"A conscious-crew mission," she said. "Four thousand people awake for the full transit. The ship would need to be significantly redesigned — larger life support capacity, different social and psychological architecture, a construction timeline extension." She paused. "I am not proposing this option. I am naming it, because I believe it is better for this room to make this decision with the option explicitly on the table than to spend the next six months managing it as a subtext."
+"A conscious-crew mission," she said. "Four thousand people awake for the full transit. The ship would need to be significantly redesigned, larger life support capacity, different social and psychological architecture, a construction timeline extension." She paused. "I am not proposing this option. I am naming it, because I believe it is better for this room to make this decision with the option explicitly on the table than to spend the next six months managing it as a subtext."
 
-Lindqvist, who had known she was going to say this — she had told him the night before — said from his seat: "What is the engineering estimate for such a redesign."
+Lindqvist, who had known she was going to say this, she had told him the night before, said from his seat: "What is the engineering estimate for such a redesign."
 
 "Novak," Sarah said.
 
@@ -3816,7 +3816,7 @@ The discussion ran six hours. She answered questions. She let Novak and Kim answ
 
 The French motion came at hour four: a formal pause of the cryosleep development program pending a comprehensive safety review.
 
-Sarah did not block it. She let it be tabled. She spoke to it for eight minutes, arguing that a pause of the cryosleep development program was the correct decision if the decision was that cryosleep would not be the mission architecture — that a pause contingent on ongoing redesign was not the same as a pause contingent on the status quo.
+Sarah did not block it. She let it be tabled. She spoke to it for eight minutes, arguing that a pause of the cryosleep development program was the correct decision if the decision was that cryosleep would not be the mission architecture, that a pause contingent on ongoing redesign was not the same as a pause contingent on the status quo.
 
 The motion came to a vote at the end of day two. The room voted eleven to two to table the motion for decision on day three, in conjunction with a decision on mission architecture.
 
@@ -3826,7 +3826,7 @@ Day two ended with no architecture decision. That was also correct. Day two was 
 
 Day three was the vote.
 
-Sarah had spent the night — three hours of it, the rest on work — talking with five delegations individually. Not managing them. Listening. There was a version of coalition work that was about managing people toward predetermined outcomes, and a version that was about understanding what they actually needed and finding the outcome that met enough of it.
+Sarah had spent the night, three hours of it, the rest on work, talking with five delegations individually. Not managing them. Listening. There was a version of coalition work that was about managing people toward predetermined outcomes, and a version that was about understanding what they actually needed and finding the outcome that met enough of it.
 
 She was doing the second version. It was slower and it produced more durable results.
 
@@ -3874,7 +3874,7 @@ Eleven to one. The program survived. The work continued.
 
 She opened her laptop and started on the Senate briefing, because the next conversation was already waiting and the work in front of her was the only work that mattered.
 
-— END OF CHAPTER 26 —
+,  END OF CHAPTER 26 , 
 
 Chapter 27: Starting Over
 
@@ -3892,19 +3892,19 @@ She read the fourth paragraph twice.
 
 One hundred and eighty days to redesign a framework she'd spent nine years building.
 
-She set the notification aside and opened the assessment database and looked at the number she'd been doing the arithmetic on since Friday afternoon: three hundred and forty-one. The people who had received formal incompatibility determinations under the cryosleep criteria. She had been sending those determinations for two years — careful letters, drafted with Kim's input on the physiological language and her own on the psychological framing, delivered through a process she had designed to be as humane as the information allowed.
+She set the notification aside and opened the assessment database and looked at the number she'd been doing the arithmetic on since Friday afternoon: three hundred and forty-one. The people who had received formal incompatibility determinations under the cryosleep criteria. She had been sending those determinations for two years, careful letters, drafted with Kim's input on the physiological language and her own on the psychological framing, delivered through a process she had designed to be as humane as the information allowed.
 
-The determinations had been final. She had said so explicitly, in the accompanying documentation, because ambiguity in that kind of communication was its own form of cruelty. She had told people the door was closed. She had chosen that word — closed — because she thought the clarity was kinder than leaving people with hope that wasn't real.
+The determinations had been final. She had said so explicitly, in the accompanying documentation, because ambiguity in that kind of communication was its own form of cruelty. She had told people the door was closed. She had chosen that word, closed, because she thought the clarity was kinder than leaving people with hope that wasn't real.
 
 She sat with the database and the number and the word for a long time.
 
 * * *
 
-Kim came in at ten with the same expression Elena recognized from the Friday call — the expression of someone who had spent the weekend doing the same arithmetic.
+Kim came in at ten with the same expression Elena recognized from the Friday call, the expression of someone who had spent the weekend doing the same arithmetic.
 
 "Three hundred and forty-one," Elena said.
 
-"I pulled the same count this morning." Kim sat down. "Not all of them are eligible under the conscious-crew criteria. Some of the incompatibilities were physiological factors relevant to a conscious-crew mission — cardiac, neurological, immune function. The long transit presents its own physical demands regardless of whether you're awake or in suspension." She paused. "But the cryosleep-specific incompatibilities —"
+"I pulled the same count this morning." Kim sat down. "Not all of them are eligible under the conscious-crew criteria. Some of the incompatibilities were physiological factors relevant to a conscious-crew mission, cardiac, neurological, immune function. The long transit presents its own physical demands regardless of whether you're awake or in suspension." She paused. "But the cryosleep-specific incompatibilities , "
 
 "How many."
 
@@ -3920,7 +3920,7 @@ She stood and walked to the window. Outside, Houston in July was doing what Hous
 
 "How do we contact them," she said.
 
-"The database has current contact information for two hundred and sixteen of the three hundred and forty-one. The remaining hundred and twenty-five —" Kim stopped. "Some moved without updating their contact information. Some —" She didn't finish the sentence.
+"The database has current contact information for two hundred and sixteen of the three hundred and forty-one. The remaining hundred and twenty-five , " Kim stopped. "Some moved without updating their contact information. Some , " She didn't finish the sentence.
 
 "Some made decisions based on what the letter said," Elena said.
 
@@ -3932,7 +3932,7 @@ She had known this was possible. Had known it from the first determination she s
 
 Kim was quiet. "That's a careful distinction."
 
-"It's the only honest one." Elena turned from the window. "I told people the door was closed. It was closed, at the time, for the reasons I stated. I can't unsay that. I also can't pretend the new communication cancels the weight of the original one — the original one has been sitting in these people's lives for anywhere from two to nine years. That's not something a follow-up letter resolves."
+"It's the only honest one." Elena turned from the window. "I told people the door was closed. It was closed, at the time, for the reasons I stated. I can't unsay that. I also can't pretend the new communication cancels the weight of the original one, the original one has been sitting in these people's lives for anywhere from two to nine years. That's not something a follow-up letter resolves."
 
 "Some of them will be angry," Kim said.
 
@@ -3944,7 +3944,7 @@ Kim was quiet. "That's a careful distinction."
 
 "Some will have built entirely different lives in the time since."
 
-"I know." Elena sat back down. "The letter has to acknowledge all of that. Not perform sensitivity — actually account for it. It can't be a form letter. I want to write the template and then review every individual letter before it goes out."
+"I know." Elena sat back down. "The letter has to acknowledge all of that. Not perform sensitivity, actually account for it. It can't be a form letter. I want to write the template and then review every individual letter before it goes out."
 
 "That's one hundred and ninety letters."
 
@@ -3964,7 +3964,7 @@ Elena looked at her.
 
 * * *
 
-Sofia called that afternoon. They talked two or three times a week, had since the engagement — closer now than they'd been when Sofia was young and angrier and Elena was more guarded, closer in the specific way that two people became close when they'd been through enough together to stop performing for each other.
+Sofia called that afternoon. They talked two or three times a week, had since the engagement, closer now than they'd been when Sofia was young and angrier and Elena was more guarded, closer in the specific way that two people became close when they'd been through enough together to stop performing for each other.
 
 "How are you," Sofia said. She said it the way she said it when she wanted a real answer.
 
@@ -3978,7 +3978,7 @@ Sofia called that afternoon. They talked two or three times a week, had since th
 
 "Each of them."
 
-Sofia was quiet for a moment. Elena knew this silence — it was the silence of her daughter recognizing something and deciding not to make a production of recognizing it. "That's going to be hard," Sofia said finally.
+Sofia was quiet for a moment. Elena knew this silence, it was the silence of her daughter recognizing something and deciding not to make a production of recognizing it. "That's going to be hard," Sofia said finally.
 
 "Yes."
 
@@ -3988,7 +3988,7 @@ Sofia was quiet for a moment. Elena knew this silence — it was the silence of 
 
 "Does this change anything for you? About whether you're on the ship?"
 
-The question that had been unresolved for nine years. Elena had been avoiding resolving it because the resolution required choosing between two things she couldn't rank: the work here, which had become the defining labor of her professional life, and the transit that was the destination the work had been building toward. The cryosleep profile had made the question abstract — forty years of suspension was a particular kind of commitment, more like death than travel. The conscious-crew profile made it something different. Forty years awake. Forty years doing, aboard the ship, something like what she was doing here.
+The question that had been unresolved for nine years. Elena had been avoiding resolving it because the resolution required choosing between two things she couldn't rank: the work here, which had become the defining labor of her professional life, and the transit that was the destination the work had been building toward. The cryosleep profile had made the question abstract, forty years of suspension was a particular kind of commitment, more like death than travel. The conscious-crew profile made it something different. Forty years awake. Forty years doing, aboard the ship, something like what she was doing here.
 
 "I don't know," she said. Which was the truth, and also more honest than the versions she'd been giving the question for nine years.
 
@@ -4004,7 +4004,7 @@ The question that had been unresolved for nine years. Elena had been avoiding re
 
 "After the letters," Elena said.
 
-They talked for another thirty minutes about Paul's fellowship and Chicago and a book Sofia was reading. Normal life, with its insistence. When the call ended, Elena sat for a while with the quiet of the office — the hum of the building's cooling system, the distant sounds of the Houston afternoon, the database on her screen.
+They talked for another thirty minutes about Paul's fellowship and Chicago and a book Sofia was reading. Normal life, with its insistence. When the call ended, Elena sat for a while with the quiet of the office, the hum of the building's cooling system, the distant sounds of the Houston afternoon, the database on her screen.
 
 She opened a new document and began drafting the communication template.
 
@@ -4012,19 +4012,19 @@ The right opening sentence took forty minutes. She wrote it, deleted it, wrote i
 
 She found it, eventually: The Framework for Coordinated Planetary Defense has made a significant decision about the mission architecture, and because that decision affects the determination I sent you, I want to reach you directly rather than through official channels alone.
 
-She wrote the rest of the template around it. Then she opened the file for the first individual letter — the environmental engineer from Manitoba, the one who had cried quietly and thanked her with formal precision at the end. She had been thinking about her since Friday.
+She wrote the rest of the template around it. Then she opened the file for the first individual letter, the environmental engineer from Manitoba, the one who had cried quietly and thanked her with formal precision at the end. She had been thinking about her since Friday.
 
 She wrote the letter. She would write the rest over the next sixty days, between the criteria review work and the new assessment development and the coordination meetings with Novak's engineering team about what the conscious-crew profile actually required from a psychological and social architecture standpoint.
 
 The work was different now. It required the same precision, the same care, the same willingness to sit with difficult information and describe it accurately. It was still the work.
 
-She wrote until seven PM and then drove home through the Houston evening, the sky finally going toward the colors it made at sunset now — more vivid than they'd been when she was young, the particulates doing what particulates did to light, turning the west into something that would have looked like a painting if you didn't know what was causing it.
+She wrote until seven PM and then drove home through the Houston evening, the sky finally going toward the colors it made at sunset now, more vivid than they'd been when she was young, the particulates doing what particulates did to light, turning the west into something that would have looked like a painting if you didn't know what was causing it.
 
 She looked at it for a moment before she went inside.
 
 Then she went inside and thought about the second letter, and the one after that, and the one hundred and eighty-eight after that.
 
-— END OF CHAPTER 27 —
+,  END OF CHAPTER 27 , 
 
 Chapter 28: The Argument Mars Makes
 
@@ -4034,13 +4034,13 @@ October 3, 2036 | 14:15 Mars Local Solar Time
 
 The cryosleep failure was in the news for eleven days before it stopped being the primary story, and Marcus had read every article.
 
-Not because he needed the information — the technical analysis had come through the Framework's partner notification channel within forty-eight hours of the incident, and the formal architecture decision had been transmitted before Geneva held the vote — but because the articles told him something the technical reports didn't: what Earth was deciding to feel about it.
+Not because he needed the information, the technical analysis had come through the Framework's partner notification channel within forty-eight hours of the incident, and the formal architecture decision had been transmitted before Geneva held the vote, but because the articles told him something the technical reports didn't: what Earth was deciding to feel about it.
 
-Earth was deciding to feel complicated about it. Some coverage treated it as program failure. Some as testing success — problem found at small scale, contained, corrected, the system working as designed. A few pieces addressed the larger question that the incident made easier to ask: was the ship mission the right response to the threat, or was Mars?
+Earth was deciding to feel complicated about it. Some coverage treated it as program failure. Some as testing success, problem found at small scale, contained, corrected, the system working as designed. A few pieces addressed the larger question that the incident made easier to ask: was the ship mission the right response to the threat, or was Mars?
 
 Those were the pieces Marcus read twice.
 
-He noticed something in the framing: the coverage that used Mars as an alternative to the ship treated terraforming as a known quantity, as if eleven years of atmospheric work had produced results that were more legible than they were. They had not produced results that were more legible than they were. They had produced data consistent with projections that were themselves based on models that had never been tested at planetary scale. The coverage was doing what coverage always did — simplifying in the direction of the narrative that was most useful for the argument being made.
+He noticed something in the framing: the coverage that used Mars as an alternative to the ship treated terraforming as a known quantity, as if eleven years of atmospheric work had produced results that were more legible than they were. They had not produced results that were more legible than they were. They had produced data consistent with projections that were themselves based on models that had never been tested at planetary scale. The coverage was doing what coverage always did, simplifying in the direction of the narrative that was most useful for the argument being made.
 
 He noted this without resentment. He had spent eleven years on Mars and had long since stopped expecting external coverage to be accurate about what was happening here. External coverage couldn't be accurate because external coverage was written by people who hadn't been here, and the thing that was true about Mars was the thing that couldn't be transmitted through data packages and press releases: the specific quality of what it meant to be alive in this place, which was simultaneously more fragile and more durable than any article could capture.
 
@@ -4058,13 +4058,13 @@ Lena came to his office on October third, four days after the Mars atmospheric g
 
 "I've drafted the notification." She pushed the tablet toward him. "Review it before it goes."
 
-He read it. She had been drafting notifications for five years and they had improved with each iteration. This one was precise about the scope, honest about the uncertainty, careful to use notification rather than permission language — which was not a subtle distinction but a legal one, the difference between informing a partner of your actions and requesting their approval.
+He read it. She had been drafting notifications for five years and they had improved with each iteration. This one was precise about the scope, honest about the uncertainty, careful to use notification rather than permission language, which was not a subtle distinction but a legal one, the difference between informing a partner of your actions and requesting their approval.
 
 "There's going to be a reaction," he said.
 
 "Yes."
 
-"The timing. Geneva is managing the cryosleep fallout. The Framework just voted to redesign the mission architecture. Announcing a Mars terraforming escalation in the middle of that —"
+"The timing. Geneva is managing the cryosleep fallout. The Framework just voted to redesign the mission architecture. Announcing a Mars terraforming escalation in the middle of that , "
 
 "The atmospheric window is determined by the data," Lena said. The flat tone of someone who had thought through the objection and arrived at a position. "We can't wait for Earth's political calendar. The seeding conditions in the northern hemisphere are favorable now. Delaying six months loses the window and sets Phase Two back by eighteen months minimum."
 
@@ -4080,13 +4080,13 @@ Lena held his gaze. This was what he valued most in her: she did not evade the d
 
 "It's not entirely separate either. I think you should know that when you decide."
 
-Marcus thought about this. The distinction between taking advantage of an opportunity and manufacturing one. He had arrived at a working principle over eleven years of this: you could use an opportunity without creating it. The atmospheric data was real. The seeding window was real. The political moment was not of their making — it was the product of a cryosleep system that had failed in testing and a governance process that had responded by redesigning the mission. Mars Station's terraforming program had been proceeding on its own timeline for six years.
+Marcus thought about this. The distinction between taking advantage of an opportunity and manufacturing one. He had arrived at a working principle over eleven years of this: you could use an opportunity without creating it. The atmospheric data was real. The seeding window was real. The political moment was not of their making, it was the product of a cryosleep system that had failed in testing and a governance process that had responded by redesigning the mission. Mars Station's terraforming program had been proceeding on its own timeline for six years.
 
 "Send the notification," he said. "Add a paragraph acknowledging the Framework's current circumstances and noting that the timing is data-driven. Make it clear we're aware of the context without performing apology about the notification."
 
 Lena nodded and picked up the tablet.
 
-"Article 14," she said. "If they challenge it —"
+"Article 14," she said. "If they challenge it , "
 
 "They won't. They don't have the bandwidth right now, and the language is clear. They might respond slowly. They won't challenge."
 
@@ -4094,7 +4094,7 @@ Lena nodded and picked up the tablet.
 
 "More likely sixty. Geneva doesn't let things sit when they have a formal obligation to respond."
 
-She left. Marcus looked at the atmospheric data on his display — the temperature baseline shift, the pressure increase, the slow accumulation of readings that were consistent with projections but that would take decades to know for certain. Science at a scale where human lifetimes were barely long enough to see the arc.
+She left. Marcus looked at the atmospheric data on his display, the temperature baseline shift, the pressure increase, the slow accumulation of readings that were consistent with projections but that would take decades to know for certain. Science at a scale where human lifetimes were barely long enough to see the arc.
 
 * * *
 
@@ -4130,13 +4130,13 @@ Paulo walked in silence for a while. The equipment yard lights were coming on as
 
 "Your brother," Paulo said. "Does he understand what we've done here?"
 
-Marcus thought about this. His brother was a secondary school teacher in Auckland. He had been following the Mars story through news coverage for eleven years and sending messages that were always slightly off — not wrong, but missing the texture of the thing, the way coverage always missed the texture. "He understands it intellectually," Marcus said. "He doesn't understand it the way you understand it. Or the way I do."
+Marcus thought about this. His brother was a secondary school teacher in Auckland. He had been following the Mars story through news coverage for eleven years and sending messages that were always slightly off, not wrong, but missing the texture of the thing, the way coverage always missed the texture. "He understands it intellectually," Marcus said. "He doesn't understand it the way you understand it. Or the way I do."
 
 "The way you know it from the inside."
 
 "Yes. There's no message long enough to convey the inside of it." Marcus looked at the plateau. At thirty-three years of accumulated life that had built something in a place that had previously been empty. "Which is why the record matters more than the explanation. What we've built will be here whether I can explain it or not."
 
-They walked back to the station. Paulo went to the agricultural module. Marcus went to his office and wrote the quarterly message to his brother — the considered note, the one that tried to give Auckland the inside of something that couldn't quite be conveyed.
+They walked back to the station. Paulo went to the agricultural module. Marcus went to his office and wrote the quarterly message to his brother, the considered note, the one that tried to give Auckland the inside of something that couldn't quite be conveyed.
 
 He wrote: The terraforming program moves to Phase Two next month. The notification goes to Geneva tomorrow. I know that sounds procedural from there, but what it means here is that the work we've been doing for six years has reached the point where the next step is large enough to require formal notice. The atmospheric readings are tracking. Slowly. But tracking.
 
@@ -4148,7 +4148,7 @@ He went to the atmospheric sensors. The readings were where they should be. The 
 
 He went to bed.
 
-— END OF CHAPTER 28 —
+,  END OF CHAPTER 28 , 
 
 Chapter 29: Six
 
@@ -4158,15 +4158,15 @@ January 8, 2038 | 09:00 Luna Standard Time
 
 The crew of six had been training together for thirty-one months, long enough to have passed through the three phases Maria had observed in every extended crew preparation she'd been part of.
 
-The first phase was professional distance — the careful presentation of competence by people who didn't yet know how the others failed. The second was friction, when you learned where the edges were and discovered that some of them were sharper than the presentation had suggested. And then the third phase, which had no formal name, where people stopped performing competence and simply had it. Where the group's collective capability stopped being the sum of individual performances and became something else: a system, with its own reflexes.
+The first phase was professional distance, the careful presentation of competence by people who didn't yet know how the others failed. The second was friction, when you learned where the edges were and discovered that some of them were sharper than the presentation had suggested. And then the third phase, which had no formal name, where people stopped performing competence and simply had it. Where the group's collective capability stopped being the sum of individual performances and became something else: a system, with its own reflexes.
 
-They were deep in the third phase. She could feel it in how the simulations ran — less consultation, more anticipation, the kind of seamlessness that looked effortless from the outside and that she knew, from the inside, had cost thirty-one months of friction and recalibration.
+They were deep in the third phase. She could feel it in how the simulations ran, less consultation, more anticipation, the kind of seamlessness that looked effortless from the outside and that she knew, from the inside, had cost thirty-one months of friction and recalibration.
 
 This morning was the final pre-certification simulation run. The complete mission profile, departure burn through final impactor deployment and transit back to the Mars relay handoff point. Twelve hours of simulated time compressed into six of real time. They had run this profile fourteen times in the past year. The fifteenth was the one that went in the certification record.
 
 She had not told them it was the certification run.
 
-She had told them it was the final pre-cert rehearsal, and she had done this deliberately, because certification pressure changed how people performed. She needed to see how they performed without the pressure before she decided whether to tell them the pressure was there. This was a judgment call she'd made and that she would not have made the same way for every crew she'd ever worked with — this particular six, she'd decided, ran better when they weren't told what was at stake. Not because they needed to be managed, but because they were already giving everything the work required and adding the weight of official record didn't improve anything.
+She had told them it was the final pre-cert rehearsal, and she had done this deliberately, because certification pressure changed how people performed. She needed to see how they performed without the pressure before she decided whether to tell them the pressure was there. This was a judgment call she'd made and that she would not have made the same way for every crew she'd ever worked with, this particular six, she'd decided, ran better when they weren't told what was at stake. Not because they needed to be managed, but because they were already giving everything the work required and adding the weight of official record didn't improve anything.
 
 * * *
 
@@ -4174,19 +4174,19 @@ The departure burn was Cole's section to run. He executed it with the precision 
 
 She didn't tell him it was clean. He knew.
 
-The transit phase occupied hours two through nine of the compressed profile. This was the section that revealed character most accurately — not the crisis moments, which were too acute for the full range of a person to show, but the sustained work of a long transit, the maintenance and monitoring that had to be done carefully while the body's natural inclination was toward inattention.
+The transit phase occupied hours two through nine of the compressed profile. This was the section that revealed character most accurately, not the crisis moments, which were too acute for the full range of a person to show, but the sustained work of a long transit, the maintenance and monitoring that had to be done carefully while the body's natural inclination was toward inattention.
 
 Cole and Anand ran system checks on a cycle that would have looked routine to an observer and that Maria had spent fourteen months learning to read as diagnostic. They were not checking systems in the order the protocol specified. They were checking them in an order that they had developed over the previous year based on their collective understanding of which systems, in the Phoenix configuration, were most likely to produce early warning signs of developing faults. The protocol was the floor. This was the ceiling.
 
-She made a note in her log: Cole/Anand transit check sequence — document as best practice for program record.
+She made a note in her log: Cole/Anand transit check sequence, document as best practice for program record.
 
-The survey pass over the asteroid model began at hour nine. The simulation used the high-fidelity model built from Compass data — the density gradient, M1/M2/M3 in their asymmetric positions, the rotation profile that produced different radar return signatures depending on approach angle.
+The survey pass over the asteroid model began at hour nine. The simulation used the high-fidelity model built from Compass data, the density gradient, M1/M2/M3 in their asymmetric positions, the rotation profile that produced different radar return signatures depending on approach angle.
 
 This was the section she watched most carefully.
 
 Reyes ran the radar survey with Stone on secondary analysis. Their fourteen-hour survey window had been one of the areas she'd drilled hardest in the previous year, because fourteen hours felt like a lot of time until you were actually in it, with a rotating irregular body producing variable returns and the deployment window opening whether you were ready or not.
 
-She watched them work. They had developed a survey rhythm — Reyes calling primary contacts, Stone running the density analysis against the Compass model, the two of them reconciling discrepancies in a shorthand that had evolved so organically over two years of training that she doubted they could fully articulate it if asked.
+She watched them work. They had developed a survey rhythm, Reyes calling primary contacts, Stone running the density analysis against the Compass model, the two of them reconciling discrepancies in a shorthand that had evolved so organically over two years of training that she doubted they could fully articulate it if asked.
 
 At hour nine of the survey, Reyes said: "Contact at the M2 boundary. Inner mass concentration, reading slightly offset from model."
 
@@ -4216,7 +4216,7 @@ Anand was already running it. "Successful under Solution Two parameters. Margina
 
 "Good."
 
-The transit back to the relay handoff was four simulated days, compressed to two hours. Maria used the time to run a secondary review of the deployment data — not because she doubted the calculation but because the debrief notes were more useful if she'd done her own analysis before consulting anyone else's.
+The transit back to the relay handoff was four simulated days, compressed to two hours. Maria used the time to run a secondary review of the deployment data, not because she doubted the calculation but because the debrief notes were more useful if she'd done her own analysis before consulting anyone else's.
 
 At the relay point she keyed the mission-complete log and watched the simulation close.
 
@@ -4224,13 +4224,13 @@ She looked at the crew. The specific tiredness of people coming off six hours of
 
 "That was the cert run," she said.
 
-Anand nodded — she'd clearly figured it out around hour three. Cole's expression didn't change. Harrison looked at the ceiling. Reyes and Stone exchanged a glance.
+Anand nodded, she'd clearly figured it out around hour three. Cole's expression didn't change. Harrison looked at the ceiling. Reyes and Stone exchanged a glance.
 
 "How'd we do," Cole said.
 
-"Clean departure. Thorough survey. The M2 offset call at resolution limit was exactly right — log that as a positive notation for Reyes and Stone. Deployment within Solution Two tolerance. Momentum transfer confirmed." She paused. "You passed."
+"Clean departure. Thorough survey. The M2 offset call at resolution limit was exactly right, log that as a positive notation for Reyes and Stone. Deployment within Solution Two tolerance. Momentum transfer confirmed." She paused. "You passed."
 
-The room held the information for a moment. Not celebration — none of them were celebratory people, which was part of why they worked as a crew — but presence with it, the quality of people who had been building toward something for a long time and had just cleared a marker.
+The room held the information for a moment. Not celebration, none of them were celebratory people, which was part of why they worked as a crew, but presence with it, the quality of people who had been building toward something for a long time and had just cleared a marker.
 
 "Phoenix launches in fourteen months," Maria said.
 
@@ -4244,11 +4244,11 @@ He considered it. "Fair."
 
 She kept Harrison and Cole after the others went to decompress.
 
-"The targeting margin," she said. "Solution Two puts us at plus or minus 2.1 kilometers. The cert run was within that. In the field, the radar resolution is going to give us more precise M2 positioning than the simulation model — the model is deliberately conservative."
+"The targeting margin," she said. "Solution Two puts us at plus or minus 2.1 kilometers. The cert run was within that. In the field, the radar resolution is going to give us more precise M2 positioning than the simulation model, the model is deliberately conservative."
 
 "Real margin might be better," Cole said.
 
-"Might be. We plan for the certified margin and we're glad if it's better. What I want to talk about is the adjustment protocol — the M2 offset call. Reyes made it at resolution limit with confidence. In the field, the data is going to be noisier than the simulation gives us. I want to add six targeted runs in the next three months specifically on the survey-to-targeting handoff under degraded data conditions. Not the full profile. Just that section, with deliberately worsened radar return quality."
+"Might be. We plan for the certified margin and we're glad if it's better. What I want to talk about is the adjustment protocol, the M2 offset call. Reyes made it at resolution limit with confidence. In the field, the data is going to be noisier than the simulation gives us. I want to add six targeted runs in the next three months specifically on the survey-to-targeting handoff under degraded data conditions. Not the full profile. Just that section, with deliberately worsened radar return quality."
 
 "How degraded," Harrison asked.
 
@@ -4266,17 +4266,17 @@ Cole was already making notes. "Six runs, three months. I'll draft the degraded-
 
 * * *
 
-She walked through the base to the pilot quarters, stopping at the viewport in the outer ring corridor. She stopped here sometimes — it was one of the better views of the ship, oblique angle, close enough to see the detail.
+She walked through the base to the pilot quarters, stopping at the viewport in the outer ring corridor. She stopped here sometimes, it was one of the better views of the ship, oblique angle, close enough to see the detail.
 
 The ship was in pieces.
 
-Not catastrophically — the cryosleep bay conversion was a managed disassembly, documented and sequenced, the kind of controlled construction pause that Novak ran with the same systematic care she ran everything. But the outer habitation rings had been partially dismantled to allow for the conscious-crew life support expansion, and from here the ship looked like what it was: a work in progress. A thing that was being remade into something better than what it had been, at a cost in time and material that had consumed most of the program's available margin.
+Not catastrophically, the cryosleep bay conversion was a managed disassembly, documented and sequenced, the kind of controlled construction pause that Novak ran with the same systematic care she ran everything. But the outer habitation rings had been partially dismantled to allow for the conscious-crew life support expansion, and from here the ship looked like what it was: a work in progress. A thing that was being remade into something better than what it had been, at a cost in time and material that had consumed most of the program's available margin.
 
-Novak had told her, in January, that the departure window was still achievable. That the conscious-crew redesign was tracking within the extended timeline. That the modifications were making the ship more robust, not less — that the forced redesign had produced solutions to problems that had been latent in the original architecture and that might not have been found until transit.
+Novak had told her, in January, that the departure window was still achievable. That the conscious-crew redesign was tracking within the extended timeline. That the modifications were making the ship more robust, not less, that the forced redesign had produced solutions to problems that had been latent in the original architecture and that might not have been found until transit.
 
 Maria believed her. She had spent four years watching Novak manage problems that looked unsolvable and emerge from the management process with solutions that were better than what the original plan had assumed. The ship would be ready. She believed this not from optimism but from evidence.
 
-Phoenix launched in fourteen months. Maria would not be aboard the ship — Phoenix was a different vehicle, smaller, faster, built for the deflection mission. But the four thousand people who would board the ship, awake and conscious, living their lives in the rotating rings for four decades, needed it to be right. Needed the life support to be right, the social architecture to be right, the ten thousand decisions that went into a vessel where people would be born and die and raise children and grow old.
+Phoenix launched in fourteen months. Maria would not be aboard the ship, Phoenix was a different vehicle, smaller, faster, built for the deflection mission. But the four thousand people who would board the ship, awake and conscious, living their lives in the rotating rings for four decades, needed it to be right. Needed the life support to be right, the social architecture to be right, the ten thousand decisions that went into a vessel where people would be born and die and raise children and grow old.
 
 The ship would be right. She trusted the people making it right.
 
@@ -4288,7 +4288,7 @@ Fourteen months. Certification complete. The margin was 2.1 kilometers and she i
 
 She went to sleep.
 
-— END OF CHAPTER 29 —
+,  END OF CHAPTER 29 , 
 
 Chapter 30: The Testimony and the Call
 
@@ -4296,9 +4296,9 @@ Thomas Rourke | Jamaica Plain, Boston
 
 October 14, 2038 | 10:00 AM EST
 
-He had been writing the testimony for six months, which was not how long it had taken — the actual writing was three weeks in July — but six months was how long he had been thinking about what he wanted to say in the room, which was a different thing from the writing.
+He had been writing the testimony for six months, which was not how long it had taken, the actual writing was three weeks in July, but six months was how long he had been thinking about what he wanted to say in the room, which was a different thing from the writing.
 
-The legislative inquiry had been eighteen months in development, from Dmitri's election to the District Four seat in November 2036 through the committee formation and the witness selection and the procedural calendar and the delays that were the organism that legislative processes were, slow and patient and directional in the way that anything moved when enough people had worked long enough to direct it. Dmitri had done that work. He had spent eighteen months building a committee with the authority to hear testimony about reconstruction equity and the monitoring office and the OMB re-allocations and all of it — the whole thirteen-year record — and with the political weight to produce findings that would outlast the current session.
+The legislative inquiry had been eighteen months in development, from Dmitri's election to the District Four seat in November 2036 through the committee formation and the witness selection and the procedural calendar and the delays that were the organism that legislative processes were, slow and patient and directional in the way that anything moved when enough people had worked long enough to direct it. Dmitri had done that work. He had spent eighteen months building a committee with the authority to hear testimony about reconstruction equity and the monitoring office and the OMB re-allocations and all of it, the whole thirteen-year record, and with the political weight to produce findings that would outlast the current session.
 
 Thomas was the seventh witness. He testified on a Tuesday in mid-October, the week before the thirteenth anniversary of the Boston impact.
 
@@ -4310,15 +4310,15 @@ He gave the testimony.
 
 Forty-two minutes. He had timed it at eleven PM the night before and it had run forty-eight minutes, which meant he'd tightened it by six in the hours between midnight and this morning, which was either editing or nerves or the particular economy that came from having said a thing so many times in your head that the excess had worn off.
 
-He told them about Jamaica Plain in October 2025. He told them about the OMB re-allocation and what it had meant for specific projects and specific families — not abstract policies but specific decisions that had made specific differences in what happened to specific people, because the record contained the specificity and this was the moment to use it. He told them about the community sessions: what they were, what they produced, why the documentation mattered beyond the legal proceedings it had supported.
+He told them about Jamaica Plain in October 2025. He told them about the OMB re-allocation and what it had meant for specific projects and specific families, not abstract policies but specific decisions that had made specific differences in what happened to specific people, because the record contained the specificity and this was the moment to use it. He told them about the community sessions: what they were, what they produced, why the documentation mattered beyond the legal proceedings it had supported.
 
-He told them about the federal civil complaint, its nine hundred pages, its two partial settlements, the monitoring office it had eventually produced. He told them about the monitoring office's enforcement record — the East Boston consultation period, the Roxbury development review, the gap between what the charter required and what had happened. He said: this is not a complaint about the people running the monitoring office. Most of them have worked hard under difficult conditions. This is a complaint about a structure that was designed without adequate enforcement capacity and that has produced, predictably, inadequate enforcement.
+He told them about the federal civil complaint, its nine hundred pages, its two partial settlements, the monitoring office it had eventually produced. He told them about the monitoring office's enforcement record, the East Boston consultation period, the Roxbury development review, the gap between what the charter required and what had happened. He said: this is not a complaint about the people running the monitoring office. Most of them have worked hard under difficult conditions. This is a complaint about a structure that was designed without adequate enforcement capacity and that has produced, predictably, inadequate enforcement.
 
 He told them about Dmitri and Nina and Rosa and Warren and the others who had built the sessions into something that had outlasted his capacity to run it alone. He told them about the Roxbury satellite and the Dorchester sessions and the East Boston group that was now running without him.
 
 He said: the record exists because people showed up, year after year, to document what happened to them. Not to perform it. Not to make a political case, though the record has been used for that. To document it, because documentation is what survives when the people who experienced something are no longer there to describe it. The record is not a complaint. The record is an account.
 
-He said: I am not asking this committee for acknowledgment. I am asking for a law. Specifically, a law that changes the relationship between federal reconstruction programs and the communities they're supposed to serve — one that builds enforcement into the structure rather than assuming it will emerge from goodwill and adequate staffing.
+He said: I am not asking this committee for acknowledgment. I am asking for a law. Specifically, a law that changes the relationship between federal reconstruction programs and the communities they're supposed to serve, one that builds enforcement into the structure rather than assuming it will emerge from goodwill and adequate staffing.
 
 He said: the monitoring office was the best we could get in 2029. I want you to pass something better than that, while the people who built the monitoring office are still alive to see it.
 
@@ -4326,19 +4326,19 @@ He sat down.
 
 * * *
 
-The questions ran for ninety minutes. Better questions than he'd received in any previous hearing — specific, informed by the documentation, less concerned with the political performance of the asking. Dmitri had done his work, and the committee reflected it.
+The questions ran for ninety minutes. Better questions than he'd received in any previous hearing, specific, informed by the documentation, less concerned with the political performance of the asking. Dmitri had done his work, and the committee reflected it.
 
-One member — a representative from outside Massachusetts with no particular stake in the Boston reconstruction, whose questions had been consistently the most substantive — asked the one Thomas hadn't anticipated: "You've been doing this for thirteen years. What kept you doing it?"
+One member, a representative from outside Massachusetts with no particular stake in the Boston reconstruction, whose questions had been consistently the most substantive, asked the one Thomas hadn't anticipated: "You've been doing this for thirteen years. What kept you doing it?"
 
 The room was quiet in the way it was quiet when a question cut past the proceeding and became something else.
 
 Thomas thought about the honest answer. Not the answer for the record, which would have been something about civic responsibility and the work deserving to be done. The actual answer.
 
-"The people in the room," he said. "Not the cause, not the record, not the idea of it — the people. Dmitri, who came in 2027 and built something I couldn't have built alone. Nina, who came in 2028 with her daughter and stayed long after her daughter grew up. Rosa, who never missed a Thursday in eight years and never once told me why she kept coming, which I think means the reason was larger than she wanted to explain." He paused. "People kept showing up. That made it harder to stop than to continue. I don't know that I chose to keep going so much as I never found a good enough reason to stop."
+"The people in the room," he said. "Not the cause, not the record, not the idea of it, the people. Dmitri, who came in 2027 and built something I couldn't have built alone. Nina, who came in 2028 with her daughter and stayed long after her daughter grew up. Rosa, who never missed a Thursday in eight years and never once told me why she kept coming, which I think means the reason was larger than she wanted to explain." He paused. "People kept showing up. That made it harder to stop than to continue. I don't know that I chose to keep going so much as I never found a good enough reason to stop."
 
 The committee member wrote something. Thomas did not see what it was.
 
-He stepped down at two-thirty and walked through the corridor outside the hearing room — past the windows facing the street, past the other witnesses — and went outside. The October afternoon was mild and overcast, the specific gray of a day that couldn't decide what it wanted to be.
+He stepped down at two-thirty and walked through the corridor outside the hearing room, past the windows facing the street, past the other witnesses, and went outside. The October afternoon was mild and overcast, the specific gray of a day that couldn't decide what it wanted to be.
 
 He walked for thirty minutes in no particular direction through the government district. Past the federal buildings and the reconstruction that was still ongoing in the most-affected blocks. Past the memorial markers that had gone up in 2027, the ones he still couldn't look at directly without the adjustment that came from knowing some of the names.
 
@@ -4350,11 +4350,11 @@ His phone rang at four-fifteen.
 
 Ben Oakes.
 
-Thomas held the phone and looked at it for a moment before answering. Not hesitation — he'd been waiting for this call for months, had known it was coming in some form, had felt its approach in the quality of Ben's recent communications, which had been brief in the way that communications were brief when a person was holding something they couldn't say yet.
+Thomas held the phone and looked at it for a moment before answering. Not hesitation, he'd been waiting for this call for months, had known it was coming in some form, had felt its approach in the quality of Ben's recent communications, which had been brief in the way that communications were brief when a person was holding something they couldn't say yet.
 
 "Ben."
 
-"I'm sorry I've been quiet." Ben's voice had the specific quality Thomas recognized from four previous conversations over thirteen years: the quality of someone saying something they had been working up to. "The targeting work has been — it's been a hard two years. I couldn't call you without saying what I couldn't say, and I couldn't say it until now."
+"I'm sorry I've been quiet." Ben's voice had the specific quality Thomas recognized from four previous conversations over thirteen years: the quality of someone saying something they had been working up to. "The targeting work has been, it's been a hard two years. I couldn't call you without saying what I couldn't say, and I couldn't say it until now."
 
 "I figured."
 
@@ -4374,7 +4374,7 @@ Thomas looked at the harbor. The water was gray and flat, light coming from ever
 
 "By how much."
 
-"Enough that I can call you." Thomas heard something in Ben's voice that he hadn't heard in years — not relief exactly, but the quality of a person who had been carrying something and had set it down. "I can't give you a number. I can tell you that the targeting team has done work in the last six months that moved the internal figure in the right direction, and that the people flying Phoenix are working with better certified parameters than they had a year ago."
+"Enough that I can call you." Thomas heard something in Ben's voice that he hadn't heard in years, not relief exactly, but the quality of a person who had been carrying something and had set it down. "I can't give you a number. I can tell you that the targeting team has done work in the last six months that moved the internal figure in the right direction, and that the people flying Phoenix are working with better certified parameters than they had a year ago."
 
 Thomas sat with this. He looked at the harbor and let the information settle into its proper place, which took a few seconds because he had spent months preparing for a call that went a different way.
 
@@ -4382,9 +4382,9 @@ Thomas sat with this. He looked at the harbor and let the information settle int
 
 "I know."
 
-"Maria Webb's crew certified in January. She requested six additional degraded-data simulation runs after the cert. She's been running approach scenarios with deliberately worsened data quality because she wants to know what the actual floor of her crew's performance looks like." Ben paused. "I've watched this mission for four years, Thomas. I've been in the room for some of the simulation debriefs. Maria Webb is — she's the right person for this. Whatever the mission can be given, she will give it."
+"Maria Webb's crew certified in January. She requested six additional degraded-data simulation runs after the cert. She's been running approach scenarios with deliberately worsened data quality because she wants to know what the actual floor of her crew's performance looks like." Ben paused. "I've watched this mission for four years, Thomas. I've been in the room for some of the simulation debriefs. Maria Webb is, she's the right person for this. Whatever the mission can be given, she will give it."
 
-Thomas thought about the woman he had never met and knew only from her record — the Navy service, the cargo years, the Luna assignment, the Phoenix designation. He had been following her in the same way he followed everything related to the program: from a distance, through public records and the occasional thing Ben had let slip, building an understanding of someone he had no connection to except that she was flying toward the thing that had changed his city and his life and the lives of everyone he knew.
+Thomas thought about the woman he had never met and knew only from her record, the Navy service, the cargo years, the Luna assignment, the Phoenix designation. He had been following her in the same way he followed everything related to the program: from a distance, through public records and the occasional thing Ben had let slip, building an understanding of someone he had no connection to except that she was flying toward the thing that had changed his city and his life and the lives of everyone he knew.
 
 "Is there anything left for you to do," Thomas asked. "On the targeting work."
 
@@ -4396,7 +4396,7 @@ Thomas thought about the woman he had never met and knew only from her record �
 
 "Yes."
 
-"I saw the clips. The thing you said about the people in the room — that you never found a good enough reason to stop. That's —" He stopped. "I don't know why I'm saying this. But it's been on my mind for two years, the question of what it's for. All of it. The mission, the work you've been doing, the thirteen years of this. And that answer is the best answer I've heard."
+"I saw the clips. The thing you said about the people in the room, that you never found a good enough reason to stop. That's , " He stopped. "I don't know why I'm saying this. But it's been on my mind for two years, the question of what it's for. All of it. The mission, the work you've been doing, the thirteen years of this. And that answer is the best answer I've heard."
 
 Thomas was quiet for a moment. He looked at the harbor. A seagull landed on the rail beside the bench, looked at him with the specific indifference of seagulls, and departed.
 
@@ -4408,7 +4408,7 @@ Thomas was quiet for a moment. He looked at the harbor. A seagull landed on the 
 
 "Whatever happens, Thomas."
 
-They stayed on the line for a moment longer — the specific extra time of a conversation where the right thing has been said and neither person wants to be the one who ends it. Then Ben said he needed to get back. Thomas said he understood. The call ended.
+They stayed on the line for a moment longer, the specific extra time of a conversation where the right thing has been said and neither person wants to be the one who ends it. Then Ben said he needed to get back. Thomas said he understood. The call ended.
 
 The harbor moved. The light was going, the cloud cover darkening toward evening, the city beginning the transition from afternoon to the long October night.
 
@@ -4424,7 +4424,7 @@ The work didn't stop because the afternoon had contained something significant. 
 
 He drove back to Jamaica Plain. He parked outside the community center. He went inside and started setting up the chairs.
 
-— END OF CHAPTER 30 —
+,  END OF CHAPTER 30 , 
 
 ACT FOUR
 
@@ -4438,11 +4438,11 @@ September 14, 2039 | 04:30 Luna Standard Time
 
 The launch window opened at 05:17. Maria had been awake since three.
 
-Not because she couldn't sleep — she had been sleeping without difficulty for fourteen years of high-stakes flight, and she had stopped apologizing for this capacity to people who couldn't — but because the last hour before a launch that mattered was different from sleep and she'd learned not to fight the difference. She lay in her bunk until three and then got up and made coffee and sat in the small chair by the door of her quarters and looked at the wall and thought through the mission the way she always thought through missions: backward from the final state, tracing each element to its predecessor, testing the chain.
+Not because she couldn't sleep, she had been sleeping without difficulty for fourteen years of high-stakes flight, and she had stopped apologizing for this capacity to people who couldn't, but because the last hour before a launch that mattered was different from sleep and she'd learned not to fight the difference. She lay in her bunk until three and then got up and made coffee and sat in the small chair by the door of her quarters and looked at the wall and thought through the mission the way she always thought through missions: backward from the final state, tracing each element to its predecessor, testing the chain.
 
 The chain held.
 
-At four-thirty she went to the ready room. Cole was already there, which she had expected. Harrison arrived at four thirty-eight, Reyes and Stone together at four forty-one, Anand at four forty-four. She looked at the six of them in the ready room — the specific configuration of six people who had trained together for thirty-three months and had passed the certification run and who were, in the formal sense, ready — and thought about a thing she had never said to any of them, which was that she had spent thirty-three months trying to understand where the failure point was. Every mission had one. You prepared for it not by hoping it wouldn't exist but by understanding what it would look like when you met it and knowing, before you got there, that you could get through it.
+At four-thirty she went to the ready room. Cole was already there, which she had expected. Harrison arrived at four thirty-eight, Reyes and Stone together at four forty-one, Anand at four forty-four. She looked at the six of them in the ready room, the specific configuration of six people who had trained together for thirty-three months and had passed the certification run and who were, in the formal sense, ready, and thought about a thing she had never said to any of them, which was that she had spent thirty-three months trying to understand where the failure point was. Every mission had one. You prepared for it not by hoping it wouldn't exist but by understanding what it would look like when you met it and knowing, before you got there, that you could get through it.
 
 She thought she knew what their failure point looked like. She was going to keep that to herself.
 
@@ -4454,7 +4454,7 @@ The walk to Phoenix took eleven minutes through the pressurized corridor that co
 
 This time she knew she was not going to walk it in the other direction.
 
-Not that she wasn't coming back — the mission profile had a return trajectory, and she intended to use it. But she had learned, in twenty-three years of flight, that there was a specific thing that happened on the walk to a mission you had prepared for completely, which was that all the preparation stopped being future and became present, and the present version was different from the future version in a way that was hard to describe to people who hadn't experienced it.
+Not that she wasn't coming back, the mission profile had a return trajectory, and she intended to use it. But she had learned, in twenty-three years of flight, that there was a specific thing that happened on the walk to a mission you had prepared for completely, which was that all the preparation stopped being future and became present, and the present version was different from the future version in a way that was hard to describe to people who hadn't experienced it.
 
 It felt, she thought, like the weight of what you were actually carrying.
 
@@ -4472,7 +4472,7 @@ Novak looked at her. Novak was fifty-three and had been running Luna Base for se
 
 "Good."
 
-"The current probability estimate, based on the revised vector solution, is—"
+"The current probability estimate, based on the revised vector solution, is, "
 
 "Patricia." Maria said it quietly. "I know the number. I've known it for eighteen months."
 
@@ -4486,15 +4486,15 @@ She meant the ship. Novak understood she meant the ship.
 
 The launch was at 05:17:43 Luna Standard Time, within six seconds of nominal.
 
-Maria ran the departure burn sequence with Cole on her right and the mission profile in her head and the specific sound of Phoenix's engines, which she had heard in the sim dozens of times and which sounded, in the actual, slightly different — lower, she thought, more physical, more present in the chest than the sim's audio reproduction had managed. She had been told this would happen. It happened.
+Maria ran the departure burn sequence with Cole on her right and the mission profile in her head and the specific sound of Phoenix's engines, which she had heard in the sim dozens of times and which sounded, in the actual, slightly different, lower, she thought, more physical, more present in the chest than the sim's audio reproduction had managed. She had been told this would happen. It happened.
 
 The burn lasted four minutes and eleven seconds. At cutoff they were on trajectory.
 
 She ran the post-burn checks. Cole called them, she confirmed them, Anand verified from the systems panel behind her. The checks were good. Phoenix was on trajectory, consumables nominal, crew nominal, all systems nominal.
 
-She looked out the forward viewport at the black. Luna Base was already behind them, too small to see. The sun was off to her left and slightly below, the way it always was from this trajectory at this time of the lunar cycle. Earth was visible — had been visible since the moment they cleared the launch bay — a blue-white disk that she had been looking at from space for thirteen years and that still had the quality it had always had, which was the quality of something you knew to be home and that looked, from here, like it might not survive what was coming.
+She looked out the forward viewport at the black. Luna Base was already behind them, too small to see. The sun was off to her left and slightly below, the way it always was from this trajectory at this time of the lunar cycle. Earth was visible, had been visible since the moment they cleared the launch bay, a blue-white disk that she had been looking at from space for thirteen years and that still had the quality it had always had, which was the quality of something you knew to be home and that looked, from here, like it might not survive what was coming.
 
-She put that away. That was the failure point she'd been thinking about in the ready room — not a technical failure, but the one that lived in the part of the mind that kept track of what was at stake. She had identified it thirty-three months ago and had been managing it since. You could not fly this mission and simultaneously hold the full weight of what depended on it. You held enough to care and you put the rest away and you did the work.
+She put that away. That was the failure point she'd been thinking about in the ready room, not a technical failure, but the one that lived in the part of the mind that kept track of what was at stake. She had identified it thirty-three months ago and had been managing it since. You could not fly this mission and simultaneously hold the full weight of what depended on it. You held enough to care and you put the rest away and you did the work.
 
 "Transit phase," she said. "Cole, you have the watch."
 
@@ -4504,7 +4504,7 @@ She unclipped from the commander's seat and moved to the mission specialist stat
 
 Outside, Earth fell slowly behind them, and ahead, at a distance of roughly one hundred and ninety million kilometers, a three hundred and forty-meter rubble pile was following its mathematics through the dark, the way it had been following them since before there was anyone to care.
 
-— END OF CHAPTER 31 —
+,  END OF CHAPTER 31 , 
 
 Chapter 32: The Record
 
@@ -4512,9 +4512,9 @@ Thomas Rourke | Jamaica Plain, Boston
 
 November 3, 2039 | 6:44 PM EST
 
-The bill passed the House at two-seventeen in the afternoon, forty-one days after it cleared the Senate, and Thomas found out the way he found out most things these days: from Dmitri, who texted a single number — 281 — which was the vote count, followed by a message that said: meet at the center at six.
+The bill passed the House at two-seventeen in the afternoon, forty-one days after it cleared the Senate, and Thomas found out the way he found out most things these days: from Dmitri, who texted a single number, 281, which was the vote count, followed by a message that said: meet at the center at six.
 
-He was at a job site in Roxbury when the text arrived, going through a structural assessment with a junior engineer named Watts who had come out of MIT two years ago and who had a quality Thomas associated with people who were good at structural work, which was the quality of moving through a building the way you moved through a problem — methodically, from load-bearing element to load-bearing element, ignoring what was superficial in favor of what would matter when the weight came. They had been talking about the shear walls in the west section, which had a configuration Thomas had never seen before and that Watts had correctly identified as a custom solution to a non-standard site condition.
+He was at a job site in Roxbury when the text arrived, going through a structural assessment with a junior engineer named Watts who had come out of MIT two years ago and who had a quality Thomas associated with people who were good at structural work, which was the quality of moving through a building the way you moved through a problem, methodically, from load-bearing element to load-bearing element, ignoring what was superficial in favor of what would matter when the weight came. They had been talking about the shear walls in the west section, which had a configuration Thomas had never seen before and that Watts had correctly identified as a custom solution to a non-standard site condition.
 
 He read the text. He said to Watts: "I have to be somewhere at six. Can you finish the west section write-up?"
 
@@ -4530,13 +4530,13 @@ He needed the drive.
 
 * * *
 
-The community center was lit up when he got there — not the usual Thursday session lighting but the lights that someone, he couldn't tell who, had turned on in the big room and the side room and the entryway, as if the building had decided it was an occasion. There were forty-three people inside. He recognized most of them. Dmitri was in the corner talking to Nina and a man Thomas had seen at the last eight sessions but whose name he still hadn't gotten.
+The community center was lit up when he got there, not the usual Thursday session lighting but the lights that someone, he couldn't tell who, had turned on in the big room and the side room and the entryway, as if the building had decided it was an occasion. There were forty-three people inside. He recognized most of them. Dmitri was in the corner talking to Nina and a man Thomas had seen at the last eight sessions but whose name he still hadn't gotten.
 
 Rosa was near the coffee station. She had been at the Thursday sessions since the second month after the impact, first because her building's assessment was pending and then because she had decided this was a thing worth staying for. She was in her late sixties and had a quality he had come to think of as the specific patience of someone who had learned to distinguish between things that were going to get better and things that were going to remain exactly as they were, and who spent her energy accordingly.
 
 "You heard," she said.
 
-"Dmitri texted." He poured himself a coffee, which he didn't need — he'd had three already today — but the motion of pouring it was familiar and the familiar was useful right now. "Two-eighty-one votes."
+"Dmitri texted." He poured himself a coffee, which he didn't need, he'd had three already today, but the motion of pouring it was familiar and the familiar was useful right now. "Two-eighty-one votes."
 
 "Is that a lot?"
 
@@ -4550,7 +4550,7 @@ Thomas looked at her. "That's the right answer."
 
 "I know."
 
-Dmitri came over. He had the particular energy he had when something he had been working on for a long time had happened — not elated, exactly, but present with it, the way a good engineer was present with a structure they'd built: aware of what it was and what it wasn't and not requiring it to be more than it was.
+Dmitri came over. He had the particular energy he had when something he had been working on for a long time had happened, not elated, exactly, but present with it, the way a good engineer was present with a structure they'd built: aware of what it was and what it wasn't and not requiring it to be more than it was.
 
 "The federal reconstruction equity framework," Dmitri said. He said it the way you said the name of something that had not previously existed and that now did. "It has a name now."
 
@@ -4578,13 +4578,13 @@ The room was quiet for a moment. Then someone started clapping and the room foll
 
 He stayed until nine. He had conversations he had been having versions of for fourteen years, about specific families and specific cases and the gap between what the law said and what it would actually produce, which was a gap he expected to spend the next several years working on. The law was not the end of the record. It was a marker in the record.
 
-He drove home at nine-fifteen. The radio was on. The bill was being covered the way political victories were covered — as a conclusion, as a resolution, as the end of a process. He listened for a while and then turned it off.
+He drove home at nine-fifteen. The radio was on. The bill was being covered the way political victories were covered, as a conclusion, as a resolution, as the end of a process. He listened for a while and then turned it off.
 
 At home he opened his laptop and added to the monitoring office log, which he had been keeping since November 2026. Today's entry was four lines: the vote count, the final version of the key provisions, the names of the three representatives whose votes had been uncertain until the morning of the tally and who had voted yes.
 
 He closed the log. He looked at the ceiling.
 
-Phoenix was somewhere between Luna Base and the asteroid, eight weeks into a transit that would take fourteen more. He had not heard from Ben since the call in October 2038. He had looked, once, at the agency's public tracking data — the trajectory position updated every six hours — and had decided not to look again, because there was nothing in the trajectory data that would tell him anything useful and the habit of checking it would not be a useful habit.
+Phoenix was somewhere between Luna Base and the asteroid, eight weeks into a transit that would take fourteen more. He had not heard from Ben since the call in October 2038. He had looked, once, at the agency's public tracking data, the trajectory position updated every six hours, and had decided not to look again, because there was nothing in the trajectory data that would tell him anything useful and the habit of checking it would not be a useful habit.
 
 The record was built. The law existed. The Thursday sessions continued.
 
@@ -4592,7 +4592,7 @@ Phoenix was flying.
 
 He set an alarm for six AM and went to sleep.
 
-— END OF CHAPTER 32 —
+,  END OF CHAPTER 32 , 
 
 Chapter 33: The List
 
@@ -4602,7 +4602,7 @@ March 8, 2040 | 08:15 AM CST
 
 The final candidate pool for the interstellar mission contained four thousand, three hundred and twelve names.
 
-Elena had been working toward this number for eleven years — not this specific number, which was a product of the conscious-crew redesign and the revised habitation capacity that Novak's engineering team had certified in January — but toward the idea of a number, the moment when the list would close and she would know who was going and who was not. She had imagined this moment many times. In her imagination it had the quality of completion.
+Elena had been working toward this number for eleven years, not this specific number, which was a product of the conscious-crew redesign and the revised habitation capacity that Novak's engineering team had certified in January, but toward the idea of a number, the moment when the list would close and she would know who was going and who was not. She had imagined this moment many times. In her imagination it had the quality of completion.
 
 In practice it had the quality of four thousand, three hundred and twelve people, each of whom was a file she had reviewed, a decision she had made or supervised, a life she had measured against criteria that she had designed and revised and revised again and that she still, on careful examination, could not fully defend.
 
@@ -4616,13 +4616,13 @@ She read the final pool report.
 
 The report was forty-six pages. Elena read all of it, the way she read all documents that were the product of work she had commissioned: not to verify the conclusions, which she had been tracking in real time, but because the reading was the last chance to find something the process had missed.
 
-The pool was sixty-one percent female, thirty-nine percent male, spanning forty-three nationalities, with age distribution centered at thirty-eight years and ranging from twenty-six to fifty-one. The professional distribution reflected the mission requirements: agriculture and food systems, medicine, engineering and fabrication, education, psychology, governance, arts and culture, the specific scientific disciplines required for the destination environment. No military personnel, by deliberate design. Minimal government officials, by practical necessity — the governance structure of the ship was designed to be built by the crew rather than imported from Earth.
+The pool was sixty-one percent female, thirty-nine percent male, spanning forty-three nationalities, with age distribution centered at thirty-eight years and ranging from twenty-six to fifty-one. The professional distribution reflected the mission requirements: agriculture and food systems, medicine, engineering and fabrication, education, psychology, governance, arts and culture, the specific scientific disciplines required for the destination environment. No military personnel, by deliberate design. Minimal government officials, by practical necessity, the governance structure of the ship was designed to be built by the crew rather than imported from Earth.
 
 Twenty-six hundred of the four thousand three hundred and twelve had been in the pool since before the cryosleep redesign. Seven hundred and twelve of those had originally been designated as cryosleep-incompatible and had been reassessed after the conscious-crew transition. Of the seven hundred and twelve, four hundred and nineteen had been reinstated. Elena had written each of the reinstatement letters personally, which had taken ninety-three days and which she had not delegated because she had written the original incompatibility determinations and the reinstatement had to come from the same hand.
 
-The remaining one thousand seven hundred and twelve names were new entrants assessed under the conscious-crew criteria, which were different from the cryosleep criteria in ways that Elena had spent eighteen months designing and that she thought were better — not because they were more defensible but because they were more honest about what they were actually trying to select for.
+The remaining one thousand seven hundred and twelve names were new entrants assessed under the conscious-crew criteria, which were different from the cryosleep criteria in ways that Elena had spent eighteen months designing and that she thought were better, not because they were more defensible but because they were more honest about what they were actually trying to select for.
 
-What you were selecting for, in a conscious-crew mission of forty-plus years, was not the absence of psychological risk factors. It was the presence of a specific kind of durability — not rigidity, not self-sufficiency, but the capacity to remain in genuine relationship with the people around you over the kind of timescale that relationships were not designed to sustain, and to do so under conditions that would be interesting and meaningful and also, at intervals, very hard.
+What you were selecting for, in a conscious-crew mission of forty-plus years, was not the absence of psychological risk factors. It was the presence of a specific kind of durability, not rigidity, not self-sufficiency, but the capacity to remain in genuine relationship with the people around you over the kind of timescale that relationships were not designed to sustain, and to do so under conditions that would be interesting and meaningful and also, at intervals, very hard.
 
 She had no test for this. She had proxies. She had the proxies for eleven years and had gotten better at reading them and was still not certain she was reading them correctly.
 
@@ -4658,9 +4658,9 @@ Kim pulled up a document on her tablet. "The constitutional working group finish
 
 "It's uncomfortable for everyone." Elena leaned back in her chair. "Including me."
 
-She had been on the list since January. She had put herself on it in January, in the slot designated for the mission's behavioral systems director — the person responsible for psychological health and conflict management over the duration of the transit. She had designed the role. She was, by any objective measure, the most qualified person for it.
+She had been on the list since January. She had put herself on it in January, in the slot designated for the mission's behavioral systems director, the person responsible for psychological health and conflict management over the duration of the transit. She had designed the role. She was, by any objective measure, the most qualified person for it.
 
-She had not told Kim yet. She was going to have to tell Kim soon, because Kim was also on the list — in the medical systems role, which she had earned through four years of the best applied cryosleep and behavioral research the program had produced — and Elena owed her the conversation before the list was published.
+She had not told Kim yet. She was going to have to tell Kim soon, because Kim was also on the list, in the medical systems role, which she had earned through four years of the best applied cryosleep and behavioral research the program had produced, and Elena owed her the conversation before the list was published.
 
 "Kim," she said.
 
@@ -4684,13 +4684,13 @@ Kim looked at her for a moment. "I figured. For about three months now." She loo
 
 "And us."
 
-Kim was quiet. She had the expression she had when she was sitting with something large — not the working expression, not the problem-solving expression, but the one that meant she was letting something be large for a moment before she decided what to do with it.
+Kim was quiet. She had the expression she had when she was sitting with something large, not the working expression, not the problem-solving expression, but the one that meant she was letting something be large for a moment before she decided what to do with it.
 
 "Forty years," she said.
 
 "More, probably. Depending on what we find."
 
-"More." Kim looked at the window, at the Houston morning outside — the traffic, the light on the buildings, the ordinary texture of a city that had been absorbing the weight of what was coming for fifteen years and that still looked, in the morning light, like a city. "I have a sister in Portland," she said.
+"More." Kim looked at the window, at the Houston morning outside, the traffic, the light on the buildings, the ordinary texture of a city that had been absorbing the weight of what was coming for fifteen years and that still looked, in the morning light, like a city. "I have a sister in Portland," she said.
 
 "I know."
 
@@ -4706,7 +4706,7 @@ Elena thought about Sofia, who was forty-four and teaching and who had asked, th
 
 "And she knows."
 
-"She's known longer than I have." Elena looked at the pool report on her desk — forty-six pages, four thousand three hundred and twelve names, eleven years of work arriving at a number. "The list closes in thirty days. I need to finish the supplemental assessments before then. Can you take the northern Europe cohort?"
+"She's known longer than I have." Elena looked at the pool report on her desk, forty-six pages, four thousand three hundred and twelve names, eleven years of work arriving at a number. "The list closes in thirty days. I need to finish the supplemental assessments before then. Can you take the northern Europe cohort?"
 
 Kim looked at her for a moment. Then she picked up her tablet. "Yes," she said. "I can take the northern Europe cohort."
 
@@ -4714,7 +4714,7 @@ They worked until six. Outside, Houston did what Houston did: moved, adjusted, c
 
 The list was almost complete.
 
-— END OF CHAPTER 33 —
+,  END OF CHAPTER 33 , 
 
 Chapter 34: Fracture Lines
 
@@ -4738,7 +4738,7 @@ Paul came in at seven-thirty. He had been her chief of staff for six years now, 
 
 "It's not temporary."
 
-"No." Paul sat down. "The Koreans are watching the Australians. If the Australian reduction goes through without consequence, Seoul will be under pressure from their opposition to do something similar. The South African government is in a different situation — their reduction pressure is coming from the left rather than the right, argument that the program prioritizes global elite survival over regional resilience investment."
+"No." Paul sat down. "The Koreans are watching the Australians. If the Australian reduction goes through without consequence, Seoul will be under pressure from their opposition to do something similar. The South African government is in a different situation, their reduction pressure is coming from the left rather than the right, argument that the program prioritizes global elite survival over regional resilience investment."
 
 Sarah read the notification on the tablet. It was carefully worded, as Framework notifications always were, but the careful wording could not conceal what it was: the first formal contribution reduction from a major partner since the program's inception.
 
@@ -4752,7 +4752,7 @@ Sarah read the notification on the tablet. It was carefully worded, as Framework
 
 Sarah set the tablet down. She looked at the window. The Washington morning was assembling itself in the way it always assembled itself, and she had been watching it from this window for nine years and she understood something about it that she hadn't understood in year one: the city was not the work. The city was the place where the work happened, and the work was what made the city legible. Without the work, the city was just a city.
 
-"Schedule calls with the Australian foreign minister and the prime minister's office," she said. "I want them in the same week — the foreign minister first, to understand the actual constraint, then the prime minister's office to see what room there is."
+"Schedule calls with the Australian foreign minister and the prime minister's office," she said. "I want them in the same week, the foreign minister first, to understand the actual constraint, then the prime minister's office to see what room there is."
 
 "And if there's no room?"
 
@@ -4762,15 +4762,15 @@ Paul was writing. "The Geneva session next month."
 
 "I'll be there in person. The French have been reliable but they have elections in October and I need to know what the new government will look like before I can plan around it." She picked up her coffee. "The Chinese?"
 
-"Stable. They're watching the Australians the same way everyone is, but their domestic calculation is different — the program is popular with the technical class, which is the class their government needs right now."
+"Stable. They're watching the Australians the same way everyone is, but their domestic calculation is different, the program is popular with the technical class, which is the class their government needs right now."
 
 "The Indians?"
 
 "Solid. Their science ministry has been running a parallel crew selection track in coordination with Elena Marsh's office and they're invested in the outcome of that process. Hard to withdraw from a program your people are selected for."
 
-"That's by design." It was, in fact, by design — one of the structural decisions Sarah had made in 2030, when the crew selection process was taking shape, was to push for broad geographic distribution in the early selection cohorts precisely because selected families created a different political constituency than abstract program support. "What's the total crew selection status?"
+"That's by design." It was, in fact, by design, one of the structural decisions Sarah had made in 2030, when the crew selection process was taking shape, was to push for broad geographic distribution in the early selection cohorts precisely because selected families created a different political constituency than abstract program support. "What's the total crew selection status?"
 
-"The pool is closed at four thousand, three hundred and twelve. The governance framework review is ongoing — Elena's office expects final ratification by the pool in September. Crew boarding begins in late 2041 as the ship construction completes."
+"The pool is closed at four thousand, three hundred and twelve. The governance framework review is ongoing, Elena's office expects final ratification by the pool in September. Crew boarding begins in late 2041 as the ship construction completes."
 
 "The ship completion date?"
 
@@ -4780,9 +4780,9 @@ Sarah did the math. February certification. March launch window. October 2042 im
 
 "Phoenix," she said.
 
-"Still on transit. The intercept window opens in November. We won't have results until January at the earliest — the communication lag from that distance is significant."
+"Still on transit. The intercept window opens in November. We won't have results until January at the earliest, the communication lag from that distance is significant."
 
-"I know." She thought about Maria Webb, somewhere out there in the dark, running the mission the way she ran everything: completely. "The Australian situation. If we can't contain it —"
+"I know." She thought about Maria Webb, somewhere out there in the dark, running the mission the way she ran everything: completely. "The Australian situation. If we can't contain it , "
 
 "The program survives a three percent reduction. It doesn't survive the fracture that follows."
 
@@ -4804,17 +4804,17 @@ He answered on the second ring, which told her he had been expecting the call.
 
 "The Australians," she confirmed. "What are you seeing from your end?"
 
-"The same fracture lines you're seeing. Fifteen years is a long time. The thing that held the coalition together in 2025 was fear — an immediate, comprehensible fear. What holds it together now is inertia and investment and the specific calculation that withdrawing is more costly than continuing." He paused. "That calculation is still correct for most members. But the margin has narrowed."
+"The same fracture lines you're seeing. Fifteen years is a long time. The thing that held the coalition together in 2025 was fear, an immediate, comprehensible fear. What holds it together now is inertia and investment and the specific calculation that withdrawing is more costly than continuing." He paused. "That calculation is still correct for most members. But the margin has narrowed."
 
 "What would you do with the Australians?"
 
-"I would make the cost of the reduction visible in the specific areas their domestic politics care about. Not punitive —"
+"I would make the cost of the reduction visible in the specific areas their domestic politics care about. Not punitive , "
 
 "Factual."
 
 "Yes." A pause. "Sarah. Is the program going to hold together for two more years?"
 
-She thought about what she actually believed, which was a different question from what she needed to project. "I believe it holds through the Phoenix result. If the deflection succeeds, the political calculation changes and the coalition becomes easier. If the deflection fails —" She stopped. "If the deflection fails, the program becomes essential in a way that makes withdrawal politically impossible for any member government. The impact date is the deadline everyone understands."
+She thought about what she actually believed, which was a different question from what she needed to project. "I believe it holds through the Phoenix result. If the deflection succeeds, the political calculation changes and the coalition becomes easier. If the deflection fails , " She stopped. "If the deflection fails, the program becomes essential in a way that makes withdrawal politically impossible for any member government. The impact date is the deadline everyone understands."
 
 "Either way," Lindqvist said.
 
@@ -4832,7 +4832,7 @@ Fifteen years. She was fifty-eight years old and had been doing this specific wo
 
 She called the Australian foreign minister's office and asked for a time.
 
-— END OF CHAPTER 34 —
+,  END OF CHAPTER 34 , 
 
 Chapter 35: Arrival
 
@@ -4842,7 +4842,7 @@ November 8, 2040 | 14:03 Mission Elapsed Time Day 421
 
 The asteroid resolved from a point of light into a shape over a period of three days, which was how approach always worked and which Maria had run in simulation enough times that she had thought she was ready for it. She was not ready for it.
 
-Not because the simulation had been inaccurate — it hadn't been — but because there was something the simulation could not reproduce, which was the specific quality of knowing that the thing you were looking at was real and that you were the person who had come to do something about it.
+Not because the simulation had been inaccurate, it hadn't been, but because there was something the simulation could not reproduce, which was the specific quality of knowing that the thing you were looking at was real and that you were the person who had come to do something about it.
 
 2042-Delta was irregular, which they had known from the Compass data. It rotated on two axes simultaneously, which produced a tumbling motion that made the illuminated face change on a roughly ninety-minute cycle. The surface, as the radar survey began to resolve it, was a landscape of boulders and regolith and the specific texture of a body that had been accumulating material and losing material and colliding with smaller objects for four and a half billion years, indifferent to all of it.
 
@@ -4850,11 +4850,11 @@ It was approximately three hundred and forty meters at its longest axis. From ap
 
 "Radar survey active," Reyes said from the science station. "Beginning systematic sweep. First complete coverage in eleven hours."
 
-"Copy that." Maria was at the commander's station, running the approach navigation with Cole. The braking burn had been nominal — they had bled off approach velocity over six hours the day before, and Phoenix was now in a station-keeping orbit relative to the asteroid that was, in technical terms, a controlled drift: maintaining relative position within a defined envelope using continuous small corrections. This was not the same as orbiting. You could not orbit a body this small with meaningful gravity. You moved with it and around it and used your engines the way you used a rudder, making continuous small adjustments.
+"Copy that." Maria was at the commander's station, running the approach navigation with Cole. The braking burn had been nominal, they had bled off approach velocity over six hours the day before, and Phoenix was now in a station-keeping orbit relative to the asteroid that was, in technical terms, a controlled drift: maintaining relative position within a defined envelope using continuous small corrections. This was not the same as orbiting. You could not orbit a body this small with meaningful gravity. You moved with it and around it and used your engines the way you used a rudder, making continuous small adjustments.
 
 "How does it look," Cole said quietly, not into the mission log, just to her.
 
-Maria looked at the forward viewport. The asteroid was fully illuminated on its near face, the surface textured in the flat light of the distant sun — no atmosphere to scatter light, no shadows except those cast by surface relief, everything either lit or dark with nothing in between.
+Maria looked at the forward viewport. The asteroid was fully illuminated on its near face, the surface textured in the flat light of the distant sun, no atmosphere to scatter light, no shadows except those cast by surface relief, everything either lit or dark with nothing in between.
 
 "Like the sim," she said. "But heavier."
 
@@ -4864,7 +4864,7 @@ Cole nodded. He knew what she meant.
 
 The survey ran for fourteen hours. Reyes and Stone worked in shifts, Reyes on the radar system and Stone on the data analysis, and by the end of the first full day they had enough coverage for a preliminary mass distribution map that Maria sat with for two hours before she said anything.
 
-The map was consistent with the Compass data in its broad features. The outer shell had the higher cohesion index the probe had detected. The core mass distribution showed the concentration pattern that had narrowed the targeting window eighteen months ago. The M1/M2/M3 mass concentration positions — the three primary internal features that the impactor deployment needed to account for — were where the Compass data had placed them, within the resolution limit of a radar survey conducted at this distance.
+The map was consistent with the Compass data in its broad features. The outer shell had the higher cohesion index the probe had detected. The core mass distribution showed the concentration pattern that had narrowed the targeting window eighteen months ago. The M1/M2/M3 mass concentration positions, the three primary internal features that the impactor deployment needed to account for, were where the Compass data had placed them, within the resolution limit of a radar survey conducted at this distance.
 
 The M2 concentration was offset from the model by nineteen meters. Reyes had caught it at resolution limit on day two of the survey.
 
@@ -4884,7 +4884,7 @@ Maria looked at the mass distribution map. Nineteen meters. They had drilled the
 
 She went back to the commander's station. The deployment window opened in sixty-one hours. They had sixty-one hours to complete the survey and finalize the vector and run the pre-deployment checklist and sleep, because you did not fly a precision impactor deployment sequence on no sleep.
 
-Harrison came up from the lower deck with two sealed ration packets and set one on the console beside her. He did this sometimes — appeared with food at the moment it was needed, without comment, which she had decided was the most useful thing a mission specialist could do during the pre-deployment phase.
+Harrison came up from the lower deck with two sealed ration packets and set one on the console beside her. He did this sometimes, appeared with food at the moment it was needed, without comment, which she had decided was the most useful thing a mission specialist could do during the pre-deployment phase.
 
 "How's the asteroid," he said.
 
@@ -4898,7 +4898,7 @@ Harrison nodded. "Reyes is good."
 
 "Reyes is excellent. So is Stone. So are you." She looked at him. "That's why you're here."
 
-He was quiet for a moment. Harrison had a quality she had noticed in the first months of training and that had deepened over the thirty-three months since: he was genuinely comfortable with things being as difficult as they were. Not performing comfort — actually experiencing the difficulty without requiring it to be other than it was. It made him useful in exactly the situations where that quality was rare.
+He was quiet for a moment. Harrison had a quality she had noticed in the first months of training and that had deepened over the thirty-three months since: he was genuinely comfortable with things being as difficult as they were. Not performing comfort, actually experiencing the difficulty without requiring it to be other than it was. It made him useful in exactly the situations where that quality was rare.
 
 "Commander," he said. "In sixty-one hours, when we deploy the impactors. What do you think happens?"
 
@@ -4918,7 +4918,7 @@ Sixty-one hours.
 
 She opened the pre-deployment checklist.
 
-— END OF CHAPTER 35 —
+,  END OF CHAPTER 35 , 
 
 Chapter 36: Geometry
 
@@ -4928,13 +4928,13 @@ November 11, 2040 | 09:14 Mission Elapsed Time Day 424
 
 The deployment window opened at 09:14:00 and they were ready at 09:09.
 
-The five minutes of waiting were the longest five minutes of the mission. Not because anything was uncertain — they had completed the survey, finalized the vector, run the pre-deployment checklist twice in the past twenty hours, slept in two overlapping shifts so that no one was more than twelve hours from their last sleep. Everything that could be done had been done. The five minutes of waiting existed because the window was determined by orbital mechanics and orbital mechanics did not care about readiness.
+The five minutes of waiting were the longest five minutes of the mission. Not because anything was uncertain, they had completed the survey, finalized the vector, run the pre-deployment checklist twice in the past twenty hours, slept in two overlapping shifts so that no one was more than twelve hours from their last sleep. Everything that could be done had been done. The five minutes of waiting existed because the window was determined by orbital mechanics and orbital mechanics did not care about readiness.
 
 Maria sat at the commander's station and watched the chronometer and did not think about what was at stake, which required a specific kind of active effort she had been practicing for a long time.
 
 At 09:13:40 she said: "Final vector confirmation."
 
-Stone read the numbers. Reyes confirmed the survey update from the second pass — M2 concentration at twenty-one meters offset from the model, uncertainty plus or minus three meters, optimal vector at 0.6 degrees from Solution Two. All three numbers were in the certified range. The pre-deployment confirmation was clean.
+Stone read the numbers. Reyes confirmed the survey update from the second pass, M2 concentration at twenty-one meters offset from the model, uncertainty plus or minus three meters, optimal vector at 0.6 degrees from Solution Two. All three numbers were in the certified range. The pre-deployment confirmation was clean.
 
 "Impactor one," Maria said. "Arm."
 
@@ -4952,17 +4952,17 @@ Stone read the numbers. Reyes confirmed the survey update from the second pass �
 
 "Deploy impactor one," Maria said.
 
-The ship shuddered as impactor one left the deployment bay — not a large shudder, nothing that required a stabilization correction, but a physical fact, a mass leaving the ship and beginning the trajectory that would carry it to the asteroid at a velocity sufficient to transfer meaningful momentum to a three hundred and forty-meter rubble pile. Maria watched the impactor's telemetry on her display: velocity nominal, guidance nominal, trajectory nominal.
+The ship shuddered as impactor one left the deployment bay, not a large shudder, nothing that required a stabilization correction, but a physical fact, a mass leaving the ship and beginning the trajectory that would carry it to the asteroid at a velocity sufficient to transfer meaningful momentum to a three hundred and forty-meter rubble pile. Maria watched the impactor's telemetry on her display: velocity nominal, guidance nominal, trajectory nominal.
 
 "Impact in nine minutes, thirty-two seconds," Cole said.
 
-Maria watched the viewport. The asteroid was visible — had been visible for three days, was the most visible thing in any direction — and at nine minutes and thirty-two seconds she was going to watch impactor one hit it and she was going to feel exactly what she felt and then she was going to deploy impactor two.
+Maria watched the viewport. The asteroid was visible, had been visible for three days, was the most visible thing in any direction, and at nine minutes and thirty-two seconds she was going to watch impactor one hit it and she was going to feel exactly what she felt and then she was going to deploy impactor two.
 
 The nine minutes were the longest nine minutes of her life. She did not track this consciously. She just knew, somewhere in the part of her that kept time even when she wasn't watching it, that this was what they were.
 
 The impact was visible.
 
-Not as an explosion — there was no atmosphere to carry a shockwave, no fire in vacuum, no sound. What was visible was the ejecta: a sudden expanding cloud of material from the impact point, surface material driven off the asteroid in a cone of debris that expanded into the black with the specific dynamics of material that had just been given a great deal of velocity very quickly. The cloud was bright where it caught the sun, and it was large, and it was beautiful in the way that things were beautiful when they were also consequential.
+Not as an explosion, there was no atmosphere to carry a shockwave, no fire in vacuum, no sound. What was visible was the ejecta: a sudden expanding cloud of material from the impact point, surface material driven off the asteroid in a cone of debris that expanded into the black with the specific dynamics of material that had just been given a great deal of velocity very quickly. The cloud was bright where it caught the sun, and it was large, and it was beautiful in the way that things were beautiful when they were also consequential.
 
 "Impact confirmed," Cole said. His voice was steady. "Ejecta cloud consistent with expected parameters. Momentum transfer initiated."
 
@@ -4972,7 +4972,7 @@ Maria looked at the ejecta cloud for three seconds. Then she looked at her displ
 
 * * *
 
-The second impact came eight minutes later, slightly north of the first — the adjusted vector accounting for the M2 offset, placing the second impactor in the optimal location relative to the mass concentration that Reyes had identified. The ejecta cloud was smaller than the first but more focused, the debris pattern consistent with a higher-cohesion impact zone.
+The second impact came eight minutes later, slightly north of the first, the adjusted vector accounting for the M2 offset, placing the second impactor in the optimal location relative to the mass concentration that Reyes had identified. The ejecta cloud was smaller than the first but more focused, the debris pattern consistent with a higher-cohesion impact zone.
 
 "Momentum transfer two," Cole said. "Within expected parameters."
 
@@ -5008,17 +5008,17 @@ She looked at the chronometer. The departure burn window opened in forty minutes
 
 "Harrison," she said. "Mission log."
 
-Harrison was already writing. He had been keeping the mission log since day one, the formal record of what they had done and when and what the data had shown. It was, she thought, the most important document Phoenix would bring home — not because the telemetry wasn't being transmitted, but because the log was the human account, the record of what they had seen and decided and done and why.
+Harrison was already writing. He had been keeping the mission log since day one, the formal record of what they had done and when and what the data had shown. It was, she thought, the most important document Phoenix would bring home, not because the telemetry wasn't being transmitted, but because the log was the human account, the record of what they had seen and decided and done and why.
 
 She looked at the viewport one last time. Then she turned back to the departure burn sequence and began.
 
-Behind them, the asteroid tumbled on, following its mathematics through the dark, carrying now — if the physics held, if the calculation was right, if the margin was sufficient — a slightly different future than the one it had been carrying this morning.
+Behind them, the asteroid tumbled on, following its mathematics through the dark, carrying now, if the physics held, if the calculation was right, if the margin was sufficient, a slightly different future than the one it had been carrying this morning.
 
 Slightly different was what they had come for.
 
 It would have to be enough.
 
-— END OF CHAPTER 36 —
+,  END OF CHAPTER 36 , 
 
 Chapter 37: Dark
 
@@ -5028,19 +5028,19 @@ December 2040 through January 2041
 
 Phoenix would not be back until September.
 
-That was the thing Thomas had been carrying since October, when he had looked up the return trajectory and done the math and understood that the mission — which had launched in September 2039, reached the asteroid in November 2040, and was now burning back toward Earth — would not arrive at Luna Base until September 2041. Ten months of return transit. Ten months of Phoenix being somewhere in the dark with whatever it had done, the results invisible to everyone on Earth until the trajectory data accumulated enough to show which way the asteroid was actually going.
+That was the thing Thomas had been carrying since October, when he had looked up the return trajectory and done the math and understood that the mission, which had launched in September 2039, reached the asteroid in November 2040, and was now burning back toward Earth, would not arrive at Luna Base until September 2041. Ten months of return transit. Ten months of Phoenix being somewhere in the dark with whatever it had done, the results invisible to everyone on Earth until the trajectory data accumulated enough to show which way the asteroid was actually going.
 
-The trajectory data was publicly available. ARIA updated it every six hours on the agency website. Thomas had looked at it once and decided not to look at it again, not because he couldn't read it — he had learned enough orbital mechanics in fourteen years of monitoring office work to understand what the numbers meant — but because the numbers updated too slowly to be useful and checking them would become a habit he didn't want.
+The trajectory data was publicly available. ARIA updated it every six hours on the agency website. Thomas had looked at it once and decided not to look at it again, not because he couldn't read it, he had learned enough orbital mechanics in fourteen years of monitoring office work to understand what the numbers meant, but because the numbers updated too slowly to be useful and checking them would become a habit he didn't want.
 
 He had developed, over the years, a good sense of which habits were worth developing.
 
 * * *
 
-Thursday sessions in December ran through the holiday week, which they always had. Thomas had never closed the sessions for holidays, on the theory that the people who needed the sessions most were often the people with the fewest reasons to celebrate the holiday. The December attendance was usually lower than the fall sessions — not much lower, because the regulars came regardless, but the walk-ins were fewer.
+Thursday sessions in December ran through the holiday week, which they always had. Thomas had never closed the sessions for holidays, on the theory that the people who needed the sessions most were often the people with the fewest reasons to celebrate the holiday. The December attendance was usually lower than the fall sessions, not much lower, because the regulars came regardless, but the walk-ins were fewer.
 
 This December the walk-in rate held at the fall average. He noticed this and did not comment on it.
 
-Dmitri came to the December session on the third Thursday, which he rarely did — his council work had expanded since his reelection and his Thursday availability was sporadic. He sat in the back and participated in the record review and stayed afterward when most people had left.
+Dmitri came to the December session on the third Thursday, which he rarely did, his council work had expanded since his reelection and his Thursday availability was sporadic. He sat in the back and participated in the record review and stayed afterward when most people had left.
 
 "The Phoenix result," Dmitri said. He had the directness he always had when he was asking something he actually wanted to know the answer to. "When do we find out?"
 
@@ -5068,7 +5068,7 @@ Dmitri nodded slowly. He had the quality of someone who understood the distincti
 
 "Yes."
 
-They sat for a moment in the empty room. The chairs were in their usual configuration — the semicircle that allowed everyone to see everyone else, that he had been setting up for fourteen years and that had become, over time, not something he arranged but something that was simply how the room went.
+They sat for a moment in the empty room. The chairs were in their usual configuration, the semicircle that allowed everyone to see everyone else, that he had been setting up for fourteen years and that had become, over time, not something he arranged but something that was simply how the room went.
 
 "The ship," Dmitri said.
 
@@ -5106,11 +5106,11 @@ Thomas picked up before the second ring. He had been keeping the phone close sin
 
 "Go ahead."
 
-"The preliminary tracking data from the Goldstone and Arecibo arrays has been running since mid-December. There's a trajectory deviation. We expected a deviation — that's what the mission was for. The deviation is real and it's measurable."
+"The preliminary tracking data from the Goldstone and Arecibo arrays has been running since mid-December. There's a trajectory deviation. We expected a deviation, that's what the mission was for. The deviation is real and it's measurable."
 
 "Is it enough."
 
-"The analysis isn't complete. The confidence interval on the deviation magnitude is still wide — we need another three months of data to narrow it. What I can tell you is that the preliminary figure is within the range that the targeting team calculated as achievable under Solution Two." He stopped. "That's all I can tell you. I'm sorry. I know it's not the answer."
+"The analysis isn't complete. The confidence interval on the deviation magnitude is still wide, we need another three months of data to narrow it. What I can tell you is that the preliminary figure is within the range that the targeting team calculated as achievable under Solution Two." He stopped. "That's all I can tell you. I'm sorry. I know it's not the answer."
 
 "It's better than no data."
 
@@ -5122,7 +5122,7 @@ Thomas looked out the window at the January street. "The preliminary figure is w
 
 "I'll wait."
 
-"Thomas. Whatever the spring analysis shows —"
+"Thomas. Whatever the spring analysis shows , "
 
 "I know," Thomas said. "Whatever it shows, the ship is launching. I know."
 
@@ -5146,7 +5146,7 @@ He got up and made tea and sat back down and looked at the window.
 
 Three months.
 
-— END OF CHAPTER 37 —
+,  END OF CHAPTER 37 , 
 
 Chapter 38: What the Numbers Say
 
@@ -5156,19 +5156,19 @@ April 3, 2041 | 06:00 AM EST
 
 ARIA posted the spring trajectory analysis at midnight. Sarah had been awake for it.
 
-She read the technical summary first, then the full report, then the technical summary again. The report was forty-one pages, comprehensive in the way that ARIA documents were comprehensive — thorough explanation of methodology, clear statement of uncertainties, precise language about what the data showed and what it did not show. She read it the way she had learned to read technical documents over fifteen years: not looking for the conclusion first, but building toward it through the methodology, so that when she arrived at the number she understood what the number meant.
+She read the technical summary first, then the full report, then the technical summary again. The report was forty-one pages, comprehensive in the way that ARIA documents were comprehensive, thorough explanation of methodology, clear statement of uncertainties, precise language about what the data showed and what it did not show. She read it the way she had learned to read technical documents over fifteen years: not looking for the conclusion first, but building toward it through the methodology, so that when she arrived at the number she understood what the number meant.
 
 The number was thirty-one percent.
 
 Down from forty-three.
 
-She sat with it for a while. The trajectory deviation from the Phoenix mission was real and confirmed — the asteroid's path had been altered, the deflection had worked in the sense that the impactors had transferred momentum and that momentum was producing a measurable change. But the deviation's magnitude, refined now by five months of tracking data, was at the lower end of what Solution Two had projected as achievable. Not outside the projection range. Within it. But the lower end.
+She sat with it for a while. The trajectory deviation from the Phoenix mission was real and confirmed, the asteroid's path had been altered, the deflection had worked in the sense that the impactors had transferred momentum and that momentum was producing a measurable change. But the deviation's magnitude, refined now by five months of tracking data, was at the lower end of what Solution Two had projected as achievable. Not outside the projection range. Within it. But the lower end.
 
 The lower end produced a thirty-one percent probability of the asteroid missing Earth.
 
 The upper end would have produced fifty-eight.
 
-She did not call Paul until five. She spent the hour between midnight and five reading the report a third time and drafting, in her head, the shape of the response. Not the public response — that could wait for morning. The political response: what this number meant for the coalition, for the ship's launch, for the specific calculation that every Framework member government was going to be running before their capitals were awake.
+She did not call Paul until five. She spent the hour between midnight and five reading the report a third time and drafting, in her head, the shape of the response. Not the public response, that could wait for morning. The political response: what this number meant for the coalition, for the ship's launch, for the specific calculation that every Framework member government was going to be running before their capitals were awake.
 
 At five she called Paul.
 
@@ -5184,17 +5184,17 @@ At five she called Paul.
 
 "The deflection mission did not fail. The deflection produced a lower-than-optimal trajectory deviation. A mission failure would be no deviation. There is a deviation." She said it precisely because precision was the only tool that worked against the physics of how bad news traveled. "What does thirty-one percent look like for the coalition?"
 
-Paul was quiet for a moment. "The Australians are going to use it. Their opposition has been arguing that the probability was always lower than the official number and this appears to validate that argument even though it doesn't actually —"
+Paul was quiet for a moment. "The Australians are going to use it. Their opposition has been arguing that the probability was always lower than the official number and this appears to validate that argument even though it doesn't actually , "
 
 "It doesn't validate it. The official probability reflected the best available data before Phoenix. Phoenix changed the data. The number changed because the situation changed, not because the previous numbers were wrong." She had been making this argument in various forms for fifteen years. "What else."
 
-"The Korean government has an emergency cabinet session this morning. The South African parliament is calling for a special review. The Chinese science ministry put out a statement at three AM their time saying they are reviewing the analysis — which is positive, because it means they're treating it as a technical question rather than a political one."
+"The Korean government has an emergency cabinet session this morning. The South African parliament is calling for a special review. The Chinese science ministry put out a statement at three AM their time saying they are reviewing the analysis, which is positive, because it means they're treating it as a technical question rather than a political one."
 
 "The Indians."
 
 "Stable. They haven't said anything publicly yet."
 
-"I need to be on calls before Washington is awake. Start with Beijing — not the science ministry, the diplomatic channel. Then Delhi. Then Lindqvist." She stood up and went to the window. The pre-dawn Washington street was empty. "The ship launches in eleven months. That does not change. The launch timeline does not change. The number changes the argument for the ship, not the ship."
+"I need to be on calls before Washington is awake. Start with Beijing, not the science ministry, the diplomatic channel. Then Delhi. Then Lindqvist." She stood up and went to the window. The pre-dawn Washington street was empty. "The ship launches in eleven months. That does not change. The launch timeline does not change. The number changes the argument for the ship, not the ship."
 
 "Some people will say thirty-one percent is still better than zero."
 
@@ -5210,7 +5210,7 @@ She told him what she actually believed.
 
 "It's always been the primary response for the people not on the ship," Lindqvist said.
 
-"Yes. Now it's the primary response for the people on it too." She looked at her desk — the call log, the draft statements, the ARIA report open on her screen. "The launch happens. Eleven months. Whatever the political situation is in November, the ship launches."
+"Yes. Now it's the primary response for the people on it too." She looked at her desk, the call log, the draft statements, the ARIA report open on her screen. "The launch happens. Eleven months. Whatever the political situation is in November, the ship launches."
 
 "I believe you," Lindqvist said. "Make sure the coalition believes you."
 
@@ -5218,7 +5218,7 @@ She told him what she actually believed.
 
 * * *
 
-She held three press briefings. The first at ten — formal, ARIA technical representatives present, statement read into the record. The second at two, with the Senate committee chairs, which was the harder room because the committee chairs had domestic politics she had to account for that ARIA technical representatives did not. The third at five, background only, with the foreign press corps.
+She held three press briefings. The first at ten, formal, ARIA technical representatives present, statement read into the record. The second at two, with the Senate committee chairs, which was the harder room because the committee chairs had domestic politics she had to account for that ARIA technical representatives did not. The third at five, background only, with the foreign press corps.
 
 In all three she made the same argument with different emphasis:
 
@@ -5228,13 +5228,13 @@ After the five o'clock briefing she sat in her office and looked at the wall for
 
 Thirty-one percent.
 
-She had spent fifteen years on a program whose explicit purpose was to ensure that humanity survived what was coming in whatever form it was coming. She had been told many times — by people who meant it kindly, by people who didn't — that this was an extraordinary thing to spend a career on. She had always agreed that it was. She had not found a better use of the time.
+She had spent fifteen years on a program whose explicit purpose was to ensure that humanity survived what was coming in whatever form it was coming. She had been told many times, by people who meant it kindly, by people who didn't, that this was an extraordinary thing to spend a career on. She had always agreed that it was. She had not found a better use of the time.
 
 The number had changed. The work had not.
 
 She opened her laptop and began the draft for tomorrow's testimony.
 
-— END OF CHAPTER 38 —
+,  END OF CHAPTER 38 , 
 
 Chapter 39: What She Keeps
 
@@ -5244,7 +5244,7 @@ April through August, 2041
 
 Sofia called the morning the ARIA report dropped.
 
-Elena had been awake since before midnight — not because she'd known the report was coming, though she had, but because the kind of awareness that had been building in her for six years had a quality she recognized as not-sleeping, the mind refusing to power down when something large was in motion. She had given up on sleep at four and read the report when it posted and was on her second cup of coffee when her phone lit up with Sofia's name.
+Elena had been awake since before midnight, not because she'd known the report was coming, though she had, but because the kind of awareness that had been building in her for six years had a quality she recognized as not-sleeping, the mind refusing to power down when something large was in motion. She had given up on sleep at four and read the report when it posted and was on her second cup of coffee when her phone lit up with Sofia's name.
 
 "Thirty-one percent," Sofia said.
 
@@ -5252,7 +5252,7 @@ Elena had been awake since before midnight — not because she'd known the repor
 
 "You knew it might be this."
 
-"I knew it might be lower. I hoped it would be higher. The targeting team did everything the data allowed." Elena looked at the Houston window — the pre-dawn dark, the first suggestion of gray at the horizon. "The ship is still launching."
+"I knew it might be lower. I hoped it would be higher. The targeting team did everything the data allowed." Elena looked at the Houston window, the pre-dawn dark, the first suggestion of gray at the horizon. "The ship is still launching."
 
 "I know." A pause. "Are you still on it?"
 
@@ -5262,7 +5262,7 @@ Elena had been awake since before midnight — not because she'd known the repor
 
 "Sofia."
 
-Another pause. The kind that had become familiar in the three years since Elena had told Sofia she was on the list — not a silence of unresolved argument but of things that had been fully said and that did not require repeating.
+Another pause. The kind that had become familiar in the three years since Elena had told Sofia she was on the list, not a silence of unresolved argument but of things that had been fully said and that did not require repeating.
 
 "Thirty-one percent," Sofia said again, and the repetition was not a question. It was Sofia saying the number the way you said something you were learning to hold. Learning to carry.
 
@@ -5270,7 +5270,7 @@ Another pause. The kind that had become familiar in the three years since Elena 
 
 "I know what you're asking me to carry," Sofia said. "I've known for four years. I agreed to it four years ago." A beat. "I'm still agreeing."
 
-Elena let out a breath. Not relief — the thing was too large for simple relief — but something adjacent to it, the specific quality of being known by someone and having that knowing hold.
+Elena let out a breath. Not relief, the thing was too large for simple relief, but something adjacent to it, the specific quality of being known by someone and having that knowing hold.
 
 "The crew boarding," Elena said. "Starts in October. I'll be on Luna Base by November."
 
@@ -5288,9 +5288,9 @@ Elena let out a breath. Not relief — the thing was too large for simple relief
 
 * * *
 
-The final crew orientation ran from September through October. Four thousand, three hundred and twelve people, divided into cohorts of two hundred, moving through a structured program designed by Elena's team over eighteen months: the ship's layout and systems, the governance framework they had ratified in September, the psychological preparation for departure — which was not preparation in the sense of making it easier, because nothing made it easier, but preparation in the sense of giving people the tools to know what they were experiencing when they experienced it.
+The final crew orientation ran from September through October. Four thousand, three hundred and twelve people, divided into cohorts of two hundred, moving through a structured program designed by Elena's team over eighteen months: the ship's layout and systems, the governance framework they had ratified in September, the psychological preparation for departure, which was not preparation in the sense of making it easier, because nothing made it easier, but preparation in the sense of giving people the tools to know what they were experiencing when they experienced it.
 
-Elena ran twelve of the forty-three sessions herself. She had not planned to run twelve. She had planned to run four and observe the rest. But the sessions were different from what she had expected — not worse, not more difficult, but more present. She found that the people in the room wanted to talk about things that the session plan covered and also things the session plan did not cover, and the things it did not cover were often more important.
+Elena ran twelve of the forty-three sessions herself. She had not planned to run twelve. She had planned to run four and observe the rest. But the sessions were different from what she had expected, not worse, not more difficult, but more present. She found that the people in the room wanted to talk about things that the session plan covered and also things the session plan did not cover, and the things it did not cover were often more important.
 
 In session nine, a man named Adeyemi who was in the agricultural cohort asked: "What do we do when someone wants to give up?"
 
@@ -5298,7 +5298,7 @@ The room was quiet. It was the question everyone in the room had been thinking a
 
 "You stay with them," Elena said. "You don't fix it. You stay with them until the wanting to give up passes or changes into something else. In a closed environment over a long transit, the people around you are the resource. You are each other's resource." She looked at him. "The governance framework gives you structures for this. The structures help. But the structures are made of people. The people are the thing."
 
-Adeyemi nodded. He had a quality she had noted in his file — a specific kind of steadiness that she had come to recognize as one of the most reliable predictors of the thing she was trying to select for. Not the absence of difficulty. The capacity to remain present inside it.
+Adeyemi nodded. He had a quality she had noted in his file, a specific kind of steadiness that she had come to recognize as one of the most reliable predictors of the thing she was trying to select for. Not the absence of difficulty. The capacity to remain present inside it.
 
 In session fourteen, a woman named Strand asked whether Elena was afraid.
 
@@ -5306,7 +5306,7 @@ The room was quiet in a different way.
 
 Elena had been asked this before. She had been asked it by journalists and Framework committee members and her own assessment team and by Sofia, once, in a way that required an honest answer rather than a professional one. She had different answers for different contexts.
 
-"Yes," she said. "I think anyone who isn't afraid of what we're doing isn't fully understanding what we're doing." She looked at the room. "Fear is appropriate. What matters is what you do with it. We've designed the ship and the governance structure and this orientation to give you something to do with it — productive channels, meaningful work, community. You won't stop being afraid. You'll have somewhere to put the fear so it doesn't take up all the space."
+"Yes," she said. "I think anyone who isn't afraid of what we're doing isn't fully understanding what we're doing." She looked at the room. "Fear is appropriate. What matters is what you do with it. We've designed the ship and the governance structure and this orientation to give you something to do with it, productive channels, meaningful work, community. You won't stop being afraid. You'll have somewhere to put the fear so it doesn't take up all the space."
 
 Strand looked at her. "Are you going to be on the ship?"
 
@@ -5318,11 +5318,11 @@ The room absorbed this. Several people nodded. One woman, whose file Elena recal
 
 She flew to Luna Base in November.
 
-Kim was already there, had been there since October, managing the psychological integration phase as the first crew cohorts boarded. Elena met her in the staging area — a large pressurized space that had been the main cargo bay two years ago and that had been converted into the crew arrival hub, with orientation stations and medical check-in and the specific controlled energy of a place where something large was beginning.
+Kim was already there, had been there since October, managing the psychological integration phase as the first crew cohorts boarded. Elena met her in the staging area, a large pressurized space that had been the main cargo bay two years ago and that had been converted into the crew arrival hub, with orientation stations and medical check-in and the specific controlled energy of a place where something large was beginning.
 
 "How are they," Elena said.
 
-Kim looked at the staging area — two hundred people in the first cohort, moving through their arrival procedures, the specific mix of expressions that attended the moment when something you had been preparing for became the thing you were actually doing. "They're good," she said. "Better than I expected at this stage. The orientation preparation is holding."
+Kim looked at the staging area, two hundred people in the first cohort, moving through their arrival procedures, the specific mix of expressions that attended the moment when something you had been preparing for became the thing you were actually doing. "They're good," she said. "Better than I expected at this stage. The orientation preparation is holding."
 
 "Good."
 
@@ -5330,13 +5330,13 @@ Kim looked at the staging area — two hundred people in the first cohort, movin
 
 "I've seen the ship."
 
-"You've seen the construction documentation and the engineering specs and the simulation walkthroughs. You haven't walked it empty." Kim paused. "Walk it empty. Before it's full of people it belongs to other people. Right now it's just — it."
+"You've seen the construction documentation and the engineering specs and the simulation walkthroughs. You haven't walked it empty." Kim paused. "Walk it empty. Before it's full of people it belongs to other people. Right now it's just, it."
 
 Elena looked at her. Then she went.
 
 * * *
 
-The ship was enormous in the way that anything designed to be a city for forty years was enormous, and also, in its emptiness, intimate. She walked the Ring One corridor — the living quarters ring, where she would have a cabin approximately the size of the studio apartment she had lived in during graduate school and that would be, for the rest of her life, the place she came back to. The corridor curved away from her in both directions, the artificial gravity holding her feet to the floor, the overhead lighting set at the low level used during maintenance hours.
+The ship was enormous in the way that anything designed to be a city for forty years was enormous, and also, in its emptiness, intimate. She walked the Ring One corridor, the living quarters ring, where she would have a cabin approximately the size of the studio apartment she had lived in during graduate school and that would be, for the rest of her life, the place she came back to. The corridor curved away from her in both directions, the artificial gravity holding her feet to the floor, the overhead lighting set at the low level used during maintenance hours.
 
 She walked for forty minutes. She went through the common areas and the medical bay and the agricultural ring, where the growing systems were installed and calibrated and waiting. She stood in the central hub in zero gravity for a few minutes, floating in the middle of the space that would be the ship's operational heart for four decades.
 
@@ -5348,7 +5348,7 @@ Then she went back to the staging area and found Kim and they went to the briefi
 
 The boarding continued.
 
-— END OF CHAPTER 39 —
+,  END OF CHAPTER 39 , 
 
 Chapter 40: Commander
 
@@ -5358,9 +5358,9 @@ September 2041
 
 Phoenix docked at Luna Base on September 14th, two years and a day after it had left.
 
-The docking was nominal. Maria ran it herself, the way she had run every significant maneuver of the mission — not because she didn't trust Cole, who was an excellent flight engineer and who had earned that trust over twenty-six months of deep space transit, but because certain things you did yourself because they were yours to do.
+The docking was nominal. Maria ran it herself, the way she had run every significant maneuver of the mission, not because she didn't trust Cole, who was an excellent flight engineer and who had earned that trust over twenty-six months of deep space transit, but because certain things you did yourself because they were yours to do.
 
-The docking clamps engaged at 11:42 Luna Standard Time. There was a small jolt, the familiar shudder of a ship finding its berth, and then nothing — the quiet that followed docking, the moment when you were neither flying nor standing still but somewhere in between, the ship alive around you and the station alive around the ship.
+The docking clamps engaged at 11:42 Luna Standard Time. There was a small jolt, the familiar shudder of a ship finding its berth, and then nothing, the quiet that followed docking, the moment when you were neither flying nor standing still but somewhere in between, the ship alive around you and the station alive around the ship.
 
 "Phoenix, you are secure," said the voice from Luna Base docking control. "Welcome home."
 
@@ -5372,7 +5372,7 @@ Maria looked at the board. All green.
 
 Novak was in the docking bay when they cycled through.
 
-She looked the same as she had looked two years ago — same economy of movement, same expression she had when she was presenting herself formally rather than practically, same awareness of what she was and what she was doing. Maria had thought about Novak at various points during the transit, usually when thinking about the interstellar ship: Novak had been building it for four years while Maria was training and flying and coming back, and Novak would not be on it, because someone had to run Luna Base for the years after the launch and Novak was the only person adequate to that task.
+She looked the same as she had looked two years ago, same economy of movement, same expression she had when she was presenting herself formally rather than practically, same awareness of what she was and what she was doing. Maria had thought about Novak at various points during the transit, usually when thinking about the interstellar ship: Novak had been building it for four years while Maria was training and flying and coming back, and Novak would not be on it, because someone had to run Luna Base for the years after the launch and Novak was the only person adequate to that task.
 
 They clasped hands. Novak held the grip a moment longer than protocol required.
 
@@ -5384,7 +5384,7 @@ They clasped hands. Novak held the grip a moment longer than protocol required.
 
 "Yes. The lower end of the projected range is still a deviation." Novak said it the way an engineer said something that was technically true and that they knew was not the whole truth. "The ship launches in six months. The deviation and the launch are not in competition with each other."
 
-"I know." Maria looked at the bay — Phoenix in its berth behind her, the interstellar ship's superstructure visible through the bay's observation windows, enormous even at this distance. "How is she looking."
+"I know." Maria looked at the bay, Phoenix in its berth behind her, the interstellar ship's superstructure visible through the bay's observation windows, enormous even at this distance. "How is she looking."
 
 "Systems certification completes in February. The final crew cohort boards in January." Novak paused. "Commander Webb. Your quarters are ready. You've been assigned as mission commander. The formal ceremony is in two weeks, but I wanted you to know now."
 
@@ -5392,19 +5392,19 @@ Maria looked at her. "I assumed."
 
 "I know you assumed. I wanted to say it directly." Novak had the expression she had on the morning of the Phoenix launch, when she'd said thank you for building it and Novak had understood she meant the ship. "You're going to take her out."
 
-Maria looked at the observation window. The ship's superstructure — the rings and spine and forward section — was partially illuminated by the lunar surface below, partially by work lights from the ongoing systems certification. From here it looked like something that should not be possible and was anyway.
+Maria looked at the observation window. The ship's superstructure, the rings and spine and forward section, was partially illuminated by the lunar surface below, partially by work lights from the ongoing systems certification. From here it looked like something that should not be possible and was anyway.
 
 "Yes," Maria said.
 
 * * *
 
-She spent her first week back at Luna Base in debriefs — mission telemetry review, trajectory analysis, equipment performance documentation, the comprehensive accounting that followed every mission. The Phoenix crew ran through it together, then individually, and by the end of the week there was a record that would outlast all of them: the mission log, the technical data, the specific chain of decisions and conditions that had produced the outcome they had produced.
+She spent her first week back at Luna Base in debriefs, mission telemetry review, trajectory analysis, equipment performance documentation, the comprehensive accounting that followed every mission. The Phoenix crew ran through it together, then individually, and by the end of the week there was a record that would outlast all of them: the mission log, the technical data, the specific chain of decisions and conditions that had produced the outcome they had produced.
 
 In the evenings she went to the observation wing.
 
-The observation wing was a corridor of windows on the lunar surface side of Luna Base, and from it you could see the ship in its final construction phase. She went there alone, because the specific thing she was doing — looking at the ship the way you looked at something you were about to spend the rest of your life inside — was not a thing she needed company for.
+The observation wing was a corridor of windows on the lunar surface side of Luna Base, and from it you could see the ship in its final construction phase. She went there alone, because the specific thing she was doing, looking at the ship the way you looked at something you were about to spend the rest of your life inside, was not a thing she needed company for.
 
-The ship was large in the way that the Compass data had suggested and that she still found difficult to fully register. Not the Quabbin impactor large — not the sudden violence of something arriving from outside — but deliberately, painstakingly large, the product of sixteen years of human effort made visible in one object.
+The ship was large in the way that the Compass data had suggested and that she still found difficult to fully register. Not the Quabbin impactor large, not the sudden violence of something arriving from outside, but deliberately, painstakingly large, the product of sixteen years of human effort made visible in one object.
 
 It had a name. The selection committee had opened the naming to the crew pool and the crew pool had voted, and the name they had chosen was Meridian, which she had voted for because it had the quality she wanted in a ship's name: it referred to a line, a transition, the moment between one state and another. You crossed a meridian. You did not stay on it.
 
@@ -5414,25 +5414,25 @@ She was going to take Meridian out.
 
 She walked the ship for the first time in the second week, with Novak's chief systems engineer leading the tour. She had studied the design documentation for two years during the Phoenix transit, had run the command layout in simulation, knew the specs of every major system. Walking it was different.
 
-The command deck was at the forward end of the spine, a large room with consoles arranged in three concentric arcs and a viewport forward that looked out at the stars. She stood at the commander's position — the center of the innermost arc, the place where she would be standing in six months when she took Meridian out of lunar orbit — and looked at the stars through the viewport.
+The command deck was at the forward end of the spine, a large room with consoles arranged in three concentric arcs and a viewport forward that looked out at the stars. She stood at the commander's position, the center of the innermost arc, the place where she would be standing in six months when she took Meridian out of lunar orbit, and looked at the stars through the viewport.
 
 They were the same stars she had been looking at for twenty-three years of spaceflight.
 
 Except these were not the same stars. These were the stars you were going toward.
 
-"Commander." The systems engineer — a young man named Hollis, twenty-nine, who had been building this ship since he was twenty-three — stood at the edge of the command deck. He had the expression of someone who understood the weight of the moment and who was giving her space inside it. "Take your time."
+"Commander." The systems engineer, a young man named Hollis, twenty-nine, who had been building this ship since he was twenty-three, stood at the edge of the command deck. He had the expression of someone who understood the weight of the moment and who was giving her space inside it. "Take your time."
 
 She stood at the commander's position for a while. She thought about the Phoenix launch and about the departure burn that had taken her away from Earth and about the moment she had looked out the forward viewport at the asteroid for the first time and understood, finally, what it meant to be the person who had come to do something about it.
 
 She thought about her brother, somewhere on Mars, watching what she was doing the way he had always watched what she was doing: with the specific pride of someone who knew you were doing the thing you were supposed to be doing.
 
-She thought about the thirty-one percent. She thought about the sixty-nine percent. She thought about four thousand three hundred and twelve people boarding this ship over the next four months and the specific act of faith that entailed — not faith in the asteroid going the right way or the wrong way, but faith in the thing they were building together, the answer that was the ship itself.
+She thought about the thirty-one percent. She thought about the sixty-nine percent. She thought about four thousand three hundred and twelve people boarding this ship over the next four months and the specific act of faith that entailed, not faith in the asteroid going the right way or the wrong way, but faith in the thing they were building together, the answer that was the ship itself.
 
 "Okay," she said. "Show me the engineering deck."
 
 Hollis showed her.
 
-— END OF CHAPTER 40 —
+,  END OF CHAPTER 40 , 
 
 Chapter 41: Last Thursday
 
@@ -5442,7 +5442,7 @@ October 30, 2041
 
 He did not call it the last Thursday session. He had never called any session the last one, on the theory that as long as there was work to do the session continued, and there was still work to do.
 
-But he had known, since August, that the October session would be the last one he ran personally. The monitoring office was transitioning in November to Watts, who had been running the Roxbury implementation work for two years and who had the specific combination of technical skill and patient attention that the work required. Thomas was staying on in an advisory capacity — the record didn't end, the law needed watching, the implementation had gaps he was going to spend years helping to close — but the Thursday session, the room, the semicircle of chairs, was Watts's now.
+But he had known, since August, that the October session would be the last one he ran personally. The monitoring office was transitioning in November to Watts, who had been running the Roxbury implementation work for two years and who had the specific combination of technical skill and patient attention that the work required. Thomas was staying on in an advisory capacity, the record didn't end, the law needed watching, the implementation had gaps he was going to spend years helping to close, but the Thursday session, the room, the semicircle of chairs, was Watts's now.
 
 Watts had been in the room since August, learning the texture of it.
 
@@ -5456,15 +5456,15 @@ He came every week.
 
 * * *
 
-The session ran its usual shape. Record updates — the federal consultation framework's first implementation year data, which showed partial compliance in four of the nine initial pilot jurisdictions, full compliance in three, and an ongoing dispute in two that was heading toward the federal review process the law had created. Dmitri's council district had been one of the full-compliance sites, which was not a surprise.
+The session ran its usual shape. Record updates, the federal consultation framework's first implementation year data, which showed partial compliance in four of the nine initial pilot jurisdictions, full compliance in three, and an ongoing dispute in two that was heading toward the federal review process the law had created. Dmitri's council district had been one of the full-compliance sites, which was not a surprise.
 
 They talked about what partial compliance looked like in practice, which was the conversation they had been having in one form or another since 2026: the gap between what a law said and what happened when the law met the specific texture of a city's politics and resources and history. Thomas had been living in that gap for fifteen years. He expected to continue living in it.
 
-Near the end of the session, Nina — who had been coming since 2031, who had the specific quality of someone who asked the question the room had been circling without quite landing on — said: "Thomas. The ship launches in March."
+Near the end of the session, Nina, who had been coming since 2031, who had the specific quality of someone who asked the question the room had been circling without quite landing on, said: "Thomas. The ship launches in March."
 
 "Yes."
 
-"And then it's six months until—"
+"And then it's six months until, "
 
 "October 14th. Yes."
 
@@ -5474,13 +5474,13 @@ The room was quiet.
 
 He had been asked this question in various forms since January, when the thirty-one percent analysis had dropped. He had given various answers depending on context. Tonight he gave the answer that was most true.
 
-"The ship carries four thousand people who can build something at the other end, regardless of what happens here. That's not a contingency — that's an answer to the specific problem of continuity, of making sure the thing humans are and can become doesn't stop because one thing goes wrong in one place." He looked at Nina, then at the room. "Here, what I think happens depends on a trajectory calculation that's being updated every six hours by an observatory array I have no control over. I've made my peace with that."
+"The ship carries four thousand people who can build something at the other end, regardless of what happens here. That's not a contingency, that's an answer to the specific problem of continuity, of making sure the thing humans are and can become doesn't stop because one thing goes wrong in one place." He looked at Nina, then at the room. "Here, what I think happens depends on a trajectory calculation that's being updated every six hours by an observatory array I have no control over. I've made my peace with that."
 
-"Have you," Warren said from the back. He said it without challenge — genuinely asking.
+"Have you," Warren said from the back. He said it without challenge, genuinely asking.
 
 Thomas looked at him. "No," he said. "Not entirely. I don't think you can. But I've stopped requiring certainty in order to do the work, which is the closest thing to peace that's available."
 
-Warren nodded slowly. He looked at his hands — the specific gesture Thomas had seen from him before, the one that meant he was thinking about his wife. "She calls every week," Warren said. "From the ship." He paused. "She says it's different from what she expected. She expected to feel like she was leaving. She says it feels more like arriving somewhere she was always supposed to be."
+Warren nodded slowly. He looked at his hands, the specific gesture Thomas had seen from him before, the one that meant he was thinking about his wife. "She calls every week," Warren said. "From the ship." He paused. "She says it's different from what she expected. She expected to feel like she was leaving. She says it feels more like arriving somewhere she was always supposed to be."
 
 The room held that for a moment.
 
@@ -5494,9 +5494,9 @@ After the session, Thomas stayed to stack the chairs with Watts.
 
 They had been doing this together for six months now, the specific transfer of a task that was not complicated but that required being present for it. Stacking chairs in a room after the people had left was one of the things Thomas had done alone for fourteen years and that he was now doing with someone else, which was, he thought, the right way for it to end.
 
-"The consultation tracking format," Watts said. He had a notebook out — he kept a physical notebook, which Thomas approved of on principle. "I want to add a column for appeal status. The federal review process is going to generate a backlog."
+"The consultation tracking format," Watts said. He had a notebook out, he kept a physical notebook, which Thomas approved of on principle. "I want to add a column for appeal status. The federal review process is going to generate a backlog."
 
-"Add it. And add a notes field next to it — some of the appeals are going to have procedural histories that matter for the next round. You'll want them captured close to the data."
+"Add it. And add a notes field next to it, some of the appeals are going to have procedural histories that matter for the next round. You'll want them captured close to the data."
 
 Watts wrote. "November start date. I'll have the format updated before then."
 
@@ -5504,11 +5504,11 @@ Watts wrote. "November start date. I'll have the format updated before then."
 
 They finished the chairs. The room was empty now, the way it was always empty after a session, the quality of a place that had held something and was now waiting to hold it again.
 
-"Thomas," Watts said. He had the specific pause of someone who had something to say that he had been deciding whether to say. "The work we're doing. The law, the monitoring, the sessions. It's —" He stopped. "It's going to matter after October, regardless of what happens with the asteroid."
+"Thomas," Watts said. He had the specific pause of someone who had something to say that he had been deciding whether to say. "The work we're doing. The law, the monitoring, the sessions. It's , " He stopped. "It's going to matter after October, regardless of what happens with the asteroid."
 
 "Yes."
 
-"The people in this room are going to be here. Whether the ship makes it, whether the asteroid misses, whether —" He stopped again. "The work is for the people who are here."
+"The people in this room are going to be here. Whether the ship makes it, whether the asteroid misses, whether , " He stopped again. "The work is for the people who are here."
 
 "It's always been for the people who are here," Thomas said. "That was true in 2027 and it's true now. The asteroid didn't create the inequity the record documents. It revealed it and accelerated it. The work continues because the inequity continues, not because the asteroid does."
 
@@ -5516,13 +5516,13 @@ Watts looked at him for a moment. "Okay," he said. "Good."
 
 They turned off the lights. The room went dark.
 
-Thomas drove home through the October streets of Boston — the trees at the turn, the harbor lights in the distance, the city doing what it had been doing since it was a city: absorbing what came, continuing, demanding to be seen.
+Thomas drove home through the October streets of Boston, the trees at the turn, the harbor lights in the distance, the city doing what it had been doing since it was a city: absorbing what came, continuing, demanding to be seen.
 
 He had been here for all of it. He would be here for what came next.
 
 He parked the car and went inside and made tea and sat in the chair by the window and looked at the night, and did not check the trajectory data, and finished his tea, and went to bed.
 
-— END OF CHAPTER 41 —
+,  END OF CHAPTER 41 , 
 
 Chapter 42: The Final Vote
 
@@ -5532,21 +5532,21 @@ January 14, 2042
 
 The resolution passed 14-1.
 
-The single dissenting vote was the Australian delegation, which had been signaling its position for three months and which cast its no vote without ceremony, the representative simply raising the placard and lowering it again, the gesture carrying none of the drama that the occasion might have invited. It was a political statement, not a conviction — everyone in the room understood this, including the Australian representative.
+The single dissenting vote was the Australian delegation, which had been signaling its position for three months and which cast its no vote without ceremony, the representative simply raising the placard and lowering it again, the gesture carrying none of the drama that the occasion might have invited. It was a political statement, not a conviction, everyone in the room understood this, including the Australian representative.
 
 The resolution reaffirmed the Emergency Framework's full commitment to the Meridian program through launch and confirmed the ongoing Earth-side support infrastructure that would maintain communication with the ship for the duration of its transit. It authorized the final disbursement of program funds and established the post-launch governance structure that would coordinate between Earth, Luna Base, and Mars Station for what came after.
 
 What came after being, specifically, October 14th.
 
-Sarah voted yes, the way she had voted yes at every Framework session since the first one in 2026, and watched the result tally on the board and thought about the distance between the first vote — twelve members, uncertain commitment, a probability figure that kept everyone in the room carefully noncommittal — and this one, sixteen years later, fourteen yes votes and one no and the specific weight of what they had built in the space between.
+Sarah voted yes, the way she had voted yes at every Framework session since the first one in 2026, and watched the result tally on the board and thought about the distance between the first vote, twelve members, uncertain commitment, a probability figure that kept everyone in the room carefully noncommittal, and this one, sixteen years later, fourteen yes votes and one no and the specific weight of what they had built in the space between.
 
 Lindqvist caught her eye from across the chamber. He nodded once. She nodded back.
 
 * * *
 
-The reception afterward was the kind of event that followed final votes in the Framework's history — formally organized, informally consequential, the place where the real conversations happened after the parliamentary record was closed. Sarah moved through it with Paul at her shoulder and had conversations she had been having in various forms for sixteen years, calibrated now to the specific register of people who were nine months from finding out what sixteen years of work had produced.
+The reception afterward was the kind of event that followed final votes in the Framework's history, formally organized, informally consequential, the place where the real conversations happened after the parliamentary record was closed. Sarah moved through it with Paul at her shoulder and had conversations she had been having in various forms for sixteen years, calibrated now to the specific register of people who were nine months from finding out what sixteen years of work had produced.
 
-The German science minister — a woman named Bauer who had been on the Framework technical committee since 2031 and who had the specific quality of someone who understood the difference between political science and actual science and who applied both with equal precision — found her near the window.
+The German science minister, a woman named Bauer who had been on the Framework technical committee since 2031 and who had the specific quality of someone who understood the difference between political science and actual science and who applied both with equal precision, found her near the window.
 
 "Senator Grant." Bauer had the formal address that German technical officials used even in informal settings, which Sarah had long since stopped trying to adjust. "The Meridian boarding is complete?"
 
@@ -5556,7 +5556,7 @@ The German science minister — a woman named Bauer who had been on the Framewor
 
 "Then March."
 
-Bauer looked out the window at the Geneva morning — the lake, the mountains, the specific quality of winter light at altitude. "My daughter is on the ship," she said.
+Bauer looked out the window at the Geneva morning, the lake, the mountains, the specific quality of winter light at altitude. "My daughter is on the ship," she said.
 
 Sarah had not known this. In sixteen years she had learned not to assume she knew everything, but this surprised her. "I didn't know."
 
@@ -5566,9 +5566,9 @@ Sarah had not known this. In sixteen years she had learned not to assume she kne
 
 "And my daughter is going." Bauer looked at her. "How do you carry both things?"
 
-It was the question that had been underneath every Framework conversation since the crew selection began — not asked openly, usually, but present. Sarah had been asked it twice before, in private, by people whose connection to the program was personal as well as political. She had given different answers each time, because the honest answer was that it changed.
+It was the question that had been underneath every Framework conversation since the crew selection began, not asked openly, usually, but present. Sarah had been asked it twice before, in private, by people whose connection to the program was personal as well as political. She had given different answers each time, because the honest answer was that it changed.
 
-"You don't resolve them," she said. "You carry both. The rightness of the program and the cost of it — they're not contradictions. They're the same thing looked at from different distances." She looked at Bauer. "From your distance, you can see both clearly. Most people can only see one at a time."
+"You don't resolve them," she said. "You carry both. The rightness of the program and the cost of it, they're not contradictions. They're the same thing looked at from different distances." She looked at Bauer. "From your distance, you can see both clearly. Most people can only see one at a time."
 
 Bauer was quiet for a moment. Then she said: "I'll see you at the launch."
 
@@ -5576,11 +5576,11 @@ Bauer was quiet for a moment. Then she said: "I'll see you at the launch."
 
 * * *
 
-Sarah flew back to Washington that evening. On the plane she read the trajectory update — ARIA had published the January analysis that morning, and she had been waiting until the Geneva vote was done to look at it.
+Sarah flew back to Washington that evening. On the plane she read the trajectory update, ARIA had published the January analysis that morning, and she had been waiting until the Geneva vote was done to look at it.
 
 The probability was thirty-three percent.
 
-Up two points from the April analysis. The trajectory data, accumulating over fourteen months, was showing a slightly larger deviation than the April figures had indicated. The uncertainty interval was narrowing. The thirty-three percent was closer to certain than the thirty-one had been — less a range and more a number.
+Up two points from the April analysis. The trajectory data, accumulating over fourteen months, was showing a slightly larger deviation than the April figures had indicated. The uncertainty interval was narrowing. The thirty-three percent was closer to certain than the thirty-one had been, less a range and more a number.
 
 Thirty-three percent.
 
@@ -5600,7 +5600,7 @@ She put the tablet away.
 
 She slept.
 
-— END OF CHAPTER 42 —
+,  END OF CHAPTER 42 , 
 
 Chapter 43: Meridian
 
@@ -5618,7 +5618,7 @@ She sat in the commander's seat on Meridian's flight deck, the ship alive around
 
 The chain held.
 
-She had been on Meridian for four months. She knew every sound the ship made — the specific hum of the life support cycling, the occasional click of thermal expansion in the spine, the almost inaudible vibration of the agricultural ring's environmental systems maintaining the conditions the growing systems required. She had learned these sounds the way she had learned the sounds of every ship she had ever flown, and she had decided two months ago that this ship sounded like it wanted to go.
+She had been on Meridian for four months. She knew every sound the ship made, the specific hum of the life support cycling, the occasional click of thermal expansion in the spine, the almost inaudible vibration of the agricultural ring's environmental systems maintaining the conditions the growing systems required. She had learned these sounds the way she had learned the sounds of every ship she had ever flown, and she had decided two months ago that this ship sounded like it wanted to go.
 
 At 04:45, her radio clicked.
 
@@ -5636,11 +5636,11 @@ THOMAS | JAMAICA PLAIN, BOSTON | 05:45 AM EST
 
 He watched it on his laptop.
 
-He had considered going to a viewing event — there were several in the city, organized by the agency and by local groups, places where people could gather and watch the launch feed together. He had decided against it, not because he wanted to be alone with it but because what he wanted to be with it was himself, without the mediation of a crowd's collective response.
+He had considered going to a viewing event, there were several in the city, organized by the agency and by local groups, places where people could gather and watch the launch feed together. He had decided against it, not because he wanted to be alone with it but because what he wanted to be with it was himself, without the mediation of a crowd's collective response.
 
-The launch feed was streaming on three channels. He had the agency's feed up, which showed the technical coverage — telemetry data alongside the video, the countdown, the communications between Meridian and Luna Base mission control. He had muted the commentary.
+The launch feed was streaming on three channels. He had the agency's feed up, which showed the technical coverage, telemetry data alongside the video, the countdown, the communications between Meridian and Luna Base mission control. He had muted the commentary.
 
-He had been awake since five. He had made coffee and sat in the chair by the window — the same chair, the same window — and looked at the Boston morning assembling itself outside. The March morning was cold and clear, the sky the specific pale blue of early morning after a night with no clouds, the kind of morning that had no comment to make on what was happening and made none.
+He had been awake since five. He had made coffee and sat in the chair by the window, the same chair, the same window, and looked at the Boston morning assembling itself outside. The March morning was cold and clear, the sky the specific pale blue of early morning after a night with no clouds, the kind of morning that had no comment to make on what was happening and made none.
 
 At 05:30 he had texted Dmitri: watching from home.
 
@@ -5650,7 +5650,7 @@ Thomas had looked at that for a while. Dmitri's son, on the agricultural ring, d
 
 He watched the feed.
 
-The countdown was at three hours and twelve minutes. Meridian was in its departure berth, the ship visible on the feed's external camera, the scale impossible to register even when you knew the numbers — enormous and still, waiting.
+The countdown was at three hours and twelve minutes. Meridian was in its departure berth, the ship visible on the feed's external camera, the scale impossible to register even when you knew the numbers, enormous and still, waiting.
 
 He drank his coffee.
 
@@ -5670,13 +5670,13 @@ Kim came in and sat on the edge of the bunk, which was what Kim did when she had
 
 "Good."
 
-"The grief support team has four sessions scheduled for today. I've briefed the facilitators." Kim looked at her. "People are—" She stopped. "It's complicated in there."
+"The grief support team has four sessions scheduled for today. I've briefed the facilitators." Kim looked at her. "People are, " She stopped. "It's complicated in there."
 
-"I know." Elena had done her rounds the previous evening — all fourteen common areas, all six section meeting rooms, the agricultural ring and the medical bay and the community hub that had been the last section to come fully online. She had been in all of them, not saying much, being present. "It's the day of, not the day before. The day of is different."
+"I know." Elena had done her rounds the previous evening, all fourteen common areas, all six section meeting rooms, the agricultural ring and the medical bay and the community hub that had been the last section to come fully online. She had been in all of them, not saying much, being present. "It's the day of, not the day before. The day of is different."
 
 "Different how."
 
-"The day before you're still in the space where you could theoretically make a different choice. The day of, you've made the choice." She looked at the wall — which was the wall of her cabin, her wall, the wall she was going to see every morning for the rest of her life. "It gets quieter. Inside. Not easier, but quieter."
+"The day before you're still in the space where you could theoretically make a different choice. The day of, you've made the choice." She looked at the wall, which was the wall of her cabin, her wall, the wall she was going to see every morning for the rest of her life. "It gets quieter. Inside. Not easier, but quieter."
 
 Kim was quiet for a moment. "Sofia," she said.
 
@@ -5708,7 +5708,7 @@ GRANT | WASHINGTON, D.C. | 05:00 AM EST
 
 She watched from her office.
 
-She had considered going to a public event — the National Mall was hosting a viewing, the agency had organized viewing sites across the country, there were events at schools and community centers and the agency's regional offices. She had decided to watch from her office, which was where she had done the work, and which seemed like the right place to be when the work arrived at this particular moment.
+She had considered going to a public event, the National Mall was hosting a viewing, the agency had organized viewing sites across the country, there were events at schools and community centers and the agency's regional offices. She had decided to watch from her office, which was where she had done the work, and which seemed like the right place to be when the work arrived at this particular moment.
 
 Paul was with her. He had been with her since three, the way he had been with her at every significant moment of the program's life: present, efficient, quiet when quiet was what was needed.
 
@@ -5720,7 +5720,7 @@ The agency feed was on the large screen. The launch countdown was at two hours, 
 
 "Do you remember the first Framework meeting?"
 
-She did. She remembered the specific quality of the room — the uncertainty, the fear, the way the probability figure had sat on the table like something radioactive that everyone was careful not to touch directly. She remembered thinking, in the car on the way back, that this was either going to be the thing she was remembered for or the thing that collapsed under the weight of its own impossibility.
+She did. She remembered the specific quality of the room, the uncertainty, the fear, the way the probability figure had sat on the table like something radioactive that everyone was careful not to touch directly. She remembered thinking, in the car on the way back, that this was either going to be the thing she was remembered for or the thing that collapsed under the weight of its own impossibility.
 
 It had not collapsed.
 
@@ -5730,7 +5730,7 @@ It had not collapsed.
 
 "The Australian vote doesn't matter. Fourteen out of fifteen is a coalition that held." She looked at the screen. "The program is launching."
 
-Paul nodded. He had the expression he had on the occasions — rare, over sixteen years — when he had nothing to add, when the situation had arrived at a place where there was nothing to add.
+Paul nodded. He had the expression he had on the occasions, rare, over sixteen years, when he had nothing to add, when the situation had arrived at a place where there was nothing to add.
 
 They watched.
 
@@ -5740,7 +5740,7 @@ MARIA | MERIDIAN FLIGHT DECK | 10:14 LST
 
 Eight minutes.
 
-The flight deck was full — her crew of twenty-six, the operational team that ran the ship's systems, at their stations. The four thousand, three hundred and twelve crew were at boarding positions throughout the rings and decks, the departure protocol requiring all non-essential personnel to be seated and secured for the departure burn. Luna Base had been building to this moment for sixteen years and the final eight minutes of it had a specific quality she recognized from every other launch she had ever made and that was also, this time, its own thing entirely.
+The flight deck was full, her crew of twenty-six, the operational team that ran the ship's systems, at their stations. The four thousand, three hundred and twelve crew were at boarding positions throughout the rings and decks, the departure protocol requiring all non-essential personnel to be seated and secured for the departure burn. Luna Base had been building to this moment for sixteen years and the final eight minutes of it had a specific quality she recognized from every other launch she had ever made and that was also, this time, its own thing entirely.
 
 She did not think about what was at stake. She thought about the departure sequence. She thought about each element in the chain, testing it.
 
@@ -5748,25 +5748,25 @@ The chain held.
 
 "Luna Base Mission Control, Meridian Actual," she said. "Final status check."
 
-The voice from mission control was Novak. Of course it was Novak. "Meridian Actual, all systems nominal. You are go for departure. Navigation solution locked. Communications relay confirmed." A pause — not a technical pause, a deliberate one. "Commander Webb. It is time."
+The voice from mission control was Novak. Of course it was Novak. "Meridian Actual, all systems nominal. You are go for departure. Navigation solution locked. Communications relay confirmed." A pause, not a technical pause, a deliberate one. "Commander Webb. It is time."
 
 "Copy that, Luna Base." She looked at the viewport. The stars. The black. The target that was, at this moment, fifty-three years away. "Initiating departure sequence."
 
 She ran the sequence.
 
-The burn lasted six minutes and forty-four seconds. It was the longest burn she had ever run — not in duration, which she had exceeded on Phoenix, but in weight, the specific pressure of knowing that when it was complete the ship would be on a trajectory it would not return from, that the distance between what was behind them and what was ahead of them would begin accumulating at a rate that made the previous distance irrelevant.
+The burn lasted six minutes and forty-four seconds. It was the longest burn she had ever run, not in duration, which she had exceeded on Phoenix, but in weight, the specific pressure of knowing that when it was complete the ship would be on a trajectory it would not return from, that the distance between what was behind them and what was ahead of them would begin accumulating at a rate that made the previous distance irrelevant.
 
 She flew it the way she flew everything. Completely.
 
 At cutoff, Meridian was on trajectory.
 
-The viewport cleared as the burn ended — the stars resolving back into the black as the engine plume dissipated — and she looked at them for a moment, the same stars she had been looking at for twenty-three years of spaceflight and that were, now, the stars she was going toward.
+The viewport cleared as the burn ended, the stars resolving back into the black as the engine plume dissipated, and she looked at them for a moment, the same stars she had been looking at for twenty-three years of spaceflight and that were, now, the stars she was going toward.
 
 "Luna Base, burn complete," she said. "Meridian is on trajectory. All systems nominal."
 
 "Copy, Meridian," Novak said. Her voice was steady. "We have you. Safe flight."
 
-There was a specific silence after a departure burn — the silence of an engine that had done its work and stopped, the ship now carrying the velocity the burn had given it, the rest of the journey a matter of physics and time. She had heard this silence many times. It was different now because it was the last departure silence she was going to hear that had Earth behind it.
+There was a specific silence after a departure burn, the silence of an engine that had done its work and stopped, the ship now carrying the velocity the burn had given it, the rest of the journey a matter of physics and time. She had heard this silence many times. It was different now because it was the last departure silence she was going to hear that had Earth behind it.
 
 She looked at the viewport.
 
@@ -5808,11 +5808,11 @@ She turned to her desk and opened the morning briefing.
 
 * * *
 
-In her cabin on Meridian, Elena felt the departure burn begin and end and felt the specific quality that followed — the stillness of a ship no longer fighting its own trajectory, now simply moving. She was lying on her bunk, which she had done deliberately: she wanted to feel the burn from here, from the thing that was her home now, not from a display or a viewport but through the structure of the ship itself.
+In her cabin on Meridian, Elena felt the departure burn begin and end and felt the specific quality that followed, the stillness of a ship no longer fighting its own trajectory, now simply moving. She was lying on her bunk, which she had done deliberately: she wanted to feel the burn from here, from the thing that was her home now, not from a display or a viewport but through the structure of the ship itself.
 
 She felt it stop.
 
-She looked at the ceiling of her cabin — her ceiling — and thought about Sofia, who was getting up right now in Houston, who had watched the launch feed and who was going to go to work today because work was also Sofia's answer to things, and who was going to carry what she was carrying the way she carried everything: with the specific intelligence and love that had always been the thing Elena returned to.
+She looked at the ceiling of her cabin, her ceiling, and thought about Sofia, who was getting up right now in Houston, who had watched the launch feed and who was going to go to work today because work was also Sofia's answer to things, and who was going to carry what she was carrying the way she carried everything: with the specific intelligence and love that had always been the thing Elena returned to.
 
 She was not returning anymore.
 
@@ -5820,4 +5820,4 @@ But the love was still there. She was carrying it with her. It would be there at
 
 She got up and went to check on the third cohort.
 
-— END OF CHAPTER 43 —
+,  END OF CHAPTER 43 , 

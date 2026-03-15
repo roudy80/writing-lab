@@ -24,7 +24,7 @@ She looked back at the inventory log. She kept her voice even.
 
 "The third row needs a full tension check," she said to Vasquez. "Let's do it today."
 
-—
+---
 
 She thought about it that evening. She thought about it with the precision she brought to things that needed to be thought through carefully, laying out the variables and working through the logic.
 
@@ -54,7 +54,7 @@ She thought about what she wanted that something to be.
 
 She didn't sleep for a long time.
 
-—
+---
 
 He was at the briefing board at 0540 the next morning.
 
@@ -96,7 +96,7 @@ The briefing was at 0700. She ran it.
 
 The base did what it did.
 
-—
+---
 
 She went back to the cache that evening alone, after the crew had dispersed, and found the log herself. Read the notation she'd written three years ago. Post-incident inspection, D. Kocher deployment, weather event, see supplemental.
 

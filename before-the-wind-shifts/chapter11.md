@@ -118,7 +118,7 @@ She didn't examine what it said about her that it had gotten easier to say her f
 
 The list was getting long.
 
-—
+---
 
 That night she called her mother.
 

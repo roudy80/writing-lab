@@ -8,13 +8,13 @@ The news hit on a Thursday, which was community session day, and Thomas found ou
 
 He stopped setting up chairs and read the alert and then read the linked article and then put the phone in his pocket and finished setting up the chairs, because the session started in forty minutes and the chairs needed to be set up. He pulled out two extras beyond the usual count. He had a feeling the room would be full.
 
-He was right. Twenty-nine people, which was the largest Thursday since October 2033. Some faces he recognized from every session. Some faces from the satellite groups that usually sent written reports rather than people. Two faces he didn't recognize at all, which was unusual for a Thursday — new people usually came in groups, not alone, and these two had come alone, which meant they had found their way here on their own, which meant the news had reached people who didn't already know about the sessions.
+He was right. Twenty-nine people, which was the largest Thursday since October 2033. Some faces he recognized from every session. Some faces from the satellite groups that usually sent written reports rather than people. Two faces he didn't recognize at all, which was unusual for a Thursday, new people usually came in groups, not alone, and these two had come alone, which meant they had found their way here on their own, which meant the news had reached people who didn't already know about the sessions.
 
-Thomas noted this without letting it show. He started the session the way he always started it: with the current state of the monitoring office enforcement record, the documented facts, the timeline. He had been doing this for ten years and the ritual of the opening still served its purpose — it established that this was a room where facts were the baseline, that the conversation started from documentation and moved outward, not the reverse.
+Thomas noted this without letting it show. He started the session the way he always started it: with the current state of the monitoring office enforcement record, the documented facts, the timeline. He had been doing this for ten years and the ritual of the opening still served its purpose, it established that this was a room where facts were the baseline, that the conversation started from documentation and moved outward, not the reverse.
 
 He got through the opening and into the monitoring office update and was twenty minutes in when Dmitri asked the question that was in the room.
 
-"The Luna Base cryogenic test," Dmitri said. He said it in the mild tone he used for things he'd been waiting to raise — measured, not tentative.
+"The Luna Base cryogenic test," Dmitri said. He said it in the mild tone he used for things he'd been waiting to raise, measured, not tentative.
 
 Thomas looked at the room. He could see it in the faces: not panic, not the wide-eyed alarm of people encountering unexpected catastrophe, but the specific alertness of people who had been following a story for ten years and had just watched an important chapter turn. The alertness of people who had been doing their own arithmetic.
 
@@ -24,9 +24,9 @@ Warren was there, and Rosa, and Nina with the expression she had for sessions wh
 
 * * *
 
-He told them what was publicly available. The trial had been running for sixty-two days. An incident had occurred during the revival window — a vibration interaction with the modified cryogenic system, details under agency review. No fatalities. All forty subjects conscious and medically cleared. The cryosleep integration schedule was under review. He told them that the technical language in the agency statement suggested this was not a routine equipment malfunction: the phrase design interaction was not how agencies described things they expected to fix with a calibration adjustment.
+He told them what was publicly available. The trial had been running for sixty-two days. An incident had occurred during the revival window, a vibration interaction with the modified cryogenic system, details under agency review. No fatalities. All forty subjects conscious and medically cleared. The cryosleep integration schedule was under review. He told them that the technical language in the agency statement suggested this was not a routine equipment malfunction: the phrase design interaction was not how agencies described things they expected to fix with a calibration adjustment.
 
-Osei — the man from the water extraction family in the outer ring, who asked the most technical questions of anyone in the room — asked whether this was the same failure mode as the 2033 prototype test.
+Osei, the man from the water extraction family in the outer ring, who asked the most technical questions of anyone in the room, asked whether this was the same failure mode as the 2033 prototype test.
 
 Thomas said he didn't know. That the public record on the 2033 test was limited. That he had filed a documentation request with the Luna Base safety review board this afternoon and would share whatever came back.
 
@@ -34,7 +34,7 @@ A woman named Grace, who had started coming three months ago after the council h
 
 Thomas said he didn't know. That the technical analysis would determine that, and that the honest answer to the timeline question was that no one outside the program knew yet.
 
-"Does the delay matter," someone said from the back. A man Thomas didn't recognize — one of the two new faces, the one who hadn't leaned forward. He said it with the specific flatness of someone who had been holding the question for a while. "If the ship doesn't launch before 2042, does it matter?"
+"Does the delay matter," someone said from the back. A man Thomas didn't recognize, one of the two new faces, the one who hadn't leaned forward. He said it with the specific flatness of someone who had been holding the question for a while. "If the ship doesn't launch before 2042, does it matter?"
 
 The room was quiet.
 
@@ -66,7 +66,7 @@ Dmitri stayed after, as he usually did. They stacked the chairs in the familiar 
 
 "I noticed him."
 
-"He came alone. Found the session through the city website, I think — we're listed as a community resource now since the council hearing coverage." Dmitri set the last stack of chairs against the wall. "He lost his apartment in the Roxbury displacement. Rebuilt. His wife is on the candidate list for the ship — passed the preliminary selection assessment last year."
+"He came alone. Found the session through the city website, I think, we're listed as a community resource now since the council hearing coverage." Dmitri set the last stack of chairs against the wall. "He lost his apartment in the Roxbury displacement. Rebuilt. His wife is on the candidate list for the ship, passed the preliminary selection assessment last year."
 
 Thomas absorbed this.
 
@@ -80,7 +80,7 @@ They sat down on the edge of the stage, the community center quiet around them. 
 
 "How."
 
-"The monitoring office failures, the reconstruction gaps, the OMB re-allocation — those were failures of process. Human decisions that could have been made differently. The kind of failure where you can point to something that should have been done and wasn't." Dmitri looked at his hands. "This is a failure of engineering. Of physics. Of limits that weren't fully understood. You can't build a record against that the way you build a record against a missed consultation deadline."
+"The monitoring office failures, the reconstruction gaps, the OMB re-allocation, those were failures of process. Human decisions that could have been made differently. The kind of failure where you can point to something that should have been done and wasn't." Dmitri looked at his hands. "This is a failure of engineering. Of physics. Of limits that weren't fully understood. You can't build a record against that the way you build a record against a missed consultation deadline."
 
 Thomas thought about this. It was accurate. "You're right that it's a different category," he said. "But the response is the same."
 
@@ -92,7 +92,7 @@ Thomas thought about this. It was accurate. "You're right that it's a different 
 
 "No. But the people doing the engineering are accountable to a public record even when the failure is physics. The agency statement is public. The safety review process is public. The documentation requests I filed today will produce public responses." Thomas paused. "I don't know if the ship will work. I don't know if the cryosleep system can be fixed in time. Those are things I'm going to track and report as accurately as I've tracked and reported everything else for ten years."
 
-Dmitri nodded slowly. He was looking at the window — the street outside, a car passing, normal life doing what it did. "Ben still hasn't called," he said.
+Dmitri nodded slowly. He was looking at the window, the street outside, a car passing, normal life doing what it did. "Ben still hasn't called," he said.
 
 "No."
 
@@ -104,7 +104,7 @@ Dmitri nodded slowly. He was looking at the window — the street outside, a car
 
 "But the probability is what it is. And the ship's cryosleep system just failed in testing. And none of that is in my hands." He said it the way he said things that were true and that he hadn't fully made peace with. "What's in my hands is the documentation request I filed this afternoon, and the follow-up I'm going to make in thirty days if they haven't responded, and the East Boston group that needs to know what happened today so they can process it the same way we just did."
 
-He locked up the community center. Outside, the March air had gone sharp — the specific cold of late evening, when the day's thin warmth had fully left. The street was quiet. The bodega at the corner was still lit, music from somewhere above.
+He locked up the community center. Outside, the March air had gone sharp, the specific cold of late evening, when the day's thin warmth had fully left. The street was quiet. The bodega at the corner was still lit, music from somewhere above.
 
 He drove home thinking about the man in the back of the room. About his wife on the candidate list. About the twelve minutes that had apparently been the margin between forty people completing their revival sequence and something worse. About the engineering team that was now looking at whether the modification they'd been relying on was sufficient for full-scale operation over four decades.
 
@@ -114,4 +114,4 @@ The man in the back had found his way here on his own. That meant the room was f
 
 He set his alarm for six and went to sleep.
 
-— END OF CHAPTER 25 —
+,  END OF CHAPTER 25 , 

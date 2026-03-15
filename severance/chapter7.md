@@ -10,7 +10,7 @@ The headline was careful. Emergency Supplemental Authorization Re-Allocation: Lu
 
 By the time the sky outside his temporary apartment had gone from black to gray, he'd read it twice and written down the numbers. Not the round numbers from the press conference slides, the ones calibrated for television. The actual project-by-project breakdown that someone in the Office of Management and Budget had assembled with the specific thoroughness of a bureaucrat who understood that their work would outlast the political cover that commissioned it.
 
-Forty-three percent of the emergency reconstruction authorization — the money designated in October for exactly this, rebuilding what the impact had destroyed — had been redirected. Not eliminated. The paperwork was careful about that. Redirected. Reallocated to priority tier infrastructure in support of the Luna-Ark program: launch facility upgrades, rare-earth extraction contracts, materials processing facilities in Nevada and Utah and three other states that happened to contain the right minerals and the right senators.
+Forty-three percent of the emergency reconstruction authorization, the money designated in October for exactly this, rebuilding what the impact had destroyed, had been redirected. Not eliminated. The paperwork was careful about that. Redirected. Reallocated to priority tier infrastructure in support of the Luna-Ark program: launch facility upgrades, rare-earth extraction contracts, materials processing facilities in Nevada and Utah and three other states that happened to contain the right minerals and the right senators.
 
 Thomas put the printout on the kitchen table and looked at it for a long time.
 
@@ -60,7 +60,7 @@ At noon he walked two blocks to the community center on the corner of Green and 
 
 He'd been holding these sessions since November, informally at first, then with a regular time and a regular room. They were not official. Carol had mentioned once, obliquely, that certain people at the program's administrative level were aware of them and had chosen not to comment, which Thomas understood as tacit tolerance rather than approval. He was not sure he cared about the distinction.
 
-The room held twenty-two people this Thursday. He recognized most of them. The man in the back who'd asked about the federal assessment process three sessions ago and was now asking follow-up questions that showed he'd done his own research in the interval. The woman with the baby, who came because her building's assessment was still pending and who stayed after each session to ask specific technical questions in a way that suggested she was more technically literate than her file indicated. Two young men from the apartment building on Boylston, the one that had been cleared but whose landlord had stopped accepting rent payments and was clearly running an insurance play — a situation Thomas had been trying to address through channels that were increasingly theoretical.
+The room held twenty-two people this Thursday. He recognized most of them. The man in the back who'd asked about the federal assessment process three sessions ago and was now asking follow-up questions that showed he'd done his own research in the interval. The woman with the baby, who came because her building's assessment was still pending and who stayed after each session to ask specific technical questions in a way that suggested she was more technically literate than her file indicated. Two young men from the apartment building on Boylston, the one that had been cleared but whose landlord had stopped accepting rent payments and was clearly running an insurance play, a situation Thomas had been trying to address through channels that were increasingly theoretical.
 
 He'd started these sessions explaining the assessment process: what the orange notices meant, what the sequence from assessment to authorization to remediation looked like, what the federal paperwork required. That was still part of it. But the conversation had shifted over three months into something larger, a running community seminar on the mechanics of how decisions got made: how reconstruction money moved, how the bureaucratic sequencing worked, where the appeals points were, what kinds of pressure actually moved things and what kinds were absorbed without effect.
 
@@ -102,7 +102,7 @@ He paused.
 
 Dmitri said, very quietly: "And you believe in it."
 
-Thomas looked at him — at Mrs. Petrovitch's orange notice somewhere in the stack on his desk, at the thirty-two projects in the redirected column, at the appeals process with a sixty-day response window and a low success rate.
+Thomas looked at him, at Mrs. Petrovitch's orange notice somewhere in the stack on his desk, at the thirty-two projects in the redirected column, at the appeals process with a sixty-day response window and a low success rate.
 
 "I believe the mathematics are sound," he said.
 
@@ -132,4 +132,4 @@ Thomas Rourke was very good at not stopping.
 
 He was starting to understand that this was going to be a problem.
 
-— END OF CHAPTER 7 —
+,  END OF CHAPTER 7 , 

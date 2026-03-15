@@ -112,7 +112,7 @@ She thought about I know there's a whole picture.
 
 She picked up her radio and got to work.
 
-—
+---
 
 The jump was clean. The fire was what the thermals had said it was, a drainage fire that had backed into the timber and needed a line cut above it before it reached the upper slope where the fuel load was catastrophic. She put the crew on it and the crew worked it and by four in the morning they had the line and by six they had containment and by eight they were on the ground waiting for extraction.
 

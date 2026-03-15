@@ -14,19 +14,19 @@ She read the fourth paragraph twice.
 
 One hundred and eighty days to redesign a framework she'd spent nine years building.
 
-She set the notification aside and opened the assessment database and looked at the number she'd been doing the arithmetic on since Friday afternoon: three hundred and forty-one. The people who had received formal incompatibility determinations under the cryosleep criteria. She had been sending those determinations for two years — careful letters, drafted with Kim's input on the physiological language and her own on the psychological framing, delivered through a process she had designed to be as humane as the information allowed.
+She set the notification aside and opened the assessment database and looked at the number she'd been doing the arithmetic on since Friday afternoon: three hundred and forty-one. The people who had received formal incompatibility determinations under the cryosleep criteria. She had been sending those determinations for two years, careful letters, drafted with Kim's input on the physiological language and her own on the psychological framing, delivered through a process she had designed to be as humane as the information allowed.
 
-The determinations had been final. She had said so explicitly, in the accompanying documentation, because ambiguity in that kind of communication was its own form of cruelty. She had told people the door was closed. She had chosen that word — closed — because she thought the clarity was kinder than leaving people with hope that wasn't real.
+The determinations had been final. She had said so explicitly, in the accompanying documentation, because ambiguity in that kind of communication was its own form of cruelty. She had told people the door was closed. She had chosen that word, closed, because she thought the clarity was kinder than leaving people with hope that wasn't real.
 
 She sat with the database and the number and the word for a long time.
 
 * * *
 
-Kim came in at ten with the same expression Elena recognized from the Friday call — the expression of someone who had spent the weekend doing the same arithmetic.
+Kim came in at ten with the same expression Elena recognized from the Friday call, the expression of someone who had spent the weekend doing the same arithmetic.
 
 "Three hundred and forty-one," Elena said.
 
-"I pulled the same count this morning." Kim sat down. "Not all of them are eligible under the conscious-crew criteria. Some of the incompatibilities were physiological factors relevant to a conscious-crew mission — cardiac, neurological, immune function. The long transit presents its own physical demands regardless of whether you're awake or in suspension." She paused. "But the cryosleep-specific incompatibilities —"
+"I pulled the same count this morning." Kim sat down. "Not all of them are eligible under the conscious-crew criteria. Some of the incompatibilities were physiological factors relevant to a conscious-crew mission, cardiac, neurological, immune function. The long transit presents its own physical demands regardless of whether you're awake or in suspension." She paused. "But the cryosleep-specific incompatibilities , "
 
 "How many."
 
@@ -42,7 +42,7 @@ She stood and walked to the window. Outside, Houston in July was doing what Hous
 
 "How do we contact them," she said.
 
-"The database has current contact information for two hundred and sixteen of the three hundred and forty-one. The remaining hundred and twenty-five —" Kim stopped. "Some moved without updating their contact information. Some —" She didn't finish the sentence.
+"The database has current contact information for two hundred and sixteen of the three hundred and forty-one. The remaining hundred and twenty-five , " Kim stopped. "Some moved without updating their contact information. Some , " She didn't finish the sentence.
 
 "Some made decisions based on what the letter said," Elena said.
 
@@ -54,7 +54,7 @@ She had known this was possible. Had known it from the first determination she s
 
 Kim was quiet. "That's a careful distinction."
 
-"It's the only honest one." Elena turned from the window. "I told people the door was closed. It was closed, at the time, for the reasons I stated. I can't unsay that. I also can't pretend the new communication cancels the weight of the original one — the original one has been sitting in these people's lives for anywhere from two to nine years. That's not something a follow-up letter resolves."
+"It's the only honest one." Elena turned from the window. "I told people the door was closed. It was closed, at the time, for the reasons I stated. I can't unsay that. I also can't pretend the new communication cancels the weight of the original one, the original one has been sitting in these people's lives for anywhere from two to nine years. That's not something a follow-up letter resolves."
 
 "Some of them will be angry," Kim said.
 
@@ -66,7 +66,7 @@ Kim was quiet. "That's a careful distinction."
 
 "Some will have built entirely different lives in the time since."
 
-"I know." Elena sat back down. "The letter has to acknowledge all of that. Not perform sensitivity — actually account for it. It can't be a form letter. I want to write the template and then review every individual letter before it goes out."
+"I know." Elena sat back down. "The letter has to acknowledge all of that. Not perform sensitivity, actually account for it. It can't be a form letter. I want to write the template and then review every individual letter before it goes out."
 
 "That's one hundred and ninety letters."
 
@@ -86,7 +86,7 @@ Elena looked at her.
 
 * * *
 
-Sofia called that afternoon. They talked two or three times a week, had since the engagement — closer now than they'd been when Sofia was young and angrier and Elena was more guarded, closer in the specific way that two people became close when they'd been through enough together to stop performing for each other.
+Sofia called that afternoon. They talked two or three times a week, had since the engagement, closer now than they'd been when Sofia was young and angrier and Elena was more guarded, closer in the specific way that two people became close when they'd been through enough together to stop performing for each other.
 
 "How are you," Sofia said. She said it the way she said it when she wanted a real answer.
 
@@ -100,7 +100,7 @@ Sofia called that afternoon. They talked two or three times a week, had since th
 
 "Each of them."
 
-Sofia was quiet for a moment. Elena knew this silence — it was the silence of her daughter recognizing something and deciding not to make a production of recognizing it. "That's going to be hard," Sofia said finally.
+Sofia was quiet for a moment. Elena knew this silence, it was the silence of her daughter recognizing something and deciding not to make a production of recognizing it. "That's going to be hard," Sofia said finally.
 
 "Yes."
 
@@ -110,7 +110,7 @@ Sofia was quiet for a moment. Elena knew this silence — it was the silence of 
 
 "Does this change anything for you? About whether you're on the ship?"
 
-The question that had been unresolved for nine years. Elena had been avoiding resolving it because the resolution required choosing between two things she couldn't rank: the work here, which had become the defining labor of her professional life, and the transit that was the destination the work had been building toward. The cryosleep profile had made the question abstract — forty years of suspension was a particular kind of commitment, more like death than travel. The conscious-crew profile made it something different. Forty years awake. Forty years doing, aboard the ship, something like what she was doing here.
+The question that had been unresolved for nine years. Elena had been avoiding resolving it because the resolution required choosing between two things she couldn't rank: the work here, which had become the defining labor of her professional life, and the transit that was the destination the work had been building toward. The cryosleep profile had made the question abstract, forty years of suspension was a particular kind of commitment, more like death than travel. The conscious-crew profile made it something different. Forty years awake. Forty years doing, aboard the ship, something like what she was doing here.
 
 "I don't know," she said. Which was the truth, and also more honest than the versions she'd been giving the question for nine years.
 
@@ -126,7 +126,7 @@ The question that had been unresolved for nine years. Elena had been avoiding re
 
 "After the letters," Elena said.
 
-They talked for another thirty minutes about Paul's fellowship and Chicago and a book Sofia was reading. Normal life, with its insistence. When the call ended, Elena sat for a while with the quiet of the office — the hum of the building's cooling system, the distant sounds of the Houston afternoon, the database on her screen.
+They talked for another thirty minutes about Paul's fellowship and Chicago and a book Sofia was reading. Normal life, with its insistence. When the call ended, Elena sat for a while with the quiet of the office, the hum of the building's cooling system, the distant sounds of the Houston afternoon, the database on her screen.
 
 She opened a new document and began drafting the communication template.
 
@@ -134,16 +134,16 @@ The right opening sentence took forty minutes. She wrote it, deleted it, wrote i
 
 She found it, eventually: The Framework for Coordinated Planetary Defense has made a significant decision about the mission architecture, and because that decision affects the determination I sent you, I want to reach you directly rather than through official channels alone.
 
-She wrote the rest of the template around it. Then she opened the file for the first individual letter — the environmental engineer from Manitoba, the one who had cried quietly and thanked her with formal precision at the end. She had been thinking about her since Friday.
+She wrote the rest of the template around it. Then she opened the file for the first individual letter, the environmental engineer from Manitoba, the one who had cried quietly and thanked her with formal precision at the end. She had been thinking about her since Friday.
 
 She wrote the letter. She would write the rest over the next sixty days, between the criteria review work and the new assessment development and the coordination meetings with Novak's engineering team about what the conscious-crew profile actually required from a psychological and social architecture standpoint.
 
 The work was different now. It required the same precision, the same care, the same willingness to sit with difficult information and describe it accurately. It was still the work.
 
-She wrote until seven PM and then drove home through the Houston evening, the sky finally going toward the colors it made at sunset now — more vivid than they'd been when she was young, the particulates doing what particulates did to light, turning the west into something that would have looked like a painting if you didn't know what was causing it.
+She wrote until seven PM and then drove home through the Houston evening, the sky finally going toward the colors it made at sunset now, more vivid than they'd been when she was young, the particulates doing what particulates did to light, turning the west into something that would have looked like a painting if you didn't know what was causing it.
 
 She looked at it for a moment before she went inside.
 
 Then she went inside and thought about the second letter, and the one after that, and the one hundred and eighty-eight after that.
 
-— END OF CHAPTER 27 —
+,  END OF CHAPTER 27 , 

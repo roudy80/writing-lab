@@ -20,7 +20,7 @@ Kim had said: I know. That's all she'd said. Sarah had believed her.
 
 The incident analysis unfolded over four hours. The cascade modification, its design rationale, the testing history, the second human trial's sixty-two-day run without anomaly. Then the morning of March fifteenth: the construction crew on the outer ring section running a structural brace installation, the vibration propagating through the hull, the modified thermal regulation architecture's response.
 
-The French delegation lead interrupted twice. Both interruptions were good questions — he had done his technical homework, which was either the sign of a delegation genuinely concerned about the engineering or the sign of a delegation that had decided to make the engineering its political lever and had prepared accordingly. Probably both.
+The French delegation lead interrupted twice. Both interruptions were good questions, he had done his technical homework, which was either the sign of a delegation genuinely concerned about the engineering or the sign of a delegation that had decided to make the engineering its political lever and had prepared accordingly. Probably both.
 
 "The modification was certified before the trial," he said. "By whom, and on what basis."
 
@@ -34,7 +34,7 @@ Sarah watched the room during this exchange. The delegations that had come in sk
 
 The room was dividing along lines that had been there before the session started. Her job was to prevent that division from becoming the outcome.
 
-The afternoon session was devoted to engineering analysis. Kim walked through the cascade mechanism, the modification's design rationale, and the cascade behavior at forty-pod scale versus the projected behavior at fourteen hundred pods per ring. The technical briefing was thorough and, Sarah thought, slightly too thorough — Kim had prepared for the depth of the most technical questions she might receive and as a result was giving more technical detail than most delegations would retain. This was a common error in expert testimony. The experts knew which details mattered and couldn't fully model how much less their audience knew.
+The afternoon session was devoted to engineering analysis. Kim walked through the cascade mechanism, the modification's design rationale, and the cascade behavior at forty-pod scale versus the projected behavior at fourteen hundred pods per ring. The technical briefing was thorough and, Sarah thought, slightly too thorough, Kim had prepared for the depth of the most technical questions she might receive and as a result was giving more technical detail than most delegations would retain. This was a common error in expert testimony. The experts knew which details mattered and couldn't fully model how much less their audience knew.
 
 During the break Sarah pulled Paul aside. "The afternoon session. The technical briefing."
 
@@ -50,7 +50,7 @@ Day two was the political session. Sarah had thirty minutes at the top of the da
 
 She used them.
 
-She said: the forty-three percent probability is a data point, not a verdict. She said: the testing process worked — the failure was found at small scale, with forty subjects, not at operational scale with four thousand. She said: every delegation in this room made a commitment based on the understanding that the program would encounter problems and solve them. This is a problem being solved.
+She said: the forty-three percent probability is a data point, not a verdict. She said: the testing process worked, the failure was found at small scale, with forty subjects, not at operational scale with four thousand. She said: every delegation in this room made a commitment based on the understanding that the program would encounter problems and solve them. This is a problem being solved.
 
 Then she said the thing she'd been deciding for three days whether to say.
 
@@ -58,9 +58,9 @@ Then she said the thing she'd been deciding for three days whether to say.
 
 The room shifted. Not the specific quality of surprise but the specific quality of a subject arriving that had been present in every private conversation and was now public.
 
-"A conscious-crew mission," she said. "Four thousand people awake for the full transit. The ship would need to be significantly redesigned — larger life support capacity, different social and psychological architecture, a construction timeline extension." She paused. "I am not proposing this option. I am naming it, because I believe it is better for this room to make this decision with the option explicitly on the table than to spend the next six months managing it as a subtext."
+"A conscious-crew mission," she said. "Four thousand people awake for the full transit. The ship would need to be significantly redesigned, larger life support capacity, different social and psychological architecture, a construction timeline extension." She paused. "I am not proposing this option. I am naming it, because I believe it is better for this room to make this decision with the option explicitly on the table than to spend the next six months managing it as a subtext."
 
-Lindqvist, who had known she was going to say this — she had told him the night before — said from his seat: "What is the engineering estimate for such a redesign."
+Lindqvist, who had known she was going to say this, she had told him the night before, said from his seat: "What is the engineering estimate for such a redesign."
 
 "Novak," Sarah said.
 
@@ -78,7 +78,7 @@ The discussion ran six hours. She answered questions. She let Novak and Kim answ
 
 The French motion came at hour four: a formal pause of the cryosleep development program pending a comprehensive safety review.
 
-Sarah did not block it. She let it be tabled. She spoke to it for eight minutes, arguing that a pause of the cryosleep development program was the correct decision if the decision was that cryosleep would not be the mission architecture — that a pause contingent on ongoing redesign was not the same as a pause contingent on the status quo.
+Sarah did not block it. She let it be tabled. She spoke to it for eight minutes, arguing that a pause of the cryosleep development program was the correct decision if the decision was that cryosleep would not be the mission architecture, that a pause contingent on ongoing redesign was not the same as a pause contingent on the status quo.
 
 The motion came to a vote at the end of day two. The room voted eleven to two to table the motion for decision on day three, in conjunction with a decision on mission architecture.
 
@@ -88,7 +88,7 @@ Day two ended with no architecture decision. That was also correct. Day two was 
 
 Day three was the vote.
 
-Sarah had spent the night — three hours of it, the rest on work — talking with five delegations individually. Not managing them. Listening. There was a version of coalition work that was about managing people toward predetermined outcomes, and a version that was about understanding what they actually needed and finding the outcome that met enough of it.
+Sarah had spent the night, three hours of it, the rest on work, talking with five delegations individually. Not managing them. Listening. There was a version of coalition work that was about managing people toward predetermined outcomes, and a version that was about understanding what they actually needed and finding the outcome that met enough of it.
 
 She was doing the second version. It was slower and it produced more durable results.
 
@@ -136,4 +136,4 @@ Eleven to one. The program survived. The work continued.
 
 She opened her laptop and started on the Senate briefing, because the next conversation was already waiting and the work in front of her was the only work that mattered.
 
-— END OF CHAPTER 26 —
+,  END OF CHAPTER 26 , 

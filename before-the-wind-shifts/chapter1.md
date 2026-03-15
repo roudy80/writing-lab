@@ -46,7 +46,7 @@ Neither quality made her want him here. But she knew how to manage it.
 
 Fine. She'd managed worse.
 
-—
+---
 
 The base at Redmond ran on rhythm. Mornings were PT, equipment checks, weather briefings. Afternoons were training or standby depending on the fire weather index. Evenings were whatever the day left you with, which in May was usually paperwork and the Oregon light that came in through the bay doors around four o'clock, gold and low, making everything look slightly distant. Like something you were remembering instead of seeing.
 
@@ -90,7 +90,7 @@ She worked through the rest of the rack methodically. Found two more compromised
 
 Outside, the light was going. She could tell by the way the shadows in the bay lengthened and then disappeared as the angle shifted, the gold going out of everything and leaving the flat gray of early evening.
 
-—
+---
 
 She heard later, from Vasquez, that Reid Matthews had spent forty minutes with Okafor going through protocols they'd already agreed to. Where he could go, where he couldn't, the chain of command during deployments, what required additional consent. No pushback on any of it.
 

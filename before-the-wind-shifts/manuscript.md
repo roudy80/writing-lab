@@ -52,7 +52,7 @@ Neither quality made her want him here. But she knew how to manage it.
 
 Fine. She'd managed worse.
 
-—
+---
 
 The base at Redmond ran on rhythm. Mornings were PT, equipment checks, weather briefings. Afternoons were training or standby depending on the fire weather index. Evenings were whatever the day left you with, which in May was usually paperwork and the Oregon light that came in through the bay doors around four o'clock, gold and low, making everything look slightly distant. Like something you were remembering instead of seeing.
 
@@ -96,7 +96,7 @@ She worked through the rest of the rack methodically. Found two more compromised
 
 Outside, the light was going. She could tell by the way the shadows in the bay lengthened and then disappeared as the angle shifted, the gold going out of everything and leaving the flat gray of early evening.
 
-—
+---
 
 She heard later, from Vasquez, that Reid Matthews had spent forty minutes with Okafor going through protocols they'd already agreed to. Where he could go, where he couldn't, the chain of command during deployments, what required additional consent. No pushback on any of it.
 
@@ -154,7 +154,7 @@ She could have argued the eight inches. She didn't, because he was right and the
 
 She went to get changed.
 
-—
+---
 
 He ran.
 
@@ -202,7 +202,7 @@ She picked up the marker and went back to the board. He stayed a moment, then mo
 
 She went back to her numbers and didn't look after him.
 
-—
+---
 
 The crew had opinions. Kowalski thought the documentary was a bad idea but was entertained enough to suspend judgment, which for Kowalski was essentially a standing ovation. Torres thought Reid was attractive, which she announced to no one specific and everyone in earshot, twice. Vasquez withheld comment, which from Vasquez was a favorable review. Danny had talked to him at breakfast for twenty minutes and come back looking like he'd found something interesting. She didn't ask what.
 
@@ -254,7 +254,7 @@ She tried to remember the last time someone had asked her that.
 
 She left the room and went down the hall and didn't find an answer.
 
-—
+---
 
 She found him at the equipment inventory the next afternoon, not writing, not filming. Just working. Torres had been pulling secondary harnesses for a re-inspection and somehow Reid had ended up on the other end of the process, handing equipment down from the upper rack while Torres called the tag numbers. He wasn't doing it to be helpful in a visible way. He was doing it because it was the next logical step in a process that needed doing and he was there.
 
@@ -300,7 +300,7 @@ Petrov ran it again. This time he slowed down in the middle section, where he al
 
 She didn't look back at the slope.
 
-—
+---
 
 That evening she was at the sink in the small kitchen off the bay, washing grease off her hands after the cache inventory, when she heard him come in and stop.
 
@@ -334,7 +334,7 @@ She looked at him for a moment.
 
 "That's accurate," she said, and left.
 
-—
+---
 
 She thought about it that night. Not about him. About the distinction. She'd been running that sequence three times since her third season without naming why. Twice was information. Three times was the thing that got written into muscle, into reflex, into the place where a person's hands knew what to do before their brain had caught up. The kind of knowing that didn't require decision-making under pressure because it had already been decided, over and over, until it was simply what the body did.
 
@@ -344,7 +344,7 @@ He'd named it in four words.
 
 She didn't know what to do with that. She put it away and went to sleep.
 
-—
+---
 
 The second week, he got the camera out.
 
@@ -364,7 +364,7 @@ She wanted to know what Reid had said.
 
 She didn't ask.
 
-—
+---
 
 Later that week, alone in the briefing room after the crew had cleared out, she found a note on the table. Reid's handwriting, addressed to Okafor. A request to expand his access to the south training area during off-hours. Standard channels, formal request, nothing pushed. She could see from the language that he'd looked up the exact phrasing from the protocol agreement before writing it.
 
@@ -492,7 +492,7 @@ She filed the information and kept walking. But it sat differently than other in
 
 She went back to work.
 
-—
+---
 
 She found herself thinking about the footage two days later in a context that had nothing to do with Reid.
 
@@ -542,7 +542,7 @@ The jump itself was clean. The wind was out of the southwest at eight miles per 
 
 She radioed position and had the crew moving within four minutes.
 
-—
+---
 
 She was aware of Reid behind her for the first hour. Not distractingly. He was good at this, she was starting to understand. Present without requiring management. He moved when the crew moved, held when they held, stayed exactly where she'd put him. The camera was up now, pointed at the work rather than at her, and she let it recede from her attention because the fire required her attention and the fire was what mattered.
 
@@ -578,7 +578,7 @@ She turned back to the fire. He'd looked at the map on the flight. She'd watched
 
 She radioed Torres. Made the adjustment early, while they had time. Torres moved without question. An hour and forty minutes later the wind shifted northeast and the adjustment held and the anchor held and the north line held and by nine-thirty they were calling it contained.
 
-—
+---
 
 She was back at the LZ going over the after-action with the crew when she caught the look Vasquez gave her. Small, the particular look Vasquez used when he'd noticed something worth noting. She followed his eyes.
 
@@ -666,7 +666,7 @@ She looked at him then. Her oldest crew member, the one who'd been on more jumps
 
 She didn't have an answer for that. She turned back to the chute inventory and finished the check and when she tallied the count it was right.
 
-—
+---
 
 She thought about what Danny had said to Reid. Not the content. The words were straightforward, nothing she hadn't known about herself. She thought about the fact of it. Reid had gone looking for her history and found Danny and Danny had told him the truth about her, which was the best possible version of what could have happened and also the version that left her with nowhere to stand.
 
@@ -676,7 +676,7 @@ What she could do was be aware of it. There was now a version of her in Reid's n
 
 She preferred the cropped version. It was the one she'd designed.
 
-—
+---
 
 That evening after the crew had dispersed she found herself in the equipment room alone, running her hands over the secondary harness rack with no operational reason to be doing so. Just touching things. A habit she'd had since before she could name it. When her head was full she went to the equipment, to the physical fact of gear that was maintained and ready, that did what it was designed to do.
 
@@ -870,7 +870,7 @@ She noted it and adjusted her attention elsewhere.
 
 It didn't entirely work.
 
-—
+---
 
 He'd started doing a thing at meals.
 
@@ -902,7 +902,7 @@ She thought about no gap. She thought about being completely in the right place.
 
 She kept moving.
 
-—
+---
 
 He found her on the east side of the base that evening, past the fence line where the pines ran along the drainage. She went there sometimes in the late evenings, when the air had cooled and the light was going out of the sky in long horizontal lines. It was outside the base perimeter technically, but it was also thirty feet from the fence and she'd been going there since her second season without anyone asking why.
 
@@ -950,7 +950,7 @@ She stayed another few minutes. Not because she needed to. Just because the dark
 
 Then she went back inside and got ready for tomorrow.
 
-—
+---
 
 The slow accumulation, that was the only name she had for it. The way something could be happening without announcing itself, without an event you could point to and say: there, that's when it started. She'd watched fires build this way. A week of low humidity and rising temps, a week of fuel curing in the heat, a week of winds from the wrong direction, and then one dry lightning cell and the whole prepared landscape ignited and you had to respond as though the fire had appeared suddenly when in fact it had been arriving for weeks.
 
@@ -1028,7 +1028,7 @@ She watched him for approximately three seconds before looking back at her food.
 
 She was being efficient. She was tracking the room.
 
-—
+---
 
 She had it out with herself that evening in the equipment bay, which was where she went when she needed to think without anyone asking her questions. The physical work of the inventory gave her hands something to do and left her mind available, which was the arrangement she preferred for thinking through things she didn't want to think through.
 
@@ -1052,7 +1052,7 @@ She could handle it.
 
 She reached for the next carabiner and ran her thumb along the gate and felt nothing wrong with it and moved it to the keep pile.
 
-—
+---
 
 Reid, for his part, gave her nothing to object to.
 
@@ -1064,7 +1064,7 @@ She told herself this was manageable. She told herself this in the equipment bay
 
 She mostly believed it.
 
-—
+---
 
 The deployment came two days later, a hot afternoon fire in a drainage she'd been watching. She had them in the air inside eight minutes from the call. On the ground in four minutes from exit. The fire was exactly where she'd expected it to be, behaving exactly as the fuel load and terrain had suggested it would, which should have been satisfying and was mostly just clarifying.
 
@@ -1086,7 +1086,7 @@ He'd been ready for that moment. She didn't know how long he'd been ready for it
 
 She went back to the terrain maps and let the question sit where questions sat when she didn't have an answer yet.
 
-—
+---
 
 Three days after the deployment she was coming back from a solo run along the eastern fence line, the early morning still cool enough to run hard, and she passed Reid on his way out for his own run. They were going in opposite directions and it was the kind of passing that required nothing, a nod, a word, keep moving.
 
@@ -1156,7 +1156,7 @@ The moment lasted maybe four seconds. She could feel that it was the kind of fou
 
 She finished the carabiner and reached for the next one.
 
-—
+---
 
 Later, alone in the small office off the main corridor where she did her paperwork, she put it away. She was methodical about this, the same process she used for other things that needed containing. Identify the thing, assign it a category, close the drawer.
 
@@ -1172,7 +1172,7 @@ She thought about the way he'd said yeah. Not as agreement. As recognition. The 
 
 She thought about it for about thirty seconds. Then she stopped.
 
-—
+---
 
 That evening, alone in her room after the briefing, her mind let go of the immediate work and went somewhere quieter. It was there before she could redirect it.
 
@@ -1194,7 +1194,7 @@ It was manageable. The thought had passed.
 
 What it had left in the landscape was her own problem.
 
-—
+---
 
 She didn't tell him any of this. She got up the next morning and went to PT and ran and briefed the crew and checked the weather data and found him in the equipment bay at some point in the afternoon and said something operational and he answered something operational and they moved past each other without incident.
 
@@ -1202,7 +1202,7 @@ She was good at this.
 
 She was very good at this.
 
-—
+---
 
 Two days later she was watching Petrov run the anchor sequence on the south slope, alone, and she saw something shift in the way he moved through the middle section. He'd slowed down without thinking about slowing down. His hands were sure without checking whether they were sure.
 
@@ -1340,7 +1340,7 @@ She didn't examine what it said about her that it had gotten easier to say her f
 
 The list was getting long.
 
-—
+---
 
 That night she called her mother.
 
@@ -1516,7 +1516,7 @@ She thought about I know there's a whole picture.
 
 She picked up her radio and got to work.
 
-—
+---
 
 The jump was clean. The fire was what the thermals had said it was, a drainage fire that had backed into the timber and needed a line cut above it before it reached the upper slope where the fuel load was catastrophic. She put the crew on it and the crew worked it and by four in the morning they had the line and by six they had containment and by eight they were on the ground waiting for extraction.
 
@@ -1590,7 +1590,7 @@ They went to the truck. She drove. He was in the passenger seat with the camera 
 
 They drove.
 
-—
+---
 
 The fire that day was a containment support job, supplementing an engine crew that had a line established but needed air resources for the northeast corner where the terrain made ground access slow. Straightforward work, the kind she could run mostly on reflex, which was useful because some part of her attention was running a different process in the background and she needed the work to be manageable on reflex.
 
@@ -1614,7 +1614,7 @@ She was grateful for that too, which told her something she was not ready to loo
 
 She put her water bottle away and went back to work.
 
-—
+---
 
 On the flight home she sat across from him instead of beside him, the way the aircraft seating fell. He was looking at footage on the camera screen, headphones on, and she was doing the after-action documentation on the tablet, and they were in the same aircraft and not in each other's space and it was fine.
 
@@ -1662,7 +1662,7 @@ He'd said he understood.
 
 She'd looked at him for a moment. Then she'd turned back to the maps.
 
-—
+---
 
 The drop zone was a ridge to the west of the fire's head, the last defensible position before a fuel-heavy slope that would go if the fire made a run north. She put the crew down in two groups, a minute apart, and had them moving to assigned positions before the second group had fully staged. The pace was different from smaller deployments. Everything was faster and the stakes of speed were higher and she was aware of both simultaneously.
 
@@ -1814,7 +1814,7 @@ All present.
 
 She let the breath go.
 
-—
+---
 
 It was Danny who told her about Reid.
 
@@ -1872,7 +1872,7 @@ Outside, the late afternoon light was the gold of early September, the days alre
 
 She went to find Reid.
 
-—
+---
 
 He was in his room at the end of the hall, the door half-open, sitting at the folding table with the monitor going and the footage from the deployment spread across a timeline on the screen. He looked up when she appeared in the doorway.
 
@@ -1980,7 +1980,7 @@ He looked at her for a long moment and then he said, "Come here," and it was the
 
 She went.
 
-—
+---
 
 She had thought she knew what this would be. She'd had a version of it in the back of her mind since July, some managed anticipation she'd kept at distance, a background sense of what it would require. She had been wrong about almost all of it.
 
@@ -1988,7 +1988,7 @@ Not wrong about the wanting. She'd known the wanting accurately enough. But she'
 
 It wasn't the same.
 
-He kissed her the way the rest of him worked — unhurried, thorough, like he'd made a decision and intended to honor it completely. His hands moved to her waist and she felt the warmth of them through her shirt and that warmth was specific in a way she hadn't expected, specific to him, to his hands, and she understood that the months of watching those hands had lodged something in her that the reality of them was now paying out.
+He kissed her the way the rest of him worked, unhurried, thorough, like he'd made a decision and intended to honor it completely. His hands moved to her waist and she felt the warmth of them through her shirt and that warmth was specific in a way she hadn't expected, specific to him, to his hands, and she understood that the months of watching those hands had lodged something in her that the reality of them was now paying out.
 
 She pulled back enough to look at him. His expression was still that unreadable thing. She reached up and set her hand against his jaw, the slight roughness of it, feeling him the way she felt equipment she trusted. Learning it.
 
@@ -1996,7 +1996,7 @@ She pulled back enough to look at him. His expression was still that unreadable 
 
 He looked at her for a moment. Then he said, "Good," and his hands moved with intention and she stopped having thoughts that were separate from what was happening.
 
-He was deliberate about it. Not slow — deliberate, which was different. There was a difference between someone proceeding carefully and someone who knew exactly what they were doing and had decided to do it completely. She had spent five months reading how Reid Matthews approached things that mattered to him. She should not have been surprised. She was surprised anyway.
+He was deliberate about it. Not slow, deliberate, which was different. There was a difference between someone proceeding carefully and someone who knew exactly what they were doing and had decided to do it completely. She had spent five months reading how Reid Matthews approached things that mattered to him. She should not have been surprised. She was surprised anyway.
 
 Her shirt. His. The particular unhurriedness of his hands finding her, not rushed, not tentative, moving with the same precision she'd watched him bring to everything else. She had thought she'd be self-conscious. She wasn't. She was only aware of him, of his mouth at her throat, of the weight of him, of her own hands learning the geography of his shoulders, the line of his spine.
 
@@ -2004,19 +2004,19 @@ At some point she said his name and he answered her without words and the answer
 
 She had thought the wanting would be manageable once it had an object. She had been wrong about that too. The wanting had an object and the object was here and present and entirely specific and it was not manageable in any register she possessed. She didn't try to manage it. She let it be what it was, all of it, without keeping any part of herself outside it to watch.
 
-That was the thing she hadn't expected. That there was no outside of it. She was entirely there — in her body, in the room, in the dark behind her eyelids, in the specific heat of his breath against her neck. She was completely present in a way she was only otherwise present in a fire, when the terrain required everything and the self that observed got quiet and the self that acted was all that remained.
+That was the thing she hadn't expected. That there was no outside of it. She was entirely there, in her body, in the room, in the dark behind her eyelids, in the specific heat of his breath against her neck. She was completely present in a way she was only otherwise present in a fire, when the terrain required everything and the self that observed got quiet and the self that acted was all that remained.
 
 This was that. But the opposite of fire. This was the thing she'd been building walls against.
 
 She understood that clearly. Somewhere in the middle of it she understood it clearly and did not stop, and later that would seem like the most important thing: that she had understood it and continued anyway.
 
-He said her name. Not at the end of something — in the middle of it, quiet, like it had surfaced on its own, like something he'd been carrying that had finally found its way out. She heard it the way she'd been hearing her name in his voice for five months, the register of it low and specific and entirely hers, and something in her chest cracked open along a seam she hadn't known was there.
+He said her name. Not at the end of something, in the middle of it, quiet, like it had surfaced on its own, like something he'd been carrying that had finally found its way out. She heard it the way she'd been hearing her name in his voice for five months, the register of it low and specific and entirely hers, and something in her chest cracked open along a seam she hadn't known was there.
 
 She pressed her face against his neck and held on.
 
 She would carry that for a long time. Not the pleasure of it, though she would carry that too. The specific sound of her name in his voice at that moment, like it was something he needed to say and had finally been allowed to say it.
 
-—
+---
 
 Afterward, in the quiet of his room with the evening dark at the window and the base making its nighttime sounds at a remove, she lay still and looked at the ceiling.
 
@@ -2102,7 +2102,7 @@ He held her eyes for a moment. "All right," he said.
 
 She left.
 
-—
+---
 
 The briefing was at 0700 and she was early for it and had the weather data up on the board before anyone else arrived. Kowalski came in at 0650 and poured coffee and did not look at her face, which meant he'd already read it and made a decision about what he'd seen and was keeping that decision to himself, which was more consideration than she'd expected from Kowalski and which she registered as a small gift.
 
@@ -2160,7 +2160,7 @@ He nodded once. He picked up his notebook. He went to the door and stopped.
 
 She looked at the maps. Then she picked up the marker and went back to the numbers.
 
-—
+---
 
 Torres cornered her at lunch.
 
@@ -2194,7 +2194,7 @@ She was mostly fine.
 
 The parts that weren't fine, she kept to the list.
 
-—
+---
 
 She stayed late in the operations room that night, past when she had any operational reason to. She was reviewing the deployment reports from the major fire, the full accounting, four hundred pages of documentation that would go to the regional office and become part of the permanent record.
 
@@ -2246,7 +2246,7 @@ She looked back at the inventory log. She kept her voice even.
 
 "The third row needs a full tension check," she said to Vasquez. "Let's do it today."
 
-—
+---
 
 She thought about it that evening. She thought about it with the precision she brought to things that needed to be thought through carefully, laying out the variables and working through the logic.
 
@@ -2276,7 +2276,7 @@ She thought about what she wanted that something to be.
 
 She didn't sleep for a long time.
 
-—
+---
 
 He was at the briefing board at 0540 the next morning.
 
@@ -2318,7 +2318,7 @@ The briefing was at 0700. She ran it.
 
 The base did what it did.
 
-—
+---
 
 She went back to the cache that evening alone, after the crew had dispersed, and found the log herself. Read the notation she'd written three years ago. Post-incident inspection, D. Kocher deployment, weather event, see supplemental.
 
@@ -2524,7 +2524,7 @@ She kept working.
 
 She kept not touching what he'd said about her father.
 
-—
+---
 
 The thing she kept turning over was this: she'd gone into the work to understand what her father had chosen. And she'd found out. Twelve seasons of jumping into fires and she'd found out so thoroughly that the choice had become automatic, had become who she was, had become the work itself and the crew and the base and the particular gold of Oregon light in the evenings.
 
@@ -2542,7 +2542,7 @@ She didn't have an answer yet. But she was working on one for the first time in 
 
 She thought about that. She thought about it and then went back to work.
 
-—
+---
 
 She ended it on a Tuesday.
 
@@ -2618,7 +2618,7 @@ She was all right.
 
 She sat there for a long time not moving and told herself she was all right.
 
-—
+---
 
 She lay on the bunk in the dark and ran through the logic.
 
@@ -2688,7 +2688,7 @@ She looked at the equipment bay. Through the open door the October sky was the s
 
 She went back to work.
 
-—
+---
 
 The last deployment of the season was Friday. A small fire, a hold-over from the northeast cluster, gone to the ground in the overnight dew and needing a mop-up crew to finish it. She ran it with four people and had it done in three hours and was back at base by noon.
 
@@ -2718,7 +2718,7 @@ She sat there until the room was fully dark.
 
 Then she went to find Danny.
 
-—
+---
 
 She found Danny at the equipment cage, finishing the off-season lockdown inventory, the kind of work that could be done in the dark and didn't require conversation.
 
@@ -2936,7 +2936,7 @@ He held her eyes. "Yes," he said.
 
 They flew.
 
-—
+---
 
 The drop zone was a cleared ridge above the fire's northwest flank, the only viable LZ within range. She got the crew down in two groups and had them moving to the anchor positions she'd planned on the flight. The fire was louder than the report had suggested, which meant the wind was feeding it more than the overnight imagery had accounted for. She adjusted the line position and moved Torres up and put Vasquez and Danny on the south anchor.
 
@@ -3266,7 +3266,7 @@ She thought about her father's hands resting on the helmet, not putting it on, j
 
 She meant it completely.
 
-—
+---
 
 He was awake before her in the morning, which did not surprise her.
 

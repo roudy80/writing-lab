@@ -12,7 +12,7 @@ Outside, the late afternoon light was the gold of early September, the days alre
 
 She went to find Reid.
 
-—
+---
 
 He was in his room at the end of the hall, the door half-open, sitting at the folding table with the monitor going and the footage from the deployment spread across a timeline on the screen. He looked up when she appeared in the doorway.
 
@@ -120,7 +120,7 @@ He looked at her for a long moment and then he said, "Come here," and it was the
 
 She went.
 
-—
+---
 
 She had thought she knew what this would be. She'd had a version of it in the back of her mind since July, some managed anticipation she'd kept at distance, a background sense of what it would require. She had been wrong about almost all of it.
 
@@ -128,7 +128,7 @@ Not wrong about the wanting. She'd known the wanting accurately enough. But she'
 
 It wasn't the same.
 
-He kissed her the way the rest of him worked — unhurried, thorough, like he'd made a decision and intended to honor it completely. His hands moved to her waist and she felt the warmth of them through her shirt and that warmth was specific in a way she hadn't expected, specific to him, to his hands, and she understood that the months of watching those hands had lodged something in her that the reality of them was now paying out.
+He kissed her the way the rest of him worked, unhurried, thorough, like he'd made a decision and intended to honor it completely. His hands moved to her waist and she felt the warmth of them through her shirt and that warmth was specific in a way she hadn't expected, specific to him, to his hands, and she understood that the months of watching those hands had lodged something in her that the reality of them was now paying out.
 
 She pulled back enough to look at him. His expression was still that unreadable thing. She reached up and set her hand against his jaw, the slight roughness of it, feeling him the way she felt equipment she trusted. Learning it.
 
@@ -136,7 +136,7 @@ She pulled back enough to look at him. His expression was still that unreadable 
 
 He looked at her for a moment. Then he said, "Good," and his hands moved with intention and she stopped having thoughts that were separate from what was happening.
 
-He was deliberate about it. Not slow — deliberate, which was different. There was a difference between someone proceeding carefully and someone who knew exactly what they were doing and had decided to do it completely. She had spent five months reading how Reid Matthews approached things that mattered to him. She should not have been surprised. She was surprised anyway.
+He was deliberate about it. Not slow, deliberate, which was different. There was a difference between someone proceeding carefully and someone who knew exactly what they were doing and had decided to do it completely. She had spent five months reading how Reid Matthews approached things that mattered to him. She should not have been surprised. She was surprised anyway.
 
 Her shirt. His. The particular unhurriedness of his hands finding her, not rushed, not tentative, moving with the same precision she'd watched him bring to everything else. She had thought she'd be self-conscious. She wasn't. She was only aware of him, of his mouth at her throat, of the weight of him, of her own hands learning the geography of his shoulders, the line of his spine.
 
@@ -144,19 +144,19 @@ At some point she said his name and he answered her without words and the answer
 
 She had thought the wanting would be manageable once it had an object. She had been wrong about that too. The wanting had an object and the object was here and present and entirely specific and it was not manageable in any register she possessed. She didn't try to manage it. She let it be what it was, all of it, without keeping any part of herself outside it to watch.
 
-That was the thing she hadn't expected. That there was no outside of it. She was entirely there — in her body, in the room, in the dark behind her eyelids, in the specific heat of his breath against her neck. She was completely present in a way she was only otherwise present in a fire, when the terrain required everything and the self that observed got quiet and the self that acted was all that remained.
+That was the thing she hadn't expected. That there was no outside of it. She was entirely there, in her body, in the room, in the dark behind her eyelids, in the specific heat of his breath against her neck. She was completely present in a way she was only otherwise present in a fire, when the terrain required everything and the self that observed got quiet and the self that acted was all that remained.
 
 This was that. But the opposite of fire. This was the thing she'd been building walls against.
 
 She understood that clearly. Somewhere in the middle of it she understood it clearly and did not stop, and later that would seem like the most important thing: that she had understood it and continued anyway.
 
-He said her name. Not at the end of something — in the middle of it, quiet, like it had surfaced on its own, like something he'd been carrying that had finally found its way out. She heard it the way she'd been hearing her name in his voice for five months, the register of it low and specific and entirely hers, and something in her chest cracked open along a seam she hadn't known was there.
+He said her name. Not at the end of something, in the middle of it, quiet, like it had surfaced on its own, like something he'd been carrying that had finally found its way out. She heard it the way she'd been hearing her name in his voice for five months, the register of it low and specific and entirely hers, and something in her chest cracked open along a seam she hadn't known was there.
 
 She pressed her face against his neck and held on.
 
 She would carry that for a long time. Not the pleasure of it, though she would carry that too. The specific sound of her name in his voice at that moment, like it was something he needed to say and had finally been allowed to say it.
 
-—
+---
 
 Afterward, in the quiet of his room with the evening dark at the window and the base making its nighttime sounds at a remove, she lay still and looked at the ceiling.
 

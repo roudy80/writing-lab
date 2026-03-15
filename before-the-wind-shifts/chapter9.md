@@ -38,7 +38,7 @@ She watched him for approximately three seconds before looking back at her food.
 
 She was being efficient. She was tracking the room.
 
-—
+---
 
 She had it out with herself that evening in the equipment bay, which was where she went when she needed to think without anyone asking her questions. The physical work of the inventory gave her hands something to do and left her mind available, which was the arrangement she preferred for thinking through things she didn't want to think through.
 
@@ -62,7 +62,7 @@ She could handle it.
 
 She reached for the next carabiner and ran her thumb along the gate and felt nothing wrong with it and moved it to the keep pile.
 
-—
+---
 
 Reid, for his part, gave her nothing to object to.
 
@@ -74,7 +74,7 @@ She told herself this was manageable. She told herself this in the equipment bay
 
 She mostly believed it.
 
-—
+---
 
 The deployment came two days later, a hot afternoon fire in a drainage she'd been watching. She had them in the air inside eight minutes from the call. On the ground in four minutes from exit. The fire was exactly where she'd expected it to be, behaving exactly as the fuel load and terrain had suggested it would, which should have been satisfying and was mostly just clarifying.
 
@@ -96,7 +96,7 @@ He'd been ready for that moment. She didn't know how long he'd been ready for it
 
 She went back to the terrain maps and let the question sit where questions sat when she didn't have an answer yet.
 
-—
+---
 
 Three days after the deployment she was coming back from a solo run along the eastern fence line, the early morning still cool enough to run hard, and she passed Reid on his way out for his own run. They were going in opposite directions and it was the kind of passing that required nothing, a nod, a word, keep moving.
 

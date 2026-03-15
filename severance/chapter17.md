@@ -56,7 +56,7 @@ Thomas sat down across from him. "What are you going to do about it."
 
 Dmitri looked at him. This was the shift in their relationship, the one that had been developing for two years: Thomas asking Dmitri what he was going to do about it rather than answering the question himself.
 
-"I'm going to take it to the city council in November. Not the neighborhood council — the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
+"I'm going to take it to the city council in November. Not the neighborhood council, the city council. The monitoring office charter has a city council notification provision that's never been used. I want to use it."
 
 "That makes the monitoring office a city-level political issue."
 
@@ -124,4 +124,4 @@ He started the car and drove home. He had a session to prepare for Thursday and 
 
 He went inside and opened the laptop and started working on it.
 
-— END OF CHAPTER 17 —
+,  END OF CHAPTER 17 , 

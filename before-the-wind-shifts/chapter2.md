@@ -30,7 +30,7 @@ She could have argued the eight inches. She didn't, because he was right and the
 
 She went to get changed.
 
-—
+---
 
 He ran.
 
@@ -78,7 +78,7 @@ She picked up the marker and went back to the board. He stayed a moment, then mo
 
 She went back to her numbers and didn't look after him.
 
-—
+---
 
 The crew had opinions. Kowalski thought the documentary was a bad idea but was entertained enough to suspend judgment, which for Kowalski was essentially a standing ovation. Torres thought Reid was attractive, which she announced to no one specific and everyone in earshot, twice. Vasquez withheld comment, which from Vasquez was a favorable review. Danny had talked to him at breakfast for twenty minutes and come back looking like he'd found something interesting. She didn't ask what.
 
@@ -130,7 +130,7 @@ She tried to remember the last time someone had asked her that.
 
 She left the room and went down the hall and didn't find an answer.
 
-—
+---
 
 She found him at the equipment inventory the next afternoon, not writing, not filming. Just working. Torres had been pulling secondary harnesses for a re-inspection and somehow Reid had ended up on the other end of the process, handing equipment down from the upper rack while Torres called the tag numbers. He wasn't doing it to be helpful in a visible way. He was doing it because it was the next logical step in a process that needed doing and he was there.
 

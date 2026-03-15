@@ -54,7 +54,7 @@ She looked at him then. Her oldest crew member, the one who'd been on more jumps
 
 She didn't have an answer for that. She turned back to the chute inventory and finished the check and when she tallied the count it was right.
 
-—
+---
 
 She thought about what Danny had said to Reid. Not the content. The words were straightforward, nothing she hadn't known about herself. She thought about the fact of it. Reid had gone looking for her history and found Danny and Danny had told him the truth about her, which was the best possible version of what could have happened and also the version that left her with nowhere to stand.
 
@@ -64,7 +64,7 @@ What she could do was be aware of it. There was now a version of her in Reid's n
 
 She preferred the cropped version. It was the one she'd designed.
 
-—
+---
 
 That evening after the crew had dispersed she found herself in the equipment room alone, running her hands over the secondary harness rack with no operational reason to be doing so. Just touching things. A habit she'd had since before she could name it. When her head was full she went to the equipment, to the physical fact of gear that was maintained and ready, that did what it was designed to do.
 

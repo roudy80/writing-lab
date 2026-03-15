@@ -6,7 +6,7 @@ April 17–21, 2034
 
 The revised probability figure dropped at midnight, and Sarah had been awake for it.
 
-Not because she'd known exactly when ARIA would post the update — the agency had been characteristically precise about not specifying a release window, which was itself a form of communication to people who knew how to read it — but because she'd been awake anyway, working through the Framework's legal exposure on the cryosleep redesign question, and the notification had arrived on her phone while she was reading a structural engineering brief she only partly understood.
+Not because she'd known exactly when ARIA would post the update, the agency had been characteristically precise about not specifying a release window, which was itself a form of communication to people who knew how to read it, but because she'd been awake anyway, working through the Framework's legal exposure on the cryosleep redesign question, and the notification had arrived on her phone while she was reading a structural engineering brief she only partly understood.
 
 Forty-three percent.
 
@@ -18,17 +18,17 @@ Sarah set her phone down and looked at the ceiling of her Washington apartment a
 
 * * *
 
-Paul Hartley was in her office at eight with his tablet and the posture he'd developed over five years of managing political crises — not alarmed, not calm, but precisely between them where the useful work happened.
+Paul Hartley was in her office at eight with his tablet and the posture he'd developed over five years of managing political crises, not alarmed, not calm, but precisely between them where the useful work happened.
 
 "European delegations want an emergency Framework session," he said. "I've had messages from Lindqvist's office since three AM. The Brazilians are drafting a formal inquiry. The Indians have gone quiet."
 
 "The Indian silence is worse than the Brazilian drafting," Sarah said.
 
-"Usually. The Chinese response is expected in twelve hours — science ministry is reviewing the data first, which is actually a good sign. They don't review before responding when they've already decided."
+"Usually. The Chinese response is expected in twelve hours, science ministry is reviewing the data first, which is actually a good sign. They don't review before responding when they've already decided."
 
 "Good. What's the press saying."
 
-Paul glanced at his screen. "Mixed accuracy. The number is being reported as a probability rather than a certainty, which is better than 2025. The commentary is another matter. Three major op-eds arguing the probability drop proves the Luna program was the wrong investment — that resources should have gone to Earth resilience. Two arguing it proves we need to spend more on the ship. One arguing forty-three percent is still better odds than most major geopolitical decisions and the panic is disproportionate."
+Paul glanced at his screen. "Mixed accuracy. The number is being reported as a probability rather than a certainty, which is better than 2025. The commentary is another matter. Three major op-eds arguing the probability drop proves the Luna program was the wrong investment, that resources should have gone to Earth resilience. Two arguing it proves we need to spend more on the ship. One arguing forty-three percent is still better odds than most major geopolitical decisions and the panic is disproportionate."
 
 "I agree with the last one. It will be read least."
 
@@ -52,9 +52,9 @@ Sarah stood and walked to the window. Washington assembling itself in the mornin
 
 She spent the four days before the Geneva session working the coalition the way she'd been working it since 2026: not by persuading people to believe things they didn't believe, but by finding the outcome that let each party do what they actually needed to do.
 
-The work was different every cycle. The coalition was the same people, but the circumstances had shifted — the probability down, the program longer in operation, the political costs of both commitment and withdrawal different than they'd been a year ago. What she was managing was not a static alliance but a living arrangement, and living arrangements required constant tending.
+The work was different every cycle. The coalition was the same people, but the circumstances had shifted, the probability down, the program longer in operation, the political costs of both commitment and withdrawal different than they'd been a year ago. What she was managing was not a static alliance but a living arrangement, and living arrangements required constant tending.
 
-She talked to fourteen delegations in four days. Some calls were five minutes. The Brazilians required two hours across three conversations because their equity concern — who was in the selection pool relative to their national population — was a genuine concern that deserved a genuine response, not a political management response. She gave them a commitment to expedited review of the nationality distribution formula, which was something she had the authority to give and that addressed what they actually needed.
+She talked to fourteen delegations in four days. Some calls were five minutes. The Brazilians required two hours across three conversations because their equity concern, who was in the selection pool relative to their national population, was a genuine concern that deserved a genuine response, not a political management response. She gave them a commitment to expedited review of the nationality distribution formula, which was something she had the authority to give and that addressed what they actually needed.
 
 The Indians were quiet because they were running their own structural analysis of the asteroid data and wanted to know if their figures matched ARIA's before they said anything publicly. She arranged a direct technical exchange between their science ministry and the JPL team. When their numbers came back consistent with ARIA's, the Indians came into the session already decided. That was the work: removing the reasons for uncertainty before the room assembled.
 
@@ -74,13 +74,13 @@ Lindqvist called the night before the session.
 
 "By making the case before the motion, not in response to it. I want thirty minutes at the top of day two, before the floor opens. Uninterrupted." She paused. "Can you give me that."
 
-A pause on his end — Lindqvist calculating. He had been the Framework's co-architect from the beginning, had more invested in its survival than anyone except Sarah, and understood that his ability to give her thirty minutes on day two was a function of his relationships with eight other delegation leads. He was calculating those relationships. "Yes," he said. "You have thirty minutes."
+A pause on his end, Lindqvist calculating. He had been the Framework's co-architect from the beginning, had more invested in its survival than anyone except Sarah, and understood that his ability to give her thirty minutes on day two was a function of his relationships with eight other delegation leads. He was calculating those relationships. "Yes," he said. "You have thirty minutes."
 
 "That's all I need."
 
 * * *
 
-The session ran three days in Geneva. Day one was technical testimony: Kim Aldridge remote, Novak in person, the engineering leads who had designed the cascade modification explaining, with precision and without defensiveness, why a correctly-designed modification had produced an interaction they hadn't modeled. Sarah watched the delegations during this testimony. She was less interested in the content — she knew the content — than in what the content produced on the faces in the room.
+The session ran three days in Geneva. Day one was technical testimony: Kim Aldridge remote, Novak in person, the engineering leads who had designed the cascade modification explaining, with precision and without defensiveness, why a correctly-designed modification had produced an interaction they hadn't modeled. Sarah watched the delegations during this testimony. She was less interested in the content, she knew the content, than in what the content produced on the faces in the room.
 
 What she saw was: people who had been looking for a reason to doubt were not finding the testimony reassuring, because the testimony was honest about the failure, and honesty about failure reads as evidence of more failure. People who had been committed were reading the same honesty as evidence of a program mature enough to find its own problems. The room was doing what rooms always did: sorting itself along lines that were already there.
 
@@ -110,7 +110,7 @@ Lindqvist found her in the corridor after the final signature.
 
 "We held it."
 
-He handed her a glass of wine from somewhere. He was good at that — producing the right thing at the right moment, which was one of the qualities that had made him effective for thirty years of multilateral work. They stood by the window that looked out at the lake.
+He handed her a glass of wine from somewhere. He was good at that, producing the right thing at the right moment, which was one of the qualities that had made him effective for thirty years of multilateral work. They stood by the window that looked out at the lake.
 
 "Forty-three percent," he said. "Do you believe the JPL team can improve it before Phoenix launches?"
 
@@ -132,7 +132,7 @@ She thought about this honestly. "It stopped feeling like enough sometime around
 
 He nodded slowly. He had the quality of someone who understood that answer completely and found it both insufficient and correct, which was how she felt about it herself.
 
-She flew home the next morning. Eleven hours. She spent nine of them working — the quarterly Senate report, the appropriations preliminary, the equity review commitment to the Brazilians — and two of them looking out the window at the Atlantic below, at the water moving with the patient enormity of something that had been doing this since before anything that would be affected by what was coming.
+She flew home the next morning. Eleven hours. She spent nine of them working, the quarterly Senate report, the appropriations preliminary, the equity review commitment to the Brazilians, and two of them looking out the window at the Atlantic below, at the water moving with the patient enormity of something that had been doing this since before anything that would be affected by what was coming.
 
 Forty-three percent.
 
@@ -140,4 +140,4 @@ She had held the coalition together. The work continued.
 
 She opened her laptop and started on the Senate report, because the work in front of her was the only work that mattered.
 
-— END OF CHAPTER 20 —
+,  END OF CHAPTER 20 , 

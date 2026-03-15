@@ -20,7 +20,7 @@ She kept working.
 
 She kept not touching what he'd said about her father.
 
-—
+---
 
 The thing she kept turning over was this: she'd gone into the work to understand what her father had chosen. And she'd found out. Twelve seasons of jumping into fires and she'd found out so thoroughly that the choice had become automatic, had become who she was, had become the work itself and the crew and the base and the particular gold of Oregon light in the evenings.
 
@@ -38,7 +38,7 @@ She didn't have an answer yet. But she was working on one for the first time in 
 
 She thought about that. She thought about it and then went back to work.
 
-—
+---
 
 She ended it on a Tuesday.
 
@@ -114,7 +114,7 @@ She was all right.
 
 She sat there for a long time not moving and told herself she was all right.
 
-—
+---
 
 She lay on the bunk in the dark and ran through the logic.
 

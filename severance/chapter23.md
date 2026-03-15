@@ -8,35 +8,35 @@ The second human trial had been running for sixty-two days without a single anom
 
 Elena had been tracking it from Houston for the first month, in daily briefings with Kim that had grown shorter as the days passed and the data held. Then she had come to Luna Base for the final thirty days, because sixty-two days was the longest sustained human cryosleep trial in history and she needed to be in the room when it finished. She needed to watch the revival sequence with her own eyes, not on a screen with a fourteen-second signal delay and the particular quality of distance that screens introduced into moments that deserved presence.
 
-Forty volunteers. Sixty-two days. The cascade modification — a thermal regulation architecture redesign that had taken fourteen months and a construction pause that Novak had managed with the compressed efficiency of someone who understood that every week cost a week — had performed exactly as the modeling had predicted. The individual pod temperatures had held. The inter-pod differential had remained flat. The thermal regulation load had run at ninety-four percent of baseline for sixty-two days, stable, with no cascade behavior visible anywhere in the data.
+Forty volunteers. Sixty-two days. The cascade modification, a thermal regulation architecture redesign that had taken fourteen months and a construction pause that Novak had managed with the compressed efficiency of someone who understood that every week cost a week, had performed exactly as the modeling had predicted. The individual pod temperatures had held. The inter-pod differential had remained flat. The thermal regulation load had run at ninety-four percent of baseline for sixty-two days, stable, with no cascade behavior visible anywhere in the data.
 
 She had read the daily reports with the specific attention of someone looking for what wasn't there. The missing anomaly was, day after day, the most important data point.
 
 This morning was the revival window. It would take six hours for all forty subjects to complete the warming sequence, and then a further four hours of medical monitoring before the trial could be formally declared complete. Elena had been in the control room since six AM. Kim had been there since five-thirty, which was Kim's way of indicating, without saying it, that she was also treating this morning as something that required presence. The medical team occupied the adjacent bay. The monitoring systems showed forty green bars in neat rows on the primary display.
 
-Elena had looked at those forty bars so many times in the past thirty days that she could have drawn them from memory — their positions, their baseline temperature readings, the subtle variation in the revival curves that made each one distinct. Pod Eight ran slightly warm during the mid-warming phase; she had noted it three weeks ago and Kim had confirmed it was within acceptable variance. Pod Thirty-One had a sensor that occasionally registered a tenth of a degree high before self-correcting. She knew all of them.
+Elena had looked at those forty bars so many times in the past thirty days that she could have drawn them from memory, their positions, their baseline temperature readings, the subtle variation in the revival curves that made each one distinct. Pod Eight ran slightly warm during the mid-warming phase; she had noted it three weeks ago and Kim had confirmed it was within acceptable variance. Pod Thirty-One had a sensor that occasionally registered a tenth of a degree high before self-correcting. She knew all of them.
 
 At eight-forty-one, all forty bars were green.
 
 At eight-forty-three, one of them flickered.
 
-Elena saw it before the automated flag appeared. Pod Twenty-Three, third row. A temperature deviation of 0.4 degrees — small enough that the automated system was still calculating whether it met the flagging threshold — and then a recovery, and then the deviation again, slightly larger.
+Elena saw it before the automated flag appeared. Pod Twenty-Three, third row. A temperature deviation of 0.4 degrees, small enough that the automated system was still calculating whether it met the flagging threshold, and then a recovery, and then the deviation again, slightly larger.
 
 "Kim."
 
-"I see it." Kim was already at the thermal subsystem panel. "Pod twenty-three, third row. Temperature regulation variance. Let me isolate the —"
+"I see it." Kim was already at the thermal subsystem panel. "Pod twenty-three, third row. Temperature regulation variance. Let me isolate the , "
 
-The flag appeared. Amber. Then a second flag, Pod Thirty-One — the one with the sensitive sensor, but this reading wasn't the sensor, Elena was certain of that before she'd consciously reasoned through why — and then a third flag, two pods to the left of Twenty-Three.
+The flag appeared. Amber. Then a second flag, Pod Thirty-One, the one with the sensitive sensor, but this reading wasn't the sensor, Elena was certain of that before she'd consciously reasoned through why, and then a third flag, two pods to the left of Twenty-Three.
 
 Elena felt the specific quality of recognition that was worse than surprise. Surprise was clean. This was recognition: the sensation of seeing something you had seen before, in a smaller form, in a context you had been told was resolved. The flags were appearing in the eastern bank. The thermal regulation load counter in the corner of her display read ninety-six percent. Then ninety-eight.
 
 "Kim."
 
-"I know." Kim's voice had flattened into the register she used when she was working, when the thinking had to go somewhere useful immediately and there was no room in the voice for anything else. "The inter-pod differential is building. It shouldn't be building. The modification was —"
+"I know." Kim's voice had flattened into the register she used when she was working, when the thinking had to go somewhere useful immediately and there was no room in the voice for anything else. "The inter-pod differential is building. It shouldn't be building. The modification was , "
 
 "What's changed. What's different from yesterday."
 
-"I'm looking." Keyboard sounds. A pause long enough to feel like something. "The modification is functioning. The thermal regulation architecture is performing within its redesigned parameters. Something external is driving the differential. Something we're not —"
+"I'm looking." Keyboard sounds. A pause long enough to feel like something. "The modification is functioning. The thermal regulation architecture is performing within its redesigned parameters. Something external is driving the differential. Something we're not , "
 
 The load counter hit one hundred and two percent. Three more flags in the eastern bank, appearing in the twelve seconds she'd been watching the counter.
 
@@ -48,7 +48,7 @@ She watched the display.
 
 The refresh happened.
 
-The base-level vibration reading for the cryogenic ring section had increased by a factor of three. Still within safety parameters — not large enough to trigger an automated alert, not close to anything that would appear in a routine construction monitoring sweep. But there, and new, having appeared in the last fifteen seconds. And in the eastern bank, four more pods had just flagged.
+The base-level vibration reading for the cryogenic ring section had increased by a factor of three. Still within safety parameters, not large enough to trigger an automated alert, not close to anything that would appear in a routine construction monitoring sweep. But there, and new, having appeared in the last fifteen seconds. And in the eastern bank, four more pods had just flagged.
 
 She understood it before she said it out loud, the understanding arriving whole, the way understanding sometimes did when you had spent enough time thinking about a problem that the answer didn't have to be assembled piece by piece.
 
@@ -64,7 +64,7 @@ She stopped. The pause had a different quality than the working pause. This one 
 
 The sentence landed in the room and stayed there.
 
-The modification had changed the thermal characteristics of the system in ways that had been modeled, extensively, and proved stable under every condition the model had anticipated. The model had not anticipated this specific combination: the modified architecture, running in extended operation with forty human subjects in the eastern bank, subjected to sustained external vibration at a frequency that the original architecture would have damped and that the modified architecture — optimized for thermal stability, specifically for thermal stability — did not.
+The modification had changed the thermal characteristics of the system in ways that had been modeled, extensively, and proved stable under every condition the model had anticipated. The model had not anticipated this specific combination: the modified architecture, running in extended operation with forty human subjects in the eastern bank, subjected to sustained external vibration at a frequency that the original architecture would have damped and that the modified architecture, optimized for thermal stability, specifically for thermal stability, did not.
 
 The modification's strength had become its vulnerability. She had time to understand this clearly and then no time to think about it further because the load counter read one hundred and nine percent and eleven pods in the eastern bank were flagged and the warming sequence had twelve minutes left to run.
 
@@ -72,15 +72,15 @@ The modification's strength had become its vulnerability. She had time to unders
 
 "I'm calling them now."
 
-The exchange on the operations channel took forty seconds. Elena watched the display. She counted the flags — eleven, holding at eleven, no new ones in the last eight seconds, which might mean the vibration was at a steady state rather than increasing. The thermal regulation load had stopped climbing. Still at one hundred and fourteen percent, still feeding on itself, but not accelerating.
+The exchange on the operations channel took forty seconds. Elena watched the display. She counted the flags, eleven, holding at eleven, no new ones in the last eight seconds, which might mean the vibration was at a steady state rather than increasing. The thermal regulation load had stopped climbing. Still at one hundred and fourteen percent, still feeding on itself, but not accelerating.
 
-Pod temperatures in the flagged bank were deviating by 1.2 degrees. The warming sequence had ten minutes left. The subjects in the eastern bank were in the most vulnerable phase of revival — metabolic systems restarting, body temperatures climbing through the range where deviation mattered most.
+Pod temperatures in the flagged bank were deviating by 1.2 degrees. The warming sequence had ten minutes left. The subjects in the eastern bank were in the most vulnerable phase of revival, metabolic systems restarting, body temperatures climbing through the range where deviation mattered most.
 
 She calculated the margin without wanting to. If the cascade continued at its current rate, the thermal backup system would reach its capacity limit in approximately thirteen minutes. The warming sequence would complete in ten. Three minutes of margin, assuming the cascade didn't accelerate, assuming the construction stop reduced the vibration input before the cascade became self-sustaining without external driving.
 
 "They're stopping," Kim said. "Equipment shutdown in thirty seconds."
 
-Elena watched the vibration counter. It didn't drop immediately — structural vibration propagated through the ring section and needed time to dissipate, the energy moving through the metal in waves that took their own time to settle. She watched the counter and counted seconds and did not look away from it.
+Elena watched the vibration counter. It didn't drop immediately, structural vibration propagated through the ring section and needed time to dissipate, the energy moving through the metal in waves that took their own time to settle. She watched the counter and counted seconds and did not look away from it.
 
 At the nineteen-second mark the vibration readings began to fall.
 
@@ -106,7 +106,7 @@ Elena realized she had been holding her breath and let it out carefully, so that
 
 Kim didn't answer immediately. When she did, her voice was level in the way it was level when the answer was not the answer you wanted but was the answer that was true. "Close enough that I'm going to be very precise in the incident report about the margin."
 
-Elena looked at the forty bars. Eleven with yellow shading — flagged, monitored, within range but not clean. Twenty-nine still green. The load counter at one hundred and six and still dropping.
+Elena looked at the forty bars. Eleven with yellow shading, flagged, monitored, within range but not clean. Twenty-nine still green. The load counter at one hundred and six and still dropping.
 
 She watched the counter descend. One hundred and four. One hundred and two. One hundred.
 
@@ -128,13 +128,13 @@ The rest: the modified thermal regulation architecture had a vulnerability the o
 
 She wrote that sentence three times before she had it right. She needed it to be accurate without being evasive, and she needed it to be clear without performing blame toward Kim, whose work order approval had been correct given the information available to her. The system had failed because of an interaction between two independently correct decisions. That was the kind of failure that was hardest to prevent and most important to document precisely.
 
-At full ship scale: fourteen hundred pods per habitation ring. Three rings. The cascade vulnerability that had appeared in forty pods, driven by external vibration, would have a different profile at full scale — different in ways that the current models couldn't fully predict, because the models had just been shown to be missing a variable.
+At full ship scale: fourteen hundred pods per habitation ring. Three rings. The cascade vulnerability that had appeared in forty pods, driven by external vibration, would have a different profile at full scale, different in ways that the current models couldn't fully predict, because the models had just been shown to be missing a variable.
 
 She wrote: the modification as currently implemented may not be sufficient for the full-scale operational environment. The vibration interaction must be characterized at scale before full integration can proceed. She did not write: I don't know if this is fixable in the timeline we have. She thought it. She thought it with the specific clarity that came from having spent nine years working problems like this and knowing what the solvable ones felt like and what the other kind felt like.
 
 She called Novak.
 
-Novak answered on the second cycle. Luna Base operations in the background — the ventilation hum, the faint echo of a pressurized corridor.
+Novak answered on the second cycle. Luna Base operations in the background, the ventilation hum, the faint echo of a pressurized corridor.
 
 "The trial completed," Elena said. "All forty subjects conscious. Eleven flagged deviations, no medical adverse events."
 
@@ -152,7 +152,7 @@ Novak was quiet. Elena had worked with her long enough to know this silence: not
 
 "I know."
 
-"If the modification requires additional redesign —"
+"If the modification requires additional redesign , "
 
 "Then April moves." Elena said it without apology, because this was not the moment for apology and Novak was not the person who needed it. "I know what April means for the departure window. I also know what it means to integrate a system with an unresolved failure mode at full scale, with four thousand people inside it, for forty years. I'm not going to recommend integration until I can tell you the system is safe to integrate."
 
@@ -160,7 +160,7 @@ A pause. Then: "Send me Kim's preliminary numbers when you have them."
 
 "Within forty-eight hours."
 
-"Elena." Novak's voice shifted slightly — still precise, but outside the formal register. "Sixty-two days. Forty people. No adverse events. The trial worked."
+"Elena." Novak's voice shifted slightly, still precise, but outside the formal register. "Sixty-two days. Forty people. No adverse events. The trial worked."
 
 "The trial worked."
 
@@ -174,9 +174,9 @@ A pause. Then: "Send me Kim's preliminary numbers when you have them."
 
 The call ended.
 
-Elena sat in the empty control room for a while. The forty bars on the primary display were all clean now — yellow shading gone, medical team having cleared all subjects, the trial data archiving itself into the permanent record. The display was calm. It had no way of knowing what the day had been.
+Elena sat in the empty control room for a while. The forty bars on the primary display were all clean now, yellow shading gone, medical team having cleared all subjects, the trial data archiving itself into the permanent record. The display was calm. It had no way of knowing what the day had been.
 
-She thought about the forty people who were currently in the medical bay, awake, having come through sixty-two days of suspended animation and then a twelve-minute crisis during their revival that they had not known was happening and that she had not been able to tell them about. They had signed consents that described the risks in general terms. The specific risk of this morning — the vibration interaction, the cascade onset, the eleven pods running yellow while the clock ran — had not been in the consent document because it had not been in anyone's model.
+She thought about the forty people who were currently in the medical bay, awake, having come through sixty-two days of suspended animation and then a twelve-minute crisis during their revival that they had not known was happening and that she had not been able to tell them about. They had signed consents that described the risks in general terms. The specific risk of this morning, the vibration interaction, the cascade onset, the eleven pods running yellow while the clock ran, had not been in the consent document because it had not been in anyone's model.
 
 She thought about the engineer from Manitoba whose letter she had sent two years ago, telling him the cryosleep path was closed. She thought about the one hundred and ninety people whose files were in the database and whose circumstances she did not yet know had changed, because the Framework vote that would change them hadn't happened yet and might not happen if the integration timeline collapsed and the program made a different decision.
 
@@ -190,4 +190,4 @@ She was asleep before she finished the thought she'd been trying to complete.
 
 The display in the empty control room kept recording. The forty bars stayed green.
 
-— END OF CHAPTER 23 —
+,  END OF CHAPTER 23 , 

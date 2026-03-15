@@ -30,7 +30,7 @@ Petrov ran it again. This time he slowed down in the middle section, where he al
 
 She didn't look back at the slope.
 
-—
+---
 
 That evening she was at the sink in the small kitchen off the bay, washing grease off her hands after the cache inventory, when she heard him come in and stop.
 
@@ -64,7 +64,7 @@ She looked at him for a moment.
 
 "That's accurate," she said, and left.
 
-—
+---
 
 She thought about it that night. Not about him. About the distinction. She'd been running that sequence three times since her third season without naming why. Twice was information. Three times was the thing that got written into muscle, into reflex, into the place where a person's hands knew what to do before their brain had caught up. The kind of knowing that didn't require decision-making under pressure because it had already been decided, over and over, until it was simply what the body did.
 
@@ -74,7 +74,7 @@ He'd named it in four words.
 
 She didn't know what to do with that. She put it away and went to sleep.
 
-—
+---
 
 The second week, he got the camera out.
 
@@ -94,7 +94,7 @@ She wanted to know what Reid had said.
 
 She didn't ask.
 
-—
+---
 
 Later that week, alone in the briefing room after the crew had cleared out, she found a note on the table. Reid's handwriting, addressed to Okafor. A request to expand his access to the south training area during off-hours. Standard channels, formal request, nothing pushed. She could see from the language that he'd looked up the exact phrasing from the protocol agreement before writing it.
 

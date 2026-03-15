@@ -20,7 +20,7 @@ Paul came in at seven-thirty. He had been her chief of staff for six years now, 
 
 "It's not temporary."
 
-"No." Paul sat down. "The Koreans are watching the Australians. If the Australian reduction goes through without consequence, Seoul will be under pressure from their opposition to do something similar. The South African government is in a different situation — their reduction pressure is coming from the left rather than the right, argument that the program prioritizes global elite survival over regional resilience investment."
+"No." Paul sat down. "The Koreans are watching the Australians. If the Australian reduction goes through without consequence, Seoul will be under pressure from their opposition to do something similar. The South African government is in a different situation, their reduction pressure is coming from the left rather than the right, argument that the program prioritizes global elite survival over regional resilience investment."
 
 Sarah read the notification on the tablet. It was carefully worded, as Framework notifications always were, but the careful wording could not conceal what it was: the first formal contribution reduction from a major partner since the program's inception.
 
@@ -34,7 +34,7 @@ Sarah read the notification on the tablet. It was carefully worded, as Framework
 
 Sarah set the tablet down. She looked at the window. The Washington morning was assembling itself in the way it always assembled itself, and she had been watching it from this window for nine years and she understood something about it that she hadn't understood in year one: the city was not the work. The city was the place where the work happened, and the work was what made the city legible. Without the work, the city was just a city.
 
-"Schedule calls with the Australian foreign minister and the prime minister's office," she said. "I want them in the same week — the foreign minister first, to understand the actual constraint, then the prime minister's office to see what room there is."
+"Schedule calls with the Australian foreign minister and the prime minister's office," she said. "I want them in the same week, the foreign minister first, to understand the actual constraint, then the prime minister's office to see what room there is."
 
 "And if there's no room?"
 
@@ -44,15 +44,15 @@ Paul was writing. "The Geneva session next month."
 
 "I'll be there in person. The French have been reliable but they have elections in October and I need to know what the new government will look like before I can plan around it." She picked up her coffee. "The Chinese?"
 
-"Stable. They're watching the Australians the same way everyone is, but their domestic calculation is different — the program is popular with the technical class, which is the class their government needs right now."
+"Stable. They're watching the Australians the same way everyone is, but their domestic calculation is different, the program is popular with the technical class, which is the class their government needs right now."
 
 "The Indians?"
 
 "Solid. Their science ministry has been running a parallel crew selection track in coordination with Elena Marsh's office and they're invested in the outcome of that process. Hard to withdraw from a program your people are selected for."
 
-"That's by design." It was, in fact, by design — one of the structural decisions Sarah had made in 2030, when the crew selection process was taking shape, was to push for broad geographic distribution in the early selection cohorts precisely because selected families created a different political constituency than abstract program support. "What's the total crew selection status?"
+"That's by design." It was, in fact, by design, one of the structural decisions Sarah had made in 2030, when the crew selection process was taking shape, was to push for broad geographic distribution in the early selection cohorts precisely because selected families created a different political constituency than abstract program support. "What's the total crew selection status?"
 
-"The pool is closed at four thousand, three hundred and twelve. The governance framework review is ongoing — Elena's office expects final ratification by the pool in September. Crew boarding begins in late 2041 as the ship construction completes."
+"The pool is closed at four thousand, three hundred and twelve. The governance framework review is ongoing, Elena's office expects final ratification by the pool in September. Crew boarding begins in late 2041 as the ship construction completes."
 
 "The ship completion date?"
 
@@ -62,9 +62,9 @@ Sarah did the math. February certification. March launch window. October 2042 im
 
 "Phoenix," she said.
 
-"Still on transit. The intercept window opens in November. We won't have results until January at the earliest — the communication lag from that distance is significant."
+"Still on transit. The intercept window opens in November. We won't have results until January at the earliest, the communication lag from that distance is significant."
 
-"I know." She thought about Maria Webb, somewhere out there in the dark, running the mission the way she ran everything: completely. "The Australian situation. If we can't contain it —"
+"I know." She thought about Maria Webb, somewhere out there in the dark, running the mission the way she ran everything: completely. "The Australian situation. If we can't contain it , "
 
 "The program survives a three percent reduction. It doesn't survive the fracture that follows."
 
@@ -86,17 +86,17 @@ He answered on the second ring, which told her he had been expecting the call.
 
 "The Australians," she confirmed. "What are you seeing from your end?"
 
-"The same fracture lines you're seeing. Fifteen years is a long time. The thing that held the coalition together in 2025 was fear — an immediate, comprehensible fear. What holds it together now is inertia and investment and the specific calculation that withdrawing is more costly than continuing." He paused. "That calculation is still correct for most members. But the margin has narrowed."
+"The same fracture lines you're seeing. Fifteen years is a long time. The thing that held the coalition together in 2025 was fear, an immediate, comprehensible fear. What holds it together now is inertia and investment and the specific calculation that withdrawing is more costly than continuing." He paused. "That calculation is still correct for most members. But the margin has narrowed."
 
 "What would you do with the Australians?"
 
-"I would make the cost of the reduction visible in the specific areas their domestic politics care about. Not punitive —"
+"I would make the cost of the reduction visible in the specific areas their domestic politics care about. Not punitive , "
 
 "Factual."
 
 "Yes." A pause. "Sarah. Is the program going to hold together for two more years?"
 
-She thought about what she actually believed, which was a different question from what she needed to project. "I believe it holds through the Phoenix result. If the deflection succeeds, the political calculation changes and the coalition becomes easier. If the deflection fails —" She stopped. "If the deflection fails, the program becomes essential in a way that makes withdrawal politically impossible for any member government. The impact date is the deadline everyone understands."
+She thought about what she actually believed, which was a different question from what she needed to project. "I believe it holds through the Phoenix result. If the deflection succeeds, the political calculation changes and the coalition becomes easier. If the deflection fails , " She stopped. "If the deflection fails, the program becomes essential in a way that makes withdrawal politically impossible for any member government. The impact date is the deadline everyone understands."
 
 "Either way," Lindqvist said.
 
@@ -114,4 +114,4 @@ Fifteen years. She was fifty-eight years old and had been doing this specific wo
 
 She called the Australian foreign minister's office and asked for a time.
 
-— END OF CHAPTER 34 —
+,  END OF CHAPTER 34 , 

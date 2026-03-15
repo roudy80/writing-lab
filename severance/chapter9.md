@@ -58,7 +58,7 @@ Elena looked at the centrifuge. It hummed. The morning sun through the window wa
 
 "Yes."
 
-Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity — Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards, language Elena had written in November 2025, before anyone had a validated protocol for cryosleep compatibility. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
+Elena thought about the legal framework. The Framework for Coordinated Planetary Defense and Human Continuity, Sarah Grant's architecture, the document that had turned the Luna-Ark program from a US initiative into a multi-sovereign undertaking. The document had language about crew selection standards, language Elena had written in November 2025, before anyone had a validated protocol for cryosleep compatibility. The language she'd written was general enough to be updated. It would require a scientific advisory board review, which was a process, which had a timeline.
 
 She had four thousand spots to fill. She had a mission that launched in fifteen years if everything went right. She had a 14 to 22 percent incompatibility rate in her current pool and a validation protocol that could be run against those candidates in four months.
 
@@ -146,4 +146,4 @@ Across the facility, in the secure server room, 1,200 candidate files sat with n
 
 The work continued. She kept doing it.
 
-— END OF CHAPTER 9 —
+,  END OF CHAPTER 9 , 

@@ -198,4 +198,4 @@ Maria watched the robotic arms work in the silence outside the window, moving ma
 
 She pushed off from the window and went to begin the post-flight checklist. There was a return cargo manifest to review, a maintenance cycle to sign off on, and a debrief with Luna Base operations before the next launch window opened. The work was what it was. She did it.
 
-— END OF CHAPTER 6 —
+,  END OF CHAPTER 6 , 

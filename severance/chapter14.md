@@ -10,7 +10,7 @@ Elena drafted the letter herself. She had three templates prepared by the legal 
 
 She rewrote it.
 
-The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real — candidates with borderline results had a pathway to retest and to request review by the medical board — and it explained what appeals had produced so far, which was honest information: in the first forty-two notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
+The letter she sent explained the cryosleep compatibility protocol, the biological markers, the confidence intervals. It explained that incompatibility was a physiological finding rather than a reflection of qualification or merit. It explained the appeals process, which was real, candidates with borderline results had a pathway to retest and to request review by the medical board, and it explained what appeals had produced so far, which was honest information: in the first forty-two notifications, two candidates had successfully appealed based on borderline marker scores. Forty were confirmed incompatible.
 
 It said that the selection team recognized the difficulty of receiving this information, and that counseling resources were available through the Framework's candidate support office.
 
@@ -42,7 +42,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 "Go ahead."
 
-"The candidates we're notifying. Harmon is one example. The people in this category — compatibility issue, otherwise excellent candidates. What happens to them?"
+"The candidates we're notifying. Harmon is one example. The people in this category, compatibility issue, otherwise excellent candidates. What happens to them?"
 
 "They're removed from the mission pool. The letter explains the appeals process."
 
@@ -50,7 +50,7 @@ Kim nodded. She was turning something over. Elena had learned to wait.
 
 Elena looked at the window. Outside, the Houston morning was already bright and beginning to get warm, the particular light of a city that was warm earlier every year. "The same thing that happens to everyone not on the ship."
 
-"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol — the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
+"Right." Kim looked at her hands. "I think about that a lot. I know we talked about it when we were setting up the protocol, the compatibility issue in context of the alternative. But the abstract version and the specific version are different."
 
 Elena understood this. She'd been living in the space between the abstract and the specific for four years. "We're not sending anyone to their death," she said. "We're telling them that the mission they applied for requires a biological characteristic they don't have. The deflection mission is the response to the threat. The ship is the hedge. We are building the best possible hedge."
 
@@ -74,7 +74,7 @@ The candidate who called was not supposed to call.
 
 The notification letters were clear about the contact protocol: responses and questions went to the candidate support office, which had a team and a process. The letter had Elena's office as the sender but it did not have a direct callback number. Somehow, a woman named Patricia Novak had found one.
 
-Elena's assistant forwarded the call on a Friday afternoon with a note saying the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally — she was in the second cohort, earlier in the process — but the Luna Base Commander's name was not one she needed to look up.
+Elena's assistant forwarded the call on a Friday afternoon with a note saying the woman had identified herself as Patricia Novak, candidate ID in the second round, current assignment as Commander of Luna Base. Elena had not reviewed Novak's file personally, she was in the second cohort, earlier in the process, but the Luna Base Commander's name was not one she needed to look up.
 
 She took the call.
 
@@ -164,4 +164,4 @@ She was building a record. Each letter was a record that the process had been ca
 
 She closed the laptop and drove home.
 
-— END OF CHAPTER 14 —
+,  END OF CHAPTER 14 , 

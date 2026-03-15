@@ -10,7 +10,7 @@ Elena was not on the Compass mission team and did not have direct access to the 
 
 Harrison's voice said: the data is what we needed and it is also worse than we hoped.
 
-The asteroid's internal structure was a cohesion gradient rather than a uniform rubble pile. The outer shell, three hundred to four hundred meters beneath the surface, had a higher cohesion index than the models had predicted, which was good — it meant the kinetic impactors would transfer momentum more efficiently than the pessimistic scenario had modeled. The core, below that, was looser than expected. Not fragmentation-risk loose. But the distribution of mass concentrations within the core meant that the targeting solution had a narrower optimal window than the JPL team had been working with.
+The asteroid's internal structure was a cohesion gradient rather than a uniform rubble pile. The outer shell, three hundred to four hundred meters beneath the surface, had a higher cohesion index than the models had predicted, which was good, it meant the kinetic impactors would transfer momentum more efficiently than the pessimistic scenario had modeled. The core, below that, was looser than expected. Not fragmentation-risk loose. But the distribution of mass concentrations within the core meant that the targeting solution had a narrower optimal window than the JPL team had been working with.
 
 Narrower was not impossible. Harrison was careful about that. The targeting problem was solvable with the data they now had. The team had been working with a range of possible solutions and was now working with a smaller range. The probability estimate, Harrison said, was currently in revision.
 
@@ -24,7 +24,7 @@ A pause. "The initial analyst consensus before formal review is in the high fort
 
 Elena wrote it down. High forties. She sat with it for a moment, then asked the next question. "Where does that put the mission parameters?"
 
-"The mission parameters for Phoenix are unchanged. Maria Webb's mission is still viable and still the optimal approach. The trajectory, the timing, the impactor deployment protocol — all of those are unchanged. What's changed is the margin for targeting error. It's tighter." Harrison paused again. "The mission has to go exactly right."
+"The mission parameters for Phoenix are unchanged. Maria Webb's mission is still viable and still the optimal approach. The trajectory, the timing, the impactor deployment protocol, all of those are unchanged. What's changed is the margin for targeting error. It's tighter." Harrison paused again. "The mission has to go exactly right."
 
 "Missions have to go exactly right."
 
@@ -38,7 +38,7 @@ High forties.
 
 The cryosleep system prototype had been installed in the ship's mid-section in June. Installation was a three-month operation: six hundred units, each one a coffin-sized pod of aluminum and insulated composite with the temperature regulation and metabolic monitoring systems built into the wall, each one requiring individual calibration against the ship's environmental control network. The installation team had finished on schedule, which was the phrase the briefings always used when they wanted to convey that something had been done correctly without appearing to be surprised by it.
 
-The first full-scale test was scheduled for October. Not with human subjects — the test protocol used biological proxies, cellular cultures and organ-analog systems developed specifically to validate the cryosleep environment without requiring a living person. Eighty-six pods running simultaneously. Two weeks of cold cycle followed by a controlled revival sequence. The results would determine whether the second test, the one with a small number of human volunteers, could proceed on schedule.
+The first full-scale test was scheduled for October. Not with human subjects, the test protocol used biological proxies, cellular cultures and organ-analog systems developed specifically to validate the cryosleep environment without requiring a living person. Eighty-six pods running simultaneously. Two weeks of cold cycle followed by a controlled revival sequence. The results would determine whether the second test, the one with a small number of human volunteers, could proceed on schedule.
 
 Elena had been involved in the test protocol design and was listed as a technical reviewer on the results analysis team. She had spent eighteen months on this, reading the thermal regulation papers and the metabolic suppression literature and the extended protocols that had come out of the Nagoya work and the follow-on studies from the University of Tokyo and Oslo. She understood the system better than she had when she'd commissioned Kim's initial analysis in 2027, which meant she understood more precisely where the risks were.
 
@@ -184,7 +184,7 @@ She wrote until midnight. Then she drove home and set the alarm for five and wen
 
 The ship existed. It could be fixed. She was going to fix it.
 
-— END OF CHAPTER 18 —
+,  END OF CHAPTER 18 , 
 
 ACT THREE
 

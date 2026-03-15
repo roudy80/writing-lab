@@ -100,7 +100,7 @@ She filed the information and kept walking. But it sat differently than other in
 
 She went back to work.
 
-—
+---
 
 She found herself thinking about the footage two days later in a context that had nothing to do with Reid.
 

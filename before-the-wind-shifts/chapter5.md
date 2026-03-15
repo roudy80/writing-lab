@@ -34,7 +34,7 @@ The jump itself was clean. The wind was out of the southwest at eight miles per 
 
 She radioed position and had the crew moving within four minutes.
 
-—
+---
 
 She was aware of Reid behind her for the first hour. Not distractingly. He was good at this, she was starting to understand. Present without requiring management. He moved when the crew moved, held when they held, stayed exactly where she'd put him. The camera was up now, pointed at the work rather than at her, and she let it recede from her attention because the fire required her attention and the fire was what mattered.
 
@@ -70,7 +70,7 @@ She turned back to the fire. He'd looked at the map on the flight. She'd watched
 
 She radioed Torres. Made the adjustment early, while they had time. Torres moved without question. An hour and forty minutes later the wind shifted northeast and the adjustment held and the anchor held and the north line held and by nine-thirty they were calling it contained.
 
-—
+---
 
 She was back at the LZ going over the after-action with the crew when she caught the look Vasquez gave her. Small, the particular look Vasquez used when he'd noticed something worth noting. She followed his eyes.
 

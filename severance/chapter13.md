@@ -122,7 +122,7 @@ The room was quiet.
 
 A woman in the third row, one of the three new faces, asked: "What does 54 percent mean for us? For the people not on the ship?"
 
-Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan — the deflection mission — has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
+Thomas had been asked versions of this question for four years and had given versions of the same answer. "It means the primary plan, the deflection mission, has a current probability that isn't where any of us would want it to be. The secondary plan, which is the interstellar ship, exists because the people who designed this response understood from the beginning that deflection isn't certain. The two plans are running in parallel. The ship isn't the backup in the sense of a plan you only think about if the primary fails. It's an active program that proceeds regardless of the deflection outcome."
 
 "Four thousand people," said Dmitri. Not a question.
 
@@ -168,4 +168,4 @@ He thought about a coin flip with nine billion people on it.
 
 He started the car and drove home and opened the new spreadsheet and kept working.
 
-— END OF CHAPTER 13 —
+,  END OF CHAPTER 13 , 

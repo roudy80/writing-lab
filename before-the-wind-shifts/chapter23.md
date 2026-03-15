@@ -28,7 +28,7 @@ He held her eyes. "Yes," he said.
 
 They flew.
 
-—
+---
 
 The drop zone was a cleared ridge above the fire's northwest flank, the only viable LZ within range. She got the crew down in two groups and had them moving to the anchor positions she'd planned on the flight. The fire was louder than the report had suggested, which meant the wind was feeding it more than the overnight imagery had accounted for. She adjusted the line position and moved Torres up and put Vasquez and Danny on the south anchor.
 
