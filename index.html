@@ -107,10 +107,13 @@
     max-width: 680px; margin: 0 auto;
     line-height: 1.8; font-size: 1.05rem;
   }
-  .reader-content h1 { font-size: 1.3rem; color: #c9b99a; margin-bottom: 24px; }
-  .reader-content p { margin-bottom: 1.1em; }
-  .reader-content hr { border: none; border-top: 1px solid #333; margin: 28px auto; width: 40%; }
-  .reader-content em { color: #c9b99a; }
+  .reader-content h1 { font-size: 1.4rem; color: #c9b99a; margin-bottom: 32px; text-align: center; letter-spacing: 0.03em; }
+  .reader-content h2 { font-size: 1.05rem; color: #c9b99a; margin: 2.5em 0 1.2em; letter-spacing: 0.08em; text-transform: uppercase; font-family: sans-serif; font-weight: normal; }
+  .reader-content p { margin-bottom: 0; text-indent: 1.6em; }
+  .reader-content p + p { margin-top: 0; }
+  .reader-content h2 + p, .reader-content h1 + p, .reader-content hr + p { text-indent: 0; }
+  .reader-content hr { border: none; border-top: 1px solid #444; margin: 2em auto; width: 30%; }
+  .reader-content em { font-style: italic; color: inherit; }
 
   /* Reading progress bar */
   .progress-bar {
@@ -180,6 +183,23 @@
         <li><a href="#" id="link-wind-shifts-25" onclick="loadChapter('before-the-wind-shifts/chapter25.md','Chapter 25','Before the Wind Shifts','wind-shifts');return false;">Chapter 25 <span>›</span></a></li>
         <li><a href="#" id="link-wind-shifts-26" onclick="loadChapter('before-the-wind-shifts/chapter26.md','Chapter 26 — Final','Before the Wind Shifts','wind-shifts');return false;">Chapter 26 — Final <span>›</span></a></li>
         <li><a href="#" id="link-wind-shifts-ms" onclick="loadChapter('before-the-wind-shifts/manuscript.md','Full Manuscript','Before the Wind Shifts','wind-shifts');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- What Remains (Book 2) -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('what-remains')">
+      <div class="book-toggle-left">
+        <div class="book-title">What Remains — Romance (Book 2)</div>
+        <div class="book-resume" id="resume-what-remains"></div>
+      </div>
+      <div class="book-chevron" id="chevron-what-remains">›</div>
+    </button>
+    <div class="book-body" id="body-what-remains">
+      <button class="continue-btn" id="continue-what-remains" onclick="resumeReading('what-remains')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('what-remains/manuscript.md','Full Manuscript','What Remains','what-remains');return false;">Full Manuscript <span>›</span></a></li>
       </ul>
     </div>
   </div>
@@ -293,6 +313,74 @@
     </div>
   </div>
 
+  <!-- Called Anyway -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('called-anyway')">
+      <div class="book-toggle-left">
+        <div class="book-title">Called Anyway — Fiction</div>
+        <div class="book-resume" id="resume-called-anyway"></div>
+      </div>
+      <div class="book-chevron" id="chevron-called-anyway">›</div>
+    </button>
+    <div class="book-body" id="body-called-anyway">
+      <button class="continue-btn" id="continue-called-anyway" onclick="resumeReading('called-anyway')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('called-anyway/manuscript.md','Full Manuscript','Called Anyway','called-anyway');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- The Scattered Worlds: Transit -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('transit')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Scattered Worlds: Transit — Fiction</div>
+        <div class="book-resume" id="resume-transit"></div>
+      </div>
+      <div class="book-chevron" id="chevron-transit">›</div>
+    </button>
+    <div class="book-body" id="body-transit">
+      <button class="continue-btn" id="continue-transit" onclick="resumeReading('transit')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('transit/manuscript.md','Full Manuscript','The Scattered Worlds: Transit','transit');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- So You Think History Is Boring -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('history-boring')">
+      <div class="book-toggle-left">
+        <div class="book-title">So You Think History Is Boring — Non-Fiction</div>
+        <div class="book-resume" id="resume-history-boring"></div>
+      </div>
+      <div class="book-chevron" id="chevron-history-boring">›</div>
+    </button>
+    <div class="book-body" id="body-history-boring">
+      <button class="continue-btn" id="continue-history-boring" onclick="resumeReading('history-boring')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('so-you-think-history-is-boring/manuscript.md','Full Manuscript','So You Think History Is Boring','history-boring');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- The Idea Before America -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('idea-before-america')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Idea Before America — Non-Fiction</div>
+        <div class="book-resume" id="resume-idea-before-america"></div>
+      </div>
+      <div class="book-chevron" id="chevron-idea-before-america">›</div>
+    </button>
+    <div class="book-body" id="body-idea-before-america">
+      <button class="continue-btn" id="continue-idea-before-america" onclick="resumeReading('idea-before-america')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('idea-before-america/manuscript.md','Full Manuscript','The Idea Before America','idea-before-america');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
   <div class="notes-section">
     <div class="book-title" style="margin-bottom:10px;">Notes for Claude</div>
     <textarea id="notes-input" placeholder="Leave feedback, ideas, or notes here. Claude will see these next session."></textarea>
@@ -319,7 +407,7 @@
 const REPO = 'roudy80/writing-lab';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
-const ALL_BOOKS = ['wind-shifts', 'severance', 'the-smoke', 'red-gate'];
+const ALL_BOOKS = ['wind-shifts', 'what-remains', 'severance', 'transit', 'called-anyway', 'history-boring', 'idea-before-america', 'the-smoke', 'red-gate'];
 
 let currentText = '';
 let currentLabel = '';
