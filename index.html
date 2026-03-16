@@ -398,8 +398,7 @@
 
       <!-- Audiobook Player -->
       <div class="audiobook-player">
-        <div class="audiobook-player-label">Audiobook</div>
-        <div class="audiobook-part-label" id="audio-part-label">Part 1 of 2</div>
+        <div class="audiobook-player-label">Audiobook — Called Anyway</div>
         <div class="audiobook-controls">
           <button class="audio-play-btn" id="audio-play-btn" onclick="audioTogglePlay()">▶</button>
           <button class="audio-skip-btn" onclick="audioSkip(-15)" title="Back 15s">« 15s</button>
@@ -704,40 +703,34 @@ document.getElementById('notes-input').placeholder =
   'Type feedback or ideas here, then paste them to Claude in your next chat.';
 
 // ── Audiobook Player ───────────────────────────────────────────
-const AUDIO_PARTS = [
-  RAW_BASE + 'called-anyway/audio/part1.mp3',
-  RAW_BASE + 'called-anyway/audio/part2.mp3'
-];
+const AUDIO_SRC = RAW_BASE + 'called-anyway/audio/called-anyway.mp3';
 const AUDIO_STORAGE_KEY = 'audiobook-called-anyway';
 
 let audioEl = null;
-let audioPart = 0; // 0-indexed
 
 function audioInit() {
   if (audioEl) return;
   audioEl = new Audio();
   audioEl.preload = 'metadata';
+  audioEl.src = AUDIO_SRC;
 
   audioEl.addEventListener('timeupdate', audioOnTimeUpdate);
-  audioEl.addEventListener('ended', audioOnEnded);
   audioEl.addEventListener('loadedmetadata', audioOnMetadata);
   audioEl.addEventListener('play', () => { document.getElementById('audio-play-btn').textContent = '⏸'; });
   audioEl.addEventListener('pause', () => { document.getElementById('audio-play-btn').textContent = '▶'; });
+  audioEl.addEventListener('ended', () => {
+    localStorage.removeItem(AUDIO_STORAGE_KEY);
+    document.getElementById('audio-resume-note').textContent = 'Finished!';
+    document.getElementById('audio-resume-note').classList.remove('has-position');
+  });
 
   // Restore saved position
   const saved = audioGetSaved();
-  if (saved) {
-    audioPart = saved.part;
-    audioEl.src = AUDIO_PARTS[audioPart];
-    // Seek after metadata loads
+  if (saved && saved.time > 5) {
     audioEl.addEventListener('loadedmetadata', function seekOnce() {
       audioEl.currentTime = saved.time;
-      audioEl.removeEventListener('loadedmetadata', seekOnce);
     }, { once: true });
-  } else {
-    audioEl.src = AUDIO_PARTS[0];
   }
-  audioUpdatePartLabel();
 }
 
 function audioGetSaved() {
@@ -747,7 +740,7 @@ function audioGetSaved() {
 
 function audioSavePosition() {
   if (!audioEl) return;
-  localStorage.setItem(AUDIO_STORAGE_KEY, JSON.stringify({ part: audioPart, time: audioEl.currentTime }));
+  localStorage.setItem(AUDIO_STORAGE_KEY, JSON.stringify({ time: audioEl.currentTime }));
 }
 
 function audioTogglePlay() {
@@ -776,13 +769,10 @@ function audioSeek(e) {
 }
 
 function audioOnTimeUpdate() {
-  const fill = document.getElementById('audio-progress-fill');
-  const cur = document.getElementById('audio-time-current');
   if (!audioEl.duration) return;
   const pct = (audioEl.currentTime / audioEl.duration) * 100;
-  fill.style.width = pct + '%';
-  cur.textContent = audioFmtTime(audioEl.currentTime);
-  // Auto-save every ~5 seconds
+  document.getElementById('audio-progress-fill').style.width = pct + '%';
+  document.getElementById('audio-time-current').textContent = audioFmtTime(audioEl.currentTime);
   if (Math.round(audioEl.currentTime) % 5 === 0) audioSavePosition();
 }
 
@@ -791,35 +781,11 @@ function audioOnMetadata() {
   audioUpdateResumeNote();
 }
 
-function audioOnEnded() {
-  if (audioPart < AUDIO_PARTS.length - 1) {
-    audioPart++;
-    audioEl.src = AUDIO_PARTS[audioPart];
-    audioEl.play();
-    audioUpdatePartLabel();
-    audioSavePosition();
-  } else {
-    // Finished — clear saved position
-    localStorage.removeItem(AUDIO_STORAGE_KEY);
-    document.getElementById('audio-resume-note').textContent = 'Finished!';
-    document.getElementById('audio-resume-note').classList.remove('has-position');
-    audioPart = 0;
-    audioEl.src = AUDIO_PARTS[0];
-    audioUpdatePartLabel();
-  }
-}
-
-function audioUpdatePartLabel() {
-  document.getElementById('audio-part-label').textContent =
-    'Part ' + (audioPart + 1) + ' of ' + AUDIO_PARTS.length;
-}
-
 function audioUpdateResumeNote() {
   const saved = audioGetSaved();
   const note = document.getElementById('audio-resume-note');
-  if (saved && (saved.time > 5 || saved.part > 0)) {
-    const partLabel = 'Part ' + (saved.part + 1);
-    note.textContent = 'Resume from ' + partLabel + ' · ' + audioFmtTime(saved.time);
+  if (saved && saved.time > 5) {
+    note.textContent = 'Tap play to resume from ' + audioFmtTime(saved.time);
     note.classList.add('has-position');
   } else {
     note.textContent = '';
@@ -858,9 +824,9 @@ function audioFmtTime(secs) {
 
   // Show audiobook resume note if there's a saved position
   const audioSaved = audioGetSaved();
-  if (audioSaved && (audioSaved.time > 5 || audioSaved.part > 0)) {
+  if (audioSaved && audioSaved.time > 5) {
     const note = document.getElementById('audio-resume-note');
-    note.textContent = 'Resume from Part ' + (audioSaved.part + 1) + ' · ' + audioFmtTime(audioSaved.time);
+    note.textContent = 'Tap play to resume from ' + audioFmtTime(audioSaved.time);
     note.classList.add('has-position');
   }
 })();
