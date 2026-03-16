@@ -418,6 +418,23 @@
     </div>
   </div>
 
+  <!-- The Signal Series -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('signal-series')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Signal Series — Fiction</div>
+        <div class="book-resume" id="resume-signal-series"></div>
+      </div>
+      <div class="book-chevron" id="chevron-signal-series">›</div>
+    </button>
+    <div class="book-body" id="body-signal-series">
+      <button class="continue-btn" id="continue-signal-series" onclick="resumeReading('signal-series')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('the-signal-series/manuscript.md','Full Manuscript','The Signal Series','signal-series');return false;">Full Manuscript <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
   <!-- So You Think History Is Boring -->
   <div class="book-section">
     <button class="book-toggle" onclick="toggleBook('history-boring')">
@@ -478,7 +495,7 @@
 const REPO = 'roudy80/writing-lab';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
-const ALL_BOOKS = ['wind-shifts', 'what-remains', 'severance', 'transit', 'called-anyway', 'history-boring', 'idea-before-america', 'the-smoke', 'red-gate'];
+const ALL_BOOKS = ['wind-shifts', 'what-remains', 'severance', 'transit', 'called-anyway', 'history-boring', 'idea-before-america', 'the-smoke', 'red-gate', 'signal-series'];
 
 let currentText = '';
 let currentLabel = '';
