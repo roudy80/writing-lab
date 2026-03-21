@@ -136,13 +136,13 @@ She said: "I'm saying it out loud because you need to hear it in plain words."
 
 He said: "Yes."
 
-She said: "Miller wasn't your fault. The seat trade was a coincidence. The morning was what the morning was. The debt was never yours."
+She said: "Miller wasn't your fault. The debt was never yours."
 
-He sat with that. He said: "I know."
+He said: "I know."
 
 She said: "Say the next part."
 
-He said: "The account was settled. Not by me. For me. Before I picked it up."
+He said: "The account was settled. Not by me. For me."
 
 She said: "Yes."
 
@@ -152,16 +152,12 @@ The morning came in through the window and deepened around them, the light warmi
 
 He drank his coffee.
 
-The weight was not gone.
-
-He had not expected it to be gone, grief did not go, Miller was still gone, the morning in Ramadi had still happened and would always have happened, the scars on his hands were real, the cracked watch crystal was real, seven weeks in Jerusalem was real. You didn't put down a twelve-year weight and walk away without the body registering the absence.
+The weight was not gone. Grief didn't go. The morning in Ramadi had still happened. You didn't put down a twelve-year weight and walk away without the body registering the absence.
 
 But the debt was gone.
 
 And he was at rest.
 
-For this morning, at this table, with this woman's hand over his and the Texas light coming in and the mockingbird starting up in the cedar draw with its catalog of everything it had ever heard, he was at rest.
+For this morning, at this table, with this woman's hand over his and the Texas light coming in and the mockingbird in the cedar draw, he was at rest.
 
 That was enough.
-
-That was, he understood finally and without any remaining doubt, exactly enough.
