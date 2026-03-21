@@ -100,7 +100,7 @@ Not for him specifically, not for Grant specifically, not because he was present
 
 The face was for him.
 
-He stood at the front of the crowd and let that land in him and felt it land with the specific quality of something that had been true for a long time being recognized as true rather than announced as new.
+He stood at the front of the crowd and let that land in him and felt it land with the quality of something that had been true for a long time being recognized as true rather than announced as new.
 
 He watched the procession move past and he did not move.
 
@@ -126,7 +126,7 @@ He thought about the category of himself as the man she could count on, the spec
 
 He stood in the back of the crowd and he felt his own categories reorganizing.
 
-After the teaching ended he stayed in the emptying court for a while. The afternoon light came in from the west and lay across the stone of the court in long gold planes. He stood in the light and thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the specific quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
+After the teaching ended he stayed in the emptying court for a while. The afternoon light came in from the west and lay across the stone of the court in long gold planes. He stood in the light and thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
 
 He thought: the loops have been doing the same thing to me. Meeting me where I was. Showing me something I already almost knew.
 
@@ -140,7 +140,7 @@ Simon recognized him, seven loops of bringing food and sitting in the dust had c
 
 They sat together.
 
-Grant's Aramaic was good enough for real conversation now and they had one, about Simon's years as a sandal maker, about the neighborhood in the lower city that had changed around him, about his daughter who came when she could. About the specific quality of the years in his current position, which were not the years he'd imagined for himself but which were, in their way, his.
+Grant's Aramaic was good enough for real conversation now and they had one, about Simon's years as a sandal maker, about the neighborhood in the lower city that had changed around him, about his daughter who came when she could. About the quality of the years in his current position, which were not the years he'd imagined for himself but which were, in their way, his.
 
 Grant told him, carefully, aware of the limits of translation, aware that some things didn't cross the distance between his world and Simon's, about his farm in Texas. About the fence lines and the pump repairs and the boys upstairs asleep. About the woman who brought him coffee in wet grass in the mornings.
 
@@ -250,7 +250,7 @@ Marcus said: "Then this is the week you finish."
 
 He went inside.
 
-Grant stood in the courtyard of Marcus's building and looked at the sky going toward evening over Jerusalem, the light changing in the specific way it changed in this latitude, the colors of the end of a Judean day. He stood there and felt the specific quality of a thing that was almost done.
+Grant stood in the courtyard of Marcus's building and looked at the sky going toward evening over Jerusalem, the light changing in the specific way it changed in this latitude, the colors of the end of a Judean day. He stood there and felt the quality of a thing that was almost done.
 
 He thought about home.
 
@@ -270,7 +270,7 @@ He thought: I am ready.
 
 He fell asleep and slept well, the good sleep of a man who had finally stopped fighting the thing and was ready to receive it.
 
-On Tuesday he went to Simon in the lower quarter and they talked for three hours, the longest conversation of all the loops, his seventh-loop Aramaic equal to the real exchange. Simon told him about the years before the illness. About the specific quality of work that you loved, the work that had his hands in it and that produced things people used and came back for. About the grief of losing that work and the longer grief of the years since, the specific endurance required to be a person who had been reduced to this narrow life and who was still, somehow, himself in it.
+On Tuesday he went to Simon in the lower quarter and they talked for three hours, the longest conversation of all the loops, his seventh-loop Aramaic equal to the real exchange. Simon told him about the years before the illness. About the quality of work that you loved, the work that had his hands in it and that produced things people used and came back for. About the grief of losing that work and the longer grief of the years since, the specific endurance required to be a person who had been reduced to this narrow life and who was still, somehow, himself in it.
 
 Grant said: "You haven't stopped being yourself."
 
@@ -294,7 +294,7 @@ Simon said: "Thank you for coming." He paused. He said: "You are a man who neede
 
 Grant sat in the dust by the lower quarter wall and felt the truth of that land in him.
 
-He thought about all the ways in the Texas life that company was the thing required, the late-night conversations with Sarah, the porch time with the boys, the specific quality of being present for someone who needed someone to be present. He had done this. He would do more of it.
+He thought about all the ways in the Texas life that company was the thing required, the late-night conversations with Sarah, the porch time with the boys, the quality of being present for someone who needed someone to be present. He had done this. He would do more of it.
 
 He was going to use what he'd learned here.
 
@@ -306,7 +306,7 @@ Grant said: "You also."
 
 He walked back through the lower city for the last time.
 
-He walked slowly, which was different from how he'd walked through this city in the first loops, the forward-pointed urgency of a man with an objective. He walked slowly and he let the city be around him: the sounds of the market, the smell of the cook fires, the specific quality of the Jerusalem light in the morning, the white limestone walls catching the sun and holding it.
+He walked slowly, which was different from how he'd walked through this city in the first loops, the forward-pointed urgency of a man with an objective. He walked slowly and he let the city be around him: the sounds of the market, the smell of the cook fires, the quality of the Jerusalem light in the morning, the white limestone walls catching the sun and holding it.
 
 He would not come back here.
 
@@ -406,9 +406,9 @@ Grant sat in the dust next to him and did not say anything about this because th
 
 Simon talked when he wanted to and didn't when he didn't. Today he wanted to.
 
-He talked about his wife, who had died eight years ago, a fever, fast, the way fevers sometimes came in this city. He talked about her with the specific past-tense love of someone for whom the love was still present but the person was not, the specific quality of a grief that had settled into the body over years until it was part of the body rather than something happening to the body. He said her name, something Grant's ear rendered as Devorah, and he said it the way you said the name of someone whose name you had been saying your whole adult life and who was still present in the saying even when they were not present in the room.
+He talked about his wife, who had died eight years ago, a fever, fast, the way fevers sometimes came in this city. He talked about her with the specific past-tense love of someone for whom the love was still present but the person was not, the quality of a grief that had settled into the body over years until it was part of the body rather than something happening to the body. He said her name, something Grant's ear rendered as Devorah, and he said it the way you said the name of someone whose name you had been saying your whole adult life and who was still present in the saying even when they were not present in the room.
 
-Grant listened. He listened the way his father had sat beside the dying pilot, with the full weight of his attention, the complete presence, the specific quality of a person who was giving what they had which was their full self and their time.
+Grant listened. He listened the way his father had sat beside the dying pilot, with the full weight of his attention, the complete presence, the quality of a person who was giving what they had which was their full self and their time.
 
 He thought about the dying pilot. He had been eighteen and he had watched his father do this and had not understood it. He had understood the visiting, you visited the sick, you showed up for the dying, this was what you did. He had not understood the quality of the visiting. The difference between being present and being there, which was the difference his father had been demonstrating and which Grant had been learning across five loops in first-century Jerusalem.
 
@@ -474,7 +474,7 @@ He thought: when I go home, I am going to stop walking past things.
 
 He climbed to Marcus's roof in the evening and sat with the city and felt what there was to feel.
 
-He thought about Simon saying: you listen the way my wife listened. He thought about what that meant for the Texas life, for Sarah and the boys and the specific quality of presence he had been giving them and had been keeping some portion in reserve, the presence of a man who was always also managing something else.
+He thought about Simon saying: you listen the way my wife listened. He thought about what that meant for the Texas life, for Sarah and the boys and the quality of presence he had been giving them and had been keeping some portion in reserve, the presence of a man who was always also managing something else.
 
 He thought: the presence I have been practicing here is the presence I want to bring home.
 
@@ -554,7 +554,7 @@ He sat on the ground near the entrance with his back against the stone wall and 
 
 He sat with it.
 
-He did not try to manage it or route it through any framework. He did not try to understand it analytically or hold it at professional distance or protect himself from it. He sat against the stone wall and he let the weight be what it was, completely, all of it, and he received it.
+He sat against the stone wall and received it. All of it.
 
 It was the most enormous thing he had ever been in proximity to.
 
@@ -562,15 +562,9 @@ He thought about Miller.
 
 He thought about Jesse Miller with the clean directness he'd been developing across six loops, the direct look rather than the oblique approach, the looking at the man himself rather than at the debt. He thought about Jesse's laugh. He thought about the way Jesse had talked about Linda, the specific precision of a man in love who had enough language for it. He thought about the unborn child who was going to be Kyle.
 
-He thought about what it meant that Jesse's account, Jesse's specific debt, whatever the weight was that Jesse had carried, was included in what was happening thirty yards below him in this garden tonight.
+He thought about Jesse's account and his own, and what it meant that both were included in what was happening thirty yards below him in this garden tonight.
 
-He thought about his own account.
-
-He thought about the seat trade and the morning in Ramadi and the specific moment when the pressure plate went off under the right rear wheel well. He thought about it directly, the way he'd been learning to think about it, not the debt version, the clear version, the version where the thing that happened was the thing that happened and the grief was real and the debt was not.
-
-He thought about the fact that his specific account, his name on the ledger, was included in what was being settled tonight.
-
-He sat against the stone wall in the garden and he let himself receive that.
+He let himself receive that.
 
 It was not a dramatic receiving. There was no flash of light or voice from heaven or any of the effects that a certain kind of story would have put here. There was just a man sitting against a stone wall in an olive grove in first-century Jerusalem, feeling the weight in the lower grove, and understanding at a level below the thinking mind that the weight was being taken on behalf of him specifically, among everyone, which was the specific paradox of a thing both universal and personal, and receiving that understanding as a fact rather than a concept.
 
@@ -614,7 +608,7 @@ Grant thought about the times he'd said what he had to say to maintain a positio
 
 There was another man at the edge of the courtyard who had not scattered and was not hiding.
 
-Young, maybe twenty, with the specific quality of someone who had not yet developed the protective layering that experience applied to a person, who was still raw to what the world could do. He was standing against the wall with his arms crossed and his eyes on the door through which they'd taken the man inside, and he was not moving.
+Young, maybe twenty, with the quality of someone who had not yet developed the protective layering that experience applied to a person, who was still raw to what the world could do. He was standing against the wall with his arms crossed and his eyes on the door through which they'd taken the man inside, and he was not moving.
 
 Grant watched him for a moment.
 
@@ -638,7 +632,7 @@ He found his position.
 
 He stood back from the main crowd, uphill, where he had the view he needed without being inside the grief of it, and he stood in the Judean sun and he watched.
 
-He thought about his father sitting beside the dying pilot. He thought about the hands on the arm and the specific quality of presence as an act. He thought about being eighteen years old and not understanding what he was watching and about being forty-four years old and finally understanding it.
+He thought about his father sitting beside the dying pilot. He thought about the hands on the arm and the quality of presence as an act. He thought about being eighteen years old and not understanding what he was watching and about being forty-four years old and finally understanding it.
 
 He thought about all the places in his life where presence had been the whole thing available, the notification visits and the hospital waiting rooms and the three o'clock conversations with men who had nothing they could point to but needed someone there anyway. He had been good at this without calling it a skill. He had been doing it without knowing he was practicing it.
 
