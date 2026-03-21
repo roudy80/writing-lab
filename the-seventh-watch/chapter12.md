@@ -60,11 +60,11 @@ Grant said: "I always do."
 
 The week between the sixth and seventh loops was the quietest the ranch had been in two months.
 
-Not quiet because nothing was happening. Quiet because Grant was in it, fully, in the specific way that was different from before, the difference she had been watching build across six loops and that had arrived now with the specific quality of a thing that had been coming for a long time and had finally got here.
+Not quiet because nothing was happening. Quiet because Grant was in it, fully, in the specific way that was different from before, the difference she had been watching build across six loops and that had arrived now with the quality of a thing that had been coming for a long time and had finally got here.
 
 He fixed the north fence on Monday. She watched him from the kitchen window, the same work, the same methodical patience, the post driver and the wire, but different in the quality of the watching. He was in it. Not performing it. Not using the work to manage something else. Just doing the work because the work was there and needed doing and he was the person who did it.
 
-On Tuesday evening he sat with Caleb at the kitchen table after dinner and she heard them talking through the wall of the workshop. She couldn't make out the words. She could make out the register, two men talking directly, without the management layer, the specific quality of a conversation that was going somewhere.
+On Tuesday evening he sat with Caleb at the kitchen table after dinner and she heard them talking through the wall of the workshop. She couldn't make out the words. She could make out the register, two men talking directly, without the management layer, the quality of a conversation that was going somewhere.
 
 She stayed in the workshop.
 
@@ -136,7 +136,7 @@ She went to the workshop. She picked up the cedar. She worked.
 
 She waited for the sound of the gate.
 
-Caleb went to his room. Grant sat at the kitchen table alone for a while and thought about the conversation and about what it meant that his seventeen-year-old son had just given him exactly what he'd needed to hear, in almost exactly the words that were right. He thought about Caleb having Jesse Miller's directness about him without knowing Jesse Miller, the specific quality of young men who were clear about what they saw without having been taught to be. He thought about the generation of young men who were growing up to be that.
+Caleb went to his room. Grant sat at the kitchen table alone for a while and thought about the conversation and about what it meant that his seventeen-year-old son had just given him exactly what he'd needed to hear, in almost exactly the words that were right. He thought about Caleb having Jesse Miller's directness about him without knowing Jesse Miller, the quality of young men who were clear about what they saw without having been taught to be. He thought about the generation of young men who were growing up to be that.
 
 He felt, sitting at the kitchen table in the quiet of his house, a deep and uncomplicated gratitude.
 
@@ -150,7 +150,7 @@ Grant said: "Yes."
 
 Kelso said: "Tell me."
 
-Grant told him. He told him about the debt and what he'd built the debt out of and what it had been costing him and what he'd finally understood about it. He told him about the account being settled from outside, about the thing he'd been trying to do and had been found irrelevant to because it was already done.
+Grant told him. He told him about the debt and what he'd built the debt out of and what it had been costing him and what he'd finally understood about it. He told him about the account being settled from outside, about the thing he'd been trying to do and and found it was already done.
 
 Kelso was quiet for a while after. Then he said: "I've been thinking about what you said last time. About the account already being settled."
 
@@ -184,10 +184,6 @@ He went to bed. He lay in the dark beside Sarah and looked at the ceiling and th
 
 He was going in as a witness. Not a rescuer, not a soldier, not an operator with an objective. Not even a man trying to earn something or prove something or pay something. Just a person who had been given the specific chance to be present for the thing that had settled his account, and who was going to be present for it completely, with his whole self, without any of the management or the distance or the professional frameworks he'd been using to keep himself from receiving it fully.
 
-He was ready to receive it fully.
-
-He was, he thought, finally ready.
-
 Saturday morning, before the sun was up, he was at the red gate.
 
 He'd come out early, in the specific dark of pre-dawn Texas, with his coffee in his hand and his worn boots on his feet, the last pair, the ones that had made it through six loops, and he stood at the gate with his hand on the top rail.
@@ -198,7 +194,7 @@ The kitchen light was on. Sarah was up, she was always up first, keeping the hou
 
 He stood at the gate and looked at the house and thought about what was on the other side of the gate.
 
-Six years of work. The fence lines he'd built and maintained. The wells he'd serviced. The barn roof and the tractor belt and the thousands of small repairs that a working ranch required. The meals at the table and the drives to school and the evenings on the porch and the specific quality of the quiet that existed between him and Sarah when they were both present for it.
+Six years of work. The fence lines he'd built and maintained. The wells he'd serviced. The barn roof and the tractor belt and the thousands of small repairs that a working ranch required. The meals at the table and the drives to school and the evenings on the porch and the quality of the quiet that existed between him and Sarah when they were both present for it.
 
 His boys upstairs, sleeping in their beds in the house he'd helped build on land he'd chosen and that had been choosing him back, in the specific way that land chose you if you were willing to be chosen.
 
