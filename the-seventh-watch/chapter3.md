@@ -4,11 +4,11 @@
 
 The first thing Sarah noticed was that he was awake before she was.
 
-This was not, by itself, remarkable. Grant was an early riser, had been since the Army, which had trained the early-morning habit into him so thoroughly that even now, six years out of law enforcement and twelve years out of the military, his body considered 0500 a reasonable time to be operational. But there was a difference between the quality of his early-morning waking and what she was experiencing in the days after the first white-out, and the difference was this: he wasn't waking up early. He was waking up and not going back to sleep and not getting up either, just lying there in the specific rigid stillness of a man who was managing something.
+This was not, by itself, remarkable. Grant was an early riser, had been since the Army, which had trained the early-morning habit into him so thoroughly that even now, six years out of law enforcement and twelve years out of the military, his body considered 0500 a reasonable time to be operational. But there was a difference between the quality of his early-morning waking and what she was experiencing in the days after the first white-out, and the difference was this: he wasn't waking up early. He was waking up and not going back to sleep and not getting up either, just lying there in the rigid stillness of a man who was managing something.
 
 She knew that stillness. She had been sleeping beside it for fifteen years.
 
-She didn't say anything. She lay in the dark beside him and listened to him not sleep and thought about what she'd seen when she'd come to the porch door to call him for dinner on Friday evening: the specific quality of his face when he'd looked up at her, which was the quality of a face that had been somewhere and come back and was not yet fully back. She had seen that face before, after deployments, after bad shifts, after the three or four moments in their marriage that had required him to do things that cost something. She knew that face.
+She didn't say anything. She lay in the dark beside him and listened to him not sleep and thought about what she'd seen when she'd come to the porch door to call him for dinner on Friday evening: the quality of his face when he'd looked up, which was the quality of a face that had been somewhere and come back and was not yet fully back. She had seen that face before, after deployments, after bad shifts, after the three or four moments in their marriage that had required him to do things that cost something. She knew that face.
 
 This was different from those times.
 
@@ -16,7 +16,7 @@ Those times the face had been tired in a way that was moving toward recovery. Th
 
 She went back to sleep.
 
-In the morning he was at the fence before she had her coffee made. She watched him from the kitchen window, the post driver going up and coming down, the patient repetition of a man doing work that needed doing, and she thought about the palms of his hands, which she had seen when he'd washed up at the sink, the specific raw abrasion of a fall on a hard surface.
+In the morning he was at the fence before she had her coffee made. She watched him from the kitchen window, the post driver going up and coming down, the patient repetition of a man doing work that needed doing, and she thought about the palms of his hands, which she had seen when he'd washed up at the sink, the raw abrasion of a fall.
 
 He had not fallen on any hard surface she knew about.
 
@@ -28,7 +28,7 @@ He turned back to the wire.
 
 She went inside and thought about his hands.
 
-That evening she took the work shirt he'd been wearing on Friday out of the laundry hamper. She had been going to put it in the wash. Instead she held it up to the window in the specific way she held pieces of wood up to the window when she was examining their grain. The collar was dusty. Not the reddish-brown clay of the caliche road or the tan of the Hill Country soil. Pale dust, almost white, packed into the cotton weave with the specific density of something that had been there for hours rather than something that had blown on in a moment of wind.
+That evening she took the work shirt he'd been wearing on Friday out of the laundry hamper. Instead she held it up to the window the way she held pieces of wood when examining grain. The collar was dusty. Not the reddish-brown clay of the caliche road or the tan of the Hill Country soil. Pale dust, almost white, packed into the cotton weave with the density of something that had been there for hours rather than something that had blown on in a moment of wind.
 
 She pinched a small amount of it between her fingers.
 
@@ -54,7 +54,7 @@ On Monday he fixed the barn roof. On Tuesday he replaced the truck's brake calip
 
 On Wednesday afternoon she went to the university extension lab website and submitted the dust sample.
 
-On Thursday he sat on the porch in the mid-afternoon and she brought him coffee and she looked at his hands, healing now, the raw skin closing, but the marks clear and distributed in the specific pattern of a fall on a very hard surface, and she thought about what surfaces were that hard.
+On Thursday he sat on the porch in the mid-afternoon and she brought him coffee and she looked at his hands, healing now, the raw skin closing, but the marks clear and distributed in the pattern of a fall on hard stone, and she thought about what surfaces were that hard.
 
 Stone. Ancient stone. The kind that had been worn smooth by the passage of centuries.
 
@@ -90,9 +90,7 @@ The scheduler said: "We have a Thursday opening."
 
 She took the Thursday opening.
 
-She went back inside and made dinner and set the table and called the boys down and said nothing to any of them about the forty seconds at the kitchen counter or about the dust sample or about the specific quality of terror that had moved through her when she'd looked at her husband's face and seen nobody home.
-
-She was good at managing what she was feeling until she knew what she was feeling about. She had learned this over fifteen years. The managing was not the same as the not-feeling. She was feeling a great deal. She was managing it until she had more information.
+She went back inside and made dinner.
 
 She set a plate in front of Grant.
 
