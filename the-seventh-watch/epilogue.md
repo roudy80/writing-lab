@@ -108,9 +108,7 @@ She said: "And you?"
 
 He looked at the garden. At her hands in the soil. At the cedar ridge and the pasture and the creek draw and the red gate at the end of the drive. At all of it, the specific ordinary world he'd built and maintained and come back to, seven times across six months, always finding it here.
 
-He was at rest.
-
-Not at peace, not in the sense of finished and settled and resolved, because grief didn't finish and the scars on his hands were real and the morning in Ramadi had still happened. But at rest. The specific rest of a man who had been carrying something for a long time and had put it down in a specific place on a specific afternoon in a specific year, and who had come home to find that everything was still here, still requiring his care and his showing up and his presence, and who was ready to give all of it, not because he owed it but because it was the thing worth choosing.
+He was at rest. Not at peace, not finished. At rest. The specific rest of a man who had put something down and come home to find everything still here, still requiring his care, and who was ready to give it, not because he owed it but because it was the thing worth choosing.
 
 He said: "I'm good."
 
