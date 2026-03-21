@@ -8,15 +8,11 @@ Cedar posts dry and crack in a Texas summer, and by fall they've shifted enough 
 
 He'd started this particular section the week before but gotten pulled away by the water heater and then the truck's front brake caliper and then the general entropy of a working ranch in October, which had a way of generating new problems faster than you could address the old ones. The three soft posts he'd flagged on Monday were still soft on Thursday when he finally got back to them, punky at the base, the wood pale and wet-looking even after a dry summer, the particular decomposition of cedar that had been in the ground too long in soil that stayed damp from the creek draw. He drove new posts beside the old ones, working the driver with the methodical patience that the job required.
 
-The back forty ran along a shallow creek draw, the land dropping maybe eight feet from the pasture level to a strip of mixed grass and cedar scrub before leveling out again. In spring the draw ran with actual water, a slow brown trickle that appeared sometime in February and stayed through May if the rains were decent, and the cattle preferred it to the trough the way cattle always preferred a natural source, the way anything preferred the original over the reproduction. In summer it dried out and the cattle moved back to the trough, and the birds that had been using the water moved somewhere else, and the cedar scrub along the draw went from green to the dusty blue-gray of cedar in a drought.
-
-But October was between the two. The draw was dry but the soil held the memory of water, which was why the posts had rotted here first.
+The back forty ran along a shallow creek draw, the land dropping maybe eight feet from the pasture level to a strip of mixed grass and cedar scrub. In spring the draw ran water. October it was dry but the soil held the memory of it, which was why the posts had rotted here first.
 
 He worked methodically, the way he worked everything. Post driver up, body into the drive, feel the post seat in the earth, check the plumb with his eye, move three feet down the line. He'd been doing this kind of work long enough that his body managed the mechanics without much consultation from his mind, the hands knowing the weight of the driver and the resistance of different soils and the specific feel of a post that had found purchase versus one that was going in crooked. This was the kind of knowledge that lived in the hands. His father had told him that when Grant was twelve years old, helping on his grandfather's place in the hill country north of Kerrville. Knowledge that lives in the hands is the only knowledge that doesn't abandon you when things go wrong.
 
 He'd been carrying that since he was twelve.
-
-He'd been carrying a lot of things since various ages.
 
 The mockingbird in the cedar draw was into its third hour of performance when he heard the back gate, which meant Sarah was coming. He turned to look and she was crossing the pasture in her barn boots, the old ones she kept on the mat by the back door, the ones she'd had since before they were married and that she refused to replace because they had finally, she said, become comfortable, with a mug in each hand and her hair still loose from sleeping. She moved through the wet grass without looking at her feet, holding both mugs level, not spilling. The morning light was coming at a low angle from the east and it caught in her hair and in the dew on the grass around her boots and for a moment he just watched.
 
@@ -28,11 +24,11 @@ The red gate at the end of the drive caught the early light and held it.
 
 They'd painted it red when they moved in, the specific red of a Texas sunset at its most theatrical, a deep brick red that was visible from the county road in any light. Every other gate on this stretch of county road was black iron or rusted cattle-panel or just a gap with a cattle guard, and Sarah had said: we need people to know where to turn. He'd been skeptical. He was constitutionally suspicious of conspicuousness, the specific military-trained preference for not being noticed. But she was right that it helped people find them, and over the years the gate had become something else in his accounting, less a landmark than a marker, the place where the county road ended and his property began, the line between the world moving past out there and the world they'd made in here.
 
-He watched the morning light on it and thought about what was on the other side of it.
+He watched the morning light on it.
 
-He thought this every morning, more or less. It was a habit he'd developed without noticing he was developing it, the specific gratitude of a man who had been in enough places where there was no gate, no property, no particular place that was his. He'd spent eight years in the military and twelve years in law enforcement and in all of those years the constants had been task and team, not place. The place changed. The work stayed the same. He'd been good at the work, and the work had made him good at certain things and had cost him other things, and he'd come out the other end of it with a ranch in the Hill Country and a wife who brought him coffee in wet grass and two boys upstairs who were becoming men he liked, and he knew that this was the thing he'd been looking for through all the years of the work without quite knowing what he was looking for.
+He'd spent eight years in the military and twelve more in law enforcement. The constants had been task and team, not place. He'd come out the other end with a ranch in the Hill Country, a wife who brought him coffee in wet grass, and two boys upstairs becoming men he liked.
 
-He was, Grant thought, a lucky man.
+He was a lucky man.
 
 "You're the man I can count on," Sarah said eventually.
 
@@ -42,17 +38,15 @@ He knew exactly when she'd first said it.
 
 Three years ago, before his last consulting deployment, he'd gone back out as a civilian contractor, one more tour for the money and because he hadn't quite believed he was done yet, because stopping had felt at the time like admitting something he wasn't ready to admit. She'd been standing on the front steps in the predawn dark with her hands on his chest, looking at him in the way she looked at him when she was being fully present rather than managing the situation, which was two different things. She'd said: you're the man I can count on.
 
-He had taken it as strength. As the sending-off. As the declaration that sustained you in the dark middle part of deployments when the rational case for being there had been worn away by exhaustion and boredom and the specific grinding weight of being a long way from the people who knew you.
+He had taken it as strength. As the sending-off. As the declaration that sustained you in the dark middle part of deployments when the rational case for being there had been worn away by exhaustion and boredom.
 
 He'd taken it as a gift and turned it into a debt.
 
-He understood that now, or was beginning to understand it, the understanding was still assembling itself, had been assembling since the thing with the convoys and Miller, was still not complete. But he had the shape of the mistake. He had received her words and instead of letting them be what they were, a statement of love, a recognition of who he was, a simple and generous fact, he had turned them into a standard, a bill, an obligation he was required to continuously meet. Every fence he mended. Every problem he fixed. Every morning he was at the fence line before the dew was off the grass. All of it, under the competence and the love, had been the paying of a debt.
-
-He hadn't examined that yet. Not fully. He was moving toward the full examination the way you moved toward an objective in uncertain terrain, carefully, knowing you didn't have complete intelligence about what was waiting.
+Every fence he mended. Every problem he fixed. Every morning at the fence line before the dew was off the grass. All of it, under the competence and the love, had been the paying of something. He hadn't fully examined that yet. He was moving toward it the way you moved toward an objective in uncertain terrain.
 
 He turned back to the wire.
 
-Above the back pasture a hawk was working the thermals off the cedar ridge to the east, the broad wings set in the specific fixed geometry of soaring flight, riding the invisible ascending air with the economy of something that had been doing this its entire life and had reached the stage where doing it required nothing beyond the willingness to stay in the position. Not hunting. Just riding. Staying up because staying up was available and it was in the hawk's nature to take what was available.
+Above the back pasture a hawk was working the thermals off the cedar ridge, broad wings in the fixed geometry of soaring flight, riding invisible air with the economy of something that had been doing this its entire life. Not hunting. Just riding. Staying up because staying up was available and it was in the hawk's nature to take what was available.
 
 Grant watched it for longer than he meant to.
 
@@ -64,17 +58,15 @@ He drove back to the barn and unloaded and rinsed the mud off his boots at the s
 
 Sarah was at the kitchen table with her laptop and a second cup of coffee, turning a piece of raw cedar in her hands while she looked at something on the screen. She did this, handled the material while she thought about it, her hands learning the specific character of a piece of wood before she decided what it wanted to become. He'd watched her do it for fifteen years across dozens of furniture projects, and there was still something in it that interested him, the way she brought her whole body into the problem rather than just her eyes and her mind.
 
-The furniture business had been her idea and her execution and had grown in the five years since she'd started it from a side project into a real income, the kind of money that had changed the arithmetic of the ranch from slightly impossible to solidly possible. She built tables and chairs and shelving out of cedar and oak and occasionally walnut, simple pieces with the specific quality of things made by someone who understood the material rather than imposing an idea onto it. People who bought her work tended to come back.
-
 "South fence is done," he said.
 
 "I know," she said, without looking up. "I watched from the window."
 
 He refilled his coffee. The boys would be up in an hour and the day would shift into its higher gear, louder and faster and full of the specific variables of two teenagers, and this quiet would be gone until tomorrow. He had learned to notice the quiet before it ended.
 
-He took his coffee to the back porch and sat in the chair he'd positioned when they moved in to give him a view of three sides of the property. The habit. He couldn't stop watching exits even after all these years of no longer needing to watch exits, and Sarah had simply built their life around the fact that he watched them, had never once asked him to move the chair or to stop doing the thing that his body needed to do in order to feel settled.
+He took his coffee to the back porch and sat in the chair he'd positioned when they moved in to give him a view of three sides of the property. The habit. Sarah had simply built their life around the fact that he watched exits, never asked him to move the chair.
 
-He sat in the chair and looked at the pasture and the creek draw and the cedar ridge and the sky moving over all of it in the particular way of a clear October morning, and at some point in the warmth of mid-morning, with the coffee long since gone cold in his hand, he fell asleep.
+He sat in the chair and looked at the pasture, the creek draw, the cedar ridge. At some point, coffee cold in his hand, he fell asleep.
 
 He did not remember falling asleep.
 
@@ -88,7 +80,7 @@ The ringing came immediately after: a high sustained tone sitting directly behin
 
 Then the smell.
 
-Sulfur. Cordite. The specific chemical signature of an IED detonation, not the clean smell of range ammunition or a controlled demo charge but the dirty burn of an improvised device, the smell that had lived in his sinuses for months after Ramadi and that he sometimes still caught at the back of his throat on certain mornings, ghost evidence of a thing that had happened years ago and that his body had filed under permanent.
+Sulfur. Cordite. The dirty burn of an IED, not range ammunition, not a clean demo charge, but the improvised kind, the smell that had lived in his sinuses for months after Ramadi and that his body had filed under permanent.
 
 His feet found a surface.
 
@@ -96,11 +88,11 @@ Not the porch planking. Not wood.
 
 Stone.
 
-He came up out of whatever he'd been in the way he came up out of flashbacks, fast, body already in motion before his thinking mind had fully engaged, hand going for the weapon at his right hip that wasn't there, feet finding purchase on a surface that was absolutely solid and absolutely wrong. He completed a full 360-degree turn, the threat-assessment spin that had been drilled into him in the early years and that he still performed automatically in any situation of sudden disorientation, before his thinking mind caught up to his body and told it: stop. Assess.
+He came up out of it the way he came up out of flashbacks, fast, hand going for the weapon that wasn't there, feet finding a surface that was solid and wrong. He completed a full 360-degree turn, the threat-assessment spin that had been drilled into him in the early years and that he still performed automatically in any situation of sudden disorientation, before his thinking mind caught up to his body and told it: stop. Assess.
 
 He assessed.
 
-Stone. Ancient stone, worn smooth in the center of each fitted piece and rough at the edges where it met other pieces, laid without mortar in the pattern of dry masonry that his mind associated with very old construction, the pre-modern construction of people who had learned to build before they had steel or concrete. The street, it was a street, unmistakably, the geometry of a thoroughfare with buildings on both sides, ran maybe eight feet wide between walls that rose two stories, mud-brick on stone foundations, lime-washed in the way of walls that had been lime-washed for so long the white was more a residue than an application, the surface stained and worn and weathered into something that was the record of many decades of maintenance.
+Stone. Ancient stone, worn smooth in the center of each fitted piece and rough at the edges where it met other pieces, laid without mortar in the pattern of dry masonry that his mind associated with very old construction, the pre-modern construction of people who had learned to build before they had steel or concrete. The street ran maybe eight feet wide between walls that rose two stories, mud-brick on stone foundations, lime-washed so long the white was more residue than application, stained and worn into the record of many decades.
 
 He stood absolutely still and ran his full inventory.
 
@@ -110,7 +102,7 @@ Hands: empty. No weapon. No radio. No phone. He checked his pockets: pocket knif
 
 He breathed.
 
-The smell of the street was layered in a way that had no equivalent in his experience and that his brain kept trying to sort into familiar categories and kept failing. Animal: not distant, not barnyard-general, but the specific close ammoniated warmth of large working animals that had been here recently, donkey or mule, the smell of animals that lived with people and moved through streets. Smoke: not wood smoke, not the charcoal smoke of American backyard cooking, something else, oil burning or dried dung, the fuel of people who used what was available. Bodies: the collective human smell of people living in close quarters without the interventions of modern sanitation, not rank but dense, the specific atmosphere of many human beings sharing a small space and doing it the way human beings had done it for most of human history, which was without the luxury of much distance from each other. And underneath all of it, catching him in intermittent gusts, something aromatic and deliberate, incense, or spice, or both, something being burned on purpose for a reason he couldn't identify from here.
+The smell of the street was layered in a way that his brain kept trying to sort into familiar categories and kept failing. Animal: the close ammoniated warmth of working animals that had been here recently. Smoke: not wood smoke but something else, oil or dried dung. Bodies: the collective human smell of people living close without modern sanitation, not rank but dense, total. And underneath all of it, catching him in gusts, something aromatic and deliberate, incense or spice, something being burned on purpose.
 
 People were in the street. He counted without appearing to count, the old skill. Fourteen visible from his current position, distributed along the uphill section of the street, moving with the directional purpose of people who knew where they were going. Most of them going uphill. A woman in a layered garment with a clay vessel balanced on her head, not looking at her feet, the balance perfect and automatic. Two men in conversation, hands moving in the universal grammar of emphasis. A child running barefoot on the stone with the specific confidence of someone for whom these stones had been the floor of their entire known world.
 
@@ -120,11 +112,7 @@ He was very large, very wrong in clothing, and obviously foreign in a way that w
 
 He checked his watch. The face said 7:14. He looked at the sun angle, the light was coming in from above and slightly behind him, which meant he was roughly facing west, and the sun was at maybe forty-five degrees of elevation, which put the time at mid to late morning. The watch was wrong. He didn't trust it.
 
-He began to assess the environment in the systematic way he'd been trained to assess environments, the way that had become as natural as breathing over twenty years.
-
-The architecture: consistent with pre-industrial Middle Eastern urban construction. The dress of the people in the street: consistent with first-century Levantine dress as he'd seen it in archaeological reconstructions and museum displays. The specific smell profile: consistent with a premodern city without sewage infrastructure. No vehicles. No electrical infrastructure. No signs in any alphabet he recognized as modern.
-
-The sound: beneath the ambient noise of the street, coming from uphill, the specific acoustic signature of a large crowd that had organized itself around something, not the uniform noise of a crowd moving in one direction, but the shaped noise of a crowd attending to a center, the sound bending toward a point rather than spreading outward.
+The sound: beneath the ambient noise of the street, coming from uphill, the acoustic signature of a large crowd that had organized itself around something, not the uniform noise of a crowd moving in one direction, but the shaped noise of a crowd attending to a center, the sound bending toward a point rather than spreading outward.
 
 And cutting through the crowd noise, from the same uphill direction, a voice.
 
@@ -132,11 +120,11 @@ He'd expected loud. If you were working a crowd of that density you projected, y
 
 He moved uphill.
 
-Not because he had a plan. Because information was what he needed and the voice was information and the crowd was information and standing still in an unfamiliar environment with his specific profile was the worst available option.
+Not because he had a plan. Because information was what he needed and the voice was information and the crowd was information and standing still in an unfamiliar environment with his profile was the worst available option.
 
-He moved through the crowd with the body language he'd developed for hostile-environment navigation: purposeful, directional, taking up appropriate space without aggression, communicating through posture that he had a destination and was moving toward it. People adjusted around him. He got to the front edge of the crowd within two minutes and stopped.
+He moved through the crowd with the body language of hostile-environment navigation: purposeful, taking up appropriate space without aggression. People adjusted around him. He got to the front edge of the crowd within two minutes and stopped.
 
-A corridor had opened in the street ahead of him. Not organized, no crowd management, no barriers, no direction from anyone. The crowd had simply opened itself, on both sides, as though the opening were the most natural thing, as though this was what you did. On both sides of the corridor people were pressing inward rather than outward, leaning toward the open space, and some of them were weeping in a way that was not grief and some of them had expressions that Grant's twenty years of reading faces under pressure had not prepared him to categorize.
+A corridor had opened in the street ahead of him. Not organized, no crowd management, no barriers, no direction from anyone. The crowd had simply opened itself, on both sides, as though the opening were the most natural thing, as though this was what you did. On both sides people were pressing inward, leaning toward the corridor, and some were weeping in a way that was not grief, with expressions that Grant's twenty years of reading faces had not prepared him to categorize.
 
 Palm branches. Everyone had them. Fresh-cut, still green, the cut ends pale. People were waving them overhead, holding them out over the corridor, some of them spreading them on the ground in the path.
 
@@ -144,11 +132,11 @@ And moving through the corridor: a man on a donkey.
 
 Grant looked at the man.
 
-He'd grown up in a church. He'd had the Sunday school room with the painting of this scene on the wall, warm colors, soft light, the artistic conventions of a 1970s religious painting, everyone serene and approximately Caucasian. He'd looked at that painting for twelve years of childhood attendance and had achieved the specific not-seeing that you achieved with images that were too familiar to register. Wallpaper. Background.
+He'd grown up in a church. He'd had the Sunday school room with the painting of this scene on the wall, warm colors, soft light, the artistic conventions of a 1970s religious painting, everyone serene and approximately Caucasian. He'd looked at that painting for twelve years of childhood attendance and had achieved the not-seeing that you achieved with images that were too familiar to register. Wallpaper. Background.
 
 This was not a painting.
 
-He looked at the face of the man on the donkey and his professional frameworks failed him in sequence. Not dangerous: the face had no aggression, no concealment, nothing Grant had been trained to flag. Not afraid: no contraction, no bracing, no the specific internal collapse that showed up in a face when the situation had become more than the person could manage. Not performing: no distance between the face and what it was expressing, no layer of management between the interior state and the surface.
+He looked at the face of the man on the donkey and his professional frameworks failed him in sequence. Not dangerous: the face had no aggression, no concealment, nothing Grant had been trained to flag. Not afraid: no contraction, no bracing, no the internal collapse that showed up in a face when the situation had become more than the person could manage. Not performing: no distance between the face and what it was expressing, no layer of management between the interior state and the surface.
 
 What the face had was the open undefended quality of a person who had made a decision so completely that they no longer needed to protect the decision. The quality of someone who had gone past the point where protection was the relevant concept. It was the quality Grant had seen occasionally in people who had faced something enormous and had decided, fully and without reservation, to meet it, had made the decision so completely that the decision had become who they were rather than something they were doing.
 
@@ -176,11 +164,11 @@ The second soldier was at the mouth of the third alley.
 
 He tried to reverse. The first soldier was there.
 
-He went to ground, the training, the specific training of a man who had been detained before and who knew that compliance was the correct tactic when you were outnumbered and unarmed and had nothing to gain from resistance. Hands up, body sideways for minimum harm, voice making the universal sounds of non-threat.
+He went to ground, the training, the training of a man who had been detained before and who knew that compliance was the correct tactic when you were outnumbered and unarmed and had nothing to gain from resistance. Hands up, body sideways for minimum harm, voice making the universal sounds of non-threat.
 
 He got his hands up.
 
-Then the first soldier hit him from behind with the efficiency of a man who had done this before and Grant went down on the ancient stone street, palms first, the specific burning tear of skin on stone, then the heel of his left hand and then his shoulder hitting and then the full weight of a soldier in full kit landing on his back and driving the air out of him.
+Then the first soldier hit him from behind with the efficiency of a man who had done this before and Grant went down on the ancient stone street, palms first, the burning tear of skin on stone, then the heel of his left hand and then his shoulder hitting and then the full weight of a soldier in full kit landing on his back and driving the air out of him.
 
 The stone was not forgiving.
 
@@ -198,7 +186,7 @@ The chair. The pasture. The cedar ridge.
 
 The light on the grass was the long gold light of late afternoon. He'd been gone for most of the day.
 
-He sat in the porch chair and didn't move for several minutes. He sat very still the way he sat still after a flashback, his body confirming the specific details of the current environment, the wood of the armrests, the specific sound of the ranch in the late afternoon, the smell of cedar and dried grass and the distance of cooking from the kitchen, confirming that this was real, that this was where he was, that the other place was gone.
+He sat in the porch chair and didn't move.
 
 He looked at his hands.
 
@@ -210,19 +198,15 @@ It hurt.
 
 He held onto that. Physical evidence. Verifiable. His body had been somewhere that was not the porch chair in Central Texas.
 
-He sat on the porch and held his own hand and let the afternoon go toward evening around him. The coyotes started in the middle distance. The kitchen light came on. The specific sound of Sarah making dinner came through the screen door, the radio at low volume, the cabinet doors, the sound of water, the orchestration of their kitchen at the end of the day.
+He sat on the porch and let the afternoon go toward evening. The coyotes started in the middle distance. The kitchen light came on.
 
 He did not go inside.
 
-He sat in the chair and looked at the red gate in the distance, the gate still there, still red, the county road still empty behind it, the world outside the gate still going about its business, and he thought about what had happened to him with the specific effort of a man trying to build a rational structure around an irrational datum.
-
-He could not build one.
-
-He tried every framework he had, medical, psychological, the loose theological category of a man who had been to church most of his life without studying the material seriously. None of them fit. This had the weight of real. This had been real in the way that the porch chair was real and the scarred palms were real and the pale dust in the lines of his hands was real. You could not hallucinate a smell that specific or an impact that hurt that much.
+He tried every framework he had. None fit.
 
 He had been somewhere.
 
-Sarah appeared in the back doorway. She looked at him. Not at his hands, she hadn't seen his hands yet, but at his face, with the specific attention she brought to reading him. She said: "You eating?"
+Sarah appeared in the back doorway. She looked at him. Not at his hands, she hadn't seen his hands yet, but at his face, with the attention she brought to reading him. She said: "You eating?"
 
 He said: "Yeah. Be right in."
 
@@ -232,11 +216,11 @@ He went to the spigot and ran cold water over his palms and watched the pale dus
 
 He dried his hands on his jeans and went inside.
 
-He sat at the dinner table and talked to his boys and ate the food Sarah put in front of him and did not say one word about any of it. Not because he was hiding it. Because he didn't have language for it yet, and the man she could count on didn't bring things to the table that he couldn't account for. He would find the language. He would account for it. Then he would tell her.
+He sat at the dinner table and talked to his boys and ate the food Sarah put in front of him and did not say one word about any of it.
 
 He washed the dishes. He helped Noah with geometry. He went to bed.
 
-He lay in the dark with his bandaged palms, he'd cleaned and dressed the abrasions in the bathroom with the door shut, and he stared at the ceiling and thought about the face on the man on the donkey. Not about the tactical situation, not about the soldiers. The face. The specific quality of it. The open undefended thing he didn't have a category for.
+He lay in the dark with his bandaged palms, he'd cleaned and dressed the abrasions in the bathroom with the door shut, and he stared at the ceiling and thought about the face on the man on the donkey. Not about the tactical situation, not about the soldiers. The face. The open undefended thing he didn't have a category for.
 
 He thought about it for a long time.
 
@@ -248,13 +232,9 @@ He fell asleep eventually, badly, and came up twice in the night with his hand m
 
 He went back to the fence in the morning because the fence needed finishing and because the alternative, staying in the house trying to explain what had happened, was worse. Work organized him. Work had always organized him when other things didn't.
 
-He drove the last staples and coiled the wire and stood at the finished section and checked it. Everything held. He loaded his tools and drove back to the barn and unloaded them with the specific care of a man who maintained his tools because well-maintained tools were the difference between a job that was possible and a job that wasn't.
+He drove the last staples and coiled the wire and stood at the finished section and checked it. Everything held. He loaded his tools and drove back to the barn and unloaded them with the care of a man who maintained his tools because well-maintained tools were the difference between a job that was possible and a job that wasn't.
 
 He stood at the barn and looked at the ranch.
-
-Six years they'd been here. He'd been thirty-eight when they bought it, the specific age when the accumulated damage of a military and law enforcement career started to become undeniable, when the knee and the shoulder and the back began to vote as a bloc on certain proposals. He'd been living in the body of a man who had used his body as a tool for twenty years and it showed. The land had felt like the right answer to a question he hadn't known he was asking. The specific physicality of a ranch, the daily work of it, the maintenance and the feeding and the fixing and the building, gave him a way to use the same skills that combat had built in him, the same patience and the same attention to consequence and the same willingness to be in discomfort in service of a result, without any of the moral weight of combat.
-
-He had been good at the military and he had been good at law enforcement and he had come out the other side of both of them with a specific knowledge of what he was good at and a less specific knowledge of who he was. The ranch was where he was finding out who he was.
 
 He thought: I have been to Jerusalem. Something took me there. It is going to take me there again.
 
@@ -268,13 +248,13 @@ He was good at being somewhere else in his head. He'd been doing it for twelve y
 
 He took the boys to the creek on Thursday afternoon, just walked down there with them after school, no agenda, the three of them in the water in the warm-enough-still October afternoon, the boys throwing rocks at things and arguing about something that was partly about a video game and partly about a girl Caleb wasn't admitting was a girl. He waded in up to his knees with his jeans rolled up and stood in the current and felt the cold of the Hill Country water and thought about stone streets and palm branches.
 
-At night he lay in the dark and thought about Jerusalem and about the specific quality of the face on the man on the donkey and about Miller.
+At night he lay in the dark and thought about Jerusalem and about the face on the man on the donkey and about Miller.
 
-He thought about Miller more nights than not. He had a set of habits around this, ways of approaching the memory at angles rather than directly, the way you looked at something very bright, through the peripheral vision, because the direct view was too much. He could think about Miller in certain modes: the professional mode, the collegial mode, the mode of remembering a good soldier and a good man. What he couldn't do without significant internal effort was think about the morning in Ramadi, the specific mechanics of that morning, the seat trade and the pressure plate and the right rear wheel well.
+He thought about Miller more nights than not. He had a set of habits around this, ways of approaching the memory at angles rather than directly, the way you looked at something very bright, through the peripheral vision, because the direct view was too much. He could think about Miller in certain modes: the professional mode, the collegial mode, the mode of remembering a good soldier and a good man. What he couldn't do without significant internal effort was think about the morning in Ramadi, the mechanics of that morning, the seat trade and the pressure plate and the right rear wheel well.
 
 He had tried to find the angle that let him look at that directly and had not found it in twelve years.
 
-He lay in the dark and thought about the face on the man on the donkey and he thought about Miller and he thought about Sarah's words before the deployment and he thought: these things are connected. I don't know how yet. But they're connected.
+He lay in the dark and thought about the face and about Miller and about Sarah's words, and he thought: these things are connected.
 
 Friday at 2:58 PM he was at the kitchen sink washing his hands when the white came.
 
@@ -288,15 +268,15 @@ It didn't help.
 
 The morning started with the coffee being wrong.
 
-Not bad, exactly, bad would have been a thing worth remarking on, worth organizing a complaint around. The coffee was just wrong in the specific way of coffee that had been made by someone running on four hours and who had put the grounds in the filter basket with the inattention of a man performing a task for the six hundredth time and who had stopped checking whether he was doing it right. It tasted like warm brown water. It tasted like the idea of coffee rather than coffee. Specialist Tran had made it and Tran had been on the last watch and Tran's hands were doing things his brain had long since stopped supervising.
+Not bad, exactly, bad would have been a thing worth remarking on, worth organizing a complaint around. The coffee was just wrong in the way of coffee that had been made by someone running on four hours and who had put the grounds in the filter basket with the inattention of a man performing a task for the six hundredth time and who had stopped checking whether he was doing it right. It tasted like warm brown water. It tasted like the idea of coffee rather than coffee. Specialist Tran had made it and Tran had been on the last watch and Tran's hands were doing things his brain had long since stopped supervising.
 
 Nobody said anything about the coffee. You drank what was there.
 
-Grant drank his standing at the edge of the vehicle bay in the specific posture of a man who was awake but whose body hadn't yet committed to the proposition. The bay smelled of diesel and hot metal and the particular funk of equipment that had been used hard in extreme heat and cleaned imperfectly and used hard again. It was a smell he associated so completely with the start of operations days that he had stopped registering it as a smell and had started registering it as a condition, like weather. You didn't smell the diesel. You were in the diesel.
+Grant drank his standing at the edge of the vehicle bay in the posture of a man who was awake but whose body hadn't yet committed to the proposition. The bay smelled of diesel and hot metal and the particular funk of equipment that had been used hard in extreme heat and cleaned imperfectly and used hard again. It was a smell he associated so completely with the start of operations days that he had stopped registering it as a smell and had started registering it as a condition, like weather. You didn't smell the diesel. You were in the diesel.
 
 0600. The light outside was doing the thing the light did in March, coming in low and gold and turning the dust into something almost beautiful before the sun got high enough to turn it into just dust again. Jesse Miller was already outside. Grant could see him through the bay door, sitting on the hood of the second Humvee with his legs hanging down and his coffee mug in both hands and his eyes on the rooftops of the buildings to the east. Miller liked the morning light. He had said this once and the rest of them had filed it under the category of things Miller said that were true but that you would not have thought to say yourself.
 
-Kelso was going through the manifest on a clipboard. He did this every operation morning, every time, the same systematic check of the same items in the same order, the specific ritual of a man who had been doing this long enough to understand that the day the ritual felt unnecessary was the day something would be missing. Grant watched him without watching him, the peripheral attention of a man who was aware of everything in the space without directing his attention at any of it specifically.
+Kelso was going through the manifest on a clipboard. He did this every operation morning, every time, the same systematic check of the same items in the same order, the ritual of a man who had been doing this long enough to understand that the day the ritual felt unnecessary was the day something would be missing. Grant watched him without watching him, the peripheral attention of a man who was aware of everything in the space without directing his attention at any of it specifically.
 
 There was a letter.
 
@@ -308,13 +288,13 @@ He was looking at the rooftops with the patient look he had for things that were
 
 Miller said: "Roger that."
 
-He didn't move for another minute. He finished looking at whatever he was looking at, which was either the rooftops or the light on the rooftops or the specific quality of the morning that he had an opinion about that the rest of them mostly didn't. Then he got off the hood and stretched his neck side to side and picked up his kit from the ground beside the wheel well.
+He didn't move for another minute. He finished looking at whatever he was looking at, which was either the rooftops or the light on the rooftops or the quality of the morning that the rest of them mostly didn't. Then he got off the hood and stretched his neck side to side and picked up his kit from the ground beside the wheel well.
 
 Grant went to the truck to get his notebook.
 
 He had a small green notebook, the kind with the cloth spine, the kind sold in office supply stores for a dollar fifty, that he'd been keeping since his first deployment. Not a journal. He didn't keep a journal. He kept fragments: a sentence he'd been working on, a connection between two things he'd noticed, a detail about the environment that he wanted to hold onto because it was the kind of detail that described something true about a place and that would disappear from his memory if he didn't write it down. His first sergeant had given him grief about it in the early years. He had kept it anyway. The first sergeant was retired in Clarksville now and Grant still had the habit.
 
-He'd been trying since yesterday morning to write down a sentence about the light. About what Miller had said, *it's the only hour it looks like itself*, and about the specific thing that meant. He hadn't found the words yet. He was going to try in the vehicle.
+He'd been trying since yesterday morning to write down a sentence about the light. About what Miller had said, *it's the only hour it looks like itself*, and about what that meant. He hadn't found the words yet. He was going to try in the vehicle.
 
 He wanted to be up front for the quiet.
 
@@ -334,7 +314,7 @@ He'd been going to write the sentence about the morning light.
 
 He had the notebook open on his knee.
 
-The city was doing its morning thing. Ramadi in the morning had a specific quality that was different from Ramadi at any other hour, not better or worse, just specific. The shutters were coming open on the storefronts and the bread sellers were setting up on the corners and the children who were going to school were going to school and the ones who weren't were already in the streets doing whatever it was they did, which was mostly standing around and watching things with the specific quality of attention of children who had learned early that watching things carefully was a useful skill.
+The city was doing its morning thing. Ramadi in the morning had a quality different from Ramadi at any other hour. The shutters were coming open on the storefronts and the bread sellers were setting up on the corners and the children who were going to school were going to school and the ones who weren't were already in the streets doing whatever it was they did, which was mostly standing around and watching things with the attention of children who had learned early that watching things carefully was a useful skill.
 
 Miller's voice from the right rear, to nobody in particular: "Kid at eleven o'clock has a new jacket."
 
@@ -394,7 +374,7 @@ Kelso's hands on his arm. The specific quality of Kelso's grip, which was the gr
 
 He was outside the vehicle.
 
-The dust was still in the air. The dust that a pressure wave lifted and that hung for longer than you expected, longer than seemed physically reasonable, the specific fine dust of a Ramadi street that went up and came down slowly and in the meantime made the light strange.
+The dust was still in the air. The dust that a pressure wave lifted and that hung for longer than you expected, longer than seemed physically reasonable, the fine dust of a Ramadi street that went up and came down slowly and in the meantime made the light strange.
 
 There were other people.
 
@@ -414,7 +394,7 @@ The notebook was still in the vehicle, probably, for whatever that was worth.
 
 He thought about it sometimes.
 
-He thought about it on mornings in the Hill Country when the light came in low and gold before the sun got high enough to make it harsh, when the cedar turned the specific color that was not orange and not gold but something between them, when the world had the brief quality of looking like itself before the day began. He thought about the sentence he'd been trying to write and about Miller on the hood of the Humvee watching the rooftops and about the letter in the breast pocket.
+He thought about it on mornings in the Hill Country when the light came in low and gold before the sun got high enough to make it harsh, when the cedar turned the color that was not orange and not gold but something between them, when the world had the brief quality of looking like itself before the day began. He thought about the sentence he'd been trying to write and about Miller on the hood of the Humvee watching the rooftops and about the letter in the breast pocket.
 
 He thought about the seat trade.
 
