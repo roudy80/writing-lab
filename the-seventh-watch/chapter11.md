@@ -28,7 +28,7 @@ Put himself between the thing and the person it was aimed at. Present himself as
 
 Be the man she could count on in the most literal and complete and costly way imaginable.
 
-He could not articulate, under examination, why he believed this would work. He understood that the arrest party had a specific target and that he was not that target and that presenting himself as the target would produce confusion rather than substitution. He understood that the week had a structure that was not dependent on his participation.
+He understood the arrest party had a specific target and he was not it. Presenting himself would produce confusion, not substitution. He understood that the week had a structure that was not dependent on his participation.
 
 But the plan had a logic that was not tactical. The logic was this: he had been trying to pay the debt through proxy actions for twelve years and through proxy interventions for five loops, and none of it had worked, and the only thing he hadn't tried was the direct payment. The most direct possible expression of being the man she could count on was to lay down your life in the place of someone who shouldn't have to lay down theirs.
 
@@ -122,7 +122,7 @@ He was ready.
 
 ---
 
-He arrived Sunday and moved through the week with the specific quality of a man going through the motions of a preparation he knew the outcome of. He went to Marcus. He took the room. He watched the procession from the back of the crowd with the full attention he'd developed across five loops, no longer managing the experience, fully receiving it.
+He arrived Sunday and moved through the week with the quality of a man going through the motions of a preparation he knew the outcome of. He went to Marcus. He took the room. He watched the procession from the back of the crowd with the full attention he'd developed across five loops, no longer managing the experience, fully receiving it.
 
 He spent Monday watching the teaching in the Temple courts. He stood in the crowd and he watched the man teach and he thought about what the teaching was doing to the people who received it, the specific reorganization he'd been watching across five loops, the categories shifting. He thought about his own categories and what they had been and what they were becoming.
 
@@ -164,7 +164,7 @@ He knew he was going to fail. He knew it the way you knew things that you had to
 
 He stood at the garden entrance and he waited.
 
-The arrest party appeared on the Kidron path. He saw the torches come, the bobbing orange light of a group of people moving through the dark, the specific quality of torch-light on stone, the smell of burning pine pitch carrying in the night air before the group was fully visible.
+The arrest party appeared on the Kidron path. He saw the torches come, the bobbing orange light of a group of people moving through the dark, the quality of torch-light on stone, the smell of burning pine pitch carrying in the night air before the group was fully visible.
 
 (Expand the substitute attempt scene, replaces the compressed version of stepping into the arrest party's path)
 
@@ -226,7 +226,7 @@ He watched the arrest party close around the man in the lower grove.
 
 He watched the arrest proceed.
 
-He watched the man led away through his own garden, willingly, without resistance, with the specific quality of someone who had chosen every step and was choosing this one too, the walk from the garden into the night toward the thing that was waiting for him, chosen as completely as anything Grant had ever seen chosen, the decision not fighting itself.
+He watched the man led away through his own garden, willingly, without resistance, with the quality of someone who had chosen every step and was choosing this one too, the walk from the garden into the night toward the thing that was waiting for him, chosen as completely as anything Grant had ever seen chosen, the decision not fighting itself.
 
 He stood in the entrance with both hands hanging empty at his sides.
 
@@ -234,21 +234,15 @@ He thought: I have been trying to pay a debt for twelve years and tonight I trie
 
 He thought: not insufficient. Irrelevant.
 
-He thought about the difference between those two things for a long time, standing in the entrance of the garden while the torchlight moved away through the olive grove and the night closed back in around the space where it had been.
+Insufficient still made you the problem. Irrelevant meant the transaction was never about you. The account was closed before you arrived.
 
-Insufficient meant the attempt was real but not adequate. Insufficient meant you were in the right category but fell short. Insufficient was a story about you, about your capacity, your merit, your worth. Insufficient still made you the problem.
+The debt was not his. Had never been his.
 
-Irrelevant meant the transaction was not about you. Irrelevant meant the account was closed before you arrived. Irrelevant meant you had been standing outside a door that was not a door anymore, trying to pay a toll for a road that had already been built.
-
-The debt was not his.
-
-Had never been his.
-
-The account had been settled. Not by him, not because he wasn't willing, not because he hadn't tried every approach available to him across six loops and twelve years, not for any of those reasons. Because the settlement had been made before he picked up the debt, in this garden, on this night, by the only one who had the authority and the capacity to settle it.
+The settlement had been made before he picked up the debt, in this garden, on this night, by the only one who had the authority to make it.
 
 He stood in the entrance and felt the full weight of that understanding arrive.
 
-It arrived quietly. Not with drama, not with the specific relief he'd been expecting, not with any of the emotional architecture that twelve years of anticipating this moment had built up around it. It arrived the way truth arrived when you were finally ready for it, without fanfare, without insisting on itself, just present, just real, the specific quality of a thing that had been true for a long time and that you had finally turned around far enough to see.
+It arrived quietly. Not with drama, not with the specific relief he'd been expecting, not with any of the emotional architecture that twelve years of anticipating this moment had built up around it. It arrived the way truth arrived when you were finally ready for it, without fanfare, without insisting on itself, just present, just real, the quality of a thing that had been true for a long time and that you had finally turned around far enough to see.
 
 The debt was paid.
 
@@ -270,7 +264,7 @@ He was in the porch chair before he knew he'd moved. Both hands in his lap. The 
 
 His hands were empty.
 
-For the first time in twelve years his hands felt empty in the right way, not the empty of a man who has put down what he was carrying and lost it, but the empty of a man who has put down what he was never supposed to be carrying and whose hands are now free to hold what is actually his.
+For the first time in twelve years his hands felt empty in the right way.
 
 He sat in the chair and looked at the red gate in the dark.
 
