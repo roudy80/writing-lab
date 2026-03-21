@@ -40,7 +40,7 @@ Grant said: "Men like me."
 
 She said: "Men who haven't finished what they started."
 
-He went up to the room. He sat on the bedroll. He looked at the familiar ceiling, the water stain, the crack in the plaster, the specific quality of the light through the window in the late afternoon. He was getting to know this ceiling. He was getting to know this city.
+He went up to the room. He sat on the bedroll. He looked at the familiar ceiling, the water stain, the crack in the plaster, the quality of the light through the window in the late afternoon. He was getting to know this ceiling. He was getting to know this city.
 
 He thought about what Marcus had said. In a place versus moving through a place.
 
@@ -52,7 +52,7 @@ He was learning to be in. The loops were teaching him whether he'd wanted to be 
 
 Monday he found Peter in the market district and made his approach.
 
-He'd refined the approach across two loops. He knew Peter's pattern, knew his routes and his timing, knew the specific quality of attentiveness Peter brought to strangers who approached him, the fisherman's read, quick and thorough, the kind of assessment you developed on water where misreading the weather or the wind could kill you.
+He'd refined the approach across two loops. He knew Peter's pattern, knew his routes and his timing, knew the quality of attentiveness Peter brought to strangers who approached him, the fisherman's read, quick and thorough, the kind of assessment you developed on water where misreading the weather or the wind could kill you.
 
 He said, in a combination of Greek and Aramaic that was better each loop: "I am a soldier. I have seen what the Temple authorities are planning for the end of this week. I want to bring this to the teacher. Will you help me?"
 
@@ -118,7 +118,7 @@ It was the first time anyone in Jerusalem had said his name.
 
 He stopped talking.
 
-The man looked at him. Not with pity. Not with the professional warmth of a counselor or a teacher. With the specific quality of someone who was seeing him clearly, fully, from the inside out, and who was not troubled by what he saw. The look of someone who knew the whole of a thing and had already decided it was worth the cost.
+The man looked at him. Not with pity. Not with the professional warmth of a counselor or a teacher. With the quality of someone who was seeing him clearly, fully, from the inside out, and who was not troubled by what he saw. The look of someone who knew the whole of a thing and had already decided it was worth the cost.
 
 He didn't say anything else.
 
@@ -136,9 +136,7 @@ He thought: whatever is happening here this week, it is not happening to him. He
 
 He thought: and he knows I'm carrying something. He can see it. And he is going to do what he is going to do anyway.
 
-He didn't fully understand what that meant yet.
-
-But the room was doing something to the shape of the not-understanding. Reorganizing it. The way a window, opened in a dark room, didn't explain the light, just let it in.
+But the room was doing something to the not-understanding. The way a window opened in a dark room doesn't explain the light, just lets it in.
 
 Grant said: "I'll try another way."
 
@@ -146,15 +144,13 @@ The man nodded once. Simple. The acknowledgment of someone who already knew what
 
 Grant went back to Marcus's room and lay on the bedroll and looked at the ceiling.
 
-He thought about the look. About being seen that completely and not being turned away from. About the specific quality of a person who knew the full weight of what you were carrying and who met it not with a solution but with the willingness to carry something heavier on your behalf.
-
-He didn't have the full shape of it yet.
+He thought about the look. About being seen that completely and not being turned away from. About the quality of a person who knew the full weight of what you were carrying and who met it not with a solution but with the willingness to carry something heavier on your behalf.
 
 He had the direction.
 
 ---
 
-He thought about what had just been said to him. He thought about the debt, the specific architecture of it, the morning in Ramadi and Sarah's words before the deployment and twelve years of the paying. He thought about the fact that he'd been told directly, by the person whose execution he was trying to prevent, that the debt was not his.
+He thought about the debt, the specific architecture of it, the morning in Ramadi and Sarah's words before the deployment and twelve years of the paying. He thought about the fact that he'd been told directly, by the person whose execution he was trying to prevent, that the debt was not his.
 
 He thought: I believe that is true. I don't know how to make myself stop acting as though it isn't.
 
@@ -172,7 +168,7 @@ She said: "What did he say?"
 
 Grant said: "He said I'm here because of something I'm carrying. Not the tactical problem."
 
-Miriam looked at him. She was sixteen years old and had the specific quality of intelligence that had not yet been organized into anything that made it comfortable for the people around her. She said: "Your father told you something. About what to do when a load was too heavy."
+Miriam looked at him. She was sixteen years old and had the quality of intelligence that had not yet been organized into anything that made it comfortable for the people around her. She said: "Your father told you something. About what to do when a load was too heavy."
 
 He looked at her. He said: "How do you know about my father?"
 
@@ -210,7 +206,7 @@ The city did not wake up like a modern city. A modern city had the specific cont
 
 And underneath all of it, in the specific acoustic quality of a city built of stone on a hill, the sounds carried differently than they carried in Texas. Everything echoed. Everything had a slight reverb, the specific acoustic signature of stone absorbing and releasing sound, so that the city in the morning had a depth to its noise that was unlike anything in Grant's experience, a layering of sounds that made you aware, in a visceral way, that you were inside something very old.
 
-He stood in the courtyard and listened and thought about Sarah at the kitchen window in the early morning, the light on the pasture, the hawk on the thermal above the cedar ridge. He thought about the specific quality of that morning and this one, the different ways two places marked the beginning of a day, each of them specific to their own nature and their own history.
+He stood in the courtyard and listened and thought about Sarah at the kitchen window in the early morning, the light on the pasture, the hawk on the thermal above the cedar ridge. He thought about the quality of that morning and this one, the different ways two places marked the beginning of a day, each of them specific to their own nature and their own history.
 
 He thought: this city has been marking mornings since before my country existed.
 
@@ -240,7 +236,7 @@ Marcus, without looking up from his work: "In August it is worse."
 
 Grant laughed.
 
-He had not laughed in Jerusalem before. He registered this, the specific quality of the laugh, the relaxation in it, the evidence that something in him had been present enough to find a thing genuinely funny. He looked at Marcus and Miriam and thought: I am sitting in a courtyard in first-century Jerusalem having lunch with a leather merchant and his daughter who are teaching me the city, and this is one of the more real hours I have spent in a long time.
+He had not laughed in Jerusalem before. He registered this, the quality of the laugh, the relaxation in it, the evidence that something in him had been present enough to find a thing genuinely funny. He looked at Marcus and Miriam and thought: I am sitting in a courtyard in first-century Jerusalem having lunch with a leather merchant and his daughter who are teaching me the city, and this is one of the more real hours I have spent in a long time.
 
 He thought about what real meant. About the layers of real that were operating here simultaneously, the first-century city around him and the Texas ranch he'd come from and the loops that connected them and the man in the upper room and the debt he was carrying and the thing it was all building toward. All of it real, all of it simultaneously true, and the realness not diminishing as the layers accumulated but deepening, the specific paradox of complexity making things more rather than less itself.
 
@@ -312,17 +308,17 @@ He said: "Miller. The debt of Miller. What I turned your words into."
 
 She said: "Go on."
 
-He said: "The seat trade. The morning in Ramadi. I've been treating Miller's death as a debt that I owe. As a thing that I have to keep paying. Every fence I mend, every pump I fix, every time I show up and do the thing that needs doing, part of it has been paying that."
+He said: "The seat trade. The morning in Ramadi. I've been treating his death as something I owe. Every fence I mend, every pump I fix. All of it, part of it, paying that."
 
-She looked at him for a long moment. She said: "I didn't know."
+She said: "I didn't know."
 
 He said: "I know."
 
-She said: "I said those words because I believed them. Because I wanted you to know I believed them. Not as something you had to earn."
+She said: "I said those words because they were true. Not as something you had to earn."
 
-He said: "I know. I turned them into something you didn't mean."
+He said: "I turned them into something you didn't mean."
 
-She said: "Yes." She put her hands on the table between them. "So the loops are about this."
+She put her hands on the table. "So the loops are about this."
 
 He said: "I think so. I think the loops are showing me that the tactical approach to this, trying to fix it, trying to pay it, trying to stop the thing that establishes the debt was never mine, doesn't work. And that it doesn't work because the debt was never mine."
 
@@ -498,7 +494,7 @@ He said: "I have been practicing medicine for twenty-two years. I have documente
 
 She said: "Thank you."
 
-She said it carefully, with the specific quality of someone who is managing a large thing and needs to manage it for another few minutes before she can set it down.
+She said it carefully, with the quality of someone who is managing a large thing and needs to manage it for another few minutes before she can set it down.
 
 Ramos said: "Bring him in next week. I want to do a full pulmonary function test and I want Dr. Wen on the phone."
 
@@ -514,7 +510,7 @@ She thought about the radiologist's phrase. *A man who has been breathing limest
 
 Two thousand years.
 
-She thought about Grant at the kitchen sink on Friday afternoons, his hands on the counter edge, the white-out taking him. She thought about him going somewhere she couldn't follow and coming back carrying something she couldn't touch, something that was settling in his lungs and in his hands and in the specific quality of his face when he came back.
+She thought about Grant at the kitchen sink on Friday afternoons, his hands on the counter edge, the white-out taking him. She thought about him going somewhere she couldn't follow and coming back carrying something she couldn't touch, something that was settling in his lungs and in his hands and in the quality of his face when he came back.
 
 She thought about six more loops at this rate.
 
