@@ -83,6 +83,15 @@
   .save-btn:active { background: #b5a589; }
   .save-note { font-family: sans-serif; font-size: 0.8rem; color: #888; margin-top: 8px; text-align: center; }
 
+  /* AUDIO PLAYER */
+  .audio-player {
+    background: #222; border-bottom: 1px solid #333;
+    padding: 10px 20px; display: none;
+  }
+  .audio-player.visible { display: block; }
+  .audio-player audio { width: 100%; height: 36px; accent-color: #c9b99a; }
+  .audio-label { font-family: sans-serif; font-size: 0.75rem; color: #888; margin-bottom: 6px; letter-spacing: 0.05em; text-transform: uppercase; }
+
   /* READER */
   .reader-header {
     position: sticky; top: 0; background: #1a1a1a;
@@ -398,6 +407,37 @@
     </div>
   </div>
 
+  <!-- The Seventh Watch -->
+  <div class="book-section">
+    <button class="book-toggle" onclick="toggleBook('seventh-watch')">
+      <div class="book-toggle-left">
+        <div class="book-title">The Seventh Watch — Fiction</div>
+        <div class="book-resume" id="resume-seventh-watch"></div>
+      </div>
+      <div class="book-chevron" id="chevron-seventh-watch">›</div>
+    </button>
+    <div class="book-body" id="body-seventh-watch">
+      <button class="continue-btn" id="continue-seventh-watch" onclick="resumeReading('seventh-watch')">▶ Continue Reading</button>
+      <ul class="chapter-list">
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter1.md','Chapter 1 — The Red Gate','The Seventh Watch','seventh-watch','the-seventh-watch/chapter1.mp3');return false;">Chapter 1 — The Red Gate <span>🎧 ›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter2.md','Chapter 2 — The Soldier','The Seventh Watch','seventh-watch');return false;">Chapter 2 — The Soldier <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter3.md','Chapter 3 — The Texas Weeks','The Seventh Watch','seventh-watch');return false;">Chapter 3 — The Texas Weeks <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter4.md','Chapter 4 — The Traitor','The Seventh Watch','seventh-watch');return false;">Chapter 4 — The Traitor <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter5.md','Chapter 5 — The Texas Weeks','The Seventh Watch','seventh-watch');return false;">Chapter 5 — The Texas Weeks <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter6.md','Chapter 6 — The Extraction','The Seventh Watch','seventh-watch');return false;">Chapter 6 — The Extraction <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter7.md','Chapter 7 — The Centurion','The Seventh Watch','seventh-watch');return false;">Chapter 7 — The Centurion <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter8.md','Chapter 8 — The Insurgent','The Seventh Watch','seventh-watch');return false;">Chapter 8 — The Insurgent <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter9.md','Chapter 9 — The Breaking Point','The Seventh Watch','seventh-watch');return false;">Chapter 9 — The Breaking Point <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter10.md','Chapter 10 — Good Works','The Seventh Watch','seventh-watch');return false;">Chapter 10 — Good Works <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter11.md','Chapter 11 — The Substitute','The Seventh Watch','seventh-watch');return false;">Chapter 11 — The Substitute <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter12.md','Chapter 12 — Before the Seventh','The Seventh Watch','seventh-watch');return false;">Chapter 12 — Before the Seventh <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter13.md','Chapter 13 — The Witness','The Seventh Watch','seventh-watch');return false;">Chapter 13 — The Witness <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/chapter14.md','Chapter 14 — The Red Gate','The Seventh Watch','seventh-watch');return false;">Chapter 14 — The Red Gate <span>›</span></a></li>
+        <li><a href="#" onclick="loadChapter('the-seventh-watch/epilogue.md','Epilogue','The Seventh Watch','seventh-watch');return false;">Epilogue <span>›</span></a></li>
+      </ul>
+    </div>
+  </div>
+
   <div class="notes-section">
     <div class="book-title" style="margin-bottom:10px;">Notes for Claude</div>
     <textarea id="notes-input" placeholder="Leave feedback, ideas, or notes here. Claude will see these next session."></textarea>
@@ -413,6 +453,10 @@
     <div class="reader-title" id="reader-label"></div>
     <button class="copy-btn" id="copy-btn" onclick="copyText()">Copy All</button>
   </div>
+  <div class="audio-player" id="audio-player">
+    <div class="audio-label">Listen — Chapter 1</div>
+    <audio id="audio-el" controls preload="none"></audio>
+  </div>
   <div class="reader-content" id="reader-content">
     <div class="loading">Loading…</div>
   </div>
@@ -424,7 +468,7 @@
 const REPO = 'roudy80/writing-lab';
 const BRANCH = 'main';
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/`;
-const ALL_BOOKS = ['wind-shifts', 'what-remains', 'severance', 'transit', 'the-drift', 'called-anyway', 'history-boring', 'idea-before-america', 'the-smoke', 'red-gate'];
+const ALL_BOOKS = ['wind-shifts', 'what-remains', 'severance', 'transit', 'the-drift', 'called-anyway', 'history-boring', 'idea-before-america', 'the-smoke', 'red-gate', 'seventh-watch'];
 
 let currentText = '';
 let currentLabel = '';
@@ -493,6 +537,9 @@ function goHome() {
     const pct = getScrollPct();
     saveReadingPosition(currentBookId, currentPath, currentLabel, pct);
   }
+  // Stop audio
+  const audioEl = document.getElementById('audio-el');
+  audioEl.pause();
   document.getElementById('home').style.display = 'block';
   document.getElementById('reader').style.display = 'none';
   window.scrollTo(0, 0);
@@ -508,12 +555,33 @@ function getScrollPct() {
   return Math.min(100, (window.scrollY / total) * 100);
 }
 
-function loadChapter(path, label, book, bookId, restoreScrollPct) {
+function loadChapter(path, label, book, bookId, audioPathOrScroll, restoreScrollPct) {
+  // audioPathOrScroll is either a string (audio path) or a number (scroll pct) for backwards compat
+  let audioPath = null;
+  let scrollPct = restoreScrollPct;
+  if (typeof audioPathOrScroll === 'string') {
+    audioPath = audioPathOrScroll;
+  } else if (typeof audioPathOrScroll === 'number') {
+    scrollPct = audioPathOrScroll;
+  }
+
   document.getElementById('home').style.display = 'none';
   document.getElementById('reader').style.display = 'block';
   currentLabel = label;
   currentBookId = bookId;
   currentPath = path;
+
+  // Audio player
+  const audioPlayer = document.getElementById('audio-player');
+  const audioEl = document.getElementById('audio-el');
+  if (audioPath) {
+    audioEl.src = RAW_BASE + audioPath + '?t=' + Date.now();
+    audioPlayer.classList.add('visible');
+  } else {
+    audioEl.pause();
+    audioEl.src = '';
+    audioPlayer.classList.remove('visible');
+  }
 
   // Derive book name from bookId if not passed
   if (!book) {
@@ -527,7 +595,7 @@ function loadChapter(path, label, book, bookId, restoreScrollPct) {
   document.getElementById('progress-bar').style.width = '0%';
   window.scrollTo(0, 0);
 
-  saveReadingPosition(bookId, path, label, restoreScrollPct || 0);
+  saveReadingPosition(bookId, path, label, scrollPct || 0);
   markLastRead(bookId, path);
 
   fetch(RAW_BASE + path + '?t=' + Date.now())
@@ -541,12 +609,12 @@ function loadChapter(path, label, book, bookId, restoreScrollPct) {
       window.addEventListener('scroll', onReaderScroll);
 
       // Restore scroll position after render
-      if (restoreScrollPct && restoreScrollPct > 0) {
+      if (scrollPct && scrollPct > 0) {
         requestAnimationFrame(() => {
           const el = document.getElementById('reader-content');
           const total = el.offsetHeight - window.innerHeight;
           if (total > 0) {
-            window.scrollTo(0, (restoreScrollPct / 100) * total);
+            window.scrollTo(0, (scrollPct / 100) * total);
           }
         });
       }
@@ -651,7 +719,7 @@ document.getElementById('notes-input').placeholder =
 // ── Init ───────────────────────────────────────────────────────
 (function init() {
   // Restore open/collapsed state (all collapsed by default)
-  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
+  ['wind-shifts', 'severance', 'the-smoke', 'red-gate', 'seventh-watch'].forEach(bookId => {
     const wasOpen = localStorage.getItem('book-open-' + bookId) === '1';
     if (wasOpen) {
       document.getElementById('body-' + bookId).classList.add('open');
@@ -660,7 +728,7 @@ document.getElementById('notes-input').placeholder =
   });
   // Restore last-read highlights and resume labels
   updateResumeLabels();
-  ['wind-shifts', 'severance', 'the-smoke', 'red-gate'].forEach(bookId => {
+  ['wind-shifts', 'severance', 'the-smoke', 'red-gate', 'seventh-watch'].forEach(bookId => {
     const saved = localStorage.getItem('last-read-' + bookId);
     if (saved) {
       const { path } = JSON.parse(saved);
