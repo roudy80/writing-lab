@@ -116,7 +116,7 @@ He arrived Sunday and went to Marcus and the room and the week began.
 
 Peter had been in a fight before.
 
-Grant understood this within the first twenty minutes of working with him, from the way he moved and from the specific quality of his attention when Grant demonstrated the contact response in the courtyard. A man who had never been in organized violence watched a demonstration with the cautious attention of someone learning something entirely new. Peter watched with the quick absorbing focus of someone who was reorganizing existing knowledge into a new framework.
+Grant understood this within the first twenty minutes of working with him, from the way he moved and from the quality of his attention when Grant demonstrated the contact response in the courtyard. A man who had never been in organized violence watched a demonstration with the cautious attention of someone learning something entirely new. Peter watched with the quick absorbing focus of someone who was reorganizing existing knowledge into a new framework.
 
 Grant had seen this before. It was the look of a man who had been in bar fights and dock fights and the specific violent negotiations that happened between men who worked the fishing trade on the Sea of Galilee, where disputes over catch areas and equipment and money had a way of becoming physical because there was no other efficient mechanism for resolving them. Peter had the economy of movement that came from being in situations where wasted motion cost you, and he had the specific controlled quality of someone who had learned, through experience, to not move until the moment required it.
 
@@ -164,7 +164,7 @@ Peter said: "But show me what you want to show me."
 
 He showed him.
 
-He spent Sunday afternoon and Monday morning in the courtyard with Peter, and then with Peter and Andrew, and then with a third disciple who arrived on Monday afternoon with the specific quality of someone who had been watching and had decided to join. By Monday evening he had four students and the beginning of a unit.
+He spent Sunday afternoon and Monday morning in the courtyard with Peter, and then with Peter and Andrew, and then with a third disciple who arrived on Monday afternoon with the quality of someone who had been watching and had decided to join. By Monday evening he had four students and the beginning of a unit.
 
 He structured the training the way he structured all training, which was from the foundation up, which was from the question: what are you trying to protect? The answer here was: one person's ability to move freely through a specific terrain. The training was not about winning a fight. The training was about creating enough organized resistance to disrupt the arrest party's cohesion, to complicate the operation, to buy time and space for movement. He was not building soldiers. He was building a disruption.
 
@@ -208,7 +208,7 @@ Tuesday morning Grant took Peter and Andrew and the two others to the Kidron Val
 
 He had been in the valley before, had walked it in reconnaissance across two loops, had mapped the approach path from the city wall to the garden gate, had timed the route and noted the chokepoints and the natural cover positions and the sight lines from the olive grove down to the valley floor. He knew this terrain. He was going to teach them how to know it too.
 
-They went out before the morning market was fully established, in the gray light before the sun cleared the eastern ridge, when the valley had the specific quality of a place that was still deciding what kind of day it was going to be. The four of them moved with the naturalness of men who had reasons to be walking together in the morning, which they did, they were in fact walking together with a specific purpose, and Grant had long since stopped worrying about his conspicuousness and started working on a different quality, the Marcus quality, the weight into the ground rather than forward.
+They went out before the morning market was fully established, in the gray light before the sun cleared the eastern ridge, when the valley had the quality of a place that was still deciding what kind of day it was going to be. The four of them moved with the naturalness of men who had reasons to be walking together in the morning, which they did, they were in fact walking together with a specific purpose, and Grant had long since stopped worrying about his conspicuousness and started working on a different quality, the Marcus quality, the weight into the ground rather than forward.
 
 He was better at it now.
 
@@ -256,7 +256,7 @@ The four of them moved through the morning light and the olive grove learning th
 
 Peter was the fastest learner. He had the spatial memory of a fisherman, the man who navigated by landmark and current, who held the shape of a bay in his head well enough to find it in fog, who understood that terrain was not a backdrop but a participant. He asked the right questions. He remembered what Grant showed him without being shown twice. He had the specific intelligence of a man who had survived in environments that required attention to physical reality.
 
-Andrew was steady. He learned more slowly than Peter but he learned without error, the specific quality of someone who took in less but lost none of it.
+Andrew was steady. He learned more slowly than Peter but he learned without error, the quality of someone who took in less but lost none of it.
 
 The other two were variable. One of them, Grant still couldn't attach a confident name to him, his fourth-loop Aramaic not yet equal to the full social landscape, had an athletic instinct that made him fast in demonstrations and a wandering attention that made him unreliable in the drills. The other was methodical to the point of rigidity, the kind of person who executed exactly what he'd been shown and could not adapt when the execution needed to flex.
 
@@ -318,7 +318,7 @@ Grant said: "What do you think it requires?"
 
 Peter said: "Letting him go."
 
-He said it quietly. With the specific quality of a man who had been working up to saying something for days and had finally said it and was now sitting in the reality of having said it.
+He said it quietly. With the quality of a man who had been working up to saying something for days and had finally said it and was now sitting in the reality of having said it.
 
 He said: "I can hold a chokepoint. I can slow the front of the column. I can buy the seconds you described." He looked at the stone he'd set down. "What I cannot do is let him go into what is coming. That is the thing I have not yet found in myself."
 
@@ -348,8 +348,6 @@ He thought about Sarah's words before the deployment. About the way she'd put he
 
 He thought: maybe that's the other language. Not the tactical language. The yes language. The willingness to accept a thing before you fully understand it because the source of the thing is trustworthy.
 
-He was not there yet.
-
 He was close.
 
 He went up to Marcus's room and lay on the bedroll and looked at the ceiling and thought about yes until he fell asleep.
@@ -358,9 +356,7 @@ He spent Tuesday afternoon running the communication drills. The signals vocabul
 
 Peter drilled the signals with the focused repetition of someone who understood that repetition was the mechanism by which skills became reflexive. He drilled them until they were in his hands rather than in his head. He then drilled Andrew until Andrew had them too, and then he drilled the other two without being asked, which was the specific leadership behavior of a man who understood that a team's capability was determined by its weakest member.
 
-Grant thought: this man should have been a sergeant.
-
-He had the natural authority of someone whose leadership had emerged from competence rather than been assigned to him, the specific quality of a person that other people followed because the following had been proven to be right before. He moved through the group with an efficiency that didn't require him to assert anything, he demonstrated, they did, he corrected, they did again. The cycle was so natural that it looked effortless, which was the specific marker of a skill so deeply developed it had become invisible.
+Grant thought: this man should have been a sergeant. The natural authority of someone whose leadership emerged from competence, not assignment. He moved through the group with an efficiency that didn't require assertion. Demonstrate, correct, repeat. It looked effortless, which was the marker of a skill so deep it had become invisible.
 
 On Wednesday evening, after the day's training, Peter sat with Grant on the wall of the courtyard and they were quiet for a while.
 
@@ -464,7 +460,7 @@ Grant sat on the wall in the dark and thought about the conversation and about P
 
 But there was another answer under that one.
 
-He was trying to change it because the trying was the only way he knew how to care about something. The only expression he'd found for the specific quality of caring that he felt about this man who moved through his own city toward his own death with the completeness of someone who had decided fully. The trying was the love, translated into the only language he had.
+He was trying to change it because the trying was the only way he knew how to care about something. The only expression he'd found for the quality of caring that he felt about this man who moved through his own city toward his own death with the completeness of someone who had decided fully. The trying was the love, translated into the only language he had.
 
 He thought about what it would mean to find another language.
 
