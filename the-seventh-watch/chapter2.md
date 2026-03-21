@@ -12,7 +12,7 @@ Stone.
 
 He came up out of it fast and clean, the body executing the threat-assessment protocol before his thinking mind had fully engaged. Full 360. Inventory. Assess.
 
-Same street. Same pale limestone walls, same narrow channel of sky above, same finer-than-Texas dust already on his boots. Same crowd noise from uphill, the specific shaped noise of a crowd attending to a center.
+Same street. Same pale limestone walls, same narrow channel of sky above, same finer-than-Texas dust already on his boots. Same crowd noise from uphill, the shaped noise of a crowd attending to a center.
 
 But it was different being here the second time.
 
@@ -24,19 +24,19 @@ He oriented: uphill was toward the Temple Mount, downhill was toward the lower c
 
 He did not go uphill.
 
-He went downhill, into the market district, moving with the purposeful unhurried body language of a man who had a destination and was heading there. He'd been working on this all week, the specific internal state that produced credible non-conspicuousness. Not performing ease, which was as readable as fear in the right company. Actually settling his weight into the ground rather than pointing it at the next thing.
+He went downhill, into the market district, moving with the purposeful unhurried body language of a man who had a destination and was heading there. He'd been working on this all week, the internal state that produced non-conspicuousness. Actually settling his weight into the ground rather than pointing it at the next thing.
 
-He was better at it than last week. Not good yet. Better.
+Better than last week. Not good. Better.
 
 He found Marcus on the second stall he assessed.
 
-He'd been looking for the specific profile he'd identified mentally during the week: the established merchant, the one whose position in the market was old enough to have accumulated the cultural intelligence that only came with years of operating in a place. The market stall that had been in the same spot for a decade, the merchant who had developed the specific pragmatism of long exposure to human variety. He needed a local contact who was functional in Greek and who had enough of the world in him to not be overwhelmed by a very strange foreigner.
+He'd been looking for the profile he'd identified during the week: the established merchant, the one whose position in the market was old enough to have accumulated the cultural intelligence that only came with years of operating in a place. The market stall that had been in the same spot for a decade, the merchant who had developed the pragmatism of long exposure to human variety. He needed a local contact who was functional in Greek and who had enough of the world in him to not be overwhelmed by a very strange foreigner.
 
-Marcus was sitting on a stool behind a leather stall, mending a piece of harness with the focused competence of someone for whom this work was as automatic as breathing. The stall had been here a while, the stone in front of it was worn in a specific pattern consistent with years of customers approaching and departing. The leather work on display was quality work, the stitching even and tight, the finishing careful.
+Marcus was sitting on a stool behind a leather stall, mending a piece of harness with the focused competence of someone for whom this work was as automatic as breathing. The stall had been here a while, the stone in front of it was worn in a pattern consistent with years of customers approaching and departing. The leather work on display was quality work, the stitching even and tight, the finishing careful.
 
 Grant approached. He picked up a piece from the display, a well-made belt, good leather, clean construction, and examined it and set it down. He said, in the hundred words of Greek he'd spent six days drilling into himself: "Do you speak Greek?"
 
-Marcus looked up from the harness. He took Grant in with the specific assessment of a man who had been assessing strangers all his working life. He said, in accented but functional Greek: "I speak Greek. Where are you from, that you dress like that?"
+Marcus looked up from the harness. He took Grant in with the assessment of a man who had been assessing strangers all his working life. He said, in accented but functional Greek: "I speak Greek. Where are you from, that you dress like that?"
 
 Grant said: "Far away. Very far. I need a room for a week. I have a trade."
 
@@ -126,7 +126,7 @@ The plan was this: identify Judas Iscariot, track him, find his contact in the T
 
 He was, he reminded himself, trained for this.
 
-He blew out the lamp and lay in the dark and listened to the Jerusalem night, the sounds he was learning to distinguish, the specific acoustic texture of a city he was going to know better by the end of the week than most people knew their own neighborhoods.
+He blew out the lamp and lay in the dark and listened to the Jerusalem night, the sounds he was learning to distinguish, the acoustic texture of a city he was going to know better by the end of the week than most people knew their own neighborhoods.
 
 He fell asleep.
 
@@ -136,13 +136,13 @@ He spent Sunday afternoon in reconnaissance.
 
 He moved through the market district with the patience of someone who was not going anywhere in particular, which was the best cover for going everywhere in general. He was building the map in his head, the mental geography that would let him navigate this city without appearing to navigate it, the spatial intelligence that was one of the things his body did naturally and that years of operating in unfamiliar environments had sharpened into something close to a professional skill.
 
-He cataloged: the main market street and its branches. The location of the Roman garrison, visible from a specific rooftop he identified on the east side of the market district. The patrol timing, he watched two full cycles of the Temple courts patrol from a position that gave him good sightlines without being conspicuous, and by the second cycle he had the timing and the pattern mapped.
+He cataloged: the main market street and its branches. The location of the Roman garrison, visible from a rooftop he identified on the east side of the market district. The patrol timing, he watched two full cycles of the Temple courts patrol from a position that gave him good sightlines without being conspicuous, and by the second cycle he had the timing and the pattern mapped.
 
 He ate food from a vendor's basket, flatbread and something he thought might be dried lamb, purchased through gesture and the universal transaction of money, of which he had none, substituted by a short length of good nylon cord from his boot lace that the vendor examined with puzzlement and accepted with shrug.
 
 He watched the disciples' group from a distance, working the problem of identification.
 
-The group was thirteen men, which he knew from the concordance reading. One of them was distinguishable by behavior rather than appearance. He needed to identify the man who maintained a slight operational separation, who moved between the group and external contacts, who handled logistics, who carried the specific body language of someone managing a secondary relationship.
+The group was thirteen men, which he knew from the concordance reading. One of them was distinguishable by behavior rather than appearance. He needed to identify the man who maintained a slight operational separation, who moved between the group and external contacts, who handled logistics, who carried the body language of someone managing a secondary relationship.
 
 He watched through Sunday afternoon and into Monday and by late Monday morning he had two candidates.
 
@@ -150,13 +150,13 @@ He watched them both through Monday afternoon.
 
 Tuesday morning, one of them resolved the question.
 
-The man left the group's location in the upper city in the morning and moved through the lower market with the purposeful directness of someone on a specific errand rather than a general supply run. Grant tracked him at forty feet, the distance that gave him good visibility without entering the bubble of personal awareness that a careful subject maintained. The man was maybe forty, lean and dark-bearded, with the specific efficient movement of someone who thought in terms of what needed to happen next and was always already moving toward it.
+The man left the group's location in the upper city in the morning and moved through the lower market with the purposeful directness of someone on an errand rather than a general supply run. Grant tracked him at forty feet, the distance that gave him good visibility without entering the bubble of personal awareness that a careful subject maintained. The man was maybe forty, lean and dark-bearded, with the efficient movement of someone who thought in terms of what needed to happen next and was always already moving toward it.
 
 He entered a secondary courtyard off the main market street and met with two men there. Temple functionaries, Grant read the clothing and the bearing. Lower officials, not the high priests themselves, the accessible tier of the religious bureaucracy, the kind of people you went to when you had something to negotiate that needed to happen quietly.
 
 Grant positioned at the wall angle that gave him the best view with minimum exposure.
 
-He watched the conversation. Body language: the target offering, the functionaries receiving with the careful measured interest of people with institutional weight behind them. A negotiation. The target's posture loosening as it progressed, the specific physical release of a man who had gotten what he needed.
+He watched the conversation. Body language: the target offering, the functionaries receiving with the careful measured interest of people with institutional weight behind them. A negotiation. The target's posture loosening as it progressed, the physical release of a man who had gotten what he needed.
 
 He had his man.
 
@@ -186,7 +186,7 @@ JUDAS CISTERN, REVISED
 
 Judas came to the cistern at the third hour of the afternoon.
 
-He came the way he did everything, efficiently, without wasted motion, arriving exactly when the arrangement had said he would arrive and looking around the cistern mouth once before his eyes settled on Grant. He had the specific wariness of a man who had been in enough negotiations to understand that the person who asked for the meeting held some kind of advantage, and who had decided to come anyway because the alternative was not knowing what the advantage was.
+He came the way he did everything, efficiently, without wasted motion, arriving exactly when the arrangement had said he would arrive and looking around the cistern mouth once before his eyes settled on Grant. He had the wariness of a man who had been in enough negotiations to understand that the person who asked for the meeting held some kind of advantage, and who had decided to come anyway because the alternative was not knowing what the advantage was.
 
 He looked at Grant. He said, in functional Greek: "You're not from here."
 
@@ -216,7 +216,7 @@ Judas looked at him. He said: "What is there to understand? The Temple wants him
 
 Grant said: "Why would you?"
 
-And here Judas did something Grant hadn't expected. He almost smiled. Not with warmth, with the specific rueful quality of a man about to say something that he knew sounded wrong and that he believed anyway.
+And here Judas did something Grant hadn't expected. He almost smiled. Not with warmth, with the rueful quality of a man about to say something that he knew sounded wrong and that he believed anyway.
 
 He said: "Because he is going to walk out of it."
 
@@ -230,7 +230,7 @@ Judas said: "I think this ends with him standing before the Sanhedrin and the hi
 
 Grant sat with this.
 
-He thought about what he knew. About the trials and the morning and the hill outside the city. About the specific and total and irreversible thing that was going to happen by Friday afternoon.
+He thought about what he knew. About the trials and the morning and the hill outside the city. About the total and irreversible thing that was going to happen by Friday afternoon.
 
 He said: "What if you're wrong?"
 
@@ -252,7 +252,7 @@ He said: "If it wasn't metaphor then I , "
 
 He stopped.
 
-The silence stretched between them. Grant watched the calculation happening in the man's face, the specific recalculation of someone whose framework was being stress-tested by a possibility it had not been built to accommodate.
+The silence stretched between them. Grant watched the calculation happening in the man's face, the recalculation of someone whose framework was being stress-tested by a possibility it had not been built to accommodate.
 
 Then Judas set his jaw.
 
@@ -268,7 +268,7 @@ Judas said: "You don't know what happens. No one knows what happens."
 
 Grant said: "I know."
 
-Judas looked at him for a long moment. There was something in his face that was not quite fear and not quite anger, the specific expression of a man who has heard something that he cannot afford to believe and is choosing not to believe it. Not because the evidence is bad. Because the alternative is unbearable.
+Judas looked at him for a long moment. There was something in his face that was not quite fear and not quite anger, the expression of a man who has heard something that he cannot afford to believe and is choosing not to believe it. Not because the evidence is bad. Because the alternative is unbearable.
 
 He said: "He will walk out of it. He always walks out of it."
 
@@ -278,7 +278,7 @@ He left.
 
 Grant sat at the cistern alone.
 
-He thought about the specific tragedy of a man who had reasoned his way into a catastrophic error using only correct premises. Judas had watched this man for two years. Everything Judas had observed was accurate, the escapes, the confrontations turned inside out, the specific pattern of a person who consistently confounded the attempts of his enemies. The data was right. The conclusion was wrong. The conclusion was wrong because there was one variable Judas had not accounted for, which was that the man he was delivering might be choosing to be delivered.
+He thought about the tragedy of a man who had reasoned his way into a catastrophic error using only correct premises. Judas had watched this man for two years. Everything Judas had observed was accurate, the escapes, the confrontations turned inside out, the pattern of a person who consistently confounded the attempts of his enemies. The data was right. The conclusion was wrong. The conclusion was wrong because there was one variable Judas had not accounted for, which was that the man he was delivering might be choosing to be delivered.
 
 Grant thought about what it meant to watch someone do something with full freedom that looked from the outside like inevitability.
 
@@ -312,7 +312,7 @@ He began to move.
 
 He was fifteen feet from Judas when something in the lower part of the garden stopped him.
 
-Not physical. Not a sound, not a presence he could identify with his eyes or his ears. Something that registered in the body before it registered in the mind, the way electricity registered in your skin before you touched the wire, the specific warning of something operating at a different level than the normal.
+Not physical. Not a sound, not a presence he could identify with his eyes or his ears. Something that registered in the body before it registered in the mind, the way electricity registered in your skin before you touched the wire, a warning of something operating at a different level than the normal.
 
 It came from the lower grove where the man he'd seen on the donkey had separated from the disciples and gone alone.
 
