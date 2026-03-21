@@ -174,7 +174,7 @@ Grant said: "Then teach me the fifty most important ones."
 
 She thought about it. She said: "Come up."
 
-He followed her up to the room. She sat cross-legged on the floor with the lamp between them and she taught him Aramaic with the specific efficiency of someone who had thought about this before being asked. She didn't start with nouns. She started with verbs, the action words, the words that moved situations. Come. Go. Stop. Look. Wait. Danger. Help. She drilled them with the repetitive patience of someone who had been taught this way herself, making him say each word until the pronunciation satisfied her and then moving to the next.
+He followed her up to the room. She sat cross-legged on the floor with the lamp between them and she taught him Aramaic with the specific efficiency of someone who had thought about this before being asked. She didn't start with nouns. She started with verbs, the action words, the words that moved situations. Come. Go. Stop. Look. Wait. Danger. Help. She drilled each word until the pronunciation satisfied her, then moved to the next.
 
 She said: "Most foreigners learn the market words first. Where is. How much. Give me. These are useful for buying things but they don't help you understand what people are saying. The verbs help you understand what people are doing."
 
@@ -202,7 +202,7 @@ Not Lucius, that was a different loop. This was a Temple guard, one of the Levit
 
 The guard had noticed Grant.
 
-Not aggressively. Not the accusatory attention of someone who was about to do something. The professional attention of someone who had added Grant to a list of things worth monitoring. Grant caught the flicker of recognition when the guard's eyes crossed his position, the specific quality of a gaze that was not encountering something for the first time.
+Not aggressively. Not the accusatory attention of someone who was about to do something. The professional attention of someone who had added Grant to a list of things worth monitoring. Grant caught the flicker of recognition when the guard's eyes crossed his position, the quality of a gaze that was not encountering something for the first time.
 
 He had been made.
 
