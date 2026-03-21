@@ -18,7 +18,7 @@ This loop he was not going to do that.
 
 He walked to Marcus.
 
-Marcus looked up when Grant came through the market and they looked at each other for a moment with the specific quality of two people who each time met as strangers and each time, within minutes, found themselves in something closer to the relationship of acquaintances, or something better than acquaintances, something that didn't have a precise name because the loops made it strange.
+Marcus looked up when Grant came through the market and they looked at each other for a moment with the quality of two people who each time met as strangers and each time, within minutes, found themselves in something closer to the relationship of acquaintances, or something better than acquaintances, something that didn't have a precise name because the loops made it strange.
 
 Marcus said: "Room."
 
@@ -76,7 +76,7 @@ The man said something that Grant's Aramaic caught most of: Why do you do this?
 
 Grant thought about how to answer in Aramaic. He said: "Because someone showed me."
 
-He walked back through the lower city toward the market. He passed the spot where, in Loop 4, he'd helped the merchant with the broken cart. He went by the stretch of market near the Temple courts where, in Loop 4, he'd defused the dispute between the vendor and the Roman soldier. He thought about the difference between doing those things as tactical side effects of being in the city and doing them as the actual point.
+He walked back through the lower city. He thought about the difference between doing things as tactical side effects of being somewhere and doing them as the actual point.
 
 He thought about Marcus's description of being in a place versus moving through a place.
 
@@ -92,9 +92,9 @@ Grant sat in the dust next to him and did not say anything about this because th
 
 Simon talked when he wanted to and didn't when he didn't. Today he wanted to.
 
-He talked about his wife, who had died eight years ago, a fever, fast, the way fevers sometimes came in this city. He talked about her with the specific past-tense love of someone for whom the love was still present but the person was not, the specific quality of a grief that had settled into the body over years until it was part of the body rather than something happening to the body. He said her name, something Grant's ear rendered as Devorah, and he said it the way you said the name of someone whose name you had been saying your whole adult life and who was still present in the saying even when they were not present in the room.
+He talked about his wife, who had died eight years ago, a fever, fast, the way fevers sometimes came in this city. He talked about her with the specific past-tense love of someone for whom the love was still present but the person was not, the quality of a grief that had settled into the body over years until it was part of the body rather than something happening to the body. He said her name, something Grant's ear rendered as Devorah, and he said it the way you said the name of someone whose name you had been saying your whole adult life and who was still present in the saying even when they were not present in the room.
 
-Grant listened. He listened the way his father had sat beside the dying pilot, with the full weight of his attention, the complete presence, the specific quality of a person who was giving what they had which was their full self and their time.
+Grant listened. He listened the way his father had sat beside the dying pilot, with the full weight of his attention, the complete presence, the quality of a person who was giving what they had which was their full self and their time.
 
 He thought about the dying pilot. He had been eighteen and he had watched his father do this and had not understood it. He had understood the visiting, you visited the sick, you showed up for the dying, this was what you did. He had not understood the quality of the visiting. The difference between being present and being there, which was the difference his father had been demonstrating and which Grant had been learning across five loops in first-century Jerusalem.
 
@@ -160,7 +160,7 @@ He thought: when I go home, I am going to stop walking past things.
 
 He climbed to Marcus's roof in the evening and sat with the city and felt what there was to feel.
 
-He thought about Simon saying: you listen the way my wife listened. He thought about what that meant for the Texas life, for Sarah and the boys and the specific quality of presence he had been giving them and had been keeping some portion in reserve, the presence of a man who was always also managing something else.
+He thought about Simon saying: you listen the way my wife listened. He thought about what that meant for the Texas life, for Sarah and the boys and the quality of presence he had been giving them and had been keeping some portion in reserve, the presence of a man who was always also managing something else.
 
 He thought: the presence I have been practicing here is the presence I want to bring home.
 
@@ -240,21 +240,21 @@ He did it in Aramaic, mostly, his fifth-loop fluency enough for the specific sit
 
 He moved on.
 
-Wednesday: he went back to the man in the lower quarter. The man was there, in his spot, and he had the specific quality of someone who has been waiting for a thing without fully believing the thing would happen. When Grant appeared he saw the quality change.
+Wednesday: he went back to the man in the lower quarter. The man was there, in his spot, and he had the quality of someone who has been waiting for a thing without fully believing the thing would happen. When Grant appeared he saw the quality change.
 
 They ate together. Grant's Aramaic was good enough now for fragments of real exchange, not conversation yet, but the shape of one, the back and forth of two people trying to understand each other with the specific effort of a language barrier. He learned that the man's name was something that Grant couldn't quite render in his phonetic memory. He learned that the man had been a sandal maker before his legs stopped working. He learned that the man had a daughter who brought him food when she could, which was not always.
 
-He learned, from the specific quality of the man's attention in the two hours they spent together, that company was what the man needed. Not the food, which Grant could provide and which was real and which mattered. The company was the thing.
+He learned, from the quality of the man's attention in the two hours they spent together, that company was what the man needed. Not the food, which Grant could provide and which was real and which mattered. The company was the thing.
 
 On Wednesday night he climbed to Marcus's roof and watched the Passover fires and thought about presence.
 
 He had been practicing presence for four loops without recognizing that was what he was practicing. Each loop he'd been present to the next objective, he'd been in the city physically while being oriented toward the mission mentally. This loop was different. This loop he was practicing actual presence, being in the place with the full weight of himself, and he was finding that the place had things to show him that the mission orientation had been occluding.
 
-He thought about the man in the lower quarter. About the specific quality of having his company received as something of value. About what it meant that two hours of sitting in the dust and being there was the specific thing the man needed.
+He thought about the man in the lower quarter. About the quality of having his company received as something of value. About what it meant that two hours of sitting in the dust and being there was the specific thing the man needed.
 
 He thought about his boys. About sitting with them at the kitchen table and being fully there rather than there-and-elsewhere. About what that would give them that the half-present version didn't give them.
 
-He thought about Sarah in the kitchen at night after the boys were in bed, the specific quality of quiet between them that was different when he was fully present rather than managing his own interior at the same time.
+He thought about Sarah in the kitchen at night after the boys were in bed, the quality of quiet between them that was different when he was fully present rather than managing his own interior at the same time.
 
 He thought: I have been so organized around the doing that I have been missing the being. And the being is more than I realized.
 
@@ -632,7 +632,7 @@ He slept.
 
 The white came on Friday at 2:58 PM.
 
-He was at the kitchen sink washing the lunch dishes and he grabbed the edge of the counter and she was right there, watching, and their eyes met for one second before the white took him, and what he saw in her face in that second was not fear, it was something harder and more permanent than fear, the specific quality of a person who has decided to hold on regardless of what holding on costs.
+He was at the kitchen sink washing the lunch dishes and he grabbed the edge of the counter and she was right there, watching, and their eyes met for one second before the white took him, and what he saw in her face in that second was not fear, it was something harder and more permanent than fear, the quality of a person who has decided to hold on regardless of what holding on costs.
 
 He went.
 
