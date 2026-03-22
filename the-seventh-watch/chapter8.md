@@ -348,8 +348,6 @@ He thought about Sarah's words before the deployment. About the way she'd put he
 
 He thought: maybe that's the other language. Not the tactical language. The yes language. The willingness to accept a thing before you fully understand it because the source of the thing is trustworthy.
 
-He was close.
-
 He went up to Marcus's room and lay on the bedroll and looked at the ceiling and thought about yes until he fell asleep.
 
 He spent Tuesday afternoon running the communication drills. The signals vocabulary, left hand, right hand, flat palm, closed fist, learning faster than Grant had expected because the fishermen had their own signal vocabulary already, the non-verbal language of men who worked in conditions where shouting was useless and clear communication was survival. The concept was not new to them. The specific vocabulary was.
@@ -472,9 +470,7 @@ He thought: maybe that is the other language. Carrying without doing. Witnessing
 
 He wasn't there yet.
 
-He had three more loops to get there.
-
-Thursday evening in the garden. Peter drew the sword. The voice said put it away. Peter sheathed it.
+He had Thursday evening in the garden. Peter drew the sword. The voice said put it away. Peter sheathed it.
 
 Grant stood twenty feet away and watched and felt the face undo his professional distance.
 
