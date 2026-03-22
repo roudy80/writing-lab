@@ -78,8 +78,6 @@ He said: "I'll try."
 
 She drove them home. She made dinner. She sat at the table with her family and watched her husband eat and thought about anomalous dust and a doctor who didn't have a working hypothesis and a crack in a watch crystal that hadn't been there before.
 
-She thought: he is going somewhere. Something is taking him somewhere.
-
 She thought: I have to trust that he'll come back.
 
 She had been trusting that for fifteen years. The trust was not nothing. It was not easy and it was not naive and it was not the absence of fear. It was the specific and practiced trust of a woman who had looked at a man from enough angles to know what he was made of.
