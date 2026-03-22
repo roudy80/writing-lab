@@ -268,10 +268,6 @@ For the first time in twelve years his hands felt empty in the right way.
 
 He sat in the chair and looked at the red gate in the dark.
 
-He thought: one more.
-
-He thought: I know what the last loop is for.
-
 He went inside.
 
 He was in the porch chair before he knew he'd moved. The chair that had been empty since the first loop. He was in it, and his hands were in his lap, and the pasture was dark and the night sounds of the ranch were around him.
