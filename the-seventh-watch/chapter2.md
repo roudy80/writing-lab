@@ -330,7 +330,7 @@ The torches appeared on the Kidron path.
 
 The arrest proceeded exactly as it would have without him.
 
-He watched it from thirty yards, rooted in place by something he had no name for, until the white came.
+Then the white came.
 
 ---
 
