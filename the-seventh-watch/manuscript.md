@@ -738,7 +738,7 @@ The torches appeared on the Kidron path.
 
 The arrest proceeded exactly as it would have without him.
 
-He watched it from thirty yards, rooted in place by something he had no name for, until the white came.
+Then the white came.
 
 ---
 
@@ -1248,8 +1248,6 @@ He said: "I'll try."
 
 She drove them home. She made dinner. She sat at the table with her family and watched her husband eat and thought about anomalous dust and a doctor who didn't have a working hypothesis and a crack in a watch crystal that hadn't been there before.
 
-She thought: he is going somewhere. Something is taking him somewhere.
-
 She thought: I have to trust that he'll come back.
 
 She had been trusting that for fifteen years. The trust was not nothing. It was not easy and it was not naive and it was not the absence of fear. It was the specific and practiced trust of a woman who had looked at a man from enough angles to know what he was made of.
@@ -1503,8 +1501,6 @@ The man nodded once. Simple. The acknowledgment of someone who already knew what
 Grant went back to Marcus's room and lay on the bedroll and looked at the ceiling.
 
 He thought about the look. About being seen that completely and not being turned away from. About the quality of a person who knew the full weight of what you were carrying and who met it not with a solution but with the willingness to carry something heavier on your behalf.
-
-He had the direction.
 
 ---
 
@@ -2454,8 +2450,6 @@ He thought about Sarah's words before the deployment. About the way she'd put he
 
 He thought: maybe that's the other language. Not the tactical language. The yes language. The willingness to accept a thing before you fully understand it because the source of the thing is trustworthy.
 
-He was close.
-
 He went up to Marcus's room and lay on the bedroll and looked at the ceiling and thought about yes until he fell asleep.
 
 He spent Tuesday afternoon running the communication drills. The signals vocabulary, left hand, right hand, flat palm, closed fist, learning faster than Grant had expected because the fishermen had their own signal vocabulary already, the non-verbal language of men who worked in conditions where shouting was useless and clear communication was survival. The concept was not new to them. The specific vocabulary was.
@@ -2578,9 +2572,7 @@ He thought: maybe that is the other language. Carrying without doing. Witnessing
 
 He wasn't there yet.
 
-He had three more loops to get there.
-
-Thursday evening in the garden. Peter drew the sword. The voice said put it away. Peter sheathed it.
+He had Thursday evening in the garden. Peter drew the sword. The voice said put it away. Peter sheathed it.
 
 Grant stood twenty feet away and watched and felt the face undo his professional distance.
 
@@ -3644,10 +3636,6 @@ For the first time in twelve years his hands felt empty in the right way.
 
 He sat in the chair and looked at the red gate in the dark.
 
-He thought: one more.
-
-He thought: I know what the last loop is for.
-
 He went inside.
 
 He was in the porch chair before he knew he'd moved. The chair that had been empty since the first loop. He was in it, and his hands were in his lap, and the pasture was dark and the night sounds of the ranch were around him.
@@ -3850,8 +3838,6 @@ She thought about different weight. About the specific grain of a piece of wood 
 
 She thought: I want to see what's underneath.
 
-She was ready.
-
 On Friday afternoon she was standing at the kitchen window when she saw him go down the drive to the red gate. She watched him stand there with his hand on the rail and his coffee going cold. She watched him hold the quarter and put it back.
 
 She watched the white take him.
@@ -3908,7 +3894,7 @@ Kelso said: "Do it right."
 
 Grant said: "I will."
 
-He went to bed. He lay in the dark beside Sarah and looked at the ceiling and thought about the seventh loop.
+He went to bed.
 
 He was going in as a witness. Not a rescuer, not a soldier, not an operator with an objective. Not even a man trying to earn something or prove something or pay something. Just a person who had been given the specific chance to be present for the thing that had settled his account, and who was going to be present for it completely, with his whole self, without any of the management or the distance or the professional frameworks he'd been using to keep himself from receiving it fully.
 
@@ -4096,7 +4082,7 @@ He thought about the category of himself as the man she could count on, the spec
 
 He stood in the back of the crowd and he felt his own categories reorganizing.
 
-After the teaching ended he stayed in the emptying court for a while. The afternoon light came in from the west and lay across the stone of the court in long gold planes. He stood in the light and thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
+After the teaching he stayed in the emptying court. Afternoon light lay across the stone. He thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
 
 He thought: the loops have been doing the same thing to me. Meeting me where I was. Showing me something I already almost knew.
 
@@ -4296,7 +4282,7 @@ He ate his bread and watched Jerusalem.
 
 Then he went to the garden.`; About what it meant to have people and a place and the specific weight of the ordinary that he'd been taking for granted for years while he was organized around the debt. About how luck and grief and love were all part of the same account, how none of them existed without the others.
 
-He thought: when I go home, I am going to be fully home. Not partly home with the rest of me somewhere else. All the way home.
+He thought: when I go home, I am going to be fully home.
 
 ---
 
@@ -4514,15 +4500,13 @@ The week was for the permanent settling of accounts. The week was for the specif
 
 He stood in the back of the Temple courts and he let himself receive that.
 
-He walked out of the courts in the afternoon and he did not look back.
+He walked out of the courts in the afternoon.
 
 ---
 
 Thursday evening: the garden, the last time.
 
-He sat on the ground near the entrance with his back against the stone wall and he waited and the group came and the man he had spent six loops trying to save went lower into the garden alone, and the weight began to build.
-
-He sat with it.
+He sat against the stone wall at the entrance. The group came. The man went lower into the garden alone, and the weight began to build.
 
 He sat against the stone wall and received it. All of it.
 
@@ -4640,17 +4624,13 @@ He set it there with both hands, deliberately, a gesture rather than a discard. 
 
 He straightened up.
 
-The sun was returning to the hill. The strange darkness lifting. The ordinary sounds of the city coming back in from the distance.
+The sun was returning.
 
 He stood on the hill with empty hands and looked at the sky.
 
 He thought: it is done.
 
-Not his project. Not his doing. Done by someone else, for him, in the specific way that grace was done, without obligation, without the recipient having done anything to deserve it, purely out of the character of the one giving it.
-
-He stood on the hill.
-
-He thought about nothing.
+He stood in it.
 
 He had been carrying so much for so long that the absence of the carrying was itself a thing to stand in for a while, to let the body register.
 
@@ -4804,11 +4784,9 @@ She said: "Say the next part."
 
 He said: "The account was settled. Not by me. For me."
 
-She said: "Yes."
-
 They sat at the table.
 
-The morning came in through the window and deepened around them, the light warming as the sun cleared the cedar ridge and came in level across the pasture. The boys would be up in an hour. The day would begin with its ordinary requirements and he would meet them, the way he always had, but differently, not because of what he owed but because of what he chose.
+The morning came in through the window, the light warming as the sun cleared the cedar ridge and came in level across the pasture. The boys would be up in an hour. The day would begin with its ordinary requirements and he would meet them, the way he always had, but differently, not because of what he owed but because of what he chose.
 
 He drank his coffee.
 
