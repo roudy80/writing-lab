@@ -126,7 +126,7 @@ He thought about the category of himself as the man she could count on, the spec
 
 He stood in the back of the crowd and he felt his own categories reorganizing.
 
-After the teaching ended he stayed in the emptying court for a while. The afternoon light came in from the west and lay across the stone of the court in long gold planes. He stood in the light and thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
+After the teaching he stayed in the emptying court. Afternoon light lay across the stone. He thought about all the ways he'd been trying to do this, to understand, to earn, to prevent, to substitute, to witness inadequately, and he thought about the quality of this morning's teaching, the patience of it, the way it met every person where they were and showed them something they already almost knew.
 
 He thought: the loops have been doing the same thing to me. Meeting me where I was. Showing me something I already almost knew.
 
@@ -326,7 +326,7 @@ He ate his bread and watched Jerusalem.
 
 Then he went to the garden.`; About what it meant to have people and a place and the specific weight of the ordinary that he'd been taking for granted for years while he was organized around the debt. About how luck and grief and love were all part of the same account, how none of them existed without the others.
 
-He thought: when I go home, I am going to be fully home. Not partly home with the rest of me somewhere else. All the way home.
+He thought: when I go home, I am going to be fully home.
 
 ---
 
@@ -544,15 +544,13 @@ The week was for the permanent settling of accounts. The week was for the specif
 
 He stood in the back of the Temple courts and he let himself receive that.
 
-He walked out of the courts in the afternoon and he did not look back.
+He walked out of the courts in the afternoon.
 
 ---
 
 Thursday evening: the garden, the last time.
 
-He sat on the ground near the entrance with his back against the stone wall and he waited and the group came and the man he had spent six loops trying to save went lower into the garden alone, and the weight began to build.
-
-He sat with it.
+He sat against the stone wall at the entrance. The group came. The man went lower into the garden alone, and the weight began to build.
 
 He sat against the stone wall and received it. All of it.
 
@@ -670,17 +668,13 @@ He set it there with both hands, deliberately, a gesture rather than a discard. 
 
 He straightened up.
 
-The sun was returning to the hill. The strange darkness lifting. The ordinary sounds of the city coming back in from the distance.
+The sun was returning.
 
 He stood on the hill with empty hands and looked at the sky.
 
 He thought: it is done.
 
-Not his project. Not his doing. Done by someone else, for him, in the specific way that grace was done, without obligation, without the recipient having done anything to deserve it, purely out of the character of the one giving it.
-
-He stood on the hill.
-
-He thought about nothing.
+He stood in it.
 
 He had been carrying so much for so long that the absence of the carrying was itself a thing to stand in for a while, to let the body register.
 
