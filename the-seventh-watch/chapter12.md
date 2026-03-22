@@ -122,8 +122,6 @@ She thought about different weight. About the specific grain of a piece of wood 
 
 She thought: I want to see what's underneath.
 
-She was ready.
-
 On Friday afternoon she was standing at the kitchen window when she saw him go down the drive to the red gate. She watched him stand there with his hand on the rail and his coffee going cold. She watched him hold the quarter and put it back.
 
 She watched the white take him.
@@ -180,7 +178,7 @@ Kelso said: "Do it right."
 
 Grant said: "I will."
 
-He went to bed. He lay in the dark beside Sarah and looked at the ceiling and thought about the seventh loop.
+He went to bed.
 
 He was going in as a witness. Not a rescuer, not a soldier, not an operator with an objective. Not even a man trying to earn something or prove something or pay something. Just a person who had been given the specific chance to be present for the thing that had settled his account, and who was going to be present for it completely, with his whole self, without any of the management or the distance or the professional frameworks he'd been using to keep himself from receiving it fully.
 
