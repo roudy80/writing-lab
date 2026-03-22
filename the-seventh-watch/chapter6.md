@@ -146,8 +146,6 @@ Grant went back to Marcus's room and lay on the bedroll and looked at the ceilin
 
 He thought about the look. About being seen that completely and not being turned away from. About the quality of a person who knew the full weight of what you were carrying and who met it not with a solution but with the willingness to carry something heavier on your behalf.
 
-He had the direction.
-
 ---
 
 He thought about the debt, the specific architecture of it, the morning in Ramadi and Sarah's words before the deployment and twelve years of the paying. He thought about the fact that he'd been told directly, by the person whose execution he was trying to prevent, that the debt was not his.
