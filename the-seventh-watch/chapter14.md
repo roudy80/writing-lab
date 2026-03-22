@@ -144,11 +144,9 @@ She said: "Say the next part."
 
 He said: "The account was settled. Not by me. For me."
 
-She said: "Yes."
-
 They sat at the table.
 
-The morning came in through the window and deepened around them, the light warming as the sun cleared the cedar ridge and came in level across the pasture. The boys would be up in an hour. The day would begin with its ordinary requirements and he would meet them, the way he always had, but differently, not because of what he owed but because of what he chose.
+The morning came in through the window, the light warming as the sun cleared the cedar ridge and came in level across the pasture. The boys would be up in an hour. The day would begin with its ordinary requirements and he would meet them, the way he always had, but differently, not because of what he owed but because of what he chose.
 
 He drank his coffee.
 
